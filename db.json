@@ -547,12 +547,6 @@
     "cardgroup": "WJSN",
     "cardrarity": "2"
   }
-],
-
-"inventory": [
-  {
-    "test2": "$description[**$username's The Boyz Inventory!**] $addField[$GetVar[ECTB4_NAME];ECTB4: $getGlobalUserVar[ECTB4];yes] $addField[$GetVar[HWTB4_NAME];HWTB4: $getGlobalUserVar[HWTB4];yes] $addField[$GetVar[HJTB4_NAME];HJTB4: $getGlobalUserVar[HJTB4];yes] $addField[$GetVar[JCTB4_NAME];JCTB4: $getGlobalUserVar[JCTB4];yes]$addField[$GetVar[JKTB4_NAME];JKTB4: $getGlobalUserVar[JKTB4];yes] $addField[$GetVar[JYTB4_NAME];JYTB4: $getGlobalUserVar[JYTB4];yes] $addField[$GetVar[KVTB4_NAME];KVTB4: $getGlobalUserVar[KVTB4];yes] $addField[$GetVar[NWTB4_NAME];NWTB4: $getGlobalUserVar[NWTB4];yes] $addField[$GetVar[QTB4_NAME];QTB4: $getGlobalUserVar[QTB4];yes] $addField[$GetVar[SYTB4_NAME];SYTB4: $getGlobalUserVar[SYTB4];yes] $addField[$GetVar[SWTB4_NAME];SWTB4: $getGlobalUserVar[SWTB4];yes] $addField[$GetVar[YHTB4_NAME];YHTB4: $getGlobalUserVar[YHTB4];yes] $Footer[Other Rarities: 1, 2, 3] $color[$getGlobalUserVar[COLOR]]"
-  }
 ]
 
 
