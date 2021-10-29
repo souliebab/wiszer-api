@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/kubowania/burger-api#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
   }
 }
