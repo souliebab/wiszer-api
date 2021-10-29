@@ -1273,8 +1273,719 @@
     "cardgroup": "Color Rush",
     "cardrarity": "1"
   }
-]
+],
 
+"JHBT1": [
+  {
+    "cardname": "★ BTS J-Hope",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"JIBT1": [
+  {
+    "cardname": "★ BTS Jimin",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"JNBT1": [
+  {
+    "cardname": "★ BTS Jin",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"JUBT1": [
+  {
+    "cardname": "★ BTS Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"RMBT1": [
+  {
+    "cardname": "★ BTS RM",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"SGBT1": [
+  {
+    "cardname": "★ BTS Suga",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+"VBT1": [
+  {
+    "cardname": "★ BTS V",
+    "cardgroup": "BTS",
+    "cardrarity": "1"
+  }
+],
+
+"JHBT2": [
+  {
+    "cardname": "★★ BTS J-Hope",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"JIBT2": [
+  {
+    "cardname": "★★ BTS Jimin",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"JNBT2": [
+  {
+    "cardname": "★★ BTS Jin",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"JUBT2": [
+  {
+    "cardname": "★★ BTS Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"RMBT2": [
+  {
+    "cardname": "★★ BTS RM",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"SGBT2": [
+  {
+    "cardname": "★★ BTS Suga",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+"VBT2": [
+  {
+    "cardname": "★★ BTS V",
+    "cardgroup": "BTS",
+    "cardrarity": "2"
+  }
+],
+
+"WOTO2": [
+  {
+    "cardname": "★★ TO1 Woonggi",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"JETO2": [
+  {
+    "cardname": "★★ TO1 Jerome",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"HYTO2": [
+  {
+    "cardname": "★★ TO1 Kyungho",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"JYTO2": [
+  {
+    "cardname": "★★ TO1 J.You",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"MITO2": [
+  {
+    "cardname": "★★ TO1 Minsu",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"JITO2": [
+  {
+    "cardname": "★★ TO1 Jisu",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"CHTO2": [
+  {
+    "cardname": "★★ TO1 Chan",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"DOTO2": [
+  {
+    "cardname": "★★ TO1 Donggeon",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"CITO2": [
+  {
+    "cardname": "★★ TO1 Chihoon",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+"JATO2": [
+  {
+    "cardname": "★★ TO1 Jaeyun",
+    "cardgroup": "TO1",
+    "cardrarity": "2"
+  }
+],
+
+"BGEY1": [
+  {
+    "cardname": "✰ Extraordinary You Baek Gyung",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"EDEY1": [
+  {
+    "cardname": "✰ Extraordinary You Eun Danoh",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"HREY1": [
+  {
+    "cardname": "✰ Extraordinary You Haru",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"JMEY1": [
+  {
+    "cardname": "✰ Extraordinary You Jin Michae",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"LDEY1": [
+  {
+    "cardname": "✰ Extraordinary You Lee Dohwa",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"ONEY1": [
+  {
+    "cardname": "✰ Extraordinary You Oh Namjoo",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"YJEY1": [
+  {
+    "cardname": "✰ Extraordinary You Yeo Jooda",
+    "cardgroup": "Extraordinary You",
+    "cardrarity": "1"
+  }
+],
+
+"AJFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Ai Jia",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"CJFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Chen Jin Yang",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"JYFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Jian Yang",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"LHFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Lee Kunhyeok",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"LKFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Lao K",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"LSFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Lao Mao",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"LYFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Lu Yue",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"TYFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Tong Yao",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+
+"XPFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Xiao Pang",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"XRFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Xiao Rui",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"YMFS1": [
+  {
+    "cardname": "✰ Falling Into Your Smile Yu Ming",
+    "cardgroup": "Falling Into Your Smile",
+    "cardrarity": "1"
+  }
+],
+
+"CHND1": [
+  {
+    "cardname": "★ NCT Dream Chenle",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"HCND1": [
+  {
+    "cardname": "★ NCT Dream Haechan",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"JEND1": [
+  {
+    "cardname": "★ NCT Dream Jaemin",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"JOND1": [
+  {
+    "cardname": "★ NCT Dream Jeno",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"JSND1": [
+  {
+    "cardname": "★ NCT Dream Jisung",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"MAND1": [
+  {
+    "cardname": "★ NCT Dream Mark",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+"RJND1": [
+  {
+    "cardname": "★ NCT Dream Renjun",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "1"
+  }
+],
+
+"DOLM1": [
+  {
+    "cardname": "✰ Light On Me Shin Da On",
+    "cardgroup": "Light On Me",
+    "cardrarity": "1"
+  }
+],
+
+"NGLM1": [
+  {
+    "cardname": "✰ Light On Me Nam Goong",
+    "cardgroup": "Light On Me",
+    "cardrarity": "1"
+  }
+],
+
+"SHLM1": [
+  {
+    "cardname": "✰ Light On Me Lee So Hee",
+    "cardgroup": "Light On Me",
+    "cardrarity": "1"
+  }
+],
+
+"SWLM1": [
+  {
+    "cardname": "✰ Light On Me Noh Shin Woo",
+    "cardgroup": "Light On Me",
+    "cardrarity": "1"
+  }
+],
+
+"TKLM1": [
+  {
+    "cardname": "✰ Light On Me Woo Tae Kyung",
+    "cardgroup": "Light On Me",
+    "cardrarity": "1"
+  }
+],
+"CHND2": [
+  {
+    "cardname": "★★ NCT Dream Chenle",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"HCND2": [
+  {
+    "cardname": "★★ NCT Dream Haechan",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"JEND2": [
+  {
+    "cardname": "★★ NCT Dream Jaemin",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"JOND2": [
+  {
+    "cardname": "★★ NCT Dream Jeno",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"JSND2": [
+  {
+    "cardname": "★★ NCT Dream Jisung",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"MAND2": [
+  {
+    "cardname": "★★ NCT Dream Mark",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+"RJND2": [
+  {
+    "cardname": "★★ NCT Dream Renjun",
+    "cardgroup": "NCT Dream",
+    "cardrarity": "2"
+  }
+],
+
+"ARLR1": [
+  {
+    "cardname": "✰ Love Revolution Oh Ah Ram",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"BHLR1": [
+  {
+    "cardname": "✰ Love Revolution Kim Byung Hoon",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"JRLR1": [
+  {
+    "cardname": "✰ Love Revolution Wang Ja Rim",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"JYLR1": [
+  {
+    "cardname": "✰ Love Revolution Gong Joo Young",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"KWLR1": [
+  {
+    "cardname": "✰ Love Revolution Lee Kyung Woo",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"KYLR1": [
+  {
+    "cardname": "✰ Love Revolution Ahn Kyung Min",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+
+"MJLR1": [
+  {
+    "cardname": "✰ Love Revolution Yang Min Ji",
+    "cardgroup": "Love Revolution",
+    "cardrarity": "1"
+  }
+],
+"HE131": [
+  {
+    "cardname": "★ LOONA 1/3 Heejin",
+    "cardgroup": "LOONA 1/3",
+    "cardrarity": "1"
+  }
+],
+"HY131": [
+  {
+    "cardname": "★ LOONA 1/3 Hyunjin",
+    "cardgroup": "LOONA 1/3",
+    "cardrarity": "1"
+  }
+],
+"HA131": [
+  {
+    "cardname": "★ LOONA 1/3 Haseul",
+    "cardgroup": "LOONA 1/3",
+    "cardrarity": "1"
+  }
+],
+"VI131": [
+  {
+    "cardname": "★ LOONA 1/3 Vivi",
+    "cardgroup": "LOONA 1/3",
+    "cardrarity": "1"
+  }
+],
+"KLOC1": [
+  {
+    "cardname": "★ LOONA ODD EYE CIRCLE Kim Lip",
+    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardrarity": "1"
+  }
+],
+"JIOC1": [
+  {
+    "cardname": "★ LOONA ODD EYE CIRCLE Jinsoul",
+    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardrarity": "1"
+  }
+],
+"CHOC1": [
+  {
+    "cardname": "★ LOONA ODD EYE CIRCLE Choerry",
+    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardrarity": "1"
+  }
+],
+"YVYX1": [
+  {
+    "cardname": "★ LOONA YYXY Yves",
+    "cardgroup": "LOONA YYXY",
+    "cardrarity": "1"
+  }
+],
+"CHYX1": [
+  {
+    "cardname": "★ LOONA YYXY Chuu",
+    "cardgroup": "LOONA YYXY",
+    "cardrarity": "1"
+  }
+],
+"GOYX1": [
+  {
+    "cardname": "★ LOONA YYXY Gowon",
+    "cardgroup": "LOONA YYXY",
+    "cardrarity": "1"
+  }
+],
+"OHYX1": [
+  {
+    "cardname": "★ LOONA YYXY Olivia Hye",
+    "cardgroup": "LOONA YYXY",
+    "cardrarity": "1"
+  }
+],
+"CWTSB1": [
+  {
+    "cardname": "✰ The Sweet Blood Yoon Chi Woo",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "1"
+  }
+],
+
+"HJTSB1": [
+  {
+    "cardname": "✰ The Sweet Blood Do Hyun Je",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "1"
+  }
+],
+
+"MRTSB1": [
+  {
+    "cardname": "✰ The Sweet Blood Song Meo Ru",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "1"
+  }
+],
+
+"SJTSB1": [
+  {
+    "cardname": "✰ The Sweet Blood Kim Su Jeong",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "1"
+  }
+],
+
+"YSTSB1": [
+  {
+    "cardname": "✰ The Sweet Blood Son Yeon Seo",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "1"
+  }
+],
+
+"HELO1": [
+  {
+    "cardname": "★ LOONA Heejin",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"HYLO1": [
+  {
+    "cardname": "★ LOONA Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"HALO1": [
+  {
+    "cardname": "★ LOONA Haseul",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"YELO1": [
+  {
+    "cardname": "★ LOONA Yeojin",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"VILO1": [
+  {
+    "cardname": "★ LOONA Vivi",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"KLLO1": [
+  {
+    "cardname": "★ LOONA Kim Lip",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"JILO1": [
+  {
+    "cardname": "★ LOONA Jinsoul",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"CHLO1": [
+  {
+    "cardname": "★ LOONA Choerry",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"YVLO1": [
+  {
+    "cardname": "★ LOONA Yves",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"CULO1": [
+  {
+    "cardname": "★ LOONA Chuu",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"GOLO1": [
+  {
+    "cardname": "★ LOONA Gowon",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+],
+"OHLO1": [
+  {
+    "cardname": "★ LOONA Olivia Hye",
+    "cardgroup": "LOONA",
+    "cardrarity": "1"
+  }
+]
 
 
 
