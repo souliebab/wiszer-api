@@ -4496,6 +4496,944 @@
     "cardgroup": "Street Woman Fighter LaChica",
     "cardrarity": "1"
   }
+],
+
+"EUPR1": [
+  {
+    "cardname": "★ Pristin Eunwoo",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"KLPR1": [
+  {
+    "cardname": "★ Pristin Kyla",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+
+"KYPR1": [
+  {
+    "cardname": "★ Pristin Kyulkyung",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"NAPR1": [
+  {
+    "cardname": "★ Pristin Nayoung",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"REPR1": [
+  {
+    "cardname": "★ Pristin Rena",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+
+"ROPR1": [
+  {
+    "cardname": "★ Pristin Roa",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"SUPR1": [
+  {
+    "cardname": "★ Pristin Sungyeon",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"XIPR1": [
+  {
+    "cardname": "★ Pristin Xiyeon",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"YEPR1": [
+  {
+    "cardname": "★ Pristin Yehana",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"YUPR1": [
+  {
+    "cardname": "★ Pristin Yuha",
+    "cardgroup": "Pristin",
+    "cardrarity": "1"
+  }
+],
+
+"ATVS1": [
+  {
+    "cardname": "★ VARSITY Anthony",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"DMVS1": [
+  {
+    "cardname": "★ VARSITY Damon",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+
+"DWVS1": [
+  {
+    "cardname": "★ VARSITY Dawon",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"JBVS1": [
+  {
+    "cardname": "★ VARSITY Jaebin",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"JWVS1": [
+  {
+    "cardname": "★ VARSITY Junwoo",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+
+"KDVS1": [
+  {
+    "cardname": "★ VARSITY Kid",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"MNVS1": [
+  {
+    "cardname": "★ VARSITY Manny",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"RHVS1": [
+  {
+    "cardname": "★ VARSITY Riho",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"SBVS1": [
+  {
+    "cardname": "★ VARSITY Seungbo",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"XNVS1": [
+  {
+    "cardname": "★ VARSITY Xin",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"XWVS1": [
+  {
+    "cardname": "★ VARSITY Xiweol",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"YHVS1": [
+  {
+    "cardname": "★ VARSITY Yunho",
+    "cardgroup": "VARSITY",
+    "cardrarity": "1"
+  }
+],
+
+"HAOX1": [
+  {
+    "cardname": "★ Omega X Hangyeom",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"HWOX1": [
+  {
+    "cardname": "★ Omega X Hwichan",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+
+"HYOX1": [
+  {
+    "cardname": "★ Omega X Hyuk",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"JAOX1": [
+  {
+    "cardname": "★ Omega X Jaehan",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"JEOX1": [
+  {
+    "cardname": "★ Omega X Jehyun",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+
+"JUOX1": [
+  {
+    "cardname": "★ Omega X Junghoon",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"KEOX1": [
+  {
+    "cardname": "★ Omega X Kevin",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"SBOX1": [
+  {
+    "cardname": "★ Omega X Sebin",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"TAOX1": [
+  {
+    "cardname": "★ Omega X Taedong",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"XEOX1": [
+  {
+    "cardname": "★ Omega X Xen",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"YEOX1": [
+  {
+    "cardname": "★ Omega X Yechan",
+    "cardgroup": "Omega X",
+    "cardrarity": "1"
+  }
+],
+
+"CJNK1": [
+  {
+    "cardname": "★ NewKidd Choi Jiann",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+"HWNK1": [
+  {
+    "cardname": "★ NewKidd Hwi",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+
+"JHNK1": [
+  {
+    "cardname": "★ NewKidd Ji Hansol",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+"JWNK1": [
+  {
+    "cardname": "★ NewKidd Jinkwon",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+"KSNK1": [
+  {
+    "cardname": "★ NewKidd Kang Seungchan",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+
+"WCNK1": [
+  {
+    "cardname": "★ NewKidd Woochul",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+"YMNK1": [
+  {
+    "cardname": "★ NewKidd Yunmin",
+    "cardgroup": "NewKidd",
+    "cardrarity": "1"
+  }
+],
+
+"DNIL2": [
+  {
+    "cardname": "★★ I-LAND Daniel",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"EJIL2": [
+  {
+    "cardname": "★★ I-LAND EJ",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"GNIL2": [
+  {
+    "cardname": "★★ I-LAND Geonu",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"HBIL2": [
+  {
+    "cardname": "★★ I-LAND Hanbin",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"HSIL2": [
+  {
+    "cardname": "★★ I-LAND Heeseung",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JAIL2": [
+  {
+    "cardname": "★★ I-LAND Jake",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JBIL2": [
+  {
+    "cardname": "★★ I-LAND Jaebeom",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JHIL2": [
+  {
+    "cardname": "★★ I-LAND Jaeho",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JIIL2": [
+  {
+    "cardname": "★★ I-LAND Jimin",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JWIL2": [
+  {
+    "cardname": "★★ I-LAND Jungwon",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"JYIL2": [
+  {
+    "cardname": "★★ I-LAND Jay",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"KIL2": [
+  {
+    "cardname": "★★ I-LAND K",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"KMIL2": [
+  {
+    "cardname": "★★ I-LAND Kyungmin",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"NHIL2": [
+  {
+    "cardname": "★★ I-LAND Nicholas",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"NKIL2": [
+  {
+    "cardname": "★★ I-LAND Ni-Ki",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"SCIL2": [
+  {
+    "cardname": "★★ I-LAND Sungchul",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"SEIL2": [
+  {
+    "cardname": "★★ I-LAND Seon",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"SHIL2": [
+  {
+    "cardname": "★★ I-LAND Sunghoon",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"SNIL2": [
+  {
+    "cardname": "★★ I-LAND Sunoo",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"TKIL2": [
+  {
+    "cardname": "★★ I-LAND Ta-Ki",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"TYIL2": [
+  {
+    "cardname": "★★ I-LAND Taeyong",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"YBIL2": [
+  {
+    "cardname": "★★ I-LAND Youngbin",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+
+"YWIL2": [
+  {
+    "cardname": "★★ I-LAND Yoonwon",
+    "cardgroup": "I-LAND",
+    "cardrarity": "2"
+  }
+],
+"DOWM1": [
+  {
+    "cardname": "★ Weki Meki Doyeon",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"ELWM1": [
+  {
+    "cardname": "★ Weki Meki Elly",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"LUWM1": [
+  {
+    "cardname": "★ Weki Meki Lua",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"LCWM1": [
+  {
+    "cardname": "★ Weki Meki Lucy",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"RNWM1": [
+  {
+    "cardname": "★ Weki Meki Rina",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"SEWM1": [
+  {
+    "cardname": "★ Weki Meki Sei",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"SYWM1": [
+  {
+    "cardname": "★ Weki Meki Suyeon",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"YJWM1": [
+  {
+    "cardname": "★ Weki Meki Yoojung",
+    "cardgroup": "Weki Meki",
+    "cardrarity": "1"
+  }
+],
+"JIWE1": [
+  {
+    "cardname": "★ Weeekly Jihan",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"LJWE1": [
+  {
+    "cardname": "★ Weeekly Lee Jaehee",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"MOWE1": [
+  {
+    "cardname": "★ Weeekly Monday",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"PSWE1": [
+  {
+    "cardname": "★ Weeekly Park Soeun",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"SJWE1": [
+  {
+    "cardname": "★ Weeekly Shin Jiyoon",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"SOWE1": [
+  {
+    "cardname": "★ Weeekly Soojin",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"ZOWE1": [
+  {
+    "cardname": "★ Weeekly Zoa",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1"
+  }
+],
+"BYVC1": [
+  {
+    "cardname": "★ VICTON Byungchan",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"CHVC1": [
+  {
+    "cardname": "★ VICTON Chan",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"HAVC1": [
+  {
+    "cardname": "★ VICTON Hanse",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"SEVC1": [
+  {
+    "cardname": "★ VICTON Seungwoo",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"SGVC1": [
+  {
+    "cardname": "★ VICTON Seungsik",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"SJVC1": [
+  {
+    "cardname": "★ VICTON Sejun",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"SUVC1": [
+  {
+    "cardname": "★ VICTON Subin",
+    "cardgroup": "VICTON",
+    "cardrarity": "1"
+  }
+],
+"ANGW1": [
+  {
+    "cardname": "★ GWSN Anne",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"LNGW1": [
+  {
+    "cardname": "★ GWSN Lena",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"MYGW1": [
+  {
+    "cardname": "★ GWSN Miya",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"MJGW1": [
+  {
+    "cardname": "★ GWSN Minju",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"SRGW1": [
+  {
+    "cardname": "★ GWSN Seoryoung",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"SKGW1": [
+  {
+    "cardname": "★ GWSN Seokyoung",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+
+"SSGW1": [
+  {
+    "cardname": "★ GWSN Soso",
+    "cardgroup": "GWSN",
+    "cardrarity": "1"
+  }
+],
+"DHJB1": [
+  {
+    "cardname": "★ JBJ Donghan",
+    "cardgroup": "JBJ",
+    "cardrarity": "1"
+  }
+],
+
+"HBJB1": [
+  {
+    "cardname": "★ JBJ Hyunbin",
+    "cardgroup": "JBJ",
+    "cardrarity": "1"
+  }
+],
+
+"KTJB1": [
+  {
+    "cardname": "★ JBJ Kenta",
+    "cardgroup": "JBJ",
+    "cardrarity": "1"
+  }
+],
+
+"SGJB1": [
+  {
+    "cardname": "★ JBJ Sanggyun",
+    "cardgroup": "JBJ",
+    "cardrarity": "1"
+  }
+],
+
+"THJB1": [
+  {
+    "cardname": "★ JBJ Taehyun",
+    "cardgroup": "JBJ",
+    "cardrarity": "1"
+  }
+],
+"ESLS1": [
+  {
+    "cardname": "★ LUNARSOLAR Eseo",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "1"
+  }
+],
+
+"JNLS1": [
+  {
+    "cardname": "★ LUNARSOLAR Jian",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "1"
+  }
+],
+
+"TYLS1": [
+  {
+    "cardname": "★ LUNARSOLAR Taeryeong",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "1"
+  }
+],
+
+"YRLS1": [
+  {
+    "cardname": "★ LUNARSOLAR Yuuri",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "1"
+  }
+],
+"BOSI1": [
+  {
+    "cardname": "★ Sistar Bora",
+    "cardgroup": "Sistar",
+    "cardrarity": "1"
+  }
+],
+
+"DASI1": [
+  {
+    "cardname": "★ Sistar Dasom",
+    "cardgroup": "Sistar",
+    "cardrarity": "1"
+  }
+],
+
+"HYSI1": [
+  {
+    "cardname": "★ Sistar Hyolyn",
+    "cardgroup": "Sistar",
+    "cardrarity": "1"
+  }
+],
+
+"SOSI1": [
+  {
+    "cardname": "★ Sistar Soyou",
+    "cardgroup": "Sistar",
+    "cardrarity": "1"
+  }
+],
+"CATN1": [
+  {
+    "cardname": "★ Teen Top C.A.P",
+    "cardgroup": "Teen Top",
+    "cardrarity": "1"
+  }
+],
+
+"CHTN1": [
+  {
+    "cardname": "★ Teen Top Chunji",
+    "cardgroup": "Teen Top",
+    "cardrarity": "1"
+  }
+],
+
+
+"CJTN1": [
+  {
+    "cardname": "★ Teen Top Changjo",
+    "cardgroup": "Teen Top",
+    "cardrarity": "1"
+  }
+],
+
+"NETN1": [
+  {
+    "cardname": "★ Teen Top Niel",
+    "cardgroup": "Teen Top",
+    "cardrarity": "1"
+  }
+],
+
+"RITN1": [
+  {
+    "cardname": "★ Teen Top Ricky",
+    "cardgroup": "Teen Top",
+    "cardrarity": "1"
+  }
+],
+"EUPV1": [
+  {
+    "cardname": "★ Pristin V Eunwoo",
+    "cardgroup": "Pristin V",
+    "cardrarity": "1"
+  }
+],
+
+"KYPV1": [
+  {
+    "cardname": "★ Pristin V Kyulkyung",
+    "cardgroup": "Pristin V",
+    "cardrarity": "1"
+  }
+],
+
+
+"NAPV1": [
+  {
+    "cardname": "★ Pristin V Nayoung",
+    "cardgroup": "Pristin V",
+    "cardrarity": "1"
+  }
+],
+
+"REPV1": [
+  {
+    "cardname": "★ Pristin V Rena",
+    "cardgroup": "Pristin V",
+    "cardrarity": "1"
+  }
+],
+
+"ROPV1": [
+  {
+    "cardname": "★ Pristin V Roa",
+    "cardgroup": "Pristin V",
+    "cardrarity": "1"
+  }
+],
+
+"LUWO1": [
+  {
+    "cardname": "★ woo!ah! Lucy",
+    "cardgroup": "woo!ah!",
+    "cardrarity": "1"
+  }
+],
+"MIWO1": [
+  {
+    "cardname": "★ woo!ah! Minseo",
+    "cardgroup": "woo!ah!",
+    "cardrarity": "1"
+  }
+],
+"NAWO1": [
+  {
+    "cardname": "★ woo!ah! Nana",
+    "cardgroup": "woo!ah!",
+    "cardrarity": "1"
+  }
+],
+"SOWO1": [
+  {
+    "cardname": "★ woo!ah! Sora",
+    "cardgroup": "woo!ah!",
+    "cardrarity": "1"
+  }
+],
+"YEWO1": [
+  {
+    "cardname": "★ woo!ah! Wooyeon",
+    "cardgroup": "woo!ah!",
+    "cardrarity": "1"
+  }
 ]
 
 
