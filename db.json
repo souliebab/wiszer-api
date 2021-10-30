@@ -1985,8 +1985,1409 @@
     "cardgroup": "LOONA",
     "cardrarity": "1"
   }
-]
+],
 
+"JKTU1": [
+  {
+    "cardname": "✰ True Beauty Lim Joogyung",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"SATU1": [
+  {
+    "cardname": "✰ True Beauty Choi Sooah",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"SETU1": [
+  {
+    "cardname": "✰ True Beauty Han Seojun",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"SHTU1": [
+  {
+    "cardname": "✰ True Beauty Lee Suho",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"SOTU1": [
+  {
+    "cardname": "✰ True Beauty Kang Soojin",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"SYTU1": [
+  {
+    "cardname": "✰ True Beauty Jeong Seyeon",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"THTU1": [
+  {
+    "cardname": "✰ True Beauty Yoo Taehoon",
+    "cardgroup": "True Beauty",
+    "cardrarity": "1"
+  }
+],
+
+"BKSO1": [
+  {
+    "cardname": "★ Soloist Baekhyun",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"CHSO1": [
+  {
+    "cardname": "★ Soloist Chungha",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"HSSO1": [
+  {
+    "cardname": "★ Soloist Han Seungwoo",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"HOSO1": [
+  {
+    "cardname": "★ Soloist HYO",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"HYSO1": [
+  {
+    "cardname": "★ Soloist HyunA",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"IUSO1": [
+  {
+    "cardname": "★ Soloist IU",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"JESO1": [
+  {
+    "cardname": "★ Soloist Jessi",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"MZSO1": [
+  {
+    "cardname": "★ Soloist Minzy",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"TYSO1": [
+  {
+    "cardname": "★ Soloist Taeyeon",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"WOSO1": [
+  {
+    "cardname": "★ Soloist WOODZ",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"YOSO1": [
+  {
+    "cardname": "★ Soloist Yoona",
+    "cardgroup": "Soloist",
+    "cardrarity": "1"
+  }
+],
+
+"BASO2": [
+  {
+    "cardname": "★★ Soloist BoA",
+    "cardgroup": "Soloist",
+    "cardrarity": "2"
+  }
+],
+
+"JJSO2": [
+  {
+    "cardname": "★★ Soloist Jamie Park",
+    "cardgroup": "Soloist",
+    "cardrarity": "2"
+  }
+],
+
+"SMSO2": [
+  {
+    "cardname": "★★ Soloist Sunmi",
+    "cardgroup": "Soloist",
+    "cardrarity": "2"
+  }
+],
+
+"TMSO2": [
+  {
+    "cardname": "★★ Soloist Taemin",
+    "cardgroup": "Soloist",
+    "cardrarity": "2"
+  }
+],
+
+"HJSO5": [
+  {
+    "cardname": "★★★★★ Soloist Hyunjin",
+    "cardgroup": "Soloist",
+    "cardrarity": "5"
+  }
+],
+
+"KAAE4": [
+  {
+    "cardname": "★★★★ aespa Karina",
+    "cardgroup": "aespa",
+    "cardrarity": "4"
+  }
+],
+
+"GIAE4": [
+  {
+    "cardname": "★★★★ aespa Giselle",
+    "cardgroup": "aespa",
+    "cardrarity": "4"
+  }
+],
+
+"WIAE4": [
+  {
+    "cardname": "★★★★ aespa Winter",
+    "cardgroup": "aespa",
+    "cardrarity": "4"
+  }
+],
+
+"NIAE4": [
+  {
+    "cardname": "★★★★ aespa Ningning",
+    "cardgroup": "aespa",
+    "cardrarity": "4"
+  }
+],
+
+"HELO2": [
+  {
+    "cardname": "★★ LOONA Heejin",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"HYLO2": [
+  {
+    "cardname": "★★ LOONA Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"HALO2": [
+  {
+    "cardname": "★★ LOONA Haseul",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"YELO2": [
+  {
+    "cardname": "★★ LOONA Yeojin",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"VILO2": [
+  {
+    "cardname": "★★ LOONA Vivi",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"KLLO2": [
+  {
+    "cardname": "★★ LOONA Kim Lip",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"JILO2": [
+  {
+    "cardname": "★★ LOONA Jinsoul",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"CHLO2": [
+  {
+    "cardname": "★★ LOONA Choerry",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"YVLO2": [
+  {
+    "cardname": "★★ LOONA Yves",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"CULO2": [
+  {
+    "cardname": "★★ LOONA Chuu",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"GOLO2": [
+  {
+    "cardname": "★★ LOONA Gowon",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+"OHLO2": [
+  {
+    "cardname": "★★ LOONA Olivia Hye",
+    "cardgroup": "LOONA",
+    "cardrarity": "2"
+  }
+],
+
+"HOAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"JOAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Jongho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"MIAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Mingi",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"SAAT4": [
+  {
+    "cardname": "★★★★ ATEEZ San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"SEAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"WOAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Wooyoung",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"YEAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"YUAT4": [
+  {
+    "cardname": "★★★★ ATEEZ Yunho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4"
+  }
+],
+
+"HOAT2": [
+  {
+    "cardname": "★★ ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"JOAT2": [
+  {
+    "cardname": "★★ ATEEZ Jongho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"MIAT2": [
+  {
+    "cardname": "★★ ATEEZ Mingi",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"SAAT2": [
+  {
+    "cardname": "★★ ATEEZ San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"SEAT2": [
+  {
+    "cardname": "★★ ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"WOAT2": [
+  {
+    "cardname": "★★ ATEEZ Wooyoung",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"YEAT2": [
+  {
+    "cardname": "★★ ATEEZ Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"YUAT2": [
+  {
+    "cardname": "★★ ATEEZ Yunho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "2"
+  }
+],
+
+"HELO3": [
+  {
+    "cardname": "★★★ LOONA Heejin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"HYLO3": [
+  {
+    "cardname": "★★★ LOONA Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"HALO3": [
+  {
+    "cardname": "★★★ LOONA Haseul",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"YELO3": [
+  {
+    "cardname": "★★★ LOONA Yeojin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"VILO3": [
+  {
+    "cardname": "★★★ LOONA Vivi",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"KLLO3": [
+  {
+    "cardname": "★★★ LOONA Kim Lip",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"JILO3": [
+  {
+    "cardname": "★★★ LOONA Jinsoul",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"CHLO3": [
+  {
+    "cardname": "★★★ LOONA Choerry",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"YVLO3": [
+  {
+    "cardname": "★★★ LOONA Yves",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"CULO3": [
+  {
+    "cardname": "★★★ LOONA Chuu",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"GOLO3": [
+  {
+    "cardname": "★★★ LOONA Gowon",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+"OHLO3": [
+  {
+    "cardname": "★★★ LOONA Olivia Hye",
+    "cardgroup": "LOONA",
+    "cardrarity": "3"
+  }
+],
+
+"HOAT1": [
+  {
+    "cardname": "★ ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"JOAT1": [
+  {
+    "cardname": "★ ATEEZ Jongho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"SAAT1": [
+  {
+    "cardname": "★ ATEEZ San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"SEAT1": [
+  {
+    "cardname": "★ ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"WOAT1": [
+  {
+    "cardname": "★ ATEEZ Wooyoung",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"YEAT1": [
+  {
+    "cardname": "★ ATEEZ Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"YUAT1": [
+  {
+    "cardname": "★ ATEEZ Yunho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "1"
+  }
+],
+
+"JUBD4": [
+  {
+    "cardname": "★★★★ BDC Junghwan",
+    "cardgroup": "BDC",
+    "cardrarity": "4"
+  }
+],
+
+"SEBD4": [
+  {
+    "cardname": "★★★★ BDC Seongjun",
+    "cardgroup": "BDC",
+    "cardrarity": "4"
+  }
+],
+
+"SIBD4": [
+  {
+    "cardname": "★★★★ BDC Sihun",
+    "cardgroup": "BDC",
+    "cardrarity": "4"
+  }
+],
+
+"DADC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher Dami",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"GADC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher Gahyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"HADC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher Handong",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"JIDC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher JiU",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"SIDC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher Siyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"SUDC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher SuA",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"YODC4": [
+  {
+    "cardname": "★★★★ Dreamcatcher Yoohyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4"
+  }
+],
+
+"DADC3": [
+  {
+    "cardname": "★★★ Dreamcatcher Dami",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"GADC3": [
+  {
+    "cardname": "★★★ Dreamcatcher Gahyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"HADC3": [
+  {
+    "cardname": "★★★ Dreamcatcher Handong",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"JIDC3": [
+  {
+    "cardname": "★★★ Dreamcatcher JiU",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"SIDC3": [
+  {
+    "cardname": "★★★ Dreamcatcher Siyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"SUDC3": [
+  {
+    "cardname": "★★★ Dreamcatcher SuA",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"YODC3": [
+  {
+    "cardname": "★★★ Dreamcatcher Yoohyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3"
+  }
+],
+
+"DADC1": [
+  {
+    "cardname": "★ Dreamcatcher Dami",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"GADC1": [
+  {
+    "cardname": "★ Dreamcatcher Gahyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"HADC1": [
+  {
+    "cardname": "★ Dreamcatcher Handong",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"JIDC1": [
+  {
+    "cardname": "★ Dreamcatcher JiU",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"SIDC1": [
+  {
+    "cardname": "★ Dreamcatcher Siyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"SUDC1": [
+  {
+    "cardname": "★ Dreamcatcher SuA",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"YODC1": [
+  {
+    "cardname": "★ Dreamcatcher Yoohyeon",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "1"
+  }
+],
+
+"ARNU1": [
+  {
+    "cardname": "★ NU'EST Aron",
+    "cardgroup": "NU'EST",
+    "cardrarity": "1"
+  }
+],
+
+"BENU1": [
+  {
+    "cardname": "★ NU'EST Baekho",
+    "cardgroup": "NU'EST",
+    "cardrarity": "1"
+  }
+],
+
+"JRNU1": [
+  {
+    "cardname": "★ NU'EST JR",
+    "cardgroup": "NU'EST",
+    "cardrarity": "1"
+  }
+],
+
+"MINU1": [
+  {
+    "cardname": "★ NU'EST Minhyun",
+    "cardgroup": "NU'EST",
+    "cardrarity": "1"
+  }
+],
+
+"RENU1": [
+  {
+    "cardname": "★ NU'EST Ren",
+    "cardgroup": "NU'EST",
+    "cardrarity": "1"
+  }
+],
+
+"ALDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Alex",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"CHDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Changuk",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"DODP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Dongyun",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"HYDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Hyeop",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"JUDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Junho",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"MIDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Minseo",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"YUDP4": [
+  {
+    "cardname": "★★★★ DRIPPIN Yunseong",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "4"
+  }
+],
+
+"ARNU2": [
+  {
+    "cardname": "★★ NU'EST Aron",
+    "cardgroup": "NU'EST",
+    "cardrarity": "2"
+  }
+],
+
+"BENU2": [
+  {
+    "cardname": "★★ NU'EST Baekho",
+    "cardgroup": "NU'EST",
+    "cardrarity": "2"
+  }
+],
+
+"JRNU2": [
+  {
+    "cardname": "★★ NU'EST JR",
+    "cardgroup": "NU'EST",
+    "cardrarity": "2"
+  }
+],
+
+"MINU2": [
+  {
+    "cardname": "★★ NU'EST Minhyun",
+    "cardgroup": "NU'EST",
+    "cardrarity": "2"
+  }
+],
+
+"RENU2": [
+  {
+    "cardname": "★★ NU'EST Ren",
+    "cardgroup": "NU'EST",
+    "cardrarity": "2"
+  }
+],
+
+"ARNU3": [
+  {
+    "cardname": "★★★ NU'EST Aron",
+    "cardgroup": "NU'EST",
+    "cardrarity": "3"
+  }
+],
+
+"BENU3": [
+  {
+    "cardname": "★★★ NU'EST Baekho",
+    "cardgroup": "NU'EST",
+    "cardrarity": "3"
+  }
+],
+
+"JRNU3": [
+  {
+    "cardname": "★★★ NU'EST JR",
+    "cardgroup": "NU'EST",
+    "cardrarity": "3"
+  }
+],
+
+"MINU3": [
+  {
+    "cardname": "★★★ NU'EST Minhyun",
+    "cardgroup": "NU'EST",
+    "cardrarity": "3"
+  }
+],
+
+"RENU3": [
+  {
+    "cardname": "★★★ NU'EST Ren",
+    "cardgroup": "NU'EST",
+    "cardrarity": "3"
+  }
+],
+
+"ALDP1": [
+  {
+    "cardname": "★ DRIPPIN Alex",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"CHDP1": [
+  {
+    "cardname": "★ DRIPPIN Changuk",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"DODP1": [
+  {
+    "cardname": "★ DRIPPIN Dongyun",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"HYDP1": [
+  {
+    "cardname": "★ DRIPPIN Hyeop",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"JUDP1": [
+  {
+    "cardname": "★ DRIPPIN Junho",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"MIDP1": [
+  {
+    "cardname": "★ DRIPPIN Minseo",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"YUDP1": [
+  {
+    "cardname": "★ DRIPPIN Yunseong",
+    "cardgroup": "DRIPPIN",
+    "cardrarity": "1"
+  }
+],
+
+"EUGF4": [
+  {
+    "cardname": "★★★★ GFriend Eunha",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"SIGF4": [
+  {
+    "cardname": "★★★★ GFriend SinB",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"SOGF4": [
+  {
+    "cardname": "★★★★ GFriend Sowon",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"UMGF4": [
+  {
+    "cardname": "★★★★ GFriend Umji",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"YEGF4": [
+  {
+    "cardname": "★★★★ GFriend Yerin",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"YUGF4": [
+  {
+    "cardname": "★★★★ GFriend Yuju",
+    "cardgroup": "GFriend",
+    "cardrarity": "4"
+  }
+],
+
+"EUGF3": [
+  {
+    "cardname": "★★★ GFriend Eunha",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"SIGF3": [
+  {
+    "cardname": "★★★ GFriend SinB",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"SOGF3": [
+  {
+    "cardname": "★★★ GFriend Sowon",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"UMGF3": [
+  {
+    "cardname": "★★★ GFriend Umji",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"YEGF3": [
+  {
+    "cardname": "★★★ GFriend Yerin",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"YUGF3": [
+  {
+    "cardname": "★★★ GFriend Yuju",
+    "cardgroup": "GFriend",
+    "cardrarity": "3"
+  }
+],
+
+"EUGF1": [
+  {
+    "cardname": "★ GFriend Eunha",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"SIGF1": [
+  {
+    "cardname": "★ GFriend SinB",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"SOGF1": [
+  {
+    "cardname": "★ GFriend Sowon",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"UMGF1": [
+  {
+    "cardname": "★ GFriend Umji",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"YEGF1": [
+  {
+    "cardname": "★ GFriend Yerin",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"YUGF1": [
+  {
+    "cardname": "★ GFriend Yuju",
+    "cardgroup": "GFriend",
+    "cardrarity": "1"
+  }
+],
+
+"CHIT1": [
+  {
+    "cardname": "★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "1"
+  }
+],
+
+"LAIT1": [
+  {
+    "cardname": "★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "1"
+  }
+],
+
+"RYIT1": [
+  {
+    "cardname": "★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "1"
+  }
+],
+
+"YEIT1": [
+  {
+    "cardname": "★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "1"
+  }
+],
+
+"YUIT1": [
+  {
+    "cardname": "★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "1"
+  }
+],
+
+"CHIT2": [
+  {
+    "cardname": "★★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "2"
+  }
+],
+
+"LAIT2": [
+  {
+    "cardname": "★★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "2"
+  }
+],
+
+"RYIT2": [
+  {
+    "cardname": "★★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "2"
+  }
+],
+
+"YEIT2": [
+  {
+    "cardname": "★★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "2"
+  }
+],
+
+"YUIT2": [
+  {
+    "cardname": "★★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "2"
+  }
+],
+
+"CHIT3": [
+  {
+    "cardname": "★★★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "3"
+  }
+],
+
+"LAIT3": [
+  {
+    "cardname": "★★★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "3"
+  }
+],
+
+"RYIT3": [
+  {
+    "cardname": "★★★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "3"
+  }
+],
+
+"YEIT3": [
+  {
+    "cardname": "★★★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "3"
+  }
+],
+
+"YUIT3": [
+  {
+    "cardname": "★★★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "3"
+  }
+],
+
+"CHIT4": [
+  {
+    "cardname": "★★★★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "4"
+  }
+],
+
+"LAIT4": [
+  {
+    "cardname": "★★★★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "4"
+  }
+],
+
+"RYIT4": [
+  {
+    "cardname": "★★★★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "4"
+  }
+],
+
+"YEIT4": [
+  {
+    "cardname": "★★★★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "4"
+  }
+],
+
+"YUIT4": [
+  {
+    "cardname": "★★★★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "4"
+  }
+],
+
+"CHIT5": [
+  {
+    "cardname": "★★★★★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "5"
+  }
+],
+
+"LAIT5": [
+  {
+    "cardname": "★★★★★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "5"
+  }
+],
+
+"RYIT5": [
+  {
+    "cardname": "★★★★★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "5"
+  }
+],
+
+"YEIT5": [
+  {
+    "cardname": "★★★★★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "5"
+  }
+],
+
+"YUIT5": [
+  {
+    "cardname": "★★★★★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "5"
+  }
+],
+
+"SNCR2": [
+  {
+    "cardname": "★★ CRAVITY Seongmin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"TACR2": [
+  {
+    "cardname": "★★ CRAVITY Taeyoung",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"HYCR2": [
+  {
+    "cardname": "★★ CRAVITY Hyeongjun",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"MICR2": [
+  {
+    "cardname": "★★ CRAVITY Minhee",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"WNCR2": [
+  {
+    "cardname": "★★ CRAVITY Woojin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"WOCR2": [
+  {
+    "cardname": "★★ CRAVITY Woobin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"JUCR2": [
+  {
+    "cardname": "★★ CRAVITY Jungmo",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"ALCR2": [
+  {
+    "cardname": "★★ CRAVITY Allen",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+],
+"SECR2": [
+  {
+    "cardname": "★★ CRAVITY Serim",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2"
+  }
+]
 
 
 
