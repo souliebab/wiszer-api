@@ -3647,6 +3647,775 @@
     "cardgroup": "TXT",
     "cardrarity": "1"
   }
+],
+
+"MJAS5": [
+  {
+    "cardname": "★★★★★ ASTRO MJ",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+"ROAS5": [
+  {
+    "cardname": "★★★★★ ASTRO Rocky",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+"MBAS5": [
+  {
+    "cardname": "★★★★★ ASTRO Moonbin",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+"JJAS5": [
+  {
+    "cardname": "★★★★★ ASTRO JinJin",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+
+"SAAS5": [
+  {
+    "cardname": "★★★★★ ASTRO Sanha",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+"CEAS5": [
+  {
+    "cardname": "★★★★★ ASTRO Cha Eunwoo",
+    "cardgroup": "ASTRO",
+    "cardrarity": "5"
+  }
+],
+
+"IRRV1": [
+  {
+    "cardname": "★ Red Velvet Irene",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1"
+  }
+],
+
+"JORV1": [
+  {
+    "cardname": "★ Red Velvet Joy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1"
+  }
+],
+
+"SERV1": [
+  {
+    "cardname": "★ Red Velvet Seulgi",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1"
+  }
+],
+
+"WERV1": [
+  {
+    "cardname": "★ Red Velvet Wendy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1"
+  }
+],
+
+"YERV1": [
+  {
+    "cardname": "★ Red Velvet Yeri",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1"
+  }
+],
+"IRRV3": [
+  {
+    "cardname": "★★★ Red Velvet Irene",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "3"
+  }
+],
+
+"JORV3": [
+  {
+    "cardname": "★★★ Red Velvet Joy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "3"
+  }
+],
+
+"SERV3": [
+  {
+    "cardname": "★★★ Red Velvet Seulgi",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "3"
+  }
+],
+
+"WERV3": [
+  {
+    "cardname": "★★★ Red Velvet Wendy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "3"
+  }
+],
+
+"YERV3": [
+  {
+    "cardname": "★★★ Red Velvet Yeri",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "3"
+  }
+],
+"IRRV4": [
+  {
+    "cardname": "★★★★ Red Velvet Irene",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "4"
+  }
+],
+
+"JORV4": [
+  {
+    "cardname": "★★★★ Red Velvet Joy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "4"
+  }
+],
+
+"SERV4": [
+  {
+    "cardname": "★★★★ Red Velvet Seulgi",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "4"
+  }
+],
+
+"WERV4": [
+  {
+    "cardname": "★★★★ Red Velvet Wendy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "4"
+  }
+],
+
+"YERV4": [
+  {
+    "cardname": "★★★★ Red Velvet Yeri",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "4"
+  }
+],
+
+"SYFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Seoyeon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"JSFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Jisun",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"SRFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Saerom",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"JHFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Jiheon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"HYFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Hayoung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"NGFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Nagyung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"GYFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Gyuri",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"CHFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Chaeyoung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+"JWFR3": [
+  {
+    "cardname": "★★★ Fromis_9 Jiwon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "3"
+  }
+],
+
+"SYFR1": [
+  {
+    "cardname": "★ Fromis_9 Seoyeon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"JSFR1": [
+  {
+    "cardname": "★ Fromis_9 Jisun",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"SRFR1": [
+  {
+    "cardname": "★ Fromis_9 Saerom",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"JHFR1": [
+  {
+    "cardname": "★ Fromis_9 Jiheon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"HYFR1": [
+  {
+    "cardname": "★ Fromis_9 Hayoung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"NGFR1": [
+  {
+    "cardname": "★ Fromis_9 Nagyung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"GYFR1": [
+  {
+    "cardname": "★ Fromis_9 Gyuri",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"CHFR1": [
+  {
+    "cardname": "★ Fromis_9 Chaeyoung",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+"JWFR1": [
+  {
+    "cardname": "★ Fromis_9 Jiwon",
+    "cardgroup": "Fromis_9",
+    "cardrarity": "1"
+  }
+],
+
+"CHIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Chaeyeon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"CWIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"EUIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Eunbi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"HTIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Hitomi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"HYIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Hyewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"MNIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Minju",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"NAIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Nako",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"SAIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Sakura",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"WOIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Wonyoung",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"YEIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Yena",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"YJIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Yujin",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"YUIZ4": [
+  {
+    "cardname": "★★★★ IZ*ONE Yuri",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "4"
+  }
+],
+
+"XION1": [
+  {
+    "cardname": "★ ONEUS Xion",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"HWON1": [
+  {
+    "cardname": "★ ONEUS Hwanwoong",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"KEON1": [
+  {
+    "cardname": "★ ONEUS Keonhee",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"LEON1": [
+  {
+    "cardname": "★ ONEUS Leedo",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"SEON1": [
+  {
+    "cardname": "★ ONEUS Seoho",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"RAON1": [
+  {
+    "cardname": "★ ONEUS Ravn",
+    "cardgroup": "ONEUS",
+    "cardrarity": "1"
+  }
+],
+
+"CHIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Chaeyeon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"CWIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"EUIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Eunbi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"HTIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Hitomi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"HYIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Hyewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"MNIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Minju",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"NAIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Nako",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"SAIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Sakura",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"WOIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Wonyoung",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"YEIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Yena",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"YJIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Yujin",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"YUIZ3": [
+  {
+    "cardname": "★★★ IZ*ONE Yuri",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "3"
+  }
+],
+
+"XION3": [
+  {
+    "cardname": "★★★ ONEUS Xion",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"HWON3": [
+  {
+    "cardname": "★★★ ONEUS Hwanwoong",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"KEON3": [
+  {
+    "cardname": "★★★ ONEUS Keonhee",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"LEON3": [
+  {
+    "cardname": "★★★ ONEUS Leedo",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"SEON3": [
+  {
+    "cardname": "★★★ ONEUS Seoho",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"RAON3": [
+  {
+    "cardname": "★★★ ONEUS Ravn",
+    "cardgroup": "ONEUS",
+    "cardrarity": "3"
+  }
+],
+
+"CHIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Chaeyeon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"CWIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"EUIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Eunbi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"HTIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Hitomi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"HYIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Hyewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"MNIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Minju",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"NAIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Nako",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"SAIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Sakura",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"WOIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Wonyoung",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"YEIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Yena",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"YJIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Yujin",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+
+"YUIZ2": [
+  {
+    "cardname": "★★ IZ*ONE Yuri",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "2"
+  }
+],
+"CHIZ1": [
+  {
+    "cardname": "★ IZ*ONE Chaeyeon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"CWIZ1": [
+  {
+    "cardname": "★ IZ*ONE Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"EUIZ1": [
+  {
+    "cardname": "★ IZ*ONE Eunbi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"HTIZ1": [
+  {
+    "cardname": "★ IZ*ONE Hitomi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"HYIZ1": [
+  {
+    "cardname": "★ IZ*ONE Hyewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"MNIZ1": [
+  {
+    "cardname": "★ IZ*ONE Minju",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"NAIZ1": [
+  {
+    "cardname": "★ IZ*ONE Nako",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"SAIZ1": [
+  {
+    "cardname": "★ IZ*ONE Sakura",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"WOIZ1": [
+  {
+    "cardname": "★ IZ*ONE Wonyoung",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"YEIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yena",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"YJIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yujin",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
+],
+
+"YUIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yuri",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1"
+  }
 ]
 
 
