@@ -3387,6 +3387,266 @@
     "cardgroup": "CRAVITY",
     "cardrarity": "2"
   }
+],
+
+"SNCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Seongmin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"TACR4": [
+  {
+    "cardname": "★★★★ CRAVITY Taeyoung",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"HYCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Hyeongjun",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"MICR4": [
+  {
+    "cardname": "★★★★ CRAVITY Minhee",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"WNCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Woojin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"WOCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Woobin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"JUCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Jungmo",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"ALCR4": [
+  {
+    "cardname": "★★★★ CRAVITY Allen",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+"SECR4": [
+  {
+    "cardname": "★★★★ CRAVITY Serim",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "4"
+  }
+],
+
+"BETX5": [
+  {
+    "cardname": "★★★★★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "5"
+  }
+],
+
+"HKTX5": [
+  {
+    "cardname": "★★★★★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "5"
+  }
+],
+
+"SOTX5": [
+  {
+    "cardname": "★★★★★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "5"
+  }
+],
+
+"TATX5": [
+  {
+    "cardname": "★★★★★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "5"
+  }
+],
+
+"YETX5": [
+  {
+    "cardname": "★★★★★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "5"
+  }
+],
+"BETX4": [
+  {
+    "cardname": "★★★★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "4"
+  }
+],
+
+"HKTX4": [
+  {
+    "cardname": "★★★★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "4"
+  }
+],
+
+"SOTX4": [
+  {
+    "cardname": "★★★★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "4"
+  }
+],
+
+"TATX4": [
+  {
+    "cardname": "★★★★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "4"
+  }
+],
+
+"YETX4": [
+  {
+    "cardname": "★★★★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "4"
+  }
+],
+"BETX3": [
+  {
+    "cardname": "★★★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "3"
+  }
+],
+
+"HKTX3": [
+  {
+    "cardname": "★★★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "3"
+  }
+],
+
+"SOTX3": [
+  {
+    "cardname": "★★★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "3"
+  }
+],
+
+"TATX3": [
+  {
+    "cardname": "★★★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "3"
+  }
+],
+
+"YETX3": [
+  {
+    "cardname": "★★★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "3"
+  }
+],
+"BETX2": [
+  {
+    "cardname": "★★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "2"
+  }
+],
+
+"HKTX2": [
+  {
+    "cardname": "★★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "2"
+  }
+],
+
+"SOTX2": [
+  {
+    "cardname": "★★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "2"
+  }
+],
+
+"TATX2": [
+  {
+    "cardname": "★★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "2"
+  }
+],
+
+"YETX2": [
+  {
+    "cardname": "★★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "2"
+  }
+],
+"BETX1": [
+  {
+    "cardname": "★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "1"
+  }
+],
+
+"HKTX1": [
+  {
+    "cardname": "★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "1"
+  }
+],
+
+"SOTX1": [
+  {
+    "cardname": "★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "1"
+  }
+],
+
+"TETX1": [
+  {
+    "cardname": "★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "1"
+  }
+],
+
+"YETX1": [
+  {
+    "cardname": "★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "1"
+  }
 ]
 
 
