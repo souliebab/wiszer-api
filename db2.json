@@ -1271,7 +1271,7 @@
     }
   ],
   
-"JISO1: [
+"JISO1": [
     {
       "cardname": "★ LOONA Soloist Jinsoul",
       "cardgroup": "LOONA Soloist",
@@ -1287,7 +1287,7 @@
     }
   ],
   
-"YVLO1": [
+"YVSO1": [
     {
       "cardname": "★ LOONA Soloist Yves",
       "cardgroup": "LOONA Soloist",
@@ -1409,7 +1409,7 @@
 
 "JKBD": [
     {
-      "cardname": "<a:skypecake:888560707291992094> Enhypen Jake",
+      "cardname": "<a:skypecake:888560707291992094> ENHYPEN Jake",
       "cardgroup": "bday",
       "cardrarity": "1",
     }
@@ -1481,7 +1481,7 @@
 
 "HYBD": [
     {
-      "cardname": "<a:skypecake:888560707291992094> Monsta X Hyungwon",
+      "cardname": "<a:skypecake:888560707291992094> MONSTA X Hyungwon",
       "cardgroup": "bday",
       "cardrarity": "1",
     }
