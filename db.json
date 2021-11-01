@@ -9180,6 +9180,510 @@
     "cardgroup": "halloween",
     "cardrarity": "4"
   }
+],
+
+"WTSC1": [
+  {
+    "cardname": "✦ Selca aespa Winter",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"CESC1": [
+  {
+    "cardname": "✦ Selca ASTRO Cha Eunwoo",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SANSC1": [
+  {
+    "cardname": "✦ Selca ATEEZ San",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SHSC1": [
+  {
+    "cardname": "✦ Selca ATEEZ Seonghwa",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"WYSC1": [
+  {
+    "cardname": "✦ Selca ATEEZ Wooyoung",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JSSC1": [
+  {
+    "cardname": "✦ Selca BLACKPINK Jisoo",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"LSSC1": [
+  {
+    "cardname": "✦ Selca BLACKPINK Lisa",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YKSC1": [
+  {
+    "cardname": "✦ Selca DAY6 Young K",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"DMSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher Dami",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"GHSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher Gahyeon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HDSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher Handong",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JUSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher JiU",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SASC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher SuA",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SYSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher Siyeon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YHSC1": [
+  {
+    "cardname": "✦ Selca Dreamcatcher Yoohyeon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JKSC1": [
+  {
+    "cardname": "✦ Selca ENHYPEN Jake",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JWSC1": [
+  {
+    "cardname": "✦ Selca ENHYPEN Jungwon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JYSC1": [
+  {
+    "cardname": "✦ Selca ENHYPEN Jay",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"NKSC1": [
+  {
+    "cardname": "✦ Selca ENHYPEN Ni-Ki",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SUSC1": [
+  {
+    "cardname": "✦ Selca ENHYPEN Sunoo",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"XMSC1": [
+  {
+    "cardname": "✦ Selca EXO Xiumin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HASC1": [
+  {
+    "cardname": "✦ Selca fromis_9 Hayoung",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"UJSC1": [
+  {
+    "cardname": "✦ Selca GFRIEND Yuju",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"MNSC1": [
+  {
+    "cardname": "✦ Selca (G)I-DLE Minnie",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SOSC1": [
+  {
+    "cardname": "✦ Selca (G)I-DLE Soojin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"CYSC1": [
+  {
+    "cardname": "✦ Selca ITZY Chaeryeong",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"LISC1": [
+  {
+    "cardname": "✦ Selca ITZY Lia",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HWSC1": [
+  {
+    "cardname": "✦ Selca IZ*ONE Hyewon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"MJSC1": [
+  {
+    "cardname": "✦ Selca IZ*ONE Minju",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YUSC1": [
+  {
+    "cardname": "✦ Selca IZ*ONE Yujin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"CHSC1": [
+  {
+    "cardname": "✦ Selca LOONA Chuu",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HESC1": [
+  {
+    "cardname": "✦ Selca LOONA Heejin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YVSC1": [
+  {
+    "cardname": "✦ Selca LOONA Yves",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"MYSC1": [
+  {
+    "cardname": "✦ Selca MAMAMOO Moonbyul",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HGSC1": [
+  {
+    "cardname": "✦ Selca MONSTA X Hyungwon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"DYSC1": [
+  {
+    "cardname": "✦ Selca NCT Doyoung",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HCSC1": [
+  {
+    "cardname": "✦ Selca NCT Haechan",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YOSC1": [
+  {
+    "cardname": "✦ Selca Pentagon Yeo One",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JOSC1": [
+  {
+    "cardname": "✦ Selca Red Velvet Joy",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"T8SC1": [
+  {
+    "cardname": "✦ Selca Seventeen The8",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"TYSC1": [
+  {
+    "cardname": "✦ Selca SF9 Taeyang",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"AXSC1": [
+  {
+    "cardname": "✦ Selca Soloist AleXa",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"CLSC1": [
+  {
+    "cardname": "✦ Selca Soloist CL",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HLSC1": [
+  {
+    "cardname": "✦ Selca Soloist Holland",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HYSC1": [
+  {
+    "cardname": "✦ Selca Soloist HyunA",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SMSC1": [
+  {
+    "cardname": "✦ Selca Soloist Sunmi",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SZSC1": [
+  {
+    "cardname": "✦ Selca Soloist Suzy",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"WDSC1": [
+  {
+    "cardname": "✦ Selca Soloist Woodz",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"BCSC1": [
+  {
+    "cardname": "✦ Selca Stray Kids Bang Chan",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"FXSC1": [
+  {
+    "cardname": "✦ Selca Stray Kids Felix",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"INSC1": [
+  {
+    "cardname": "✦ Selca Stray Kids I.N",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"JISC1": [
+  {
+    "cardname": "✦ Selca Stray Kids Han Jisung",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"CMSC1": [
+  {
+    "cardname": "✦ Selca The Boyz Changmin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"KVSC1": [
+  {
+    "cardname": "✦ Selca The Boyz Kevin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YGSC1": [
+  {
+    "cardname": "✦ Selca The Boyz Younghoon",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HTSC1": [
+  {
+    "cardname": "✦ Selca Treasure Haruto",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SNSC1": [
+  {
+    "cardname": "✦ Selca TWICE Sana",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"TZSC1": [
+  {
+    "cardname": "✦ Selca TWICE Tyuzu",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"BGSC1": [
+  {
+    "cardname": "✦ Selca TXT Beomgyu",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"HKSC1": [
+  {
+    "cardname": "✦ Selca TXT Huening Kai",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"SBSC1": [
+  {
+    "cardname": "✦ Selca TXT Soobin",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"THSC1": [
+  {
+    "cardname": "✦ Selca TXT Taehyun",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
+],
+
+"YJSC1": [
+  {
+    "cardname": "✦ Selca TXT Yeonjun",
+    "cardgroup": "Selca",
+    "cardrarity": "1"
+  }
 ]
 
 
