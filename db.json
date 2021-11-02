@@ -9684,8 +9684,311 @@
     "cardgroup": "Selca",
     "cardrarity": "1"
   }
-]
+],
+  
+"ANMO1": [
+    {
+      "cardname": "★ MOMOLAND Ahin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
 
+"JNMO1": [
+    {
+      "cardname": "★ MOMOLAND Jane",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"HYMO1": [
+    {
+      "cardname": "★ MOMOLAND Hyebin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"JOMO1": [
+    {
+      "cardname": "★ MOMOLAND JooE",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"NYMO1": [
+    {
+      "cardname": "★ MOMOLAND Nayun",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"NCMO1": [
+    {
+      "cardname": "★ MOMOLAND Nancy",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+"ANMO2": [
+    {
+      "cardname": "★★ MOMOLAND Ahin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"JNMO2": [
+    {
+      "cardname": "★★ MOMOLAND Jane",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"HYMO2": [
+    {
+      "cardname": "★★ MOMOLAND Hyebin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"JOMO2": [
+    {
+      "cardname": "★★ MOMOLAND JooE",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"NYMO2": [
+    {
+      "cardname": "★★ MOMOLAND Nayun",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"NCMO2": [
+    {
+      "cardname": "★★ MOMOLAND Nancy",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+  "HWMO1": [
+    {
+      "cardname": "★ MAMAMOO Hwasa",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"WHMO1": [
+    {
+      "cardname": "★ MAMAMOO Wheein",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"MBMO1": [
+    {
+      "cardname": "★ MAMAMOO Moonbyul",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"SLMO1": [
+    {
+      "cardname": "★ MAMAMOO Solar",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+  
+  "JAEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Jake",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+"JYEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Jay",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+"SNEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Sunoo",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+
+"HSEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Heeseung",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+
+"SHEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Sunghoon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+
+"JWEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Jungwon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+
+"NKEN3": [
+    {
+      "cardname": "★★★ ENHYPEN Ni-Ki",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "3"
+    }
+  ],
+"JAEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Jake",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+"JYEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Jay",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+"SNEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Sunoo",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+
+"HSEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Heeseung",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+
+"SHEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Sunghoon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+
+"JWEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Jungwon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+
+"NKEN4": [
+    {
+      "cardname": "★★★★ ENHYPEN Ni-Ki",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "4"
+    }
+  ],
+"JAEN1": [
+    {
+      "cardname": "★ ENHYPEN Jake",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+"JYEN1": [
+    {
+      "cardname": "★ ENHYPEN Jay",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+"SNEN1": [
+    {
+      "cardname": "★ ENHYPEN Sunoo",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+
+"HSEN1": [
+    {
+      "cardname": "★ ENHYPEN Heeseung",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+
+"SHEN1": [
+    {
+      "cardname": "★ ENHYPEN Sunghoon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+
+"JWEN1": [
+    {
+      "cardname": "★ ENHYPEN Jungwon",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ],
+
+"NKEN1": [
+    {
+      "cardname": "★ ENHYPEN Ni-Ki",
+      "cardgroup": "ENHYPEN",
+      "cardrarity": "1"
+    }
+  ]
+  
+  
 
 
 }
