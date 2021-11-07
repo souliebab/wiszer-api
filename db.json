@@ -3720,7 +3720,7 @@
     "cardname": "★★★★★ ITZY Chaeryeong",
     "cardgroup": "ITZY",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/ITZYChaeryeong5.gif"
   }
 ],
 
@@ -3729,7 +3729,7 @@
     "cardname": "★★★★★ ITZY Lia",
     "cardgroup": "ITZY",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/ITZYLia5.gif"
   }
 ],
 
@@ -3738,7 +3738,7 @@
     "cardname": "★★★★★ ITZY Ryujin",
     "cardgroup": "ITZY",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/ITZYRyujin5.gif"
   }
 ],
 
@@ -3747,7 +3747,7 @@
     "cardname": "★★★★★ ITZY Yeji",
     "cardgroup": "ITZY",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/ITZYYeji5.gif"
   }
 ],
 
@@ -3756,7 +3756,7 @@
     "cardname": "★★★★★ ITZY Yuna",
     "cardgroup": "ITZY",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/ITZYYuna5.gif"
   }
 ],
 
@@ -3911,7 +3911,7 @@
     "cardname": "★★★★★ TXT Beomgyu",
     "cardgroup": "TXT",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/TXTBeomgyu5.gif"
   }
 ],
 
@@ -3920,7 +3920,7 @@
     "cardname": "★★★★★ TXT Huening Kai",
     "cardgroup": "TXT",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/TXTHueningKai5.gif"
   }
 ],
 
@@ -3929,7 +3929,7 @@
     "cardname": "★★★★★ TXT Soobin",
     "cardgroup": "TXT",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/TXTSoobin5.gif"
   }
 ],
 
@@ -3938,7 +3938,7 @@
     "cardname": "★★★★★ TXT Taehyun",
     "cardgroup": "TXT",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/TXTTaehyun5.gif"
   }
 ],
 
@@ -3947,7 +3947,7 @@
     "cardname": "★★★★★ TXT Yeonjun",
     "cardgroup": "TXT",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/movingcards/TXTYeonjun5.gif"
   }
 ],
 "BETX4": [
@@ -10933,7 +10933,196 @@
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
-]
+],
+
+"JAEN1": [
+  {
+    "cardname": "★ ENHYPEN Jake",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JYEN1": [
+  {
+    "cardname": "★ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SNEN1": [
+  {
+    "cardname": "★ ENHYPEN Sunoo",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HSEN1": [
+  {
+    "cardname": "★ ENHYPEN Heeseung",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHEN1": [
+  {
+    "cardname": "★ ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWEN1": [
+  {
+    "cardname": "★ ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NKEN1": [
+  {
+    "cardname": "★ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JAEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Jake",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JYEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SNEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Sunoo",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HSEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Heeseung",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NKEN3": [
+  {
+    "cardname": "★★★ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JAEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Jake",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JYEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SNEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Sunoo",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HSEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Heeseung",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NKEN4": [
+  {
+    "cardname": "★★★★ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
 
 
 
