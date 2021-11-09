@@ -11230,5 +11230,132 @@
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
-]
+],
+  
+  "ANMO1": [
+    {
+      "cardname": "★ MOMOLAND Ahin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"JNMO1": [
+    {
+      "cardname": "★ MOMOLAND Jane",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"HYMO1": [
+    {
+      "cardname": "★ MOMOLAND Hyebin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"JOMO1": [
+    {
+      "cardname": "★ MOMOLAND JooE",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"NYMO1": [
+    {
+      "cardname": "★ MOMOLAND Nayun",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ],
+
+"NCMO1": [
+    {
+      "cardname": "★ MOMOLAND Nancy",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "1"
+    }
+  ]
+"ANMO2": [
+    {
+      "cardname": "★★ MOMOLAND Ahin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"JNMO2": [
+    {
+      "cardname": "★★ MOMOLAND Jane",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"HYMO2": [
+    {
+      "cardname": "★★ MOMOLAND Hyebin",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"JOMO2": [
+    {
+      "cardname": "★★ MOMOLAND JooE",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"NYMO2": [
+    {
+      "cardname": "★★ MOMOLAND Nayun",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"NCMO2": [
+    {
+      "cardname": "★★ MOMOLAND Nancy",
+      "cardgroup": "MOMOLAND",
+      "cardrarity": "2"
+    }
+  ],
+
+"HWMO1": [
+    {
+      "cardname": "★ MAMAMOO Hwasa",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"WHMO1": [
+    {
+      "cardname": "★ MAMAMOO Wheein",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"MBMO1": [
+    {
+      "cardname": "★ MAMAMOO Moonbyul",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ],
+
+"SLMO1": [
+    {
+      "cardname": "★ MAMAMOO Solar",
+      "cardgroup": "MAMAMOO",
+      "cardrarity": "1"
+    }
+  ]
 }
