@@ -11236,7 +11236,8 @@
     {
       "cardname": "★ MOMOLAND Ahin",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11244,7 +11245,8 @@
     {
       "cardname": "★ MOMOLAND Jane",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11252,7 +11254,8 @@
     {
       "cardname": "★ MOMOLAND Hyebin",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11260,7 +11263,8 @@
     {
       "cardname": "★ MOMOLAND JooE",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11268,7 +11272,8 @@
     {
       "cardname": "★ MOMOLAND Nayun",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11276,14 +11281,16 @@
     {
       "cardname": "★ MOMOLAND Nancy",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
-  ]
+  ],
 "ANMO2": [
     {
       "cardname": "★★ MOMOLAND Ahin",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11291,7 +11298,8 @@
     {
       "cardname": "★★ MOMOLAND Jane",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11299,7 +11307,8 @@
     {
       "cardname": "★★ MOMOLAND Hyebin",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11307,7 +11316,8 @@
     {
       "cardname": "★★ MOMOLAND JooE",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11315,7 +11325,8 @@
     {
       "cardname": "★★ MOMOLAND Nayun",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11323,7 +11334,8 @@
     {
       "cardname": "★★ MOMOLAND Nancy",
       "cardgroup": "MOMOLAND",
-      "cardrarity": "2"
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11331,7 +11343,8 @@
     {
       "cardname": "★ MAMAMOO Hwasa",
       "cardgroup": "MAMAMOO",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11339,7 +11352,8 @@
     {
       "cardname": "★ MAMAMOO Wheein",
       "cardgroup": "MAMAMOO",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11347,7 +11361,8 @@
     {
       "cardname": "★ MAMAMOO Moonbyul",
       "cardgroup": "MAMAMOO",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
 
@@ -11355,7 +11370,8 @@
     {
       "cardname": "★ MAMAMOO Solar",
       "cardgroup": "MAMAMOO",
-      "cardrarity": "1"
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ]
 }
