@@ -11122,8 +11122,113 @@
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+
+"YUGI1": [
+  {
+    "cardname": "★ (G)I-DLE Yuqi",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SOGI1": [
+  {
+    "cardname": "★ (G)I-DLE Soojin",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHGI1": [
+  {
+    "cardname": "★ (G)I-DLE Shuhua",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MIGI1": [
+  {
+    "cardname": "★ (G)I-DLE Minnie",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SYGI1": [
+  {
+    "cardname": "★ (G)I-DLE Soyeon",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYGI1": [
+  {
+    "cardname": "★ (G)I-DLE Miyeon",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Yuqi",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SOGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Soojin",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Shuhua",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MIGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Minnie",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SYGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Soyeon",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYGI2": [
+  {
+    "cardname": "★★ (G)I-DLE Miyeon",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
-
-
-
 }
