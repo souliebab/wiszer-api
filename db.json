@@ -11373,5 +11373,169 @@
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
-  ]
+  ],
+  
+  "RCSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer April Rachel",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"FESM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Stray Kids Felix",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"INSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Stray Kids I.N",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"JESM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer NCT 127 Jaehyun",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"HCSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer NCT DREAM Haechan",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"RISM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Only One Of Rie",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"IRSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Red Velvet Irene",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"SGSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Red Velvet Seulgi",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"LISM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer ITZY Lia",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"KISM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer PENTAGON Kino",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"GNSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer LOONA Gowon",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+
+"TYSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Twice Tzuyu",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"NASM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Twice Nayeon",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"JNSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Twice Jeongyeon",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"SASM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Twice Sana",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"DASM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer Twice Dahyun",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"WOSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer IZ*ONE Wonyoung",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"YHSM4": [
+  {
+    "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer ATEEZ Yunho",
+    "cardgroup": "SUMMER",
+    "cardrarity": "4"
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+]
+
 }
