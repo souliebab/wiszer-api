@@ -1747,7 +1747,7 @@
   }
 ],
 
-"LSFS1": [
+"LMFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Lao Mao",
     "cardgroup": "Falling Into Your Smile",
@@ -1801,6 +1801,15 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
+
+"LSFS1": [
+    {
+      "cardname": "✰ Falling Into Your Smile Lu Si Cheng",
+      "cardgroup": "Falling Into Your Smile",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
 
 "CHND1": [
   {
@@ -12509,13 +12518,157 @@
           "cardimage": "IMGUR LINK"
         }
       ], 
-  "SUAHPD1": [
-{
- "cardname":"🎂 Happy SuA Day", 
-"cardgroup":"Dreamcatcher", 
-"cardrarity": "1", 
-"cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-}
-]
+      "SUAHPD1": [
+    {
+     "cardname":"🎂 Happy SuA Day", 
+    "cardgroup":"Dreamcatcher", 
+    "cardrarity": "1", 
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    "INSCSA": [
+      {
+        "cardname": "✦ Staff Selca Stray Kids I.N",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "HHSCR": [
+      {
+        "cardname": "✦ Staff Selca Soloist Hyunjun Hur",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "SOSCA": [
+      {
+        "cardname": "✦ Staff Selca (G)I-DLE Soyeon",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "YHSCBR": [
+      {
+        "cardname": "✦ Staff Selca The Boyz Younghoon",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "SHSCBK": [
+      {
+        "cardname": "✦ Staff Selca Everglow Sihyeon",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "YUSCC": [
+      {
+        "cardname": "✦ Staff Selca ITZY Yuna",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "WOSCH": [
+      {
+        "cardname": "✦ Staff Selca D1CE Woodam",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "SESCB": [
+      {
+        "cardname": "✦ Staff Selca EXO Sehun",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "DHSCCE": [
+      {
+        "cardname": "✦ Staff Selca Twice Dahyun",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "ASSCV": [
+      {
+        "cardname": "✦ Staff Selca Stray Kids Changbin & Han",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "JISCBB": [
+      {
+        "cardname": "✦ Staff Selca Soloist Park Jihoon",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "JSSCBB": [
+      {
+        "cardname": "✦ Staff Selca 1the9 Jinsung",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "JYSCBB": [
+      {
+        "cardname": "✦ Staff Selca The Boyz Juyeon",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "LESCBB": [
+      {
+        "cardname": "✦ Staff Selca Oneus Leedo",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "VISCBB": [
+      {
+        "cardname": "✦ Staff Selca LOONA Vivi",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "WOSCBB": [
+      {
+        "cardname": "✦ Staff Selca AB6IX Woong",
+        "cardgroup": "Staff Selca",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "IUSCB": [
+      {
+        "cardname": "✦ Selca Contest Winner Soloist IU",
+        "cardgroup": "Selca Winner",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ],
+    "ROSCT": [
+      {
+        "cardname": "✦ Selca Contest Winner Blackpink Rosé",
+        "cardgroup": "Selca Winner",
+        "cardrarity": "1",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+    ]
 
 }
