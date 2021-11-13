@@ -12669,6 +12669,63 @@
         "cardrarity": "1",
         "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
       }
-    ]
+    ],
+  
+  "DOCP3": [
+  {
+    "cardname": "★★★ CIIPHER Dohwan",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"HWCP3": [
+  {
+    "cardname": "★★★ CIIPHER Hwi",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"HYCP3": [
+  {
+    "cardname": "★★★ CIIPHER Hyunbin",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"KECP3": [
+  {
+    "cardname": "★★★ CIIPHER Keita",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"TGCP3": [
+  {
+    "cardname": "★★★ CIIPHER Tag",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"TACP3": [
+  {
+    "cardname": "★★★ CIIPHER Tan",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"WOCP3": [
+  {
+    "cardname": "★★★ CIIPHER Won",
+    "cardgroup": "CIIPHER",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+]
 
 }
