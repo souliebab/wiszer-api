@@ -7655,20 +7655,20 @@
   }
 ],
 
-"MOMXS2": [
+"MOMXS1": [
   {
-    "cardname": "★★ Moonbin X Sanha Moonbin",
+    "cardname": "★ Moonbin X Sanha Moonbin",
     "cardgroup": "duo",
-    "cardrarity": "2", 
+    "cardrarity": "1", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
 
-"SHMXS2": [
+"SHMXS1": [
   {
-    "cardname": "★★ Moonbin X Sanha Sanha",
+    "cardname": "★ Moonbin X Sanha Sanha",
     "cardgroup": "duo",
-    "cardrarity": "2", 
+    "cardrarity": "1", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
