@@ -2327,7 +2327,7 @@
 "BKSO1": [
   {
     "cardname": "★ Soloist Baekhyun",
-    "cardgroup": "Soloist",
+    "cardgroup": "Baekhyun",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2336,7 +2336,7 @@
 "CHSO1": [
   {
     "cardname": "★ Soloist Chungha",
-    "cardgroup": "Soloist",
+    "cardgroup": "Chung Ha",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2345,7 +2345,7 @@
 "HSSO1": [
   {
     "cardname": "★ Soloist Han Seungwoo",
-    "cardgroup": "Soloist",
+    "cardgroup": "Han Seungwoo",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2354,7 +2354,7 @@
 "HOSO1": [
   {
     "cardname": "★ Soloist HYO",
-    "cardgroup": "Soloist",
+    "cardgroup": "HYO",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2363,7 +2363,7 @@
 "HYSO1": [
   {
     "cardname": "★ Soloist HyunA",
-    "cardgroup": "Soloist",
+    "cardgroup": "HyunA",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2372,7 +2372,7 @@
 "IUSO1": [
   {
     "cardname": "★ Soloist IU",
-    "cardgroup": "Soloist",
+    "cardgroup": "IU",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2381,7 +2381,7 @@
 "JESO1": [
   {
     "cardname": "★ Soloist Jessi",
-    "cardgroup": "Soloist",
+    "cardgroup": "Jessi",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2390,7 +2390,7 @@
 "MZSO1": [
   {
     "cardname": "★ Soloist Minzy",
-    "cardgroup": "Soloist",
+    "cardgroup": "Minzy",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2399,7 +2399,7 @@
 "TYSO1": [
   {
     "cardname": "★ Soloist Taeyeon",
-    "cardgroup": "Soloist",
+    "cardgroup": "Taeyeon",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2408,7 +2408,7 @@
 "WOSO1": [
   {
     "cardname": "★ Soloist WOODZ",
-    "cardgroup": "Soloist",
+    "cardgroup": "WOODZ",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2417,7 +2417,7 @@
 "YOSO1": [
   {
     "cardname": "★ Soloist Yoona",
-    "cardgroup": "Soloist",
+    "cardgroup": "Yoona",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2426,7 +2426,7 @@
 "BASO2": [
   {
     "cardname": "★★ Soloist BoA",
-    "cardgroup": "Soloist",
+    "cardgroup": "BoA",
     "cardrarity": "2", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2435,7 +2435,7 @@
 "JJSO2": [
   {
     "cardname": "★★ Soloist Jamie Park",
-    "cardgroup": "Soloist",
+    "cardgroup": "Jamie Park",
     "cardrarity": "2", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2444,7 +2444,7 @@
 "SMSO2": [
   {
     "cardname": "★★ Soloist Sunmi",
-    "cardgroup": "Soloist",
+    "cardgroup": "Sunmi",
     "cardrarity": "2", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2453,7 +2453,7 @@
 "TMSO2": [
   {
     "cardname": "★★ Soloist Taemin",
-    "cardgroup": "Soloist",
+    "cardgroup": "Taemin",
     "cardrarity": "2", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -2462,9 +2462,9 @@
 "HJSO5": [
   {
     "cardname": "★★★★★ Soloist Hyunjin",
-    "cardgroup": "Soloist",
+    "cardgroup": "Hyunjin",
     "cardrarity": "5", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+     "cardimage": "https://imgur.com/AQcqtlm"
   }
 ],
 
