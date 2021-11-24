@@ -10892,7 +10892,7 @@
 
 "TZSC1": [
   {
-    "cardname": "✦ Selca TWICE Tyuzu",
+    "cardname": "✦ Selca TWICE Tzuyu",
     "cardgroup": "Selca",
     "cardrarity": "1", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13571,6 +13571,16 @@
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
+
+"AROH4": [
+  {
+    "cardname": ":sparkles::sparkles::sparkles::sparkles: Jae's OH MY GIRL Arin",
+    "cardgroup": "OH MY GIRL",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
 "JYBDAYBB": [
     {
       "cardname": ":skypecake: Juyeon ",
@@ -13587,5 +13597,13 @@
       "cardrarity": "3",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
-  ]
+  ],
+"JHBDAYGR": [
+  {
+    "cardname": ":skypecake: Groots's The Boyz Juhaknyeon ",
+    "cardgroup": "BDAY",
+    "cardrarity": "1",
+    "cardimage": "https://i.imgur.com/NG2lKts.mp4"
+  }
+]
 }
