@@ -4671,6 +4671,16 @@
   }
 ],
 
+"JOSO4": [
+  {
+    "cardname": "★★★★ Soloist Joy",
+    "cardgroup": "Joy",
+    "cardrarity": "4",
+    "cardworth": "N/A", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
 "IRRV1": [
   {
     "cardname": "★ Red Velvet Irene",
