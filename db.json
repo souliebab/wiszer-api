@@ -15741,5 +15741,33 @@
     "cardrarity": "5",
     "cardimage": "IMGUR LINK"
   }
+],
+"JAILEDJAEMIN": [
+  {
+    "cardname":"★ NCT Jaemin (Jailed Version)",
+    "cardgroup":"NCT",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"KINGHYUN": [
+  {
+    "cardname":"★ Stray Kids Hyunjin",
+    "cardgroup":"Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KINGLIX": [
+  {
+    "cardname":"★ Stray Kids Felix",
+    "cardgroup":"Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
