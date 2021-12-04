@@ -2421,7 +2421,7 @@
 "HELO1": [
   {
     "cardname": "★ LOOΠΔ Heejin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2430,7 +2430,7 @@
 "HYLO1": [
   {
     "cardname": "★ LOOΠΔ Hyunjin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2439,7 +2439,7 @@
 "HALO1": [
   {
     "cardname": "★ LOOΠΔ Haseul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2448,7 +2448,7 @@
 "YELO1": [
   {
     "cardname": "★ LOOΠΔ Yeojin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2457,7 +2457,7 @@
 "VILO1": [
   {
     "cardname": "★ LOOΠΔ Vivi",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2466,7 +2466,7 @@
 "KLLO1": [
   {
     "cardname": "★ LOOΠΔ Kim Lip",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2475,7 +2475,7 @@
 "JILO1": [
   {
     "cardname": "★ LOOΠΔ Jinsoul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2484,7 +2484,7 @@
 "CHLO1": [
   {
     "cardname": "★ LOOΠΔ Choerry",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2493,7 +2493,7 @@
 "YVLO1": [
   {
     "cardname": "★ LOOΠΔ Yves",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2502,7 +2502,7 @@
 "CULO1": [
   {
     "cardname": "★ LOOΠΔ Chuu",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2511,7 +2511,7 @@
 "GOLO1": [
   {
     "cardname": "★ LOOΠΔ Gowon",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2520,7 +2520,7 @@
 "OHLO1": [
   {
     "cardname": "★ LOOΠΔ Olivia Hye",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2800,7 +2800,7 @@
 "HELO2": [
   {
     "cardname": "★★ LOOΠΔ Heejin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2809,7 +2809,7 @@
 "HYLO2": [
   {
     "cardname": "★★ LOOΠΔ Hyunjin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2818,7 +2818,7 @@
 "HALO2": [
   {
     "cardname": "★★ LOOΠΔ Haseul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2827,7 +2827,7 @@
 "YELO2": [
   {
     "cardname": "★★ LOOΠΔ Yeojin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2836,7 +2836,7 @@
 "VILO2": [
   {
     "cardname": "★★ LOOΠΔ Vivi",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2845,7 +2845,7 @@
 "KLLO2": [
   {
     "cardname": "★★ LOOΠΔ Kim Lip",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2854,7 +2854,7 @@
 "JILO2": [
   {
     "cardname": "★★ LOOΠΔ Jinsoul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2863,7 +2863,7 @@
 "CHLO2": [
   {
     "cardname": "★★ LOOΠΔ Choerry",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2872,7 +2872,7 @@
 "YVLO2": [
   {
     "cardname": "★★ LOOΠΔ Yves",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2881,7 +2881,7 @@
 "CULO2": [
   {
     "cardname": "★★ LOOΠΔ Chuu",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2890,7 +2890,7 @@
 "GOLO2": [
   {
     "cardname": "★★ LOOΠΔ Gowon",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2899,7 +2899,7 @@
 "OHLO2": [
   {
     "cardname": "★★ LOOΠΔ Olivia Hye",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3069,7 +3069,7 @@
 "HELO3": [
   {
     "cardname": "★★★ LOOΠΔ Heejin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3078,7 +3078,7 @@
 "HYLO3": [
   {
     "cardname": "★★★ LOOΠΔ Hyunjin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3087,7 +3087,7 @@
 "HALO3": [
   {
     "cardname": "★★★ LOOΠΔ Haseul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3096,7 +3096,7 @@
 "YELO3": [
   {
     "cardname": "★★★ LOOΠΔ Yeojin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3105,7 +3105,7 @@
 "VILO3": [
   {
     "cardname": "★★★ LOOΠΔ Vivi",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3114,7 +3114,7 @@
 "KLLO3": [
   {
     "cardname": "★★★ LOOΠΔ Kim Lip",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3123,7 +3123,7 @@
 "JILO3": [
   {
     "cardname": "★★★ LOOΠΔ Jinsoul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3132,7 +3132,7 @@
 "CHLO3": [
   {
     "cardname": "★★★ LOOΠΔ Choerry",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3141,7 +3141,7 @@
 "YVLO3": [
   {
     "cardname": "★★★ LOOΠΔ Yves",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3150,7 +3150,7 @@
 "CULO3": [
   {
     "cardname": "★★★ LOOΠΔ Chuu",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3159,7 +3159,7 @@
 "GOLO3": [
   {
     "cardname": "★★★ LOOΠΔ Gowon",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -3168,7 +3168,7 @@
 "OHLO3": [
   {
     "cardname": "★★★ LOOΠΔ Olivia Hye",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10967,7 +10967,7 @@
 "JIBD": [
   {
     "cardname": "<a:skypecake:888560707291992094> LOOΠΔ Jinsoul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -11377,7 +11377,7 @@
 "OHLOWZ4": [
   {
     "cardname": "<:WISZWEEN21_GG:900212158468599840><:WISZWEEN21_GG:900212158468599840><:WISZWEEN21_GG:900212158468599840><:WISZWEEN21_GG:900212158468599840> LOOΠΔ Olivia Hye",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12796,7 +12796,7 @@
 "GNSM4": [
   {
     "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer LOOΠΔ Gowon",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15710,7 +15710,7 @@
 "JUNGEUN": [
   {
     "cardname": "★★★★★ Patreon Custom Kim Lip",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/pIX9i9p"
   }
@@ -15773,7 +15773,7 @@
 "HELO4": [
   {
     "cardname": "★★★★ LOOΠΔ Heejin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15782,7 +15782,7 @@
 "HYLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Hyunjin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15791,7 +15791,7 @@
 "HALO4": [
   {
     "cardname": "★★★★ LOOΠΔ Haseul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15800,7 +15800,7 @@
 "YELO4": [
   {
     "cardname": "★★★★ LOOΠΔ Yeojin",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15809,7 +15809,7 @@
 "VILO4": [
   {
     "cardname": "★★★★ LOOΠΔ Vivi",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15818,7 +15818,7 @@
 "KLLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Kim Lip",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15827,7 +15827,7 @@
 "JILO4": [
   {
     "cardname": "★★★★ LOOΠΔ Jinsoul",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15836,7 +15836,7 @@
 "CHLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Choerry",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15845,7 +15845,7 @@
 "YVLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Yves",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15854,7 +15854,7 @@
 "CULO4": [
   {
     "cardname": "★★★★ LOOΠΔ Chuu",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15863,7 +15863,7 @@
 "GOLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Gowon",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15872,7 +15872,7 @@
 "OHLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Olivia Hye",
-    "cardgroup": "LOOΠΔ",
+    "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
