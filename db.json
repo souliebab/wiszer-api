@@ -5595,7 +5595,7 @@
 "ROSFW1": [
   {
     "cardname": "★ Street Woman Fighter Want Crew Rozalin",
-    "cardgroup": "Street Woman Fighter Want",
+    "cardgroup": "Want",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5605,7 +5605,7 @@
 "CYSFW1": [
   {
     "cardname": "★ Street Woman Fighter Want Crew Chaeyeon",
-    "cardgroup": "Street Woman Fighter Want",
+    "cardgroup": "Want",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5615,7 +5615,7 @@
 "MOSFW1": [
   {
     "cardname": "★ Street Woman Fighter Want Crew Moana",
-    "cardgroup": "Street Woman Fighter Want",
+    "cardgroup": "Want",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5625,7 +5625,7 @@
 "EMSFW1": [
   {
     "cardname": "★ Street Woman Fighter Want Crew Emma",
-    "cardgroup": "Street Woman Fighter Want",
+    "cardgroup": "Want",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5635,7 +5635,7 @@
 "CHSFW1": [
   {
     "cardname": "★ Street Woman Fighter Want Crew Choi Hyojin",
-    "cardgroup": "Street Woman Fighter Want",
+    "cardgroup": "Want",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5645,7 +5645,7 @@
 "SISFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew Simeez",
-    "cardgroup": "Street Woman Fighter LaChica",
+    "cardgroup": "LaChica",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5655,7 +5655,7 @@
 "PESFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew Peanut",
-    "cardgroup": "Street Woman Fighter LaChica",
+    "cardgroup": "LaChica",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5665,7 +5665,7 @@
 "HISFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew H_1",
-    "cardgroup": "Street Woman Fighter LaChica",
+    "cardgroup": "LaChica",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5675,7 +5675,7 @@
 "RISFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew Rian",
-    "cardgroup": "Street Woman Fighter LaChica",
+    "cardgroup": "LaChica",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -5685,7 +5685,7 @@
 "GASFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew Gabee",
-    "cardgroup": "Street Woman Fighter LaChica",
+    "cardgroup": "LaChica",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15006,7 +15006,7 @@
 "HZSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew Hertz",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15016,7 +15016,7 @@
 "TRSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew TARO",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15026,7 +15026,7 @@
 "JNSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew JANE",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15036,7 +15036,7 @@
 "EVSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew EEVEE",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15046,7 +15046,7 @@
 "MUSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew Mull",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15056,7 +15056,7 @@
 "HJSWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew Honey J",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15066,7 +15066,7 @@
 "LASWH5": [
   {
     "cardname": "★★★★★ Street Woman Fighter HolyBang Crew Lo-A",
-    "cardgroup": "Street Woman Fighter HolyBang",
+    "cardgroup": "HolyBang",
     "cardrarity": "5",
     "cardworth": "800", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15703,7 +15703,7 @@
     "cardname": "★★★★★ Patreon Custom Saerom & Seoyeon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/LMBMBeJ"
   }
 ],
 
