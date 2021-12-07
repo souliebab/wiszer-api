@@ -16933,5 +16933,14 @@
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+"FREEDJAEMIN": [
+{
+  "cardname":"<:STARDISAPPEARED:917656077254918194> NCT Jaemin (Freed Version)",
+  "cardgroup":"NCT",
+  "cardrarity": "∞",
+    "cardworth": "0", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
 ]
 }
