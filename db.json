@@ -17522,5 +17522,192 @@
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+"EUGF2": [
+  {
+    "cardname": "★★ GFriend Eunha",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SIGF2": [
+  {
+    "cardname": "★★ GFriend SinB",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SOGF2": [
+  {
+    "cardname": "★★ GFriend Sowon",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"UMGF2": [
+  {
+    "cardname": "★★ GFriend Umji",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YEGF2": [
+  {
+    "cardname": "★★ GFriend Yerin",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUGF2": [
+  {
+    "cardname": "★★ GFriend Yuju",
+    "cardgroup": "GFriend",
+    "cardrarity": "2",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"JHSH2": [
+  {
+    "cardname": "★★ SHINee Jonghyun",
+    "cardgroup": "SHINee",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KYSH2": [
+  {
+    "cardname": "★★ SHINee Key",
+    "cardgroup": "SHINee",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MHSH2": [
+  {
+    "cardname": "★★ SHINee Minho",
+    "cardgroup": "SHINee",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ONSH2": [
+  {
+    "cardname": "★★ SHINee Onew",
+    "cardgroup": "SHINee",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TMSH2": [
+  {
+    "cardname": "★★ SHINee Taemin",
+    "cardgroup": "SHINee",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"CHSK3": [
+  {
+    "cardname": "★★★ Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CBSK3": [
+  {
+    "cardname": "★★★ Stray Kids Changbin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"FESK3": [
+  {
+    "cardname": "★★★ Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HASK3": [
+  {
+    "cardname": "★★★ Stray Kids Han",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYSK3": [
+  {
+    "cardname": "★★★ Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"INSK3": [
+  {
+    "cardname": "★★★ Stray Kids I.N",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LKSK3": [
+  {
+    "cardname": "★★★ Stray Kids Lee Know",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SESK3": [
+  {
+    "cardname": "★★★ Stray Kids Seungmin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "3",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
