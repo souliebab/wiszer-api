@@ -1520,7 +1520,7 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"HYTO1": [
+"KHTO1": [
   {
     "cardname": "★ TO1 Kyungho",
     "cardgroup": "TO1",
@@ -1759,7 +1759,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"HYTO2": [
+"KHTO2": [
   {
     "cardname": "★★ TO1 Kyungho",
     "cardgroup": "TO1",
@@ -2481,7 +2481,7 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CHLO1": [
+"CRLO1": [
   {
     "cardname": "★ LOOΠΔ Choerry",
     "cardgroup": "LOONA",
@@ -2499,7 +2499,7 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CULO1": [
+"CHLO1": [
   {
     "cardname": "★ LOOΠΔ Chuu",
     "cardgroup": "LOONA",
@@ -2527,7 +2527,7 @@
   }
 ],
 
-"JKTU1": [
+"LJTU1": [
   {
     "cardname": "✰ True Beauty Lim Joogyung",
     "cardgroup": "True Beauty",
@@ -2717,7 +2717,7 @@
   }
 ],
 
-"JJSO2": [
+"JPSO2": [
   {
     "cardname": "★★ Soloist Jamie Park",
     "cardgroup": "Jamie Park",
@@ -2860,7 +2860,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CHLO2": [
+"CRLO2": [
   {
     "cardname": "★★ LOOΠΔ Choerry",
     "cardgroup": "LOONA",
@@ -2878,7 +2878,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CULO2": [
+"CHLO2": [
   {
     "cardname": "★★ LOOΠΔ Chuu",
     "cardgroup": "LOONA",
@@ -3129,7 +3129,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CHLO3": [
+"CRLO3": [
   {
     "cardname": "★★★ LOOΠΔ Choerry",
     "cardgroup": "LOONA",
@@ -3147,7 +3147,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CULO3": [
+"CHLO3": [
   {
     "cardname": "★★★ LOOΠΔ Chuu",
     "cardgroup": "LOONA",
@@ -5662,7 +5662,7 @@
   }
 ],
 
-"HISFL1": [
+"H1SFL1": [
   {
     "cardname": "★ Street Woman Fighter LaChica Crew H_1",
     "cardgroup": "LaChica",
@@ -7032,7 +7032,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"SUMI2": [
+"MIMI2": [
   {
     "cardname": "★★ MISS A Min",
     "cardgroup": "MISS A",
@@ -7176,7 +7176,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"SEEX2": [
+"SHEX2": [
   {
     "cardname": "★★ EXO Sehun",
     "cardgroup": "EXO",
@@ -7330,7 +7330,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"SEX12": [
+"SYX12": [
   {
     "cardname": "★★ X1 Seungyoun",
     "cardgroup": "X1",
@@ -7738,7 +7738,7 @@
   }
 ],
 
-"SH1T92": [
+"SE1T92": [
   {
     "cardname": "★★ 1THE9 Seunghwan",
     "cardgroup": "1THE9",
@@ -8499,7 +8499,7 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"GLGXW1": [
+"KLWXK1": [
   {
     "cardname": "★ Wooseok X Kuanlin Kuanlin",
     "cardgroup": "duo",
@@ -8509,7 +8509,7 @@
   }
 ],
 
-"WSGXW1": [
+"WSWXK1": [
   {
     "cardname": "★ Wooseok X Kuanlin Wooseok",
     "cardgroup": "duo",
@@ -8639,7 +8639,7 @@
   }
 ],
 
-"KOTS2": [
+"KDTS2": [
   {
     "cardname": "★★ TREASURE Kim Doyoung",
     "cardgroup": "TREASURE",
@@ -8758,7 +8758,7 @@
   }
 ],
 
-"KOTS1": [
+"KDTS1": [
   {
     "cardname": "★ TREASURE Kim Doyoung",
     "cardgroup": "TREASURE",
@@ -10004,7 +10004,7 @@
   }
 ],
 
-"KYSH1": [
+"KESH1": [
   {
     "cardname": "★ SHINee Key",
     "cardgroup": "SHINee",
@@ -10044,7 +10044,7 @@
   }
 ],
 
-"KYSH4": [
+"KESH4": [
   {
     "cardname": "★★★★ SHINee Key",
     "cardgroup": "SHINee",
@@ -10264,7 +10264,7 @@
   }
 ],
 
-"CHSK4": [
+"BCSK4": [
   {
     "cardname": "★★★★ Stray Kids Bang Chan",
     "cardgroup": "Stray Kids",
@@ -11444,7 +11444,7 @@
   }
 ],
 
-"KYSHWZ4": [
+"KESHWZ4": [
   {
     "cardname": "<:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857> SHINee Key",
     "cardgroup": "SHINee",
@@ -14209,7 +14209,7 @@
   }
 ], 
 
-"HYEI2": [
+"HNEI2": [
   {
     "cardname": "★★ EXID Hani",
     "cardgroup": "EXID",
@@ -14219,7 +14219,7 @@
   }
 ], 
 
-"HREI2": [
+"HLEI2": [
   {
     "cardname": "★★ EXID Hyerin",
     "cardgroup": "EXID",
@@ -15220,7 +15220,7 @@
   }
 ],
 
-"CHSKZ1": [
+"BCSKZ1": [
   {
     "cardname": "★ SKZOO Wolf Chan",
     "cardgroup": "SKZOO",
@@ -15283,7 +15283,7 @@
   }
 ],
 
-"CHSKBRT3": [
+"BCSKBRT3": [
   {
     "cardname": "★★★ Stray Kids Bang Chan (Beret)",
     "cardgroup": "Stray Kids",
@@ -15833,7 +15833,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CHLO4": [
+"CRLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Choerry",
     "cardgroup": "LOONA",
@@ -15851,7 +15851,7 @@
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CULO4": [
+"CHLO4": [
   {
     "cardname": "★★★★ LOOΠΔ Chuu",
     "cardgroup": "LOONA",
@@ -16704,7 +16704,7 @@
   }
 ],
 
-"KYSO4": [
+"KESO4": [
   {
     "cardname": "★★★★ Soloist Key",
     "cardgroup": "Key",
@@ -16864,7 +16864,7 @@
   }
 ], 
 
-"SEEX1": [
+"SHEX1": [
   {
     "cardname": "★ EXO Sehun",
     "cardgroup": "EXO",
@@ -17592,7 +17592,7 @@
   }
 ],
 
-"KYSH2": [
+"KESH2": [
   {
     "cardname": "★★ SHINee Key",
     "cardgroup": "SHINee",
@@ -17631,7 +17631,7 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"CHSK3": [
+"BCSK3": [
   {
     "cardname": "★★★ Stray Kids Bang Chan",
     "cardgroup": "Stray Kids",
