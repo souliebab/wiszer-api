@@ -19860,5 +19860,46 @@
     "cardrarity": "INFINITY",
     "cardimage": "https://cdn.discordapp.com/attachments/750695212518604882/935452415937900584/jyp.jpg"
   }
+],
+"MOMO": [
+  {
+    "cardname": "✧✧✧ Twice Momo Limited Card",
+    "cardgroup": "Twice",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"JUMIL": [
+  {
+    "cardname": "✧✧✧ The Boyz JUMIL Limited Card",
+    "cardgroup": "The Boyz",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"Q": [
+  {
+    "cardname": "✧✧✧ The Boyz Q Limited Card",
+    "cardgroup": "The Boyz",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"ISA": [
+  {
+    "cardname": "✧✧✧ Stayc Isa Limited Card",
+    "cardgroup": "Stayc",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"CHUU": [
+  {
+    "cardname": "✧✧✧ Loona Chuu Limited Card",
+    "cardgroup": "Twice",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
