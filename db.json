@@ -19901,5 +19901,24 @@
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+"JUYEON4": [
+  {
+    "cardname": "✧✧✧ Limited The Boyz Juyeon",
+    "cardgroup": "The Boyz",
+    "cardrarity": "4",
+    "cardworth": "60", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ERICSC1": [
+  {
+    "cardname": "✧ Limited Selca The Boyz Eric",
+    "cardgroup": "The Boyz",
+    "cardrarity": "1",
+    "cardworth": "60", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
