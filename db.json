@@ -19915,10 +19915,270 @@
 "ERICSC1": [
   {
     "cardname": "✧ Limited Selca The Boyz Eric",
-    "cardgroup": "The Boyz;TBZ",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+
+"Q": [
+  {
+    "cardname": "✧✧ Limited The Boyz Q Card",
+    "cardgroup": "The Boyz",
+    "cardrarity": "2",
+    "cardworth": "60", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DA2NVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> 2NE1 Dara",
+    "cardgroup": "2NE1",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"YUGIVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> (G)I-DLE Yuqi",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"TKBLVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Billlie Tsuki",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"RSBPVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> BLACKPINK Rosé",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"SUDCVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Dreamcatcher SuA",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"JHFRVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> fromis_9 Jiheon",
+    "cardgroup": "fromis_9",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUITVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+"WOIVEVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> IVE Wonyoung",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"MSK1VD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Kep1er Mashiro",
+    "cardgroup": "Kep1er",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CRLOVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> LOONA Choerry",
+    "cardgroup": "LOONA",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"IUSOVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist IU",
+    "cardgroup": "IU",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUSOVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist Yuri",
+    "cardgroup": "Yuri",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YOSTVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> STAYC Yoon",
+    "cardgroup": "STAYC",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JITWVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Twice Jihyo",
+    "cardgroup": "Twice",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"MIATVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> ATEEZ Mingi",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"JYCXVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> CIX Bae Jinyoung",
+    "cardgroup": "CIX",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"JUBTVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> BTS Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"MUEPVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> EPEX MU",
+    "cardgroup": "EPEX",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+ 
+"JYG7VD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> GOT7 Jinyoung",
+    "cardgroup": "GOT7",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+], 
+
+"TYN1VD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> NCT 127 Taeyong",
+    "cardgroup": "NCT",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JMNDVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> NCT Dream Jaemin",
+    "cardgroup": "NCT",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"JHSVVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> SEVENTEEN Jeonghan",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GDSOVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist G-Dragon",
+    "cardgroup": "G-Dragon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"HHSOVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist Hyunjun Hur",
+    "cardgroup": "Hyunjun Hur",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+
+"KAEXVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> EXO Kai",
+    "cardgroup": "EXO",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LKSKVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Stray Kids Lee Know",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+ 
+"ECTBVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> The Boyz Eric",
+    "cardgroup": "The Boyz",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NVXVD4": [
+  {
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> VIXX N",
+    "cardgroup": "VIXX",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
+
 }
