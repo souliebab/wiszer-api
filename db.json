@@ -20689,7 +20689,7 @@
 ],
 "CUPCAKKE": [
   {
-    "cardname": "✧✧✧ Soloist cupcakKe Limited Card",
+    "cardname": "✧✧✧✧ Soloist cupcakKe Limited Card",
     "cardgroup": "Soloist",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20703,18 +20703,18 @@
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"JUYDERMAN": [
+"SLENDERYEON": [
   {
-    "cardname": "✧✧✧ The Boyz Juyeon Slender Man Limited Card",
+    "cardname": "✧✧✧✧✧ The Boyz Juyeon Slender Man Limited Card",
     "cardgroup": "The Boyz",
-    "cardrarity": "3",
+    "cardrarity": "5",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
 "GOOFY": [
   {
-    "cardname": "✧✧✧ ????? ????? Limited Card",
-    "cardgroup": "?????",
+    "cardname": "✧✧✧✧ Twice Jihyo Limited Card",
+    "cardgroup": "Twice",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20723,6 +20723,14 @@
   {
     "cardname": "✧✧✧✧ The Boyz Kevin Limited Card",
     "cardgroup": "The Boyz",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"MITSKIISMYMOM": [
+  {
+    "cardname": "✧✧✧✧ Soloist Mitski Limited Card",
+    "cardgroup": "Soloist",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
