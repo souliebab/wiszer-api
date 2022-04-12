@@ -21976,5 +21976,84 @@
   "cardgroup": "The Boyz",
   "cardrarity": "4",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-}]
+}],
+"BCSK1": [
+  {
+    "cardname": "★ Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CBSK1": [
+  {
+    "cardname": "★ Stray Kids Changbin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"FESK1": [
+  {
+    "cardname": "★ Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HASK1": [
+  {
+    "cardname": "★ Stray Kids Han",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYSK1": [
+  {
+    "cardname": "★ Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"INSK1": [
+  {
+    "cardname": "★ Stray Kids I.N",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LKSK1": [
+  {
+    "cardname": "★ Stray Kids Lee Know",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SESK1": [
+  {
+    "cardname": "★ Stray Kids Seungmin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardworth": "370", 
+     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+]
 }
