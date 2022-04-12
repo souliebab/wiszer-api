@@ -21962,5 +21962,13 @@
   "cardgroup": "Jus2",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-}]
+}],
+"JJONG": [
+  {
+    "cardname": "✧✧✧✧✧ SHINee Jonghyun",
+    "cardgroup": "SHINee",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/B68PxII"
+  }
+]
 }
