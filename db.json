@@ -21970,5 +21970,11 @@
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/B68PxII"
   }
-]
+],
+"SUNWOO4": [{
+  "cardname": "✧✧✧✧ The Boyz Sunwoo Limited Card",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}],
 }
