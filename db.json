@@ -367,7 +367,7 @@
 "CHNUH2": [
   {
     "cardname": "★★ NCT U Chenle",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -377,7 +377,7 @@
 "DONUH2": [
   {
     "cardname": "★★ NCT U Doyoung",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -387,7 +387,7 @@
 "HANUH2": [
   {
     "cardname": "★★ NCT U Haechan",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -397,7 +397,7 @@
 "KUNUH2": [
   {
     "cardname": "★★ NCT U Kun",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -407,7 +407,7 @@
 "RJNUH2": [
   {
     "cardname": "★★ NCT U Renjun",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -417,7 +417,7 @@
 "TENUH2": [
   {
     "cardname": "★★ NCT U Taeil",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -427,7 +427,7 @@
 "YUNUH2": [
   {
     "cardname": "★★ NCT U Yuta",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1151,7 +1151,7 @@
 "BOTB1": [
   {
     "cardname": "★ WJSN THE BLACK Bona",
-    "cardgroup": "WJSN THE BLACK",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1161,7 +1161,7 @@
 "EUTB1": [
   {
     "cardname": "★ WJSN THE BLACK Eunseo",
-    "cardgroup": "WJSN THE BLACK",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1171,7 +1171,7 @@
 "EXTB1": [
   {
     "cardname": "★ WJSN THE BLACK EXY",
-    "cardgroup": "WJSN THE BLACK",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1181,7 +1181,7 @@
 "SETB1": [
   {
     "cardname": "★ WJSN THE BLACK Seola",
-    "cardgroup": "WJSN THE BLACK",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1436,7 +1436,7 @@
 "HSCHND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Chenle",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1446,7 +1446,7 @@
 "HSHCND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Haechan",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1456,7 +1456,7 @@
 "HSJEND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Jaemin",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1466,7 +1466,7 @@
 "HSJOND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Jeno",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1476,7 +1476,7 @@
 "HSJSND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Jisung",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1486,7 +1486,7 @@
 "HSMAND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Mark",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1496,7 +1496,7 @@
 "HSRJND4": [
   {
     "cardname": "<:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801><:HSR4:860043939712204801> NCT Dream Renjun",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1596,7 +1596,7 @@
 "CYCH1": [
   {
     "cardname": "✰ Color Rush Choi Yeonwoo",
-    "cardgroup": "Color Rush",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1606,7 +1606,7 @@
 "GYCH1": [
   {
     "cardname": "✰ Color Rush Go Yoohan",
-    "cardgroup": "Color Rush",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1835,7 +1835,7 @@
 "BGEY1": [
   {
     "cardname": "✰ Extraordinary You Baek Gyung",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1845,7 +1845,7 @@
 "EDEY1": [
   {
     "cardname": "✰ Extraordinary You Eun Danoh",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1855,7 +1855,7 @@
 "HREY1": [
   {
     "cardname": "✰ Extraordinary You Haru",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1865,7 +1865,7 @@
 "JMEY1": [
   {
     "cardname": "✰ Extraordinary You Jin Michae",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1875,7 +1875,7 @@
 "LDEY1": [
   {
     "cardname": "✰ Extraordinary You Lee Dohwa",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1885,7 +1885,7 @@
 "ONEY1": [
   {
     "cardname": "✰ Extraordinary You Oh Namjoo",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1895,7 +1895,7 @@
 "YJEY1": [
   {
     "cardname": "✰ Extraordinary You Yeo Jooda",
-    "cardgroup": "Extraordinary You",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1905,7 +1905,7 @@
 "AJFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Ai Jia",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1915,7 +1915,7 @@
 "CJFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Chen Jin Yang",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1925,7 +1925,7 @@
 "JYFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Jian Yang",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1935,7 +1935,7 @@
 "LHFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Lee Kunhyeok",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1945,7 +1945,7 @@
 "LKFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Lao K",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1955,7 +1955,7 @@
 "LMFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Lao Mao",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1965,7 +1965,7 @@
 "LYFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Lu Yue",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1975,7 +1975,7 @@
 "TYFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Tong Yao",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1986,7 +1986,7 @@
 "XPFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Xiao Pang",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1996,7 +1996,7 @@
 "XRFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Xiao Rui",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2006,7 +2006,7 @@
 "YMFS1": [
   {
     "cardname": "✰ Falling Into Your Smile Yu Ming",
-    "cardgroup": "Falling Into Your Smile",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2016,7 +2016,7 @@
 "LSFS1": [
     {
       "cardname": "✰ Falling Into Your Smile Lu Si Cheng",
-      "cardgroup": "Falling Into Your Smile",
+      "cardgroup": "Drama",
       "cardrarity": "1",
     "cardworth": "35",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2026,7 +2026,7 @@
 "CHND1": [
   {
     "cardname": "★ NCT Dream Chenle",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2035,7 +2035,7 @@
 "HCND1": [
   {
     "cardname": "★ NCT Dream Haechan",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2044,7 +2044,7 @@
 "JEND1": [
   {
     "cardname": "★ NCT Dream Jaemin",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2053,7 +2053,7 @@
 "JOND1": [
   {
     "cardname": "★ NCT Dream Jeno",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2062,7 +2062,7 @@
 "JSND1": [
   {
     "cardname": "★ NCT Dream Jisung",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2071,7 +2071,7 @@
 "MAND1": [
   {
     "cardname": "★ NCT Dream Mark",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2080,7 +2080,7 @@
 "RJND1": [
   {
     "cardname": "★ NCT Dream Renjun",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2090,7 +2090,7 @@
 "DOLM1": [
   {
     "cardname": "✰ Light On Me Shin Da On",
-    "cardgroup": "Light On Me",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2100,7 +2100,7 @@
 "NGLM1": [
   {
     "cardname": "✰ Light On Me Nam Goong",
-    "cardgroup": "Light On Me",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2110,7 +2110,7 @@
 "SHLM1": [
   {
     "cardname": "✰ Light On Me Lee So Hee",
-    "cardgroup": "Light On Me",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2120,7 +2120,7 @@
 "SWLM1": [
   {
     "cardname": "✰ Light On Me Noh Shin Woo",
-    "cardgroup": "Light On Me",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2130,7 +2130,7 @@
 "TKLM1": [
   {
     "cardname": "✰ Light On Me Woo Tae Kyung",
-    "cardgroup": "Light On Me",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2139,7 +2139,7 @@
 "CHND2": [
   {
     "cardname": "★★ NCT Dream Chenle",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2148,7 +2148,7 @@
 "HCND2": [
   {
     "cardname": "★★ NCT Dream Haechan",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2157,7 +2157,7 @@
 "JEND2": [
   {
     "cardname": "★★ NCT Dream Jaemin",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2166,7 +2166,7 @@
 "JOND2": [
   {
     "cardname": "★★ NCT Dream Jeno",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2175,7 +2175,7 @@
 "JSND2": [
   {
     "cardname": "★★ NCT Dream Jisung",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2184,7 +2184,7 @@
 "MAND2": [
   {
     "cardname": "★★ NCT Dream Mark",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2193,7 +2193,7 @@
 "RJND2": [
   {
     "cardname": "★★ NCT Dream Renjun",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2203,7 +2203,7 @@
 "ARLR1": [
   {
     "cardname": "✰ Love Revolution Oh Ah Ram",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2213,7 +2213,7 @@
 "BHLR1": [
   {
     "cardname": "✰ Love Revolution Kim Byung Hoon",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2223,7 +2223,7 @@
 "JRLR1": [
   {
     "cardname": "✰ Love Revolution Wang Ja Rim",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2233,7 +2233,7 @@
 "JYLR1": [
   {
     "cardname": "✰ Love Revolution Gong Joo Young",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2243,7 +2243,7 @@
 "KWLR1": [
   {
     "cardname": "✰ Love Revolution Lee Kyung Woo",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2253,7 +2253,7 @@
 "KYLR1": [
   {
     "cardname": "✰ Love Revolution Ahn Kyung Min",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2263,7 +2263,7 @@
 "MJLR1": [
   {
     "cardname": "✰ Love Revolution Yang Min Ji",
-    "cardgroup": "Love Revolution",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2308,7 +2308,7 @@
 "KLOC1": [
   {
     "cardname": "★ LOOΠΔ ODD EYE CIRCLE Kim Lip",
-    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2317,7 +2317,7 @@
 "JIOC1": [
   {
     "cardname": "★ LOOΠΔ ODD EYE CIRCLE Jinsoul",
-    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2326,7 +2326,7 @@
 "CHOC1": [
   {
     "cardname": "★ LOOΠΔ ODD EYE CIRCLE Choerry",
-    "cardgroup": "LOONA ODD EYE CIRCLE",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2335,7 +2335,7 @@
 "YVYX1": [
   {
     "cardname": "★ LOOΠΔ YYXY Yves",
-    "cardgroup": "LOONA YYXY",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2344,7 +2344,7 @@
 "CHYX1": [
   {
     "cardname": "★ LOOΠΔ YYXY Chuu",
-    "cardgroup": "LOONA YYXY",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2353,7 +2353,7 @@
 "GOYX1": [
   {
     "cardname": "★ LOOΠΔ YYXY Gowon",
-    "cardgroup": "LOONA YYXY",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2362,7 +2362,7 @@
 "OHYX1": [
   {
     "cardname": "★ LOOΠΔ YYXY Olivia Hye",
-    "cardgroup": "LOONA YYXY",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2371,7 +2371,7 @@
 "CWTSB1": [
   {
     "cardname": "✰ The Sweet Blood Yoon Chi Woo",
-    "cardgroup": "The Sweet Blood",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2381,7 +2381,7 @@
 "HJTSB1": [
   {
     "cardname": "✰ The Sweet Blood Do Hyun Je",
-    "cardgroup": "The Sweet Blood",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2391,7 +2391,7 @@
 "MRTSB1": [
   {
     "cardname": "✰ The Sweet Blood Song Meo Ru",
-    "cardgroup": "The Sweet Blood",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2401,7 +2401,7 @@
 "SJTSB1": [
   {
     "cardname": "✰ The Sweet Blood Kim Su Jeong",
-    "cardgroup": "The Sweet Blood",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2411,7 +2411,7 @@
 "YSTSB1": [
   {
     "cardname": "✰ The Sweet Blood Son Yeon Seo",
-    "cardgroup": "The Sweet Blood",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2530,7 +2530,7 @@
 "LJTU1": [
   {
     "cardname": "✰ True Beauty Lim Joogyung",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2540,7 +2540,7 @@
 "SATU1": [
   {
     "cardname": "✰ True Beauty Choi Sooah",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2550,7 +2550,7 @@
 "SETU1": [
   {
     "cardname": "✰ True Beauty Han Seojun",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2560,7 +2560,7 @@
 "SHTU1": [
   {
     "cardname": "✰ True Beauty Lee Suho",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2570,7 +2570,7 @@
 "SOTU1": [
   {
     "cardname": "✰ True Beauty Kang Soojin",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2580,7 +2580,7 @@
 "SYTU1": [
   {
     "cardname": "✰ True Beauty Jeong Seyeon",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2590,7 +2590,7 @@
 "THTU1": [
   {
     "cardname": "✰ True Beauty Yoo Taehoon",
-    "cardgroup": "True Beauty",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6776,7 +6776,7 @@
 "EUPV1": [
   {
     "cardname": "★ Pristin V Eunwoo",
-    "cardgroup": "Pristin V",
+    "cardgroup": "Pristin",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6786,7 +6786,7 @@
 "KYPV1": [
   {
     "cardname": "★ Pristin V Kyulkyung",
-    "cardgroup": "Pristin V",
+    "cardgroup": "Pristin",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6797,7 +6797,7 @@
 "NAPV1": [
   {
     "cardname": "★ Pristin V Nayoung",
-    "cardgroup": "Pristin V",
+    "cardgroup": "Pristin",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6807,7 +6807,7 @@
 "REPV1": [
   {
     "cardname": "★ Pristin V Rena",
-    "cardgroup": "Pristin V",
+    "cardgroup": "Pristin",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6817,7 +6817,7 @@
 "ROPV1": [
   {
     "cardname": "★ Pristin V Roa",
-    "cardgroup": "Pristin V",
+    "cardgroup": "Pristin",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6954,7 +6954,7 @@
 "HENUW2": [
   {
     "cardname": "★★ NCT U Hendery",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6963,7 +6963,7 @@
 "JANUW2": [
   {
     "cardname": "★★ NCT U Jaemin",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6972,7 +6972,7 @@
 "JINUW2": [
   {
     "cardname": "★★ NCT U Jisung",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6981,7 +6981,7 @@
 "JONUW2": [
   {
     "cardname": "★★ NCT U Johnny",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6990,7 +6990,7 @@
 "JUNUW2": [
   {
     "cardname": "★★ NCT U Jungwoo",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -6999,7 +6999,7 @@
 "TENUW2": [
   {
     "cardname": "★★ NCT U Ten",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -7008,7 +7008,7 @@
 "YUNUW2": [
   {
     "cardname": "★★ NCT U Yuta",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -7369,7 +7369,7 @@
 "DACH2": [
   {
     "cardname": "★★ WJSN CHOCOME Dayoung",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -7378,7 +7378,7 @@
 "LUCH2": [
   {
     "cardname": "★★ WJSN CHOCOME Luda",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -7387,7 +7387,7 @@
 "SOCH2": [
   {
     "cardname": "★★ WJSN CHOCOME Soobin",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -7396,7 +7396,7 @@
 "YECH2": [
   {
     "cardname": "★★ WJSN CHOCOME Yeoreum",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8522,7 +8522,7 @@
 "HYHXD1": [
   {
     "cardname": "★ Hyolyn X Dasom Hyolyn",
-    "cardgroup": "duo",
+    "cardgroup": "Sistar",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8532,7 +8532,7 @@
 "DSHXD1": [
   {
     "cardname": "★ Hyolyn X Dasom Dasom",
-    "cardgroup": "duo",
+    "cardgroup": "Sistar",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8542,7 +8542,7 @@
 "KTJB91": [
   {
     "cardname": "★ JBJ95 Kenta",
-    "cardgroup": "duo",
+    "cardgroup": "JBJ",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8552,7 +8552,7 @@
 "SGJB91": [
   {
     "cardname": "★ JBJ95 Sanggyun",
-    "cardgroup": "duo",
+    "cardgroup": "JBJ",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8562,7 +8562,7 @@
 "MOMXS1": [
   {
     "cardname": "★ Moonbin X Sanha Moonbin",
-    "cardgroup": "duo",
+    "cardgroup": "ASTRO",
     "cardrarity": "1",
     "cardworth": "35", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -8572,7 +8572,7 @@
 "SHMXS1": [
   {
     "cardname": "★ Moonbin X Sanha Sanha",
-    "cardgroup": "duo",
+    "cardgroup": "ASTRO",
     "cardrarity": "1",
     "cardworth": "35", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9086,7 +9086,7 @@
 "CSB4U2": [
   {
     "cardname": "★★ BTOB 4U Changsub",
-    "cardgroup": "BTOB 4U",
+    "cardgroup": "BTOB",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9096,7 +9096,7 @@
 "EKB4U2": [
   {
     "cardname": "★★ BTOB 4U Eunkwang",
-    "cardgroup": "BTOB 4U",
+    "cardgroup": "BTOB",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9106,7 +9106,7 @@
 "MYB4U2": [
   {
     "cardname": "★★ BTOB 4U Minhyuk",
-    "cardgroup": "BTOB 4U",
+    "cardgroup": "BTOB",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9116,7 +9116,7 @@
 "PNB4U2": [
   {
     "cardname": "★★ BTOB 4U Peniel",
-    "cardgroup": "BTOB 4U",
+    "cardgroup": "BTOB",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9186,7 +9186,7 @@
 "DON12": [
   {
     "cardname": "★★ NCT 127 Doyoung",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9196,7 +9196,7 @@
 "HAN12": [
   {
     "cardname": "★★ NCT 127 Haechan",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9206,7 +9206,7 @@
 "JEN12": [
   {
     "cardname": "★★ NCT 127 Jaehyun",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9216,7 +9216,7 @@
 "JON12": [
   {
     "cardname": "★★ NCT 127 Johnny",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9226,7 +9226,7 @@
 "JUN12": [
   {
     "cardname": "★★ NCT 127 Jungwoo",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9236,7 +9236,7 @@
 "MAN12": [
   {
     "cardname": "★★ NCT 127 Mark",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9246,7 +9246,7 @@
 "TAN12": [
   {
     "cardname": "★★ NCT 127 Taeyong",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9256,7 +9256,7 @@
 "TEN12": [
   {
     "cardname": "★★ NCT 127 Taeil",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9266,7 +9266,7 @@
 "YUN12": [
   {
     "cardname": "★★ NCT 127 Yuta",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9276,7 +9276,7 @@
 "DON1273": [
   {
     "cardname": "★★★ NCT 127 Doyoung",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9286,7 +9286,7 @@
 "HAN1273": [
   {
     "cardname": "★★★ NCT 127 Haechan",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9296,7 +9296,7 @@
 "JEN1273": [
   {
     "cardname": "★★★ NCT 127 Jaehyun",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9306,7 +9306,7 @@
 "JON1273": [
   {
     "cardname": "★★★ NCT 127 Johnny",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9316,7 +9316,7 @@
 "JUN1273": [
   {
     "cardname": "★★★ NCT 127 Jungwoo",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9326,7 +9326,7 @@
 "MAN1273": [
   {
     "cardname": "★★★ NCT 127 Mark",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9336,7 +9336,7 @@
 "TAN1273": [
   {
     "cardname": "★★★ NCT 127 Taeyong",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9346,7 +9346,7 @@
 "TEN1273": [
   {
     "cardname": "★★★ NCT 127 Taeil",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -9356,7 +9356,7 @@
 "YUN1273": [
   {
     "cardname": "★★★ NCT 127 Yuta",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "3",
     "cardworth": "125", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10567,7 +10567,7 @@
 "KNPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Kino",
-    "cardgroup": "PENTAGON (CERBERUS)",
+    "cardgroup": "Pentagon",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10577,7 +10577,7 @@
 "WSPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Wooseok",
-    "cardgroup": "PENTAGON (CERBERUS)",
+    "cardgroup": "Pentagon",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10587,7 +10587,7 @@
 "YUPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Yuto",
-    "cardgroup": "PENTAGON (CERBERUS)",
+    "cardgroup": "Pentagon",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10987,7 +10987,7 @@
 "DOBD": [
   {
     "cardname": "<a:skypecake:888560707291992094> NCT 127 Doyoung",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10997,7 +10997,7 @@
 "YUBD": [
   {
     "cardname": "<a:skypecake:888560707291992094> NCT 127 Yuta",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12726,7 +12726,7 @@
 "JESM4": [
   {
     "cardname": "<:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479><:abeachball:857119581516988479> Summer NCT 127 Jaehyun",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14582,7 +14582,7 @@
 "TYGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Taeyeon",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14592,7 +14592,7 @@
 "SNGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Sunny",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14602,7 +14602,7 @@
 "TFGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Tiffany",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14612,7 +14612,7 @@
 "HYGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Hyoyeon",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14622,7 +14622,7 @@
 "YUGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Yuri",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14632,7 +14632,7 @@
 "SYGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Sooyoung",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14642,7 +14642,7 @@
 "YOGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Yoona",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -14652,7 +14652,7 @@
 "SHGG2": [
   {
     "cardname": "★★ GIRLS GENERATION Seohyun",
-    "cardgroup": "GIRLS GENERATION",
+    "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15358,7 +15358,7 @@
 "JCC": [
   {
     "cardname": "★★★★★ Patreon Custom Johnny",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/rQoxnCU.mp4"
   }
@@ -15403,7 +15403,7 @@
 "NCTZONE": [
   {
     "cardname": "★★★★★ Patreon Custom Taeyong & Jungwoo",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/gZ6PZpm.mp4"
   }
@@ -15520,7 +15520,7 @@
 "LUNUMW5": [
   {
     "cardname": "★★★★★ NCT U Lucas",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/hW63eh1.mp4"
   }
@@ -15529,7 +15529,7 @@
 "TYNUMW5": [
   {
     "cardname": "★★★★★ NCT U Taeyong",
-    "cardgroup": "NCT U",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/EypkQdx.mp4"
   }
@@ -16689,7 +16689,7 @@
 "DPRISO4": [
   {
     "cardname": "★★★★ Soloist DPR IAN",
-    "cardgroup": "DPR",
+    "cardgroup": "DPR IAN",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16698,7 +16698,7 @@
 "DPRLSO4": [
   {
     "cardname": "★★★★ Soloist DPR Live",
-    "cardgroup": "DPR",
+    "cardgroup": "DPR LIVE",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16875,7 +16875,7 @@
 "HDWV1": [
   {
     "cardname": "★ WayV Hendery",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16884,7 +16884,7 @@
 "LUWV1": [
   {
     "cardname": "★ WayV Lucas",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16893,7 +16893,7 @@
 "TEWV1": [
   {
     "cardname": "★ WayV Ten",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16902,7 +16902,7 @@
 "XJWV1": [
   {
     "cardname": "★ WayV Xiaojun",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16911,7 +16911,7 @@
 "YYWV1": [
   {
     "cardname": "★ WayV YangYang",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16920,7 +16920,7 @@
 "WWWV1": [
   {
     "cardname": "★ WayV Winwin",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16929,7 +16929,7 @@
 "KUWV1": [
   {
     "cardname": "★ WayV Kun",
-    "cardgroup": "WayV",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20610,7 +20610,7 @@
 "JEN11": [
   {
     "cardname": "★ NCT 127 Jaehyun",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20619,7 +20619,7 @@
 "YUN11": [
   {
     "cardname": "★ NCT 127 Yuta",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20628,7 +20628,7 @@
 "TEN11": [
   {
     "cardname": "★ NCT 127 Taeil",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20637,7 +20637,7 @@
 "TAN11": [
   {
     "cardname": "★ NCT 127 Taeyong",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20646,7 +20646,7 @@
 "DON11": [
   {
     "cardname": "★ NCT 127 Doyoung",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20655,7 +20655,7 @@
 "HAN11": [
   {
     "cardname": "★ NCT 127 Haechan",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20664,7 +20664,7 @@
 "JON11": [
   {
     "cardname": "★ NCT 127 Johnny",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20673,7 +20673,7 @@
 "MAN11": [
   {
     "cardname": "★ NCT 127 Mark",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20682,7 +20682,7 @@
 "WWN11": [
   {
     "cardname": "★ NCT 127 Winwin",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20820,7 +20820,7 @@
 "DACH3": [
   {
     "cardname": "★★★ WJSN CHOCOME Dayoung",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "3",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20829,7 +20829,7 @@
 "LUCH3": [
   {
     "cardname": "★★★ WJSN CHOCOME Luda",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "3",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20838,7 +20838,7 @@
 "SOCH3": [
   {
     "cardname": "★★★ WJSN CHOCOME Soobin",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "3",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20847,7 +20847,7 @@
 "YECH3": [
   {
     "cardname": "★★★ WJSN CHOCOME Yeoreum",
-    "cardgroup": "WJSN CHOCOME",
+    "cardgroup": "WJSN",
     "cardrarity": "3",
     "cardworth": "60", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
