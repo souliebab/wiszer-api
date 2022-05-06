@@ -23106,5 +23106,21 @@
     "cardworth": "35",
     "cardimage": "https://imgur.com/a/cSwdFPu"
   }
+],
+"NEW4": [
+  {
+    "cardname": "✧✧✧✧ The Boyz Chanhee Limited Card",
+    "cardgroup": "The Boyz",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"ZICO4": [
+  {
+    "cardname": "✧✧✧✧ Soloist Zico Limited Card",
+    "cardgroup": "Zico",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/WWrbJng"
+  }
 ]
 }
