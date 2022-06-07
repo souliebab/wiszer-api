@@ -2620,8 +2620,8 @@
 
 "HSSO1": [
   {
-    "cardname": "★ Soloist Han Seungwoo",
-    "cardgroup": "Han Seungwoo",
+    "cardname": "★ Soloist Seungwoo",
+    "cardgroup": "Seungwoo",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -16614,8 +16614,8 @@
 
 "HHSO2": [
   {
-    "cardname": "★★ Soloist Hyunjun Hur",
-    "cardgroup": "Hyunjun Hur",
+    "cardname": "★★ Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16962,8 +16962,8 @@
 ],
 "BLER1": [
   {
-    "cardname": "★ ELRIS Bella",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Do-A",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16971,8 +16971,8 @@
 
 "HSER1": [
   {
-    "cardname": "★ ELRIS Hyeseong",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Yeonje",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16980,8 +16980,8 @@
 
 "YYER1": [
   {
-    "cardname": "★ ELRIS Yukyung",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Yukyung",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16989,8 +16989,8 @@
 
 "SHER1": [
   {
-    "cardname": "★ ELRIS Sohee",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Sohee",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -16998,8 +16998,8 @@
 
 "KRER1": [
   {
-    "cardname": "★ ELRIS Karin",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Karin",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -17007,8 +17007,8 @@
 
 "EJER1": [
   {
-    "cardname": "★ ELRIS EJ",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE EJ",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -17016,8 +17016,8 @@
 
 "CJER1": [
   {
-    "cardname": "★ ELRIS Chaejeong",
-    "cardgroup": "ELRIS",
+    "cardname": "★ ALICE Chaejeong",
+    "cardgroup": "ALICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21761,8 +21761,8 @@
 }],
 
 "JWSO3": [{
-  "cardname": "★★★ Soloist Jackson Wang",
-  "cardgroup": "Jackson Wang",
+  "cardname": "★★★ Soloist Jackson",
+  "cardgroup": "Jackson",
   "cardrarity": "3",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }],
@@ -24593,6 +24593,22 @@
     "cardgroup": "TRI.BE",
     "cardrarity": "4",
     "cardworth": "125",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"FULLSUNDAY": [
+  {
+    "cardname": "✧✧✧✧ Limited NCT Haechan",
+    "cardgroup": "NCT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/L0wtZve"
+  }
+],
+"JACOB4": [
+  {
+    "cardname": "✧✧✧✧ Limited The Boyz Jacob",
+    "cardgroup": "The Boyz",
+    "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
