@@ -24611,5 +24611,712 @@
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+"LUCAS": [
+  {
+    "cardname": "✬✬ NCT Lucas",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"THEO": [
+  {
+    "cardname": "✬✬ P1Harmony Theo",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ILOVEDARONG": [
+  {
+    "cardname": "✬✬✬✬ The Boyz Hyunjae",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYVIEW": [
+  {
+    "cardname": "✬ ATEEZ Seonghwa",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"VIBE": [
+  {
+    "cardname": "✬ ATEEZ Hongjoong",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BABE": [
+  {
+    "cardname": "✬ NCT Ten",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DISSONANCE": [
+  {
+    "cardname": "✬ Soloist Mudd the student",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SUNGLASSES": [
+  {
+    "cardname": "✬✬✬ Soloist Big Naughty",
+    "cardgroup": "Patreon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"STARS": [
+  {
+    "cardname": "✬ Soloist BE'O",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BLUELIX": [
+  {
+    "cardname": "✬ Stray Kids Felix",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JENDEUK": [
+  {
+    "cardname": "✬ BLACKPINK Jennie",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JE1OVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Omega X Jehyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LSBPVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> BLACKPINK Lisa",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"FESKVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Felix",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHN1VD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> NCT 127 Jaehyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"KAAEVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Karina",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WIAEVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Winter",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KHOWVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ONEWE Kanghyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CBSKVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Changbin",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HOATVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ATEEZ Hongjoong",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JICHU": [
+  {
+    "cardname": "✬ BLACKPINK Jisoo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CROCODILERINA": [
+  {
+    "cardname": "✬ aespa Karina",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LOML2": [
+  {
+    "cardname": "✬ TWICE Jeongyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NOJAMBROS": [
+  {
+    "cardname": "✬ TWICE Chaeyoung and Jeongyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ROOMMATES": [
+  {
+    "cardname": "✬ TWICE Jeongyeon and Momo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHESMYJOY": [
+  {
+    "cardname": "✬ Red Velvet Joy",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+
+"ESPER": [
+  {
+    "cardname": "✬ Soloist Eunbi",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHODIB": [
+  {
+    "cardname": "✬ (G)I-DLE Miyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DDEUKIE": [
+  {
+    "cardname": "✬ BLACKPINK Jennie",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHICHU": [
+  {
+    "cardname": "✬ BLACKPINK Jisoo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"WINDY": [
+  {
+    "cardname": "✬ (G)I-DLE Soyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LALA": [
+  {
+    "cardname": "✬ BLACKPINK Lisa",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ROSEANNE": [
+  {
+    "cardname": "✬ BLACKPINK Rosé",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHAELISA": [
+  {
+    "cardname": "✬ BLACKPINK Lisa and Rosé",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ZALINIE": [
+  {
+    "cardname": "✬ Want Rozalin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JIHYE": [
+  {
+    "cardname": "✬ WAYB NO:ZE",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHAEWON": [
+  {
+    "cardname": "✬ IZ*ONE Chaewon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WINTER": [
+  {
+    "cardname": "✬ aespa Winter",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SOFT": [
+  {
+    "cardname": "✰ Kim Ji Woong & Yoon Seo Bin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEOJOON": [
+  {
+    "cardname": "✰ Park Seo Joon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WOOBIN": [
+  {
+    "cardname": "✰ Kim Woo Bin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MINHO": [
+  {
+    "cardname": "✰ Lee Min Ho",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYUNGSIK": [
+  {
+    "cardname": "✰ Park Hyung Sik",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JOOHYUK": [
+  {
+    "cardname": "✰ Nam Joo Hyuk",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"FELIX": [
+  {
+    "cardname": "✬ Stray Kids Felix",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYUNJIN": [
+  {
+    "cardname": "✬ Stray Kids Hyunjin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HAN": [
+  {
+    "cardname": "✬ Stray Kids Han",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YJEONGIN": [
+  {
+    "cardname": "✬ Stray Kids I.N",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"SEHSC1": [
+  {
+    "cardname": "✦ Patreon Selca CIX Seunghun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GAYMNSNG": [
+  {
+    "cardname": "✬ Stray Kids Lee Know & Han",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JJASPJ1": [
+  {
+    "cardname": "✬ ASTRO JinJin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WOATPJ1": [
+  {
+    "cardname": "✬ ATEEZ Wooyoung",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JMNDPJ1": [
+  {
+    "cardname": "✬ NCT Dream Jaemin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"T8SVPJ1": [
+  {
+    "cardname": "✬ SEVENTEEN The8",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RAVN": [
+  {
+    "cardname": "✬ ONEUS Ravn",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEOHO": [
+  {
+    "cardname": "✬ ONEUS Seoho",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LEEDO": [
+  {
+    "cardname": "✬ ONEUS Leedo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KEONHEE": [
+  {
+    "cardname": "✬ ONEUS Keonhee",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"XION": [
+  {
+    "cardname": "✬ ONEUS Xion",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ERICNAM": [
+  {
+    "cardname": "✬✬ Soloist Eric Nam",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HTTYD": [
+  {
+    "cardname": "✬✬ ATEEZ Seonghwa",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SSETNETOT": [
+  {
+    "cardname": "✬✬ ATEEZ Seonghwa",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PICASSO": [
+  {
+    "cardname": "✬✬ ENHYPEN Ni-Ki",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SFTAST": [
+  {
+    "cardname": "✬✬ ENHYPEN Ni-Ki",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PEACHES": [
+  {
+    "cardname": "✬✬ Soloist Kai",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"HOTSTUFF": [
+  {
+    "cardname": "✬ GOT7 Jinyoung",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ALLNIGHTCHA": [
+  {
+    "cardname": "✬ ASTRO Cha Eunwoo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MXSBADIDEA": [
+  {
+    "cardname": "✬ ASTRO Moonbin x Sanha",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SPRINGJINYOUNG": [
+  {
+    "cardname": "✬ CIX Bae Jinyoung",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"INNIE": [
+  {
+    "cardname": "✬✬ Stray Kids I.N",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LUCASDAY": [
+  {
+    "cardname": "<a:skypecake:888560707291992094> NCT Lucas",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WNTTAK": [
+  {
+    "cardname": "✬✬ The Boyz Kevin",
+    "cardgroup": "Patreon",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DACAPO": [
+  {
+    "cardname": "✬ BDC Seongjun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYUCK": [
+  {
+    "cardname": "✬ NCT Haechan",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHPTCB1": [
+  {
+    "cardname": "✬ Catboy Jinho",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHSHCB1": [
+  {
+    "cardname": "✬ Catboy Jonghyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BKEXCB1": [
+  {
+    "cardname": "✬ Catboy Baekhyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JSNCCB1": [
+  {
+    "cardname": "✬ Catboy Jisung",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MONDAY": [
+  {
+    "cardname": "✦ Patreon Selca Denz",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
