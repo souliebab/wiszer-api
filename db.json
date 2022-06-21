@@ -25318,5 +25318,573 @@
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+"WZSO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist WOODZ",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Kk7mYTK"
+  }
+],
+
+"IUSO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist IU",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/7lyw67A"
+  }
+],
+
+"BASO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist BoA",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/w5nkwVX"
+  }
+],
+
+"YESO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist Yerin",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/ZEiVX9Y"
+  }
+],
+
+"YUSO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist Yuju",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/vzJJgfQ"
+  }
+],
+
+"DWSO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist DAWN",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/0RgOaOc"
+  }
+],
+
+"ZCSO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Soloist Zico",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/unnZb5T"
+  }
+],
+
+"SJVC1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> VICTON Sejun",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/UXkWpGY"
+  }
+],
+"SCNCT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> NCT Sungchan",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/4Jnu4sP"
+  }
+],
+
+"JSNCT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> NCT Jisung",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/csGtPEI"
+  }
+],
+
+"JENCT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> NCT Jeno",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Z9XBOyu"
+  }
+],
+
+"RJNCT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> NCT Renjun",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/2N0s69C"
+  }
+],
+
+"INSK1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Stray Kids I.N",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/1HhFMJh"
+  }
+],
+
+"FESK1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Stray Kids Felix",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/yG9EJZF"
+  }
+],
+
+"HYSK1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Stray Kids Hyunjin",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/TYkx7Rg"
+  }
+],
+
+"BCSK1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Stray Kids Bang Chan",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/vmVCwII"
+  }
+],
+"EUWJ1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> WJSN Eunseo",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/IzXEfwg"
+  }
+],
+
+"MQWJ1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> WJSN Mei Qi",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/PKfQm3q"
+  }
+],
+
+"XYWJ1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> WJSN Xuan Yi",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/WVqFSU0"
+  }
+],
+
+"HKTX1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TXT Huening Kai",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/fNPEdzX"
+  }
+],
+
+"SOTX1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TXT Soobin",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/o26i076"
+  }
+],
+
+"KDTS1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TREASURE Doyoung",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/cBEVTFa"
+  }
+],
+
+"CHTS1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TREASURE Choi Hyunsuk",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/gp3qUP6"
+  }
+],
+
+"JITS1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TREASURE Jihoon",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/NRGjHyZ"
+  }
+],
+"LEOT91Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Leo",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/SCA3La7"
+  }
+],
+
+"NOAT91Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Noa",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/4mdSJGd"
+  }
+],
+
+"SNT91Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Sian",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/sflPoQ2"
+  }
+],
+
+"NKEN1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ENHYPEN Ni-Ki",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/UrMKq9Y"
+  }
+],
+
+"JYEN1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ENHYPEN Jay",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/KB7C3g6"
+  }
+],
+
+"SNEN1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ENHYPEN Sunoo",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Zuaypek"
+  }
+],
+
+"SWTB1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> The Boyz Sunwoo",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/ytBYY87"
+  }
+],
+
+"JKTB1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> The Boyz Juhaknyeon",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/782xZT0"
+  }
+],
+"WOAT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ATEEZ Wooyoung",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/HuzA7JQ"
+  }
+],
+
+"SEAT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ATEEZ Seonghwa",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/OKwtpiB"
+  }
+],
+
+"HOAT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ATEEZ Hongjoong",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/PYcfw9N"
+  }
+],
+
+"HSSV1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Seventeen Hoshi",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/x37VG0I"
+  }
+],
+
+"MYSV1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Seventeen Mingyu",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/NLceWoa"
+  }
+],
+
+"KHP1H1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> P1Harmony Keeho",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/GEYEd0h"
+  }
+],
+
+"JGP1H1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> P1Harmony Jiung",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/PUsOeYx"
+  }
+],
+
+"YGG71Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> GOT7 Yugyeom",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/kk2XCMP"
+  }
+],
+"HALO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> LOOΠΔ Haseul",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/mNjIvb3"
+  }
+],
+
+"HYLO1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> LOOΠΔ Hyunjin",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/I2FKjPR"
+  }
+],
+
+"HADC1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Dreamcatcher Handong",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/1DqBS6A"
+  }
+],
+
+"SIDC1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Dreamcatcher Siyeon",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/CRP7gju"
+  }
+],
+
+"HYGG1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> SNSD Hyoyeon",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/ZeIYE86"
+  }
+],
+
+"TYGG1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> SNSD Taeyeon",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/do2DuvT"
+  }
+],
+
+"ONSH1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> SHINee Onew",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/OUEV9th"
+  }
+],
+
+"JORV1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Red Velvet Joy",
+    "cardgroup": "anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/MCCgW8E"
+  }
+],
+"KNPT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Pentagon Kino",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/IhkJrK4"
+  }
+],
+
+"JNNX1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> NMIXX Jinni",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/k44CyNk"
+  }
+],
+
+"SYLC1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> LUCY Sangyeop",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/7bW4ffT"
+  }
+],
+
+"HBK11Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Kep1er Huening Bahiyyih",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/gQpGOdG"
+  }
+],
+
+"DYJUT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> JUST B DY",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/JwoEkHp"
+  }
+],
+
+"LZIVE1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> IVE Liz",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/JVznj6P"
+  }
+],
+
+"RYIT1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ITZY Ryujin",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/jSHaHho"
+  }
+],
+
+"HYFR1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> fromis_9 Hayoung",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/YUb2Y9j"
+  }
+],
+"YIEV1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> EVERGLOW Yiren",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Z95lUlR"
+  }
+],
+
+"WOEL1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> E'LAST Wonhyuk",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/yyYyrWp"
+  }
+],
+
+"YKD61Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> DAY6 Young K",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/2BfYNZa"
+  }
+],
+
+"SNCR1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> CRAVITY Seongmin",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/5W4E732"
+  }
+],
+
+"LSBP1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> BLACKPINK Lisa",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/nRxVSTv"
+  }
+],
+
+"MSBL1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Billlie Moon Sua",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/yNLBnSB"
+  }
+],
+
+"SAAS1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> ASTRO Sanha",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/b0QGlF3"
+  }
+],
+
+"MIGI1Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> (G)I-DLE Minnie",
+    "cardgroup": "Anniversary",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/XFv2LlI"
+  }
 ]
 }
