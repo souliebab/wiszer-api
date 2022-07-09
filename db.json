@@ -562,136 +562,6 @@
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"BOWJ2": [
-  {
-    "cardname": "★★ WJSN Bona",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"CXWJ2": [
-  {
-    "cardname": "★★ WJSN Cheng Xiao",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"DAWJ2": [
-  {
-    "cardname": "★★ WJSN Dawon",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"DYWJ2": [
-  {
-    "cardname": "★★ WJSN Dayoung",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"EUWJ2": [
-  {
-    "cardname": "★★ WJSN Eunseo",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"EXWJ2": [
-  {
-    "cardname": "★★ WJSN EXY",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"LUWJ2": [
-  {
-    "cardname": "★★ WJSN Luda",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"MQWJ2": [
-  {
-    "cardname": "★★ WJSN Mei Qi",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"SBWJ2": [
-  {
-    "cardname": "★★ WJSN Soobin",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"SEWJ2": [
-  {
-    "cardname": "★★ WJSN Seola",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"XYWJ2": [
-  {
-    "cardname": "★★ WJSN Xuan Yi",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"YEWJ2": [
-  {
-    "cardname": "★★ WJSN Yeoreum",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"YNWJ2": [
-  {
-    "cardname": "★★ WJSN Yeonjung",
-    "cardgroup": "WJSN",
-    "cardrarity": "2",
-    "cardworth": "60", 
-     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
 "JYTB3": [
   {
     "cardname": "★★★ The Boyz Juyeon",
@@ -2620,7 +2490,7 @@
 
 "HSSO1": [
   {
-    "cardname": "★ Soloist Seungwoo",
+    "cardname": "★ Soloist Han Seungwoo",
     "cardgroup": "Seungwoo",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -13549,11 +13419,11 @@
       
       "ZICO": [
         {
-          "cardname": "★★★★★ Patreon Custom Zico",
+          "cardname": "✬✬✬✬✬ Soloist Zico",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
-          "cardimage": "https://imgur.com/DgsyLHt"
+          "cardimage": "https://imgur.com/DwZKinS"
         }
       ],
       
@@ -14534,7 +14404,7 @@
 
 "TYGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Taeyeon",
+    "cardname": "★★ SNSD Taeyeon",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14544,7 +14414,7 @@
 
 "SNGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Sunny",
+    "cardname": "★★ SNSD Sunny",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14554,7 +14424,7 @@
 
 "TFGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Tiffany",
+    "cardname": "★★ SNSD Tiffany",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14564,7 +14434,7 @@
 
 "HYGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Hyoyeon",
+    "cardname": "★★ SNSD Hyoyeon",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14574,7 +14444,7 @@
 
 "YUGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Yuri",
+    "cardname": "★★ SNSD Yuri",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14584,7 +14454,7 @@
 
 "SYGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Sooyoung",
+    "cardname": "★★ SNSD Sooyoung",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14594,7 +14464,7 @@
 
 "YOGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Yoona",
+    "cardname": "★★ SNSD Yoona",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -14604,7 +14474,7 @@
 
 "SHGG2": [
   {
-    "cardname": "★★ GIRLS GENERATION Seohyun",
+    "cardname": "★★ SNSD Seohyun",
     "cardgroup": "SNSD",
     "cardrarity": "2",
     "cardworth": "60",
@@ -21761,7 +21631,7 @@
 }],
 
 "JWSO3": [{
-  "cardname": "★★★ Soloist Jackson",
+  "cardname": "★★★ Soloist Jackson Wang",
   "cardgroup": "Jackson",
   "cardrarity": "3",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -25253,7 +25123,7 @@
     "cardname": "✬✬ The Boyz Kevin",
     "cardgroup": "Patreon",
     "cardrarity": "2",
-    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    "cardimage": "https://imgur.com/a/Ywuw3IU"
   }
 ],
 
@@ -25885,6 +25755,676 @@
     "cardgroup": "Anniversary",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/XFv2LlI"
+  }
+],
+
+"MGONO1": [
+  {
+    "cardname": "✰ It's Okay to Not Be Okay Moon Gang Tae",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KMONO1": [
+  {
+    "cardname": "✰ It's Okay to Not Be Okay Ko Moon Young",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MSONO1": [
+  {
+    "cardname": "✰ It's Okay to Not Be Okay Moon Sang Tae",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NJONO1": [
+  {
+    "cardname": "✰ It's Okay to Not Be Okay Nam Ju Ri",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BBBXS1": [
+  {
+    "cardname": "★ BamBam X Seulgi BamBam",
+    "cardgroup": "duo",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEBXS1": [
+  {
+    "cardname": "★ BamBam X Seulgi Seulgi",
+    "cardgroup": "duo",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHEXO1": [
+  {
+    "cardname": "★ EXO-SC Sehun",
+    "cardgroup": "EXO",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHEXO1": [
+  {
+    "cardname": "★ EXO-SC Chanyeol",
+    "cardgroup": "EXO",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHAK2": [
+  {
+    "cardname": "★★ AKMU Suhyun",
+    "cardgroup": "AKMU",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHAK2": [
+  {
+    "cardname": "★★ AKMU Chanhyuk",
+    "cardgroup": "AKMU",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TETXY3": [
+  {
+    "cardname": "★★★ TEN&YANGYANG Ten",
+    "cardgroup": "NCT",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YYTXY3": [
+  {
+    "cardname": "★★★ TEN&YANGYANG YangYang",
+    "cardgroup": "NCT",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BMKRD1": [
+  {
+    "cardname": "★ K.A.R.D BM",
+    "cardgroup": "KARD",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JSKRD1": [
+  {
+    "cardname": "★ K.A.R.D J.Seph",
+    "cardgroup": "KARD",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWKRD1": [
+  {
+    "cardname": "★ K.A.R.D Jiwoo",
+    "cardgroup": "KARD",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SMKRD1": [
+  {
+    "cardname": "★ K.A.R.D Somin",
+    "cardgroup": "KARD",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"OHV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Olivia Hye",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GOV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Gowon",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Chuu",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YVV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Yves",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CRV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Choerry",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JIV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Jinsoul",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KLV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Kim Lip",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"VIV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Vivi",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YEV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Yeojin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HEV2LO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Heejin",
+    "cardgroup": "LOONA",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YNSO1": [
+  {
+    "cardname": "★ Soloist Yena",
+    "cardgroup": "Yena",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHPSO1": [
+  {
+    "cardname": "★ Soloist J-Hope",
+    "cardgroup": "J-Hope",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SLSO1": [
+  {
+    "cardname": "★ Soloist Solar",
+    "cardgroup": "Solar",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KAISO2": [
+  {
+    "cardname": "★★ Soloist Kai",
+    "cardgroup": "Kai",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YVSO2": [
+  {
+    "cardname": "★★ Soloist Yves",
+    "cardgroup": "Yves",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JGSO2": [
+  {
+    "cardname": "★★ Soloist Jonghyun",
+    "cardgroup": "Jonghyun",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ONSO2": [
+  {
+    "cardname": "★★ Soloist Onew",
+    "cardgroup": "Onew",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RMSO2": [
+  {
+    "cardname": "★★ Soloist RM",
+    "cardgroup": "RM",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SJSO2": [
+  {
+    "cardname": "★★ Soloist Sejeong",
+    "cardgroup": "Sejeong",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"IUSO3": [
+  {
+    "cardname": "★★★ Soloist IU",
+    "cardgroup": "IU",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HSSO3": [
+  {
+    "cardname": "★★★ Soloist Hoshi",
+    "cardgroup": "Hoshi",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYSO3": [
+  {
+    "cardname": "★★★ Soloist Miyeon",
+    "cardgroup": "Miyeon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TASO3": [
+  {
+    "cardname": "★★★ Soloist Taeyong",
+    "cardgroup": "Taeyong",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHSO3": [
+  {
+    "cardname": "★★★ Soloist Chungha",
+    "cardgroup": "Chungha",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KDSO3": [
+  {
+    "cardname": "★★★ Soloist Kang Daniel",
+    "cardgroup": "Daniel",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"EBSO4": [
+  {
+    "cardname": "★★★★ Soloist Kwon Eunbi",
+    "cardgroup": "Eunbi",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MKSO4": [
+  {
+    "cardname": "★★★★ Soloist Mark",
+    "cardgroup": "Mark",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JESO4": [
+  {
+    "cardname": "★★★★ Soloist Jessi",
+    "cardgroup": "Jessi",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/hodBjUF"
+  }
+],
+ 
+"WOSO5": [
+  {
+    "cardname": "★★★★★ Soloist WOODZ",
+    "cardgroup": "WOODZ",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/BkVKlhV"
+  }
+],
+
+"JNSO5": [
+  {
+    "cardname": "★★★★★ Soloist Jennie",
+    "cardgroup": "Jennie",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/VbtUz4a"
+  }
+],
+
+"YEV2IT3": [
+  {
+    "cardname": "★★★ ITZY Yeji",
+    "cardgroup": "ITZY",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LAV2IT3": [
+  {
+    "cardname": "★★★ ITZY Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHV2IT3": [
+  {
+    "cardname": "★★★ ITZY Chaeryeong",
+    "cardgroup": "ITZY",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RYV2IT3": [
+  {
+    "cardname": "★★★ ITZY Ryujin",
+    "cardgroup": "ITZY",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUV2IT3": [
+  {
+    "cardname": "★★★ ITZY Yuna",
+    "cardgroup": "ITZY",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TAV2TX4": [
+  {
+    "cardname": "★★★★ TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/9JZDjaj"
+  }
+],
+
+"YEV2TX4": [
+  {
+    "cardname": "★★★★ TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/qU8KFbC"
+  }
+],
+
+"SOV2TX4": [
+  {
+    "cardname": "★★★★ TXT Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/mrXhKD4"
+  }
+],
+
+"BEV2TX4": [
+  {
+    "cardname": "★★★★ TXT Beomgyu",
+    "cardgroup": "TXT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/Vbz8rLL"
+  }
+],
+
+"HKV2TX4": [
+  {
+    "cardname": "★★★★ TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/BmaSIKc"
+  }
+],
+
+"BOWJ4": [
+  {
+    "cardname": "★★★★ WJSN Bona",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DAWJ4": [
+  {
+    "cardname": "★★★★ WJSN Dawon",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DYWJ4": [
+  {
+    "cardname": "★★★★ WJSN Dayoung",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"EUWJ4": [
+  {
+    "cardname": "★★★★ WJSN Eunseo",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"EXWJ4": [
+  {
+    "cardname": "★★★★ WJSN EXY",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LUWJ4": [
+  {
+    "cardname": "★★★★ WJSN Luda",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SBWJ4": [
+  {
+    "cardname": "★★★★ WJSN Soobin",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEWJ4": [
+  {
+    "cardname": "★★★★ WJSN Seola",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YEWJ4": [
+  {
+    "cardname": "★★★★ WJSN Yeoreum",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YNWJ4": [
+  {
+    "cardname": "★★★★ WJSN Yeonjung",
+    "cardgroup": "WJSN",
+    "cardrarity": "4",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+
+"MJAS2": [
+  {
+    "cardname": "★★ ASTRO MJ",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"ROAS2": [
+  {
+    "cardname": "★★ ASTRO Rocky",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"MBAS2": [
+  {
+    "cardname": "★★ ASTRO Moonbin",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"JJAS2": [
+  {
+    "cardname": "★★ ASTRO JinJin",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SAAS2": [
+  {
+    "cardname": "★★ ASTRO Sanha",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+"CEAS2": [
+  {
+    "cardname": "★★ ASTRO Cha Eunwoo",
+    "cardgroup": "ASTRO",
+    "cardrarity": "2",
+    "cardworth": "35", 
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
 }
