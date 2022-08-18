@@ -10799,8 +10799,8 @@
 
 "HYBD": [
   {
-    "cardname": "<a:skypecake:888560707291992094> Monsta X Hyungwon",
-    "cardgroup": "Monsta X",
+    "cardname": "<a:skypecake:888560707291992094> MONSTA X Hyungwon",
+    "cardgroup": "MONSTA X",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12699,7 +12699,7 @@
   
       "MYGNS": [
         {
-          "cardname": "★★★★★ Patreon Custom Agust D",
+          "cardname": "✬✬✬✬✬ Patreon Custom Agust D",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12709,7 +12709,7 @@
       
       "ILLAILLA": [
         {
-          "cardname": "★★★★★ Patreon Custom Hanbin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hanbin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12719,7 +12719,7 @@
       
       "AIRPLANE": [
         {
-          "cardname": "★★★★★ Patreon Custom Hanbin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hanbin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12729,8 +12729,8 @@
       
       "RIBBON": [
         {
-          "cardname": "★★★★★ Patreon Custom BamBam",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist BamBam",
+          "cardgroup": "BamBam",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/5QPSubF"
@@ -12739,7 +12739,7 @@
       
       "BANG": [
         {
-          "cardname": "★★★★★ Patreon Custom Bang Chan",
+          "cardname": "✬✬✬✬✬ Patreon Custom Bang Chan",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12749,8 +12749,8 @@
       
       "REDMOON": [
         {
-          "cardname": "★★★★★ Patreon Custom Bang Chan",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Bang Chan",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/DJ1VHPW"
@@ -12759,8 +12759,8 @@
       
       "ALPHA": [
         {
-          "cardname": "★★★★★ Patreon Custom Bang Chan",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Bang Chan",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/cuYjxQy"
@@ -12769,7 +12769,7 @@
       
       "MOBB2": [
         {
-          "cardname": "★★★★★ Patreon Custom Bobby & Mino",
+          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12779,7 +12779,7 @@
       
       "MOBB1": [
         {
-          "cardname": "★★★★★ Patreon Custom Bobby & Mino",
+          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12789,7 +12789,7 @@
       
       "MOBB": [
         {
-          "cardname": "★★★★★ Patreon Custom Bobby & Mino",
+          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12799,7 +12799,7 @@
       
       "BOMYOON": [
         {
-          "cardname": "★★★★★ Patreon Custom Bomin & Y",
+          "cardname": "✬✬✬✬✬ Patreon Custom Bomin & Y",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12809,7 +12809,7 @@
       
       "WOWKWAN": [
         {
-          "cardname": "★★★★★ Patreon Custom Byeongkwan & Wow",
+          "cardname": "✬✬✬✬✬ Patreon Custom Byeongkwan & Wow",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12819,7 +12819,7 @@
       
       "BETA": [
         {
-          "cardname": "★★★★★ Patreon Custom Changbin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Changbin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12829,7 +12829,7 @@
       
       "SMILING": [
         {
-          "cardname": "★★★★★ Patreon Custom Cheng Xiao",
+          "cardname": "✬✬✬✬✬ Patreon Custom Cheng Xiao",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12839,7 +12839,7 @@
       
       "CHENJI": [
         {
-          "cardname": "★★★★★ Patreon Custom Chenle & Jisung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Chenle & Jisung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12849,7 +12849,7 @@
       
       "INHYUK": [
         {
-          "cardname": "★★★★★ Patreon Custom Choi In",
+          "cardname": "✬✬✬✬✬ Patreon Custom Choi In",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12859,7 +12859,7 @@
       
       "JIWOOMING": [
         {
-          "cardname": "★★★★★ Patreon Custom Chuu",
+          "cardname": "✬✬✬✬✬ Patreon Custom Chuu",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12869,8 +12869,8 @@
       
       "FIVESTAR": [
         {
-          "cardname": "★★★★★ Patreon Custom CL & DPR IAN",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ CL & DPR IAN",
+          "cardgroup": "CL & DPR IAN",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/anjgsz1"
@@ -12879,8 +12879,8 @@
       
       "DAWN": [
         {
-          "cardname": "★★★★★ Patreon Custom DAWN",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Triple H DAWN",
+          "cardgroup": "Triple H",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/GN1NJgw"
@@ -12889,7 +12889,7 @@
       
       "IAMDRUM": [
         {
-          "cardname": "★ Patreon Custom Dowoon",
+          "cardname": "✬ Patreon Custom Dowoon",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -12899,7 +12899,7 @@
       
       "DOYOUNG": [
         {
-          "cardname": "★ Patreon Custom Baddie Doyoung",
+          "cardname": "✬ Patreon Custom Baddie Doyoung",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -12909,7 +12909,7 @@
       
       "YUM": [
         {
-          "cardname": "★★★★★ Patreon Custom Doyum",
+          "cardname": "✬✬✬✬✬ Patreon Custom Doyum",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12919,7 +12919,7 @@
       
       "ITECOO": [
         {
-          "cardname": "★★★★★ Patreon Custom DPR Live",
+          "cardname": "✬✬✬✬✬ Patreon Custom DPR Live",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12929,7 +12929,7 @@
       
       "KACHOWDY": [
         {
-          "cardname": "★ Patreon Custom Felix",
+          "cardname": "✬ Patreon Custom Felix",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -12939,7 +12939,7 @@
       
       "MARKHYUCK": [
         {
-          "cardname": "★★★★★ Patreon Custom Haechan & Mark",
+          "cardname": "✬✬✬✬✬ Patreon Custom Haechan & Mark",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12949,7 +12949,7 @@
       
       "PRETTYBOY": [
         {
-          "cardname": "★★★★★ Patreon Custom Hanse",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hanse",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "800",
@@ -12959,7 +12959,7 @@
       
       "HAYOUNG": [
         {
-          "cardname": "★★★★★ Patreon Custom Hayoung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hayoung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12969,7 +12969,7 @@
       
       "SEUNGIE": [
         {
-          "cardname": "★★★★★ Patreon Custom Heeseung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Heeseung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12979,7 +12979,7 @@
       
       "LEADER": [
         {
-          "cardname": "★★★★★ Patreon Custom Hongjoong",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hongjoong",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12989,7 +12989,7 @@
       
       "HUI65": [
         {
-          "cardname": "★★★★★ Patreon Custom Hui",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hui",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -12999,7 +12999,7 @@
       
       "HYEMU": [
         {
-          "cardname": "★ Patreon Custom Hyewon",
+          "cardname": "✬ Patreon Custom Hyewon",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13009,7 +13009,7 @@
 
       "HYEMU1": [
         {
-          "cardname": "★ Patreon Custom Hyewon",
+          "cardname": "✬ Patreon Custom Hyewon",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13019,7 +13019,7 @@
       
       "REDSUN": [
         {
-          "cardname": "★★★★★ Patreon Custom Hyunjin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hyunjin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13029,7 +13029,7 @@
       
       "JJINNIE": [
         {
-          "cardname": "★★★ Patreon Custom Hyunjin",
+          "cardname": "✬✬✬ Patreon Custom Hyunjin",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13039,7 +13039,7 @@
       
       "HYUNLIX": [
         {
-          "cardname": "★★★★★ Patreon Custom Hyunjin & Felix",
+          "cardname": "✬✬✬✬✬ Patreon Custom Hyunjin & Felix",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13049,8 +13049,8 @@
       
       "VOID": [
         {
-          "cardname": "★★★★★ Patreon Custom Hyunjun Hur",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Hyunjun",
+          "cardgroup": "Hyunjun",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/2bFbO3F"
@@ -13059,7 +13059,7 @@
       
       "WANG": [
         {
-          "cardname": "★★★★★ Patreon Custom Jackson Wang",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jackson Wang",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13069,7 +13069,7 @@
       
       "INMOT": [
         {
-          "cardname": "★★★★★ Patreon Custom I.N",
+          "cardname": "✬✬✬✬✬ Patreon Custom I.N",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13079,7 +13079,7 @@
       
       "LOML": [
         {
-          "cardname": "★★★ Patreon Custom Jeongyeon",
+          "cardname": "✬✬✬ Patreon Custom Jeongyeon",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13089,7 +13089,7 @@
       
       "TWOYEON": [
         {
-          "cardname": "★★★ Patreon Custom Jeongyeon & Nayeon",
+          "cardname": "✬✬✬ Patreon Custom Jeongyeon & Nayeon",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13099,7 +13099,7 @@
       
       "MOMANDDAD": [
         {
-          "cardname": "★★★★★ Patreon Custom Jihoon & Hyunsuk",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jihoon & Hyunsuk",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13109,7 +13109,7 @@
       
       "PROMISE": [
         {
-          "cardname": "★★★★★ Patreon Custom Jimin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jimin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13119,7 +13119,7 @@
       
       "JINDORI": [
         {
-          "cardname": "★★★★★ Patreon Custom Jinsoul",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jinsoul",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13129,7 +13129,7 @@
       
       "DIVE": [
         {
-          "cardname": "★★★★★ Patreon Custom Jinyoung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jinyoung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13139,7 +13139,7 @@
       
       "WGPG": [
         {
-          "cardname": "★★★★★ Patreon Custom Jinyoung & Jackson",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jinyoung & Jackson",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13149,7 +13149,7 @@
       
       "MINSUNG": [
         {
-          "cardname": "★★★★★ Patreon Custom Jisung & Minho",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jisung & Minho",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13159,7 +13159,7 @@
       
       "JIBO": [
         {
-          "cardname": "★★★★★ Patreon Custom JiU & SuA",
+          "cardname": "✬✬✬✬✬ Patreon Custom JiU & SuA",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13169,7 +13169,7 @@
       
       "UNGP1": [
         {
-          "cardname": "★★★★★ Patreon Custom Jiung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jiung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13179,7 +13179,7 @@
       
       "CUDDLY": [
         {
-          "cardname": "★★★★★ Patreon Custom Jongho & Yeosang",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jongho & Yeosang",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13189,7 +13189,7 @@
       
       "FIVE5": [
         {
-          "cardname": "★★★★★ Patreon Custom Joochan",
+          "cardname": "✬✬✬✬✬ Patreon Custom Joochan",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13199,7 +13199,7 @@
       
       "JUNHUI": [
         {
-          "cardname": "★★★★★ Patreon Custom Jun",
+          "cardname": "✬✬✬✬✬ Patreon Custom Jun",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13209,8 +13209,8 @@
       
       "KIBUM": [
         {
-          "cardname": "★★★★★ Patreon Custom Key",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ SHINee Key",
+          "cardgroup": "SHINee",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/Bi864F7"
@@ -13219,8 +13219,8 @@
       
       "BADLOVE": [
         {
-          "cardname": "★★★★★ Patreon Custom Key",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Key",
+          "cardgroup": "Key",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/IAd6Ed7"
@@ -13229,7 +13229,7 @@
       
       "AUNTIE": [
         {
-          "cardname": "★★★★★ Patreon Custom Auntie Lee Know",
+          "cardname": "✬✬✬✬✬ Patreon Custom Auntie Lee Know",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13239,7 +13239,7 @@
       
       "OMEGA": [
         {
-          "cardname": "★★★ Patreon Custom Lee Know",
+          "cardname": "✬✬✬ Patreon Custom Lee Know",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13249,7 +13249,7 @@
       
       "EDELWEISS": [
         {
-          "cardname": "★★★★★ Patreon Custom Leo",
+          "cardname": "✬✬✬✬✬ Patreon Custom Leo",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13259,7 +13259,7 @@
       
       "LALISA": [
         {
-          "cardname": "★★★★★ Patreon Custom Lisa",
+          "cardname": "✬✬✬✬✬ Patreon Custom Lisa",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13269,7 +13269,7 @@
       
       "LILI": [
         {
-          "cardname": "★★★★★ Patreon Custom Lisa",
+          "cardname": "✬✬✬✬✬ Patreon Custom Lisa",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13279,7 +13279,7 @@
       
       "CUTE": [
         {
-          "cardname": "★★★★★ Patreon Custom Mark & Johnny",
+          "cardname": "✬✬✬✬✬ Patreon Custom Mark & Johnny",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13289,7 +13289,7 @@
       
       "MINGKIPUPPY": [
         {
-          "cardname": "★★★★★ Patreon Custom Mingi & Yunho",
+          "cardname": "✬✬✬✬✬ Patreon Custom Mingi & Yunho",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13299,7 +13299,7 @@
       
       "DDAENGDDAENG": [
         {
-          "cardname": "★★★★★ Patreon Custom Minnie & Miyeon",
+          "cardname": "✬✬✬✬✬ Patreon Custom Minnie & Miyeon",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13309,7 +13309,7 @@
       
       "MYEON": [
         {
-          "cardname": "★★★★★ Patreon Custom Miyeon",
+          "cardname": "✬✬✬✬✬ Patreon Custom Miyeon",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13319,7 +13319,7 @@
       
       "HABIN": [
         {
-          "cardname": "★★★★★ Patreon Custom Moonbin & Sanha",
+          "cardname": "✬✬✬✬✬ Patreon Custom Moonbin & Sanha",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13329,7 +13329,7 @@
       
       "RIKI": [
         {
-          "cardname": "★ Patreon Custom Ni-Ki",
+          "cardname": "✬ Patreon Custom Ni-Ki",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13339,7 +13339,7 @@
       
       "DAISY": [
         {
-          "cardname": "★ Patreon Custom Nine",
+          "cardname": "✬ Patreon Custom Nine",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13349,7 +13349,7 @@
       
       "NING": [
         {
-          "cardname": "★ Patreon Custom Ningning",
+          "cardname": "✬ Patreon Custom Ningning",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13359,7 +13359,7 @@
       
       "N1NG": [
         {
-          "cardname": "★ Patreon Custom Ningning",
+          "cardname": "✬ Patreon Custom Ningning",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13369,7 +13369,7 @@
       
       "JONGYU": [
         {
-          "cardname": "★★★ Patreon Custom Onew & Jonghyun",
+          "cardname": "✬✬✬ Patreon Custom Onew & Jonghyun",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13379,7 +13379,7 @@
       
       "ROSE": [
         {
-          "cardname": "★★★★★ Patreon Custom Rosé",
+          "cardname": "✬✬✬✬✬ Patreon Custom Rosé",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13389,7 +13389,7 @@
       
       "ROSIE": [
         {
-          "cardname": "★ Patreon Custom Rosé",
+          "cardname": "✬ Patreon Custom Rosé",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13399,7 +13399,7 @@
       
       "ROWOON": [
         {
-          "cardname": "★★★★★ Patreon Custom Rowoon",
+          "cardname": "✬✬✬✬✬ Patreon Custom Rowoon",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13409,7 +13409,7 @@
       
       "ZOA": [
         {
-          "cardname": "★★★★★ Patreon Custom Zoa",
+          "cardname": "✬✬✬✬✬ Patreon Custom Zoa",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13420,7 +13420,7 @@
       "ZICO": [
         {
           "cardname": "✬✬✬✬✬ Soloist Zico",
-          "cardgroup": "Patreon",
+          "cardgroup": "Zico",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/DwZKinS"
@@ -13429,7 +13429,7 @@
       
       "YUKI": [
         {
-          "cardname": "★★★★★ Patreon Custom Yuto & Kino",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yuto & Kino",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13439,7 +13439,7 @@
       
       "LION": [
         {
-          "cardname": "★★★★★ Patreon Custom Yuta",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yuta",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13449,7 +13449,7 @@
       
       "KIKA": [
         {
-          "cardname": "★★★★★ Patreon Custom Yukika",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yukika",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13459,7 +13459,7 @@
       
       "YUYAN": [
         {
-          "cardname": "★★★★★ Patreon Custom Yu Yan",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yu Yan",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13469,8 +13469,8 @@
       
       "ETERNAL": [
         {
-          "cardname": "★★★★★ Patreon Custom Young K",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Young K",
+          "cardgroup": "Young K",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/DjxYe89"
@@ -13479,7 +13479,7 @@
       
       "YOOPUP": [
         {
-          "cardname": "★★★★★ Patreon Custom Yoohyeon",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yoohyeon",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13489,7 +13489,7 @@
       
       "YEONBIN": [
         {
-          "cardname": "★★★★★ Patreon Custom Yeonjun & Soobin",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun & Soobin",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13499,7 +13499,7 @@
       
       "STARYJ": [
         {
-          "cardname": "★★★★★ Patreon Custom Yeonjun",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13509,7 +13509,7 @@
       
       "YJELLE": [
         {
-          "cardname": "★★★★★ Patreon Custom Yeonjun",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13519,7 +13519,7 @@
       
       "YJSUPREMACY": [
         {
-          "cardname": "★★★★★ Patreon Custom Yeonjun",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13529,7 +13529,7 @@
       
       "JUNNIE": [
         {
-          "cardname": "★★★★★ Patreon Custom Yeonjun",
+          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13539,7 +13539,7 @@
       
       "JIHOON": [
         {
-          "cardname": "★★★ Patreon Custom Woozi",
+          "cardname": "✬✬✬ Patreon Custom Woozi",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13549,7 +13549,7 @@
       
       "AMICUSADARAS": [
         {
-          "cardname": "★★★★★ Patreon Custom Wooyoung & San",
+          "cardname": "✬✬✬✬✬ Patreon Custom Wooyoung & San",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13559,7 +13559,7 @@
       
       "DOVEY": [
         {
-          "cardname": "★★★ Patreon Custom Wooyoung",
+          "cardname": "✬✬✬ Patreon Custom Wooyoung",
           "cardgroup": "Patreon",
           "cardrarity": "3",
     "cardworth": "125",
@@ -13569,7 +13569,7 @@
       
       "BLACK": [
         {
-          "cardname": "★★★★★ Patreon Custom Woosung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13579,7 +13579,7 @@
       
       "WOLF": [
         {
-          "cardname": "★★★★★ Patreon Custom Woosung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13589,7 +13589,7 @@
       
       "MOODZ": [
         {
-          "cardname": "★★★★★ Patreon Custom WOODZ",
+          "cardname": "✬✬✬✬✬ Patreon Custom WOODZ",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13599,7 +13599,7 @@
       
       "KEYBOARD": [
         {
-          "cardname": "★ Patreon Custom Wonpil",
+          "cardname": "✬ Patreon Custom Wonpil",
           "cardgroup": "Patreon",
           "cardrarity": "1",
     "cardworth": "35",
@@ -13609,7 +13609,7 @@
       
       "HYUKIN": [
         {
-          "cardname": "★★★★★ Patreon Custom Won Hyuk",
+          "cardname": "✬✬✬✬✬ Patreon Custom Won Hyuk",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13619,7 +13619,7 @@
       
       "GYEOULIE": [
         {
-          "cardname": "★★★★★ Patreon Custom Winter",
+          "cardname": "✬✬✬✬✬ Patreon Custom Winter",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13629,7 +13629,7 @@
       
       "WIN": [
         {
-          "cardname": "★★★★★ Patreon Custom Win",
+          "cardname": "✬✬✬✬✬ Patreon Custom Win",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13639,7 +13639,7 @@
       
       "VANTE": [
         {
-          "cardname": "★★★★★ Patreon Custom V",
+          "cardname": "✬✬✬✬✬ Patreon Custom V",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13649,7 +13649,7 @@
       
       "FRUITY": [
         {
-          "cardname": "★★★★★ Patreon Custom Ten",
+          "cardname": "✬✬✬✬✬ Patreon Custom Ten",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13659,7 +13659,7 @@
       
       "TAG": [
         {
-          "cardname": "★★★★★ Patreon Custom Tag",
+          "cardname": "✬✬✬✬✬ Patreon Custom Tag",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13669,7 +13669,7 @@
       
       "NOMANNERS": [
         {
-          "cardname": "★★★★★ Patreon Custom Taeyong & Ten",
+          "cardname": "✬✬✬✬✬ Patreon Custom Taeyong & Ten",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13679,8 +13679,8 @@
       
       "LEE2": [
         {
-          "cardname": "★★★★★ Patreon Custom Taeyong & Ten",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT U Taeyong & Ten",
+          "cardgroup": "NCT U",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/m13pWTp"
@@ -13689,7 +13689,7 @@
       
       "TAEKOOK": [
         {
-          "cardname": "★★★★★ Patreon Custom Taehyung & Jungkook",
+          "cardname": "✬✬✬✬✬ Patreon Custom Taehyung & Jungkook",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13699,7 +13699,7 @@
       
       "STUNNER": [
         {
-          "cardname": "★★★★★ Patreon Custom Taehyung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Taehyung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13709,7 +13709,7 @@
       
       "HEEHOON": [
         {
-          "cardname": "★★★★★ Patreon Custom Sunghoon & Heesung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Sunghoon & Heesung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13719,7 +13719,7 @@
       
       "SOOSHU": [
         {
-          "cardname": "★★★★★ Patreon Custom Soojin & Shuhua",
+          "cardname": "✬✬✬✬✬ Patreon Custom Soojin & Shuhua",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13729,7 +13729,7 @@
       
       "HWASAN": [
         {
-          "cardname": "★★★★★ Patreon Custom Seonghwa & San",
+          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa & San",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13739,7 +13739,7 @@
       
       "PINKY": [
         {
-          "cardname": "★★★★★ Patreon Custom Seonghwa",
+          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13749,7 +13749,7 @@
       
       "THIRST": [
         {
-          "cardname": "★★★★★ Patreon Custom Seonghwa",
+          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13759,7 +13759,7 @@
       
       "SAN": [
         {
-          "cardname": "★★★★★ Patreon Custom San",
+          "cardname": "✬✬✬✬✬ Patreon Custom San",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13769,7 +13769,7 @@
       
       "HAROM": [
         {
-          "cardname": "★★★★★ Patreon Custom Saerom & Hayoung",
+          "cardname": "✬✬✬✬✬ Patreon Custom Saerom & Hayoung",
           "cardgroup": "Patreon",
           "cardrarity": "5",
           "cardworth": "8000",
@@ -13796,7 +13796,7 @@
     ],
     "HHSCR": [
       {
-        "cardname": "✦ Staff Selca Soloist Hyunjun Hur",
+        "cardname": "✦ Staff Selca Soloist Hyunjun",
         "cardgroup": "Staff Selca",
         "cardrarity": "1",
     "cardworth": "35",
@@ -13823,7 +13823,7 @@
     ],
     "SHSCBK": [
       {
-        "cardname": "✦ Staff Selca Everglow Sihyeon",
+        "cardname": "✦ Staff Selca EVERGLOW Sihyeon",
         "cardgroup": "Staff Selca",
         "cardrarity": "1",
     "cardworth": "35",
@@ -15171,7 +15171,7 @@
 
 "HOTHEE": [
   {
-    "cardname": "★★★★★ Patreon Custom Heeseung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Heeseung",
     "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/IvfyDEJ.mp4"
@@ -15180,7 +15180,7 @@
 
 "JCC": [
   {
-    "cardname": "★★★★★ Patreon Custom Johnny",
+    "cardname": "✬✬✬✬✬ Patreon Custom Johnny",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/rQoxnCU.mp4"
@@ -15189,7 +15189,7 @@
 
 "SOULMATES": [
   {
-    "cardname": "★★★★★ Patreon Custom Jimin & Taehyung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Jimin & Taehyung",
     "cardgroup": "BTS",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/YNryOzK.mp4"
@@ -15198,7 +15198,7 @@
 
 "VAMPIRE": [
   {
-    "cardname": "★★★★★ Patreon Custom Mingi",
+    "cardname": "✬✬✬✬✬ Patreon Custom Mingi",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/64fF3qj.mp4"
@@ -15207,7 +15207,7 @@
 
 "KING": [
   {
-    "cardname": "★★★★★ Patreon Custom Hongjoong",
+    "cardname": "✬✬✬✬✬ Patreon Custom Hongjoong",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/tav8wPe.mp4"
@@ -15216,7 +15216,7 @@
 
 "QUEEN": [
   {
-    "cardname": "★★★★★ Patreon Custom Seonghwa",
+    "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/cxaA4TD.mp4"
@@ -15225,7 +15225,7 @@
 
 "NCTZONE": [
   {
-    "cardname": "★★★★★ Patreon Custom Taeyong & Jungwoo",
+    "cardname": "✬✬✬✬✬ Patreon Custom Taeyong & Jungwoo",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/gZ6PZpm.mp4"
@@ -15243,7 +15243,7 @@
 
 "EYEPATCH": [
   {
-    "cardname": "★★★★★ Patreon Custom Jisung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Jisung",
     "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/xGD83Hq.mp4"
@@ -15252,7 +15252,7 @@
 
 "로즈": [
   {
-    "cardname": "★★★★★ Patreon Custom Dojoon & Jaehyeong",
+    "cardname": "✬✬✬✬✬ Patreon Custom Dojoon & Jaehyeong",
     "cardgroup": "The Rose",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/JSPEZKT.mp4"
@@ -15261,7 +15261,7 @@
 
 "LEO": [
   {
-    "cardname": "★★★★★ Patreon Custom Hyunjun Hur",
+    "cardname": "✬✬✬✬✬ Patreon Custom Hyunjun Hur",
     "cardgroup": "Hyunjun Hur",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/Ii4EU0s.mp4"
@@ -15270,7 +15270,7 @@
 
 "FAIRYBOY": [
   {
-    "cardname": "★★★★★ Patreon Custom Hyunjun Hur",
+    "cardname": "✬✬✬✬✬ Patreon Custom Hyunjun Hur",
     "cardgroup": "Hyunjun Hur",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/rGr9Byj.mp4"
@@ -15279,7 +15279,7 @@
 
 "DIMPLES": [
   {
-    "cardname": "★★★★★ Patreon Custom Woosung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
     "cardgroup": "The Rose",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/O9BNgO6.mp4"
@@ -15288,7 +15288,7 @@
 
 "쓰": [
   {
-    "cardname": "★★★★★ Patreon Custom Jisung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Jisung",
     "cardgroup": "3RACHA",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/vRoS0TR.mp4"
@@ -15297,7 +15297,7 @@
 
 "HWANWOONG": [
   {
-    "cardname": "★★★★★ Patreon Custom Hwanwoong",
+    "cardname": "✬✬✬✬✬ Patreon Custom Hwanwoong",
     "cardgroup": "ONEUS",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/kgFBehA.mp4"
@@ -15306,7 +15306,7 @@
 
 "VIOLIN": [
   {
-    "cardname": "★★★★★ Patreon Custom Joochan",
+    "cardname": "✬✬✬✬✬ Patreon Custom Joochan",
     "cardgroup": "Golden Child",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/C5l7ZyQ.mp4"
@@ -15324,7 +15324,7 @@
 
 "YEWONIE": [
   {
-    "cardname": "★★★★★ Patreon Custom OH MY GIRL Arin",
+    "cardname": "✬✬✬✬✬ Patreon Custom OH MY GIRL Arin",
     "cardgroup": "OH MY GIRL",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/qaQtxdZ.mp4"
@@ -15333,7 +15333,7 @@
 
 "卓卓": [
   {
-    "cardname": "★★★★★ Patreon Custom aespa Ningning",
+    "cardname": "✬✬✬✬✬ Patreon Custom aespa Ningning",
     "cardgroup": "aespa",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/UVUcOQl.mp4"
@@ -15342,7 +15342,7 @@
 
 "LUNUMW5": [
   {
-    "cardname": "★★★★★ NCT U Lucas",
+    "cardname": "✬✬✬✬✬ NCT U Lucas",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/hW63eh1.mp4"
@@ -15351,7 +15351,7 @@
 
 "TYNUMW5": [
   {
-    "cardname": "★★★★★ NCT U Taeyong",
+    "cardname": "✬✬✬✬✬ NCT U Taeyong",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/EypkQdx.mp4"
@@ -15360,7 +15360,7 @@
 
 "G4UJU": [
   {
-    "cardname": "★★★★★ Patreon Custom Jiung",
+    "cardname": "✬✬✬✬✬ Patreon Custom Jiung",
     "cardgroup": "P1Harmony",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/K7OQTNI.mp4"
@@ -15469,7 +15469,7 @@
 
 "TYUNNING": [
   {
-    "cardname": "★ Patreon Custom Taehyun & Huening Kai",
+    "cardname": "✬ Patreon Custom Taehyun & Huening Kai",
     "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15478,7 +15478,7 @@
 
 "MOONBAE": [
   {
-    "cardname": "★ Patreon Custom Kevin & Jacob",
+    "cardname": "✬ Patreon Custom Kevin & Jacob",
     "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15505,7 +15505,7 @@
 
 "CHANGKYUN": [
   {
-    "cardname": "★★★★★ Patreon Custom I.M",
+    "cardname": "✬✬✬✬✬ Patreon Custom I.M",
     "cardgroup": "MONSTA X",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/YXMBfDW.mp4"
@@ -15514,7 +15514,7 @@
 
 "DISCOYJ": [
   {
-    "cardname": "★★★★★ Patreon Custom Yeonjun",
+    "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
     "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/J7sgYDI.mp4"
@@ -15523,7 +15523,7 @@
 
 "ROMSYEON": [
   {
-    "cardname": "★★★★★ Patreon Custom Saerom & Seoyeon",
+    "cardname": "✬✬✬✬✬ Patreon Custom Saerom & Seoyeon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/LMBMBeJ"
@@ -15532,7 +15532,7 @@
 
 "JUNGEUN": [
   {
-    "cardname": "★★★★★ Patreon Custom Kim Lip",
+    "cardname": "✬✬✬✬✬ Patreon Custom Kim Lip",
     "cardgroup": "LOONA",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/pIX9i9p"
@@ -15541,7 +15541,7 @@
 
 "HUSBAND": [
   {
-    "cardname": "★★★★★ Patreon Custom Jake",
+    "cardname": "✬✬✬✬✬ Patreon Custom Jake",
     "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/2HoznEJ"
@@ -20889,7 +20889,7 @@
 
 "GG6AF4": [
   {
-    "cardname": "<:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651> AESPA Giselle",
+    "cardname": "<:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651> aespa Giselle",
     "cardgroup": "April Fool's",
     "cardrarity": "4",
     "cardimage": "https://i.imgur.com/qfaVxgU"
@@ -22103,7 +22103,7 @@
 "SHBPR1": [
   {
     "cardname": " ☆ Business Proposal Shin Hari",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22113,7 +22113,7 @@
 "KTBPR1": [
   {
     "cardname": " ☆ Business Proposal Kang Taemoo ",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22123,7 +22123,7 @@
 "CABPR1": [
   {
     "cardname": "☆ Business Proposal Cha Sunghoon",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22132,7 +22132,7 @@
 "JYBPR1": [
   {
     "cardname": " ☆ Business Proposal Jin Youngseo",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22143,7 +22143,7 @@
 "LMBPR1": [
   {
     "cardname": " ☆ Business Proposal Lee Minwoo",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22152,7 +22152,7 @@
 "KDBPR1": [
   {
     "cardname": " ☆ Business Proposal Kang Dakoo",
-    "cardgroup": "drama",
+    "cardgroup": "Drama",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24655,7 +24655,7 @@
 "HOATVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ATEEZ Hongjoong",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25166,15 +25166,6 @@
 "BKEXCB1": [
   {
     "cardname": "✬ Catboy Baekhyun",
-    "cardgroup": "Patreon",
-    "cardrarity": "1",
-    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
-"JSNCCB1": [
-  {
-    "cardname": "✬ Catboy Jisung",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -27306,8 +27297,8 @@
 ],
 "AIEV2": [
   {
-    "cardname": "★★ Everglow Aisha ",
-    "cardgroup": "Everglow",
+    "cardname": "★★ EVERGLOW Aisha ",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27316,8 +27307,8 @@
 
 "EUEV2": [
   {
-    "cardname": "★★ Everglow E:U",
-    "cardgroup": "Everglow",
+    "cardname": "★★ EVERGLOW E:U",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27326,8 +27317,8 @@
 
 "MIEV2": [
   {
-    "cardname": "★★ Everglow Mia",
-    "cardgroup": "Everglow",
+    "cardname": "★★ EVERGLOW Mia",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27336,8 +27327,8 @@
 
 "ONEV2": [
   {
-    "cardname": "★★ Everglow Onda",
-    "cardgroup": "Everglow",
+    "cardname": "★★ EVERGLOW Onda",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27346,8 +27337,8 @@
 
 "SIEV2": [
   {
-    "cardname": "★★ Everglow Sihyeon",
-    "cardgroup": "everglow",
+    "cardname": "★★ EVERGLOW Sihyeon",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27356,8 +27347,8 @@
 
 "YIEV2": [
   {
-    "cardname": "★★ Everglow Yiren",
-    "cardgroup": "Everglow",
+    "cardname": "★★ EVERGLOW Yiren",
+    "cardgroup": "EVERGLOW",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28065,6 +28056,852 @@
     "cardgroup": "THE BOYZ",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NWTBPJ1": [
+  {
+    "cardname": "✬ The Boyz New",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CANNON": [
+  {
+    "cardname": "✬ Stray Kids Felix",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYUNIE": [
+  {
+    "cardname": "✬ TXT Taehyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BEOMKAI": [
+  {
+    "cardname": "✬ TXT Beomgyu & Huening Kai",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JINLIA": [
+  {
+    "cardname": "✬ ITZY Ryujin & Lia",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YESEO": [
+  {
+    "cardname": "✬ Kep1er Yeseo",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LUDA": [
+  {
+    "cardname": "✬ WJSN Luda",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NANA": [
+  {
+    "cardname": "✬ NCT Dream Jaemin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KIMJIMIN": [
+  {
+    "cardname": "✬ Weeekly Monday",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HKTXPJ1": [
+  {
+    "cardname": "✬ TXT Huening Kai",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEATPJ1": [
+  {
+    "cardname": "✬ ATEEZ Seonghwa",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JONDPJ1": [
+  {
+    "cardname": "✬ NCT Dream Jeno",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BYTSPJ1": [
+  {
+    "cardname": "✬ TREASURE Bang Yedam",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"AEONGIE": [
+  {
+    "cardname": "✬ LOONA Hyunjin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DINOJJONG": [
+  {
+    "cardname": "✬✬✬ SHINee Jonghyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BABIE": [
+  {
+    "cardname": "<:tamababie:977691075340804126><:tamababie:977691075340804126><:tamababie:977691075340804126><:tamababie:977691075340804126> NCT Lucas",
+    "cardgroup": "Babie",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/zWkvg7U"
+  }
+],
+
+"CAPTAIN": [
+  {
+    "cardname": "✬✬✬✬✬ ATEEZ Hongjoong",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"DANCERACHA": [
+  {
+    "cardname": "✬✬✬✬✬ Stray Kids Danceracha",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/h7Yl71S"
+  }
+],
+
+"BEOMGYU": [
+  {
+    "cardname": "✬✬✬✬✬ TXT Beomgyu",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/qftJFdv"
+  }
+],
+
+"DEJAVU": [
+  {
+    "cardname": "✬✬✬✬✬ NU'EST Ren",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"MASHIHO": [
+  {
+    "cardname": "✬✬✬✬✬ TREASURE Mashiho",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/bLoBfJr"
+  }
+],
+
+"SKATE": [
+  {
+    "cardname": "✬✬✬✬✬ Stray Kids Han",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"FATHERSDAY": [
+  {
+    "cardname": "✬✬✬✬✬ P1Harmony Keeho & Soul",
+    "cardgroup": "P1Harmony",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"HWI": [
+  {
+    "cardname": "✬✬✬✬✬ TNX Hwi",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/G0D1PnG"
+  }
+],
+
+"CANDYZAL": [
+  {
+    "cardname": "✬✬✬✬✬ Want Rozalin",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/aNQSdOk"
+  }
+],
+
+"QUEENLION": [
+  {
+    "cardname": "✬✬✬✬✬ (G)I-DLE Shuhua",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/Upgv5wm"
+  }
+],
+
+"WONKI": [
+  {
+    "cardname": "✬✬✬✬✬ ENHYPEN Jungwon & Ni-Ki",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/gBt562a"
+  }
+],
+
+"MINJIU": [
+  {
+    "cardname": "✬✬✬✬✬ Dreamcatcher JiU",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/ny77xkW"
+  }
+],
+
+"THEKING": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist Agust D",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/3cgrxmV"
+  }
+],
+
+"BAEKHULK": [
+  {
+    "cardname": "✬✬✬✬✬ Nu'est Baekho",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/ifPDnLj"
+  }
+],
+
+"RED": [
+  {
+    "cardname": "✬✬✬✬✬ NCT Taeyong",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/m3wVc1y"
+  }
+],
+
+"HOONIEVERSE": [
+  {
+    "cardname": "✬✬✬✬✬ ENHYPEN Sunghoon",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/gGCFtAg"
+  }
+],
+
+"SIYOO": [
+  {
+    "cardname": "✬✬✬✬✬ Dreamcatcher Siyeon & Yoohyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/Pk5RcV1"
+  }
+],
+
+"MINJEONG": [
+  {
+    "cardname": "✬✬✬✬✬ aespa Winter",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/XdMLUTT"
+  }
+],
+
+"ROSESAREROSIE": [
+  {
+    "cardname": "✬✬✬✬✬ BLACKPINK Rosé",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/igBJnJO"
+  }
+],
+
+"SEUNGLIX": [
+  {
+    "cardname": "✬✬✬✬✬ Stray Kids Felix & Seungmin",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/N6dNHjK"
+  }
+],
+
+"GOTSEUL": [
+  {
+    "cardname": "✬✬✬✬✬ Red Velvet Seulgi",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/OU9ihYM"
+  }
+],
+
+"TIGER": [
+  {
+    "cardname": "✬✬✬✬✬ SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/DIpzvdH"
+  }
+],
+
+"MORK": [
+  {
+    "cardname": "✬ NCT Mark",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BOOFILLER": [
+  {
+    "cardname": "✬✬✬ SEVENTEEN Seungkwan",
+    "cardgroup": "Patreon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GOWONLY": [
+  {
+    "cardname": "✬ LOONA Gowon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JUNGWON": [
+  {
+    "cardname": "✬ ENHYPEN Jungwon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SSANG": [
+  {
+    "cardname": "✬ LIGHTSUM Sangah",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"FLOWERCAT": [
+  {
+    "cardname": "✬ LOONA Hyunjin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ECTBPJ1": [
+  {
+    "cardname": "✬ The Boyz Eric",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JERBZ": [
+  {
+    "cardname": "✬ The Boyz Kevin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TBSC1": [
+  {
+    "cardname": "✦ Selca TXT Taehyun & Soobin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HANYANG": [
+  {
+    "cardname": "✬ Fromis_9 Hayoung",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BABYSUN": [
+  {
+    "cardname": "✬ NCT Mark & Haechan",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PRIDE": [
+  {
+    "cardname": "✬✬✬✬✬ TXT Yeonjun",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"ERIC": [
+  {
+    "cardname": "✬✬✬✬✬ The Boyz Eric",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"KTHV": [
+  {
+    "cardname": "✬✬✬✬✬ BTS V",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"GYEOM": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist Yugyeom",
+    "cardgroup": "Yugyeom",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"GOTWEN": [
+  {
+    "cardname": "✬✬✬✬✬ GOT The Beat Wendy",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"JISUN": [
+  {
+    "cardname": "✬✬✬✬✬ Fromis_9 Jisun",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"YOOHYEON": [
+  {
+    "cardname": "✬✬✬✬✬ Dreamcatcher Yoohyeon",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"LCNW5": [
+  {
+    "cardname": "✬✬✬✬✬ NCT U Lucas",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"LILIFILLER": [
+  {
+    "cardname": "✬✬✬✬✬ BLACKPINK Lisa",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"FUCKINGCOOL": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist HUTA",
+    "cardgroup": "HUTA",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"SVTLEADERS": [
+  {
+    "cardname": "✬✬✬✬✬ SEVENTEEN Leaders",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"MATZ": [
+  {
+    "cardname": "✬✬✬✬✬ ATEEZ Hongjoong & Seonghwa",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"BADNEWS": [
+  {
+    "cardname": "✬✬✬✬✬ TEMPEST Hwarang",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"NOZE24KMAGIC": [
+  {
+    "cardname": "✬✬✬✬✬ WayB No:ze",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"JEONJI": [
+  {
+    "cardname": "✬ DreamNote Miso",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEQUENCE": [
+  {
+    "cardname": "✬ WJSN Seola",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NAMPARADISE": [
+  {
+    "cardname": "✬ Soloist Eric Nam",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWONIE": [
+  {
+    "cardname": "✬ ENHYPEN Jungwon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JIHOONFILLER": [
+  {
+    "cardname": "✬ Soloist Park Jihoon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEUNGBIN": [
+  {
+    "cardname": "✬ Stray Kids Seungmin & Changbin",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SSAMU": [
+  {
+    "cardname": "✬ Le Sserafim Chaewon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHAEROMIE": [
+  {
+    "cardname": "✬ Kep1er Chaehyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NUJES": [
+  {
+    "cardname": "✬ VICTON Sejun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NYUHOON": [
+  {
+    "cardname": "✬✬✬ The Boyz BBangnyu",
+    "cardgroup": "Patreon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YJW": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ENHYPEN Jungwon",
+    "cardgroup": "Patreon",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RTKCHANHEE": [
+  {
+    "cardname": "✬✬✬✬✬ The Boyz New",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/a/ZpeROeX"
+  }
+],
+
+"BEGIN": [
+  {
+    "cardname": "✬✬✬✬✬ OnlyOneOf KB & Yoojung",
+    "cardgroup": "OnlyOneOf",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/mP8kSBU"
+  }
+],
+
+"MARKLEE": [
+  {
+    "cardname": "✬ NCT Mark",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHANHEE": [
+  {
+    "cardname": "✬ The Boyz New",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ROCKETPUNCHER": [
+  {
+    "cardname": "✬ aespa Karina",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JAYWON": [
+  {
+    "cardname": "✬ ENHYPEN Jungwon & Jay",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYEONGJUN": [
+  {
+    "cardname": "✬ CRAVITY Hyeongjun",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YEJU": [
+  {
+    "cardname": "✬ ICHILLIN' Yeju",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KUANHUNG": [
+  {
+    "cardname": "✬ Darren Chen",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SSAMJIN": [
+  {
+    "cardname": "✬ IZ*ONE Yujin & Chaewon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PLUSMINUS": [
+  {
+    "cardname": "✬ Max & Hao",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"OHMNANON": [
+  {
+    "cardname": "✬✬✬ Ohm & Nanon",
+    "cardgroup": "Patreon",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PUPMODE": [
+  {
+    "cardname": "✬✬✬✬✬ NCT Dream Jeno",
+    "cardgroup": "NCT",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"TEETERTOTTER": [
+  {
+    "cardname": "✬ P1Harmony Theo & Soul",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"SPIDER": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist Hoshi",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"REVEAL": [
+  {
+    "cardname": "✬✬✬✬✬ The Boyz Q",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"TAETOO": [
+  {
+    "cardname": "✬✬✬✬✬ NCT 127 Taeyong",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"NAOBSC1": [
+  {
+    "cardname": "✦ Selca Nana Ouyang",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DEVIL": [
+  {
+    "cardname": "✬✬✬✬✬ Kinnporsche Vegas",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"BOYFRIENDVIBE": [
+  {
+    "cardname": "✬✬✬✬✬ NCT Jaehyun",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
   }
 ]
 }
