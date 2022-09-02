@@ -28914,15 +28914,6 @@
   }
 ],
 
-"PARKCHAEYOUNG": [
-  {
-    "cardname": "✬ BLACKPINK Rosé",
-    "cardgroup": "Patreon",
-    "cardrarity": "1",
-    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-
 "MALEVENUS": [
   {
     "cardname": "✬✬✬✬✬ SF9 Zuho",
@@ -29894,6 +29885,24 @@
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
     "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"FOREVER9": [
+  {
+    "cardname": "✬✬✬✬✬ Fromis_9 Gyuri",
+    "cardgroup": "Patreon",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"SHOON": [
+  {
+    "cardname": "✬ ENHYPEN Sunghoon",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
 }
