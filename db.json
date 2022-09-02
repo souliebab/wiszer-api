@@ -28541,7 +28541,7 @@
     "cardname": "✬✬✬✬✬ GOT The Beat Wendy",
     "cardgroup": "Patreon",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/VBWZw5s"
   }
 ],
 
@@ -28550,7 +28550,7 @@
     "cardname": "✬✬✬✬✬ Fromis_9 Jisun",
     "cardgroup": "Patreon",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/Z8lsR6p"
   }
 ],
 
@@ -29876,6 +29876,24 @@
     "cardgroup": "DAWN",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/a/86bPNoU"
+  }
+],
+
+"JYG71Y4": [
+  {
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> GOT7 Jinyoung",
+    "cardgroup": "GOT7",
+    "cardrarity": "4",
+    "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"HOSHYLTD": [
+  {
+    "cardname": "★★★★ SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "IMGUR LINK HERE"
   }
 ]
 }
