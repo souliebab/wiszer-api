@@ -28262,7 +28262,7 @@
     "cardname": "✬✬✬✬✬ P1Harmony Keeho & Soul",
     "cardgroup": "P1Harmony",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/0qXtkiE"
   }
 ],
 
@@ -28458,6 +28458,15 @@
 "ECTBPJ1": [
   {
     "cardname": "✬ The Boyz Eric",
+    "cardgroup": "Patreon",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JILOPJ1": [
+  {
+    "cardname": "✬ LOOΠΔ Jinsoul",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
