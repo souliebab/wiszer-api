@@ -12680,7 +12680,7 @@
 "WOSM4": [
   {
     "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer IZ*ONE Wonyoung",
-    "cardgroup": "Iz*One",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13940,7 +13940,7 @@
     ],
     "ROSCT": [
       {
-        "cardname": "✦ Selca Contest Winner Blackpink Rosé",
+        "cardname": "✦ Selca Contest Winner BLACKPINK Rosé",
         "cardgroup": "Selca Winner",
         "cardrarity": "1",
     "cardworth": "35",
@@ -18984,7 +18984,7 @@
 
 "JNSC1": [
   {
-    "cardname": "✦ Selca LOONA Jinsoul",
+    "cardname": "✦ Selca LOOΠΔ Jinsoul",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -19074,7 +19074,7 @@
 
 "JSC1": [
   {
-    "cardname": "✦ Selca Stayc J",
+    "cardname": "✦ Selca STAYC J",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -19084,7 +19084,7 @@
 
 "SUMSC1": [
   {
-    "cardname": "✦ Selca Stayc Sumin",
+    "cardname": "✦ Selca STAYC Sumin",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -19293,7 +19293,7 @@
 
 "HSSCB": [
   {
-    "cardname": "✦ Selca LOONA Haseul",
+    "cardname": "✦ Selca LOOΠΔ Haseul",
     "cardgroup": "Custom Selca",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19383,7 +19383,7 @@
 
 "BREADJIN": [
   {
-    "cardname": "✬ LOONA Hyunjin",
+    "cardname": "✬ LOOΠΔ Hyunjin",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19428,7 +19428,7 @@
 
 "BRUNI": [
   {
-    "cardname": "✬✬✬✬✬ LOONA Jinsoul",
+    "cardname": "✬✬✬✬✬ LOOΠΔ Jinsoul",
     "cardgroup": "Patreon",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/cSQK86V.mp4"
@@ -19711,16 +19711,16 @@
 ],
 "ISA": [
   {
-    "cardname": "✧✧✧ Stayc Isa Limited Card",
-    "cardgroup": "Stayc",
+    "cardname": "✧✧✧ STAYC Isa Limited Card",
+    "cardgroup": "STAYC",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
 "CHUU": [
   {
-    "cardname": "✧✧✧ Loona Chuu Limited Card",
-    "cardgroup": "Loona",
+    "cardname": "✧✧✧ LOOΠΔ Chuu Limited Card",
+    "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19837,7 +19837,7 @@
 
 "CRLOVD4": [
   {
-    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> LOONA Choerry",
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> LOOΠΔ Choerry",
     "cardgroup": "LOONA",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20952,7 +20952,7 @@
 
 "GG13AF4": [
   {
-    "cardname": "<:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651> LOONA Hyunjin",
+    "cardname": "<:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651><:circusafwz:955928152172011651> LOOΠΔ Hyunjin",
     "cardgroup": "April Fool's",
     "cardrarity": "4",
     "cardimage": "https://i.imgur.com/InwntxL"
@@ -21075,7 +21075,7 @@
 ],
 "FLOWERS": [
   {
-    "cardname": "✬✬✬✬✬ Iz*One Chaewon",
+    "cardname": "✬✬✬✬✬ IZ*ONE Chaewon",
     "cardgroup": "Patreon",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/pf1Ckeu"
@@ -21441,7 +21441,7 @@
 
 "FULLMOON": [
   {
-    "cardname": "✬ Iz*one Chaewon",
+    "cardname": "✬ IZ*ONE Chaewon",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -21468,7 +21468,7 @@
 
 "WINWONNIE": [
   {
-    "cardname": "✬ Loona Gowon",
+    "cardname": "✬ LOOΠΔ Gowon",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -22159,8 +22159,8 @@
 ],
 "HALO131": [
   {
-    "cardname": "★ Loona 1/3 Haseul",
-    "cardgroup": "Loona",
+    "cardname": "★ LOOΠΔ 1/3 Haseul",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22169,8 +22169,8 @@
 
 "VILO131": [
   {
-    "cardname": "★ Loona 1/3 Vivi",
-    "cardgroup": "Loona",
+    "cardname": "★ LOOΠΔ 1/3 Vivi",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22179,8 +22179,8 @@
 
 "HELO131": [
   {
-    "cardname": "★ Loona 1/3 Heejin",
-    "cardgroup": "Loona",
+    "cardname": "★ LOOΠΔ 1/3 Heejin",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -22189,8 +22189,8 @@
 
 "HYLO131": [
   {
-    "cardname": "★ Loona 1/3 Hyunjin",
-    "cardgroup": "Loona",
+    "cardname": "★ LOOΠΔ 1/3 Hyunjin",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26529,7 +26529,7 @@
 
 "KAHEI": [
   {
-    "cardname": "✬ LOONA Vivi",
+    "cardname": "✬ LOOΠΔ Vivi",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -28178,7 +28178,7 @@
 
 "AEONGIE": [
   {
-    "cardname": "✬ LOONA Hyunjin",
+    "cardname": "✬ LOOΠΔ Hyunjin",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -28253,7 +28253,7 @@
     "cardname": "✬✬✬✬✬ Stray Kids Han",
     "cardgroup": "Patreon",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/a/VeCsiyh"
   }
 ],
 
@@ -28421,7 +28421,7 @@
 
 "GOWONLY": [
   {
-    "cardname": "✬ LOONA Gowon",
+    "cardname": "✬ LOOΠΔ Gowon",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -28448,7 +28448,7 @@
 
 "FLOWERCAT": [
   {
-    "cardname": "✬ LOONA Hyunjin",
+    "cardname": "✬ LOOΠΔ Hyunjin",
     "cardgroup": "Patreon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
