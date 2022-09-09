@@ -8464,7 +8464,7 @@
 
 "KDTS2": [
   {
-    "cardname": "★★ TREASURE Kim Doyoung",
+    "cardname": "★★ TREASURE Doyoung",
     "cardgroup": "TREASURE",
     "cardrarity": "2",
     "cardworth": "60", 
@@ -8583,7 +8583,7 @@
 
 "KDTS1": [
   {
-    "cardname": "★ TREASURE Kim Doyoung",
+    "cardname": "★ TREASURE Doyoung",
     "cardgroup": "TREASURE",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -30034,7 +30034,7 @@
 
 "KDTS3": [
   {
-    "cardname": "★★★ TREASURE Kim Doyoung",
+    "cardname": "★★★ TREASURE Doyoung",
     "cardgroup": "TREASURE",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -30447,8 +30447,8 @@
 
 "DNSO2": [
   {
-    "cardname": "★★ Soloist Dean",
-    "cardgroup": "Dean",
+    "cardname": "★★ Soloist DEAN",
+    "cardgroup": "DEAN",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -30891,6 +30891,429 @@
     "cardname": "★★ DKB E-Chan",
     "cardgroup": "DKB",
     "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NRAUD1": [
+  {
+    "cardname": "✰ All of Us Are Dead Choi Nam Ra",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHAUD1": [
+  {
+    "cardname": "✰ All of Us Are Dead Lee Su Hyeok",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GNAUD1": [
+  {
+    "cardname": "✰ All of Us Are Dead Yoon Gwi Nam",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CSAUD1": [
+  {
+    "cardname": "✰ All of Us Are Dead Lee Cheong San",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"OJAUD1": [
+  {
+    "cardname": "✰ All of Us Are Dead Nam On Jo",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MWHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Jang Man Wol",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CSHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Goo Chan Sung",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SBHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Kim Sun Bi",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Choi Seo Hee",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HJHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Ji Hyun Joong",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YNHDL1": [
+  {
+    "cardname": "✰ Hotel Del Luna Kim Yoo Na",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DNV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Dino",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/U22VphA"
+  }
+],
+
+"DKV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN DK",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/NPMw8G7"
+  }
+],
+
+"HSV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/FvPKJvc"
+  }
+],
+
+"JHV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Jeonghan",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/rM5CMxS"
+  }
+],
+
+"JSV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Joshua",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/cuKp6Ng"
+  }
+],
+
+"JNV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Jun",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Mc6L4Xx"
+  }
+],
+
+"MYV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Mingyu",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/0TgkGDZ"
+  }
+],
+
+"SPV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN S.Coups",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/LucG4S8"
+  }
+],
+
+"SKV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Seungkwan",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/QCJ0wrq"
+  }
+],
+
+"T8V2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN The8",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/0RQNLrh"
+  }
+],
+
+"VNV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Vernon",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Rgm74uX"
+  }
+],
+
+"WWV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Wonwoo",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/IbmS0zU"
+  }
+],
+
+"WOV2SV4": [
+  {
+    "cardname": "★★★★ SEVENTEEN Woozi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/si0sa1J"
+  }
+],
+
+"CHNCT1": [
+  {
+    "cardname": "★ NCT Chenle",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DONCT1": [
+  {
+    "cardname": "★ NCT Doyoung",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HCNCT1": [
+  {
+    "cardname": "★ NCT Haechan",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HDNCT1": [
+  {
+    "cardname": "★ NCT Hendery",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHNCT1": [
+  {
+    "cardname": "★ NCT Jaehyun",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JMNCT1": [
+  {
+    "cardname": "★ NCT Jaemin",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JENCT1": [
+  {
+    "cardname": "★ NCT Jeno",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JSNCT1": [
+  {
+    "cardname": "★ NCT Jisung",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JONCT1": [
+  {
+    "cardname": "★ NCT Johnny",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWNCT1": [
+  {
+    "cardname": "★ NCT Jungwoo",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KUNCT1": [
+  {
+    "cardname": "★ NCT Kun",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LUNCT1": [
+  {
+    "cardname": "★ NCT Lucas",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MANCT1": [
+  {
+    "cardname": "★ NCT Mark",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RJNCT1": [
+  {
+    "cardname": "★ NCT Renjun",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHNCT1": [
+  {
+    "cardname": "★ NCT Shotaro",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SCNCT1": [
+  {
+    "cardname": "★ NCT Sungchan",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TLNCT1": [
+  {
+    "cardname": "★ NCT Taeil",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TYNCT1": [
+  {
+    "cardname": "★ NCT Taeyong",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"TENCT1": [
+  {
+    "cardname": "★ NCT Ten",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"WWNCT1": [
+  {
+    "cardname": "★ NCT Winwin",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"XJNCT1": [
+  {
+    "cardname": "★ NCT Xiaojun",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YYNCT1": [
+  {
+    "cardname": "★ NCT YangYang",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUNCT1": [
+  {
+    "cardname": "★ NCT Yuta",
+    "cardgroup": "NCT",
+    "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
