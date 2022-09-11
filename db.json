@@ -27808,8 +27808,8 @@
 ],
 "YIDN3": [
   {
-    "cardname": "★★★ Dreamnote Youi",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Youi",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27818,8 +27818,8 @@
 
 "SMDN3": [
   {
-    "cardname": "★★★ Dreamnote Sumin",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Sumin",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27828,8 +27828,8 @@
 
 "MSDN3": [
   {
-    "cardname": "★★★ Dreamnote Miso",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Miso",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27838,8 +27838,8 @@
 
 "LADN3": [
   {
-    "cardname": "★★★ Dreamnote Lara",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Lara",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27848,8 +27848,8 @@
 
 "EJDN3": [
   {
-    "cardname": "★★★ Dreamnote Eunjo",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Eunjo",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -27858,8 +27858,8 @@
 
 "BNDN3": [
   {
-    "cardname": "★★★ Dreamnote Boni",
-    "cardgroup": "Dreamnote",
+    "cardname": "★★★ DreamNote Boni",
+    "cardgroup": "DreamNote",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28595,7 +28595,7 @@
     "cardname": "✬✬✬✬✬ Soloist HUTA",
     "cardgroup": "HUTA",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/rMdXU2f"
   }
 ],
 
