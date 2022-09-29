@@ -28919,7 +28919,7 @@
     "cardname": "✬✬✬✬✬ Soloist J-Hope",
     "cardgroup": "Patreon",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/a/fdXG7B6"
   }
 ],
 
@@ -29902,7 +29902,7 @@
     "cardname": "✬✬✬✬✬ fromis_9 Gyuri",
     "cardgroup": "Patreon",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/FHiELWr"
   }
 ],
 
@@ -31316,5 +31316,176 @@
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
-]
+],
+  
+  "JAEMARK": [
+    {
+      "cardname": "✬ NCT Jaehyun & Mark",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "KIDLEADER": [
+    {
+      "cardname": "✬ SNSD Taeyeon",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "BBUBBLE": [
+    {
+      "cardname": "✬ Build Jakapan",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "JEONGYEON": [
+    {
+      "cardname": "✬ TWICE Jeongyeon",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "MAXIDANG": [
+    {
+      "cardname": "✬ Stray Kids Felix",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "RKWN": [
+    {
+      "cardname": "✬ ATBO Rakwon",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "SUNNY": [
+    {
+      "cardname": "✬ ENHYPEN Sunoo",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "TSUKI": [
+    {
+      "cardname": "✬ Billlie Tsuki",
+      "cardgroup": "Patreon",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "GIMBAP": [
+    {
+      "cardname": "✬✬✬ TWICE Sana",
+      "cardgroup": "TWICE",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+
+  "PVNING": [
+    {
+      "cardname": "✬✬✬✬✬ aespa NingNing",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+
+  "YUKSEO": [
+    {
+      "cardname": "✬✬✬✬✬ DKB Yuku & Junseo",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "KUNLOML": [
+    {
+      "cardname": "✬✬✬✬✬ WayV Kun",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "ANGEL": [
+    {
+      "cardname": "✰✰✰✰✰ Kinnporsche Pete",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "YUKIKA": [
+    {
+      "cardname": "✬✬✬✬✬ Soloist Yukika",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "STARCANDY": [
+    {
+      "cardname": "✬✬✬✬✬ BTS Jungkook",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "NEVERCRY": [
+    {
+      "cardname": "✬✬✬✬✬ Soloist Jonghyun",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "DANN": [
+    {
+      "cardname": "✬✬✬✬✬ KINGDOM Dann",
+      "cardgroup": "KINGDOM",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "KD": [
+    {
+      "cardname": "✬✬✬✬✬ Soloist Kang Daniel",
+      "cardgroup": "Kang Daniel",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "AKMU": [
+    {
+      "cardname": "✬✬✬✬✬ AKMU",
+      "cardgroup": "Patreon",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ]
 }
