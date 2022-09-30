@@ -1236,8 +1236,8 @@
 
 "HSENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Heeseung",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Heeseung",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1246,8 +1246,8 @@
 
 "JAENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Jake",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Jake",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1256,8 +1256,8 @@
 
 "JWENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Jungwon",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1266,8 +1266,8 @@
 
 "JYENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Jay",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1276,8 +1276,8 @@
 
 "NKENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Ni-Ki",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1286,8 +1286,8 @@
 
 "SHENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Sunghoon",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -1296,8 +1296,8 @@
 
 "SNENTY4": [
   {
-    "cardname": "⭐⭐⭐⭐ Enhypen Sunoo",
-    "cardgroup": "Enhypen",
+    "cardname": "⭐⭐⭐⭐ ENHYPEN Sunoo",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -2135,42 +2135,6 @@
   {
     "cardname": "✰ Love Revolution Yang Min Ji",
     "cardgroup": "Drama",
-    "cardrarity": "1",
-    "cardworth": "35", 
-      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-"HE131": [
-  {
-    "cardname": "★ LOOΠΔ 1/3 Heejin",
-    "cardgroup": "LOOΠΔ 1/3",
-    "cardrarity": "1",
-    "cardworth": "35", 
-      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-"HY131": [
-  {
-    "cardname": "★ LOOΠΔ 1/3 Hyunjin",
-    "cardgroup": "LOOΠΔ 1/3",
-    "cardrarity": "1",
-    "cardworth": "35", 
-      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-"HA131": [
-  {
-    "cardname": "★ LOOΠΔ 1/3 Haseul",
-    "cardgroup": "LOOΠΔ 1/3",
-    "cardrarity": "1",
-    "cardworth": "35", 
-      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
-  }
-],
-"VI131": [
-  {
-    "cardname": "★ LOOΠΔ 1/3 Vivi",
-    "cardgroup": "LOOΠΔ 1/3",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10390,7 +10354,7 @@
 "KNPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Kino",
-    "cardgroup": "Pentagon",
+    "cardgroup": "PENTAGON",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10400,7 +10364,7 @@
 "WSPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Wooseok",
-    "cardgroup": "Pentagon",
+    "cardgroup": "PENTAGON",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10410,7 +10374,7 @@
 "YUPTC4": [
   {
     "cardname": "★★★★ PENTAGON (CERBERUS) Yuto",
-    "cardgroup": "Pentagon",
+    "cardgroup": "PENTAGON",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -10939,8 +10903,8 @@
 
 "DKBD": [
   {
-    "cardname": "<a:skypecake:888560707291992094> Seventeen DK",
-    "cardgroup": "Seventeen",
+    "cardname": "<a:skypecake:888560707291992094> SEVENTEEN DK",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "1",
     "cardworth": "35", 
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -11259,8 +11223,8 @@
 
 "WOSVWZ4": [
   {
-    "cardname": "<:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857> Seventeen Woozi",
-    "cardgroup": "Seventeen",
+    "cardname": "<:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857> SEVENTEEN Woozi",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
     "cardworth": "370", 
      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -11769,7 +11733,7 @@
 
 "YOSC1": [
   {
-    "cardname": "✦ Selca Pentagon Yeo One",
+    "cardname": "✦ Selca PENTAGON Yeo One",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -11789,7 +11753,7 @@
 
 "T8SC1": [
   {
-    "cardname": "✦ Selca Seventeen The8",
+    "cardname": "✦ Selca SEVENTEEN The8",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -12558,8 +12522,8 @@
 
 "HCSM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer NCT DREAM Haechan",
-    "cardgroup": "NCT DREAM",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer NCT Dream Haechan",
+    "cardgroup": "NCT Dream",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12629,8 +12593,8 @@
 
 "TYSM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer Twice Tzuyu",
-    "cardgroup": "Twice",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer TWICE Tzuyu",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12639,8 +12603,8 @@
 
 "NASM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer Twice Nayeon",
-    "cardgroup": "Twice",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer TWICE Nayeon",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12649,8 +12613,8 @@
 
 "JNSM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer Twice Jeongyeon",
-    "cardgroup": "Twice",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer TWICE Jeongyeon",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12659,8 +12623,8 @@
 
 "SASM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer Twice Sana",
-    "cardgroup": "Twice",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer TWICE Sana",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12669,8 +12633,8 @@
 
 "DASM4": [
   {
-    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer Twice Dahyun",
-    "cardgroup": "Twice",
+    "cardname": "<:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796><:crab_WZS:972482340704116796> Summer TWICE Dahyun",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardworth": "370",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12699,8 +12663,8 @@
   
       "MYGNS": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Agust D",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Agust D",
+          "cardgroup": "Agust D",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/HGEDqP5.gif"
@@ -12709,8 +12673,8 @@
       
       "ILLAILLA": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hanbin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Hanbin",
+          "cardgroup": "Hanbin",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/r569J6I.gif"
@@ -12719,8 +12683,8 @@
       
       "AIRPLANE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hanbin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Hanbin",
+          "cardgroup": "Hanbin",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/qugIxt7.gif"
@@ -12739,8 +12703,8 @@
       
       "BANG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Bang Chan",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Bang Chan",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/p0F31f9.gif"
@@ -12769,8 +12733,8 @@
       
       "MOBB2": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ MOBB Bobby & Mino",
+          "cardgroup": "MOBB",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/Igj9bmb"
@@ -12779,8 +12743,8 @@
       
       "MOBB1": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ MOBB Bobby & Mino",
+          "cardgroup": "MOBB",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/TmSJrw1"
@@ -12789,8 +12753,8 @@
       
       "MOBB": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Bobby & Mino",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ MOBB Bobby & Mino",
+          "cardgroup": "MOBB",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/tyb5sv7.gif"
@@ -12799,8 +12763,8 @@
       
       "BOMYOON": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Bomin & Y",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Golden Child Bomin & Y",
+          "cardgroup": "Golden Child",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/likPefT"
@@ -12809,8 +12773,8 @@
       
       "WOWKWAN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Byeongkwan & Wow",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ A.C.E Byeongkwan & Wow",
+          "cardgroup": "A.C.E",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/KmyR9zc.gif"
@@ -12819,8 +12783,8 @@
       
       "BETA": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Changbin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Changbin",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/TRiieFO.gif"
@@ -12829,8 +12793,8 @@
       
       "SMILING": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Cheng Xiao",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ WJSN Cheng Xiao",
+          "cardgroup": "WJSN",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/kinyq95.gif"
@@ -12839,8 +12803,8 @@
       
       "CHENJI": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Chenle & Jisung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT Chenle & Jisung",
+          "cardgroup": "NCT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/o6o6wVi.gif"
@@ -12849,8 +12813,8 @@
       
       "INHYUK": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Choi In",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ E'LAST Choi In",
+          "cardgroup": "E'LAST",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/kmjssql.gif"
@@ -12859,8 +12823,8 @@
       
       "JIWOOMING": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Chuu",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ LOOΠΔ Chuu",
+          "cardgroup": "LOOΠΔ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/6ykrYiP"
@@ -12889,8 +12853,8 @@
       
       "IAMDRUM": [
         {
-          "cardname": "✬ Patreon Custom Dowoon",
-          "cardgroup": "Patreon",
+          "cardname": "✬ DAY6 Dowoon",
+          "cardgroup": "DAY6",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12899,8 +12863,8 @@
       
       "DOYOUNG": [
         {
-          "cardname": "✬ Patreon Custom Baddie Doyoung",
-          "cardgroup": "Patreon",
+          "cardname": "✬ NCT Baddie Doyoung",
+          "cardgroup": "NCT",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12909,8 +12873,8 @@
       
       "YUM": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Doyum",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ JUST B Doyum",
+          "cardgroup": "JUST B",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/vEpqvsE"
@@ -12919,8 +12883,8 @@
       
       "ITECOO": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom DPR Live",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist DPR LIVE",
+          "cardgroup": "DPR LIVE",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/rc3Z4uP.gif"
@@ -12929,8 +12893,8 @@
       
       "KACHOWDY": [
         {
-          "cardname": "✬ Patreon Custom Felix",
-          "cardgroup": "Patreon",
+          "cardname": "✬ Stray Kids Felix",
+          "cardgroup": "Stray Kids",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -12939,8 +12903,8 @@
       
       "MARKHYUCK": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Haechan & Mark",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT Haechan & Mark",
+          "cardgroup": "NCT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/gc6P2MB.gif"
@@ -12949,18 +12913,18 @@
       
       "PRETTYBOY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hanse",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ VICTON Hanse",
+          "cardgroup": "VICTON",
           "cardrarity": "5",
-          "cardworth": "800",
+          "cardworth": "8000",
           "cardimage": "https://i.imgur.com/rf3fXYY.gif"
         }
       ],
       
       "HAYOUNG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hayoung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ fromis_9 Hayoung",
+          "cardgroup": "fromis_9",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/Nc7UPup.gif"
@@ -12969,8 +12933,8 @@
       
       "SEUNGIE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Heeseung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ENHYPEN Heeseung",
+          "cardgroup": "ENHYPEN",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/a/2O12fLw"
@@ -12979,8 +12943,8 @@
       
       "LEADER": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hongjoong",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Hongjoong",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/fIsgDq3.gif"
@@ -12989,8 +12953,8 @@
       
       "HUI65": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hui",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Triple H Hui",
+          "cardgroup": "Triple H",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/RLxSI7g.gif"
@@ -12999,8 +12963,8 @@
       
       "HYEMU": [
         {
-          "cardname": "✬ Patreon Custom Hyewon",
-          "cardgroup": "Patreon",
+          "cardname": "✬ IZ*ONE Hyewon",
+          "cardgroup": "IZ*ONE",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13009,8 +12973,8 @@
 
       "HYEMU1": [
         {
-          "cardname": "✬ Patreon Custom Hyewon",
-          "cardgroup": "Patreon",
+          "cardname": "✬ IZ*ONE Hyewon",
+          "cardgroup": "IZ*ONE",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13019,8 +12983,8 @@
       
       "REDSUN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hyunjin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Hyunjin",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/t3bwUUo.gif"
@@ -13029,8 +12993,8 @@
       
       "JJINNIE": [
         {
-          "cardname": "✬✬✬ Patreon Custom Hyunjin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ Stray Kids Hyunjin",
+          "cardgroup": "Stray Kids",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13039,8 +13003,8 @@
       
       "HYUNLIX": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Hyunjin & Felix",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Hyunjin & Felix",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/FMF6wFx.gif"
@@ -13059,8 +13023,8 @@
       
       "WANG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jackson Wang",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Jackson Wang",
+          "cardgroup": "Jackson Wang",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/xop8ap7.gif"
@@ -13069,8 +13033,8 @@
       
       "INMOT": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom I.N",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids I.N",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/mjdJert.gif"
@@ -13079,8 +13043,8 @@
       
       "LOML": [
         {
-          "cardname": "✬✬✬ Patreon Custom Jeongyeon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ TWICE Jeongyeon",
+          "cardgroup": "TWICE",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13089,8 +13053,8 @@
       
       "TWOYEON": [
         {
-          "cardname": "✬✬✬ Patreon Custom Jeongyeon & Nayeon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ TWICE Jeongyeon & Nayeon",
+          "cardgroup": "TWICE",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13099,8 +13063,8 @@
       
       "MOMANDDAD": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jihoon & Hyunsuk",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TREASURE Jihoon & Hyunsuk",
+          "cardgroup": "TREASURE",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/PKj73xd"
@@ -13109,8 +13073,8 @@
       
       "PROMISE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jimin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BTS Jimin",
+          "cardgroup": "BTS",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/RhDib7Y.gif"
@@ -13119,8 +13083,8 @@
       
       "JINDORI": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jinsoul",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ LOOΠΔ Jinsoul",
+          "cardgroup": "LOONA",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/UyIUlL7.gif"
@@ -13129,8 +13093,8 @@
       
       "DIVE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jinyoung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Jinyoung",
+          "cardgroup": "Jinyoung",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/KOzf0Jx.gif"
@@ -13139,8 +13103,8 @@
       
       "WGPG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jinyoung & Jackson",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ GOT7 Jinyoung & Jackson",
+          "cardgroup": "GOT7",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/a/ExrVdWw"
@@ -13149,8 +13113,8 @@
       
       "MINSUNG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jisung & Minho",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Stray Kids Jisung & Minho",
+          "cardgroup": "Stray Kids",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/saJ9P5S.gif"
@@ -13159,8 +13123,8 @@
       
       "JIBO": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom JiU & SuA",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Dreamcatcher JiU & SuA",
+          "cardgroup": "Dreamcatcher",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/a/pyAVYzw.gif"
@@ -13169,8 +13133,8 @@
       
       "UNGP1": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jiung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ P1Harmony Jiung",
+          "cardgroup": "P1Harmony",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/F6Qo1Sd.gif"
@@ -13179,8 +13143,8 @@
       
       "CUDDLY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jongho & Yeosang",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Jongho & Yeosang",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/1CgVM0T.gif"
@@ -13189,8 +13153,8 @@
       
       "FIVE5": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Joochan",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Golden Child Joochan",
+          "cardgroup": "Golden Child",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/Jcwf1ps.gif"
@@ -13199,8 +13163,8 @@
       
       "JUNHUI": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Jun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ SEVENTEEN Jun",
+          "cardgroup": "SEVENTEEN",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/K651838"
@@ -13229,8 +13193,8 @@
       
       "AUNTIE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Auntie Lee Know",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Auntie Lee Know",
+          "cardgroup": "Auntie",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/nNHpCIY.gif"
@@ -13239,8 +13203,8 @@
       
       "OMEGA": [
         {
-          "cardname": "✬✬✬ Patreon Custom Lee Know",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ Stray Kids Lee Know",
+          "cardgroup": "Stray Kids",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13249,8 +13213,8 @@
       
       "EDELWEISS": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Leo",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ T1419 Leo",
+          "cardgroup": "T1419",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/xSnHsrL.gif"
@@ -13259,8 +13223,8 @@
       
       "LALISA": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Lisa",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BLACKPINK Lisa",
+          "cardgroup": "BLACKPINK",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/KLTuOdg.gif"
@@ -13269,8 +13233,8 @@
       
       "LILI": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Lisa",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BLACKPINK Lisa",
+          "cardgroup": "BLACKPINK",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/FoXaik2.gif"
@@ -13279,8 +13243,8 @@
       
       "CUTE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Mark & Johnny",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT Mark & Johnny",
+          "cardgroup": "NCT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/ZC9BoY3"
@@ -13289,8 +13253,8 @@
       
       "MINGKIPUPPY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Mingi & Yunho",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Mingi & Yunho",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/FX0LCKI.gif"
@@ -13299,8 +13263,8 @@
       
       "DDAENGDDAENG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Minnie & Miyeon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ (G)I-DLE Minnie & Miyeon",
+          "cardgroup": "(G)I-DLE",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/1IMHGdX.gif"
@@ -13309,8 +13273,8 @@
       
       "MYEON": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Miyeon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ (G)-IDLE Miyeon",
+          "cardgroup": "(G)I-DLE",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/WTLAvjy.gif"
@@ -13319,8 +13283,8 @@
       
       "HABIN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Moonbin & Sanha",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ASTRO Moonbin & Sanha",
+          "cardgroup": "ASTRO",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/krJeLTF.gif"
@@ -13329,8 +13293,8 @@
       
       "RIKI": [
         {
-          "cardname": "✬ Patreon Custom Ni-Ki",
-          "cardgroup": "Patreon",
+          "cardname": "✬ ENHYPEN Ni-Ki",
+          "cardgroup": "ENHYPEN",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13339,8 +13303,8 @@
       
       "DAISY": [
         {
-          "cardname": "✬ Patreon Custom Nine",
-          "cardgroup": "Patreon",
+          "cardname": "✬ OnlyOneOf Nine",
+          "cardgroup": "OnlyOneOf",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13349,8 +13313,8 @@
       
       "NING": [
         {
-          "cardname": "✬ Patreon Custom Ningning",
-          "cardgroup": "Patreon",
+          "cardname": "✬ aespa Ningning",
+          "cardgroup": "aespa",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13359,8 +13323,8 @@
       
       "N1NG": [
         {
-          "cardname": "✬ Patreon Custom Ningning",
-          "cardgroup": "Patreon",
+          "cardname": "✬ aespa Ningning",
+          "cardgroup": "aespa",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13369,8 +13333,8 @@
       
       "JONGYU": [
         {
-          "cardname": "✬✬✬ Patreon Custom Onew & Jonghyun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ SHINee Onew & Jonghyun",
+          "cardgroup": "SHINee",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13379,8 +13343,8 @@
       
       "ROSE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Rosé",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BLACKPINK Rosé",
+          "cardgroup": "BLACKPINK",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/bbex7Vg.gif"
@@ -13389,8 +13353,8 @@
       
       "ROSIE": [
         {
-          "cardname": "✬ Patreon Custom Rosé",
-          "cardgroup": "Patreon",
+          "cardname": "✬ BLACKPINK Rosé",
+          "cardgroup": "BLACKPINK",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13399,8 +13363,8 @@
       
       "ROWOON": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Rowoon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ SF9 Rowoon",
+          "cardgroup": "SF9",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/TtBUo3n.gif"
@@ -13409,8 +13373,8 @@
       
       "ZOA": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Zoa",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Weeekly Zoa",
+          "cardgroup": "Weeekly",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/t0cVRMU.gif"
@@ -13429,8 +13393,8 @@
       
       "YUKI": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yuto & Kino",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ PENTAGON Yuto & Kino",
+          "cardgroup": "PENTAGON",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/ajswzHG.gif"
@@ -13439,8 +13403,8 @@
       
       "LION": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yuta",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT Yuta",
+          "cardgroup": "NCT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/RwkYvtF"
@@ -13449,8 +13413,8 @@
       
       "KIKA": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yukika",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Yukika",
+          "cardgroup": "Yukika",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/z6NVyVJ"
@@ -13459,8 +13423,8 @@
       
       "YUYAN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yu Yan",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ THE9 Yu Yan",
+          "cardgroup": "THE9",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/QbrUVhk.gif"
@@ -13479,8 +13443,8 @@
       
       "YOOPUP": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yoohyeon",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Dreamcatcher Yoohyeon",
+          "cardgroup": "Dreamcatcher",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/rkAt2g6.gif"
@@ -13489,8 +13453,8 @@
       
       "YEONBIN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun & Soobin",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TXT Yeonjun & Soobin",
+          "cardgroup": "TXT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/uOZDDjY.gif"
@@ -13499,8 +13463,8 @@
       
       "STARYJ": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TXT Yeonjun",
+          "cardgroup": "TXT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/9i7UkVs"
@@ -13509,8 +13473,8 @@
       
       "YJELLE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TXT Yeonjun",
+          "cardgroup": "TXT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/F0Zx8l0.gif"
@@ -13519,8 +13483,8 @@
       
       "YJSUPREMACY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TXT Yeonjun",
+          "cardgroup": "TXT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/WJ1bK8e.gif"
@@ -13529,8 +13493,8 @@
       
       "JUNNIE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ TXT Yeonjun",
+          "cardgroup": "TXT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/HXzXhMm.gif"
@@ -13539,8 +13503,8 @@
       
       "JIHOON": [
         {
-          "cardname": "✬✬✬ Patreon Custom Woozi",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ SEVENTEEN Woozi",
+          "cardgroup": "SEVENTEEN",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13549,8 +13513,8 @@
       
       "AMICUSADARAS": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Wooyoung & San",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Wooyoung & San",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/8b0KTsA.gif"
@@ -13559,8 +13523,8 @@
       
       "DOVEY": [
         {
-          "cardname": "✬✬✬ Patreon Custom Wooyoung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬ ATEEZ Wooyoung",
+          "cardgroup": "ATEEZ",
           "cardrarity": "3",
     "cardworth": "125",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13569,8 +13533,8 @@
       
       "BLACK": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Woosung",
+          "cardgroup": "Woosung",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/LPPMe9S.gif"
@@ -13579,8 +13543,8 @@
       
       "WOLF": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Woosung",
+          "cardgroup": "Woosung",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/3HKRONL.gif"
@@ -13589,8 +13553,8 @@
       
       "MOODZ": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom WOODZ",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist WOODZ",
+          "cardgroup": "WOODZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/bb7zdXv.gif"
@@ -13599,8 +13563,8 @@
       
       "KEYBOARD": [
         {
-          "cardname": "✬ Patreon Custom Wonpil",
-          "cardgroup": "Patreon",
+          "cardname": "✬ DAY6 Wonpil",
+          "cardgroup": "DAY6",
           "cardrarity": "1",
     "cardworth": "35",
           "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -13609,8 +13573,8 @@
       
       "HYUKIN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Won Hyuk",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ E'LAST Won Hyuk",
+          "cardgroup": "E'LAST",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/lnmJGX9.gif"
@@ -13619,8 +13583,8 @@
       
       "GYEOULIE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Winter",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ aespa Winter",
+          "cardgroup": "aespa",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/LGAOpRY"
@@ -13629,8 +13593,8 @@
       
       "WIN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Win",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ MCND Win",
+          "cardgroup": "MCND",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/utbCO9b"
@@ -13639,8 +13603,8 @@
       
       "VANTE": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom V",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BTS V",
+          "cardgroup": "BTS",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/rQVslxs.gif"
@@ -13649,8 +13613,8 @@
       
       "FRUITY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Ten",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Soloist Ten",
+          "cardgroup": "Ten",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/wikipQA.gif"
@@ -13659,8 +13623,8 @@
       
       "TAG": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Tag",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ Golden Child TAG",
+          "cardgroup": "Golden Child",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/ZWiUWYt.gif"
@@ -13669,8 +13633,8 @@
       
       "NOMANNERS": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Taeyong & Ten",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ NCT Taeyong & Ten",
+          "cardgroup": "NCT",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/IkAFSyz.gif"
@@ -13689,8 +13653,8 @@
       
       "TAEKOOK": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Taehyung & Jungkook",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BTS Taehyung & Jungkook",
+          "cardgroup": "BTS",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/8OKs9AU"
@@ -13699,8 +13663,8 @@
       
       "STUNNER": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Taehyung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ BTS Taehyung",
+          "cardgroup": "BTS",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/LBie5v4"
@@ -13709,8 +13673,8 @@
       
       "HEEHOON": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Sunghoon & Heesung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ENHYPEN Sunghoon & Heesung",
+          "cardgroup": "ENHYPEN",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/PZS6euh.gif"
@@ -13719,8 +13683,8 @@
       
       "SOOSHU": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Soojin & Shuhua",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ (G)I-DLE Soojin & Shuhua",
+          "cardgroup": "(G)I-DLE",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/RXaRIn0.gif"
@@ -13729,8 +13693,8 @@
       
       "HWASAN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa & San",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Seonghwa & San",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/a/Pdp9u52"
@@ -13739,8 +13703,8 @@
       
       "PINKY": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/iDLoi4V"
@@ -13749,8 +13713,8 @@
       
       "THIRST": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/YclwQzc.gif"
@@ -13759,8 +13723,8 @@
       
       "SAN": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom San",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ ATEEZ San",
+          "cardgroup": "ATEEZ",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://i.imgur.com/3tj9igs.gif"
@@ -13769,8 +13733,8 @@
       
       "HAROM": [
         {
-          "cardname": "✬✬✬✬✬ Patreon Custom Saerom & Hayoung",
-          "cardgroup": "Patreon",
+          "cardname": "✬✬✬✬✬ fromis_9 Saerom & Hayoung",
+          "cardgroup": "fromis_9",
           "cardrarity": "5",
           "cardworth": "8000",
           "cardimage": "https://imgur.com/EivjM6Y"
@@ -13859,7 +13823,7 @@
     ],
     "DHSCCE": [
       {
-        "cardname": "✦ Staff Selca Twice Dahyun",
+        "cardname": "✦ Staff Selca TWICE Dahyun",
         "cardgroup": "Staff Selca",
         "cardrarity": "1",
     "cardworth": "35",
@@ -15171,7 +15135,7 @@
 
 "HOTHEE": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Heeseung",
+    "cardname": "✬✬✬✬✬ ENHYPEN Heeseung",
     "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/IvfyDEJ.mp4"
@@ -15180,7 +15144,7 @@
 
 "JCC": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Johnny",
+    "cardname": "✬✬✬✬✬ NCT Johnny",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/rQoxnCU.mp4"
@@ -15189,7 +15153,7 @@
 
 "SOULMATES": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Jimin & Taehyung",
+    "cardname": "✬✬✬✬✬ BTS Jimin & Taehyung",
     "cardgroup": "BTS",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/YNryOzK.mp4"
@@ -15198,7 +15162,7 @@
 
 "VAMPIRE": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Mingi",
+    "cardname": "✬✬✬✬✬ ATEEZ Mingi",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/64fF3qj.mp4"
@@ -15207,7 +15171,7 @@
 
 "KING": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Hongjoong",
+    "cardname": "✬✬✬✬✬ ATEEZ Hongjoong",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/tav8wPe.mp4"
@@ -15216,7 +15180,7 @@
 
 "QUEEN": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Seonghwa",
+    "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
     "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/cxaA4TD.mp4"
@@ -15225,7 +15189,7 @@
 
 "NCTZONE": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Taeyong & Jungwoo",
+    "cardname": "✬✬✬✬✬ NCT Taeyong & Jungwoo",
     "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/gZ6PZpm.mp4"
@@ -15243,7 +15207,7 @@
 
 "EYEPATCH": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Jisung",
+    "cardname": "✬✬✬✬✬ Stray Kids Custom Jisung",
     "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/xGD83Hq.mp4"
@@ -15252,7 +15216,7 @@
 
 "로즈": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Dojoon & Jaehyeong",
+    "cardname": "✬✬✬✬✬ The Rose Dojoon & Jaehyeong",
     "cardgroup": "The Rose",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/JSPEZKT.mp4"
@@ -15261,8 +15225,8 @@
 
 "LEO": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Hyunjun Hur",
-    "cardgroup": "Hyunjun Hur",
+    "cardname": "✬✬✬✬✬ Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/Ii4EU0s.mp4"
   }
@@ -15270,8 +15234,8 @@
 
 "FAIRYBOY": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Hyunjun Hur",
-    "cardgroup": "Hyunjun Hur",
+    "cardname": "✬✬✬✬✬ Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/rGr9Byj.mp4"
   }
@@ -15279,7 +15243,7 @@
 
 "DIMPLES": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Woosung",
+    "cardname": "✬✬✬✬✬ The Rose Woosung",
     "cardgroup": "The Rose",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/O9BNgO6.mp4"
@@ -15288,7 +15252,7 @@
 
 "쓰": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Jisung",
+    "cardname": "✬✬✬✬✬ 3RACHA Jisung",
     "cardgroup": "3RACHA",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/vRoS0TR.mp4"
@@ -15297,7 +15261,7 @@
 
 "HWANWOONG": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Hwanwoong",
+    "cardname": "✬✬✬✬✬ ONEUS Hwanwoong",
     "cardgroup": "ONEUS",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/kgFBehA.mp4"
@@ -15306,7 +15270,7 @@
 
 "VIOLIN": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Joochan",
+    "cardname": "✬✬✬✬✬ Golden Child Joochan",
     "cardgroup": "Golden Child",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/C5l7ZyQ.mp4"
@@ -15324,7 +15288,7 @@
 
 "YEWONIE": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom OH MY GIRL Arin",
+    "cardname": "✬✬✬✬✬ OH MY GIRL Arin",
     "cardgroup": "OH MY GIRL",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/qaQtxdZ.mp4"
@@ -15333,7 +15297,7 @@
 
 "卓卓": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom aespa Ningning",
+    "cardname": "✬✬✬✬✬ aespa Ningning",
     "cardgroup": "aespa",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/UVUcOQl.mp4"
@@ -15360,7 +15324,7 @@
 
 "G4UJU": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Jiung",
+    "cardname": "✬✬✬✬✬ P1Harmony Jiung",
     "cardgroup": "P1Harmony",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/K7OQTNI.mp4"
@@ -15369,8 +15333,8 @@
 
 "DUMBBELLSC1": [
   {
-    "cardname": "✦ Selca Seventeen Hoshi",
-    "cardgroup": "Seventeen",
+    "cardname": "✦ Selca SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -15378,8 +15342,8 @@
 
 "GENTLESEXYSC1": [
   {
-    "cardname": "✦ Selca Seventeen Joshua",
-    "cardgroup": "Seventeen",
+    "cardname": "✦ Selca SEVENTEEN Joshua",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -15414,8 +15378,8 @@
 
 "MYMELODYSC1": [
   {
-    "cardname": "✦ Selca Lightsum Yujeong",
-    "cardgroup": "Lightsum",
+    "cardname": "✦ Selca LIGHTSUM Yujeong",
+    "cardgroup": "LIGHTSUM",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -15469,7 +15433,7 @@
 
 "TYUNNING": [
   {
-    "cardname": "✬ Patreon Custom Taehyun & Huening Kai",
+    "cardname": "✬ TXT Taehyun & Huening Kai",
     "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15478,7 +15442,7 @@
 
 "MOONBAE": [
   {
-    "cardname": "✬ Patreon Custom Kevin & Jacob",
+    "cardname": "✬ The Boyz Kevin & Jacob",
     "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -15505,7 +15469,7 @@
 
 "CHANGKYUN": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom I.M",
+    "cardname": "✬✬✬✬✬ MONSTA X I.M",
     "cardgroup": "MONSTA X",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/YXMBfDW.mp4"
@@ -15514,7 +15478,7 @@
 
 "DISCOYJ": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Yeonjun",
+    "cardname": "✬✬✬✬✬ TXT Yeonjun",
     "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/J7sgYDI.mp4"
@@ -15523,7 +15487,7 @@
 
 "ROMSYEON": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Saerom & Seoyeon",
+    "cardname": "✬✬✬✬✬ fromis_9 Saerom & Seoyeon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/LMBMBeJ"
@@ -15532,7 +15496,7 @@
 
 "JUNGEUN": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Kim Lip",
+    "cardname": "✬✬✬✬✬ LOOΠΔ Kim Lip",
     "cardgroup": "LOONA",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/pIX9i9p"
@@ -15541,7 +15505,7 @@
 
 "HUSBAND": [
   {
-    "cardname": "✬✬✬✬✬ Patreon Custom Jake",
+    "cardname": "✬✬✬✬✬ ENHYPEN Jake",
     "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/2HoznEJ"
@@ -15550,8 +15514,8 @@
 
 "さよならひとり": [
   {
-    "cardname": "★★★★★ Soloist Taemin",
-    "cardgroup": "Soloist",
+    "cardname": "✬✬✬✬✬ Soloist Taemin",
+    "cardgroup": "Taemin",
     "cardrarity": "5",
     "cardimage": "https://i.imgur.com/0ED3Amo.mp4"
   }
@@ -15559,7 +15523,7 @@
 
 "JUNHOLEE": [
   {
-    "cardname": "★★★★★ 2PM Junho",
+    "cardname": "✬✬✬✬✬ 2PM Junho",
     "cardgroup": "2PM",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/QL9AizG"
@@ -15567,7 +15531,7 @@
 ],
 "JAILEDJAEMIN": [
   {
-    "cardname":"★ NCT Jaemin (Jailed Version)",
+    "cardname":"✬ NCT Jaemin (Jailed Version)",
     "cardgroup":"NCT",
     "cardrarity": "1",
     "cardworth": "370", 
@@ -15576,7 +15540,7 @@
 ],
 "KINGHYUN": [
   {
-    "cardname":"★ Stray Kids Hyunjin",
+    "cardname":"✬ Stray Kids Hyunjin",
     "cardgroup":"Stray Kids",
     "cardrarity": "1",
     "cardworth": "370", 
@@ -15586,7 +15550,7 @@
 
 "KINGLIX": [
   {
-    "cardname":"★ Stray Kids Felix",
+    "cardname":"✬ Stray Kids Felix",
     "cardgroup":"Stray Kids",
     "cardrarity": "1",
     "cardworth": "370", 
@@ -18964,7 +18928,7 @@
 
 "NYSC1": [
   {
-    "cardname": "✦ Selca Lightsum Nayoung",
+    "cardname": "✦ Selca LIGHTSUM Nayoung",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -18974,7 +18938,7 @@
 
 "SGSC1": [
   {
-    "cardname": "✦ Selca Lightsum Sangah",
+    "cardname": "✦ Selca LIGHTSUM Sangah",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardworth": "35", 
@@ -19174,7 +19138,7 @@
 "MINNICHA": [
   {
     "cardname": "✬ (G)I-DLE Minnie",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19183,7 +19147,7 @@
 "FAIRYCHAEWON": [
   {
     "cardname": "✬ IZ*ONE Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19192,7 +19156,7 @@
 "JJOYUL": [
   {
     "cardname": "✬ IZ*ONE Yuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19201,7 +19165,7 @@
 "HYUKA": [
   {
     "cardname": "✬ TXT Huening Kai",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19210,7 +19174,7 @@
 "DUCKQUEEN": [
   {
     "cardname": "✬ IZ*ONE Yena",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19220,7 +19184,7 @@
 "MINT": [
   {
     "cardname": "✬ IZ*ONE Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19230,7 +19194,7 @@
 "KAROMI": [
   {
     "cardname": "✬ aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19240,7 +19204,7 @@
 "RIRI": [
   {
     "cardname": "✬ aespa Giselle",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19249,7 +19213,7 @@
 "MINDUNGIE": [ 
   {
     "cardname": "✬ aespa Winter",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19258,7 +19222,7 @@
 "IMSALTY": [
   {
     "cardname": "✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19267,7 +19231,7 @@
 "OSAKA127": [
   {
     "cardname": "✬ NCT Yuta",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19276,7 +19240,7 @@
 "SHOTATO": [
   {
     "cardname": "✬ NCT Shotaro",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19285,7 +19249,7 @@
 "DDAY": [
   {
     "cardname": "✬ Xdinary Heroes Jooyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Xdinary Heroes",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19303,7 +19267,7 @@
 "WINLISA": [
   {
     "cardname": "✬ BLACKPINK Lisa",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19312,7 +19276,7 @@
 "WINHWA": [
   {
     "cardname": "✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19320,8 +19284,8 @@
  
 "WINYOOH": [
   {
-    "cardname": "✬ DREAMCATCHER Yoohyeon",
-    "cardgroup": "Patreon",
+    "cardname": "✬ Dreamcatcher Yoohyeon",
+    "cardgroup": "Dreamcatcher",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19330,7 +19294,7 @@
 "WINTAE": [
   {
     "cardname": "✬ SHINee Taemin",
-    "cardgroup": "Patreon",
+    "cardgroup": "SHINee",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19339,7 +19303,7 @@
 "JOGURI": [
   {
     "cardname": "✬ IZ*ONE Yuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19366,7 +19330,7 @@
 "GUITAR": [
   {
     "cardname": "✬ DAY6 Sungjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "DAY6",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19375,7 +19339,7 @@
 "YURI": [
   {
     "cardname": "✬ IZ*ONE Yuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19384,7 +19348,7 @@
 "BREADJIN": [
   {
     "cardname": "✬ LOOΠΔ Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19393,7 +19357,7 @@
 "PRINCEJIN": [
   {
     "cardname": "✬ Stray Kids Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19402,7 +19366,7 @@
 "VOBO": [
   {
     "cardname": "✬✬✬ SEVENTEEN Woozi",
-    "cardgroup": "Patreon",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19420,7 +19384,7 @@
 "TENYANG": [
   {
     "cardname": "✬✬✬✬✬ WayV Ten & YangYang",
-    "cardgroup": "Patreon",
+    "cardgroup": "WayV",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/kUxEmLD.mp4"
   }
@@ -19429,7 +19393,7 @@
 "BRUNI": [
   {
     "cardname": "✬✬✬✬✬ LOOΠΔ Jinsoul",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/cSQK86V.mp4"
   }
@@ -19438,7 +19402,7 @@
 "FESKCHZ5": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/friDtcf.mp4"
   }
@@ -19447,7 +19411,7 @@
 "LIXMAS": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/obzW7nT.mp4"
   }
@@ -19456,7 +19420,7 @@
 "YUJIMIN": [
   {
     "cardname": "✬✬✬✬✬ aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/jXb4VOg.mp4"
   }
@@ -19465,7 +19429,7 @@
 "BUTTER": [
   {
     "cardname": "✬✬✬✬✬ BTS Jimin",
-    "cardgroup": "Patreon",
+    "cardgroup": "BTS",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/jxVJ9yi.mp4"
   }
@@ -19474,7 +19438,7 @@
 "CHERRY": [
   {
     "cardname": "✬✬✬✬✬ (G)I-DLE Soojin",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/AkHlZRM.mp4"
   }
@@ -19483,7 +19447,7 @@
 "DOOR": [
   {
     "cardname": "✬✬✬✬✬ Soloist Eunbi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Eunbi",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/rzYHwe3.mp4"
   }
@@ -19493,7 +19457,7 @@
 "VOGUEYJ": [
   {
     "cardname": "✬✬✬✬✬ TXT Yeonjun",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/qfFjgCe.mp4"
   }
@@ -19502,7 +19466,7 @@
 "SSAMJO": [
   {
     "cardname": "✬✬✬✬✬ IZ*ONE Chaewon & Yuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/9RDoRYr"
   }
@@ -19511,7 +19475,7 @@
 "CHUJI": [
   {
     "cardname": "✬✬✬✬✬ JUST B JM",
-    "cardgroup": "Patreon",
+    "cardgroup": "JUST B",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Ocab9iP"
   }
@@ -19520,7 +19484,7 @@
 "FESKWF5": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/4cIL2eo"
   }
@@ -19529,7 +19493,7 @@
 "FESKWG5": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/aAT2nQ8"
   }
@@ -19538,25 +19502,16 @@
 "FESKLVTR5": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/jUkk3LR"
-  }
-], 
-
-"YEONBIN1": [
-  {
-    "cardname": "✬✬✬✬✬ TXT Yeonjun & Soobin",
-    "cardgroup": "Patreon",
-    "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
   }
 ], 
 
 "TAEHYUN": [
   {
     "cardname": "✬✬✬✬✬ TXT Taehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/hqImqIm"
   }
@@ -19565,7 +19520,7 @@
 "PAINTME": [
   {
     "cardname": "✬✬✬✬✬ 2CHAN",
-    "cardgroup": "Patreon",
+    "cardgroup": "2CHAN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/TNBsWcP"
   }
@@ -19574,7 +19529,7 @@
 "WINE": [
   {
     "cardname": "✰✰✰✰✰ The Sweet Blood Yoon Chi Woo",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Sweet Blood",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/uoc6cdM"
   }
@@ -19583,7 +19538,7 @@
 "HEART": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/kwMevg1"
   }
@@ -19592,7 +19547,7 @@
 "LOVE": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Hongjoong",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/kJug6n0"
   }
@@ -19601,34 +19556,34 @@
 "COLIN": [
   {
     "cardname": "✬✬✬✬✬ 1TEAM Rubin",
-    "cardgroup": "Patreon",
+    "cardgroup": "1TEAM",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/fezCPKp"
   }
 ], 
 
 "JINSHASHA": [
   {
     "cardname": "✬✬✬✬✬ 1TEAM BC",
-    "cardgroup": "Patreon",
+    "cardgroup": "1TEAM",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/5g1W8ye"
   }
 ], 
 
 "LMD": [
   {
-    "cardname": "✬✬✬✬✬ Soloist Hyunjun Hur",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/CO9C8zS"
   }
 ], 
 
 "JUNLOML": [
   {
     "cardname": "✬✬✬✬✬ SEVENTEEN Jun",
-    "cardgroup": "Patreon",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/v6MPdJO"
   }
@@ -19641,10 +19596,11 @@
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
+
 "GLASSY": [
   {
     "cardname": "✬ IZ*ONE Yuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19653,7 +19609,7 @@
 "MITO": [
   {
     "cardname": "✬✬✬✬✬ DPR IAN",
-    "cardgroup": "Patreon",
+    "cardgroup": "DPR IAN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/ke3P3Te"
   }
@@ -19662,7 +19618,7 @@
 "AOTM": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/mTIqbjf"
   }
@@ -19671,30 +19627,24 @@
 "EAJ": [
   {
     "cardname": "✬ DAY6 Jae",
-    "cardgroup": "Patreon",
+    "cardgroup": "DAY6",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
-"JYPOPPAR": [
-  {
-    "cardname": "★★★★★★★★★★ Jyp Oppar",
-    "cardgroup": "PAPI",
-    "cardrarity": "INFINITY",
-    "cardimage": "https://cdn.discordapp.com/attachments/750695212518604882/935452415937900584/jyp.jpg"
-  }
-],
+
 "MOMO": [
   {
-    "cardname": "✧✧✧ Twice Momo Limited Card",
-    "cardgroup": "Twice",
+    "cardname": "✧✧✧ Limited TWICE Momo",
+    "cardgroup": "TWICE",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ],
+
 "JUMIL": [
   {
-    "cardname": "✧✧✧ The Boyz JUMIL Limited Card",
+    "cardname": "✧✧✧ Limited The Boyz JUMIL",
     "cardgroup": "The Boyz",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19703,7 +19653,7 @@
 
 "CHANGMIN": [
   {
-    "cardname": "✧✧✧ The Boyz Q Limited Card",
+    "cardname": "✧✧✧ Limited The Boyz Q",
     "cardgroup": "The Boyz",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19711,7 +19661,7 @@
 ],
 "ISA": [
   {
-    "cardname": "✧✧✧ STAYC Isa Limited Card",
+    "cardname": "✧✧✧ Limited STAYC Isa",
     "cardgroup": "STAYC",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19719,7 +19669,7 @@
 ],
 "CHUU": [
   {
-    "cardname": "✧✧✧ LOOΠΔ Chuu Limited Card",
+    "cardname": "✧✧✧ Limited LOOΠΔ Chuu",
     "cardgroup": "LOONA",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -19873,8 +19823,8 @@
 
 "JITWVD4": [
   {
-    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Twice Jihyo",
-    "cardgroup": "Twice",
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> TWICE Jihyo",
+    "cardgroup": "TWICE",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -19960,8 +19910,8 @@
 ],
 "HHSOVD4": [
   {
-    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist Hyunjun Hur",
-    "cardgroup": "Hyunjun Hur",
+    "cardname": "<:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048><:Vheart_WZ:939697273573634048> Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20519,8 +20469,8 @@
 ],
 "GOOFY": [
   {
-    "cardname": "✧✧✧✧ Twice Jihyo Limited Card",
-    "cardgroup": "Twice",
+    "cardname": "✧✧✧✧ TWICE Jihyo Limited Card",
+    "cardgroup": "TWICE",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20979,7 +20929,7 @@
 "YNS": [
   {
     "cardname": "✬✬✬✬✬ TXT Yeonjun & Soobin",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/0WKR25s"
   }
@@ -20987,7 +20937,7 @@
 "DDEONU": [
   {
     "cardname": "✬ ENHYPEN Sunoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -20996,16 +20946,16 @@
 "HANBIN": [
   {
     "cardname": "✬✬✬✬✬ TEMPEST Hanbin",
-    "cardgroup": "Patreon",
+    "cardgroup": "TEMPEST",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/i6wiy3a"
   }
 ],
 
 "BROWTF": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21014,7 +20964,7 @@
 "BETONMIN": [
   {
     "cardname": "✬✬✬✬✬ NU'EST Minhyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "NU'EST",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/3XaepTB"
   }
@@ -21023,7 +20973,7 @@
 "HYUNGGU": [
   {
     "cardname": "✬✬✬✬✬ PENTAGON Kino",
-    "cardgroup": "Patreon",
+    "cardgroup": "PENTAGON",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/VJyp2iZ"
   }
@@ -21032,16 +20982,16 @@
 "HYLIX": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Hyunjin and Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/bEZlVmF"
   }
 ],
 
 "BEAUTYPL": [
   {
     "cardname": "✬ Stray Kids Lee Know",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21050,33 +21000,33 @@
 "PRINCEWINK": [
   {
     "cardname": "✬✬✬✬✬ 1TEAM Jehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "1TEAM",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/wqfX6i4"
   }
 ],
 
 "JINWOO": [
   {
     "cardname": "✬✬✬✬✬ 1TEAM Jinwoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "1TEAM",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/tzc0qcR"
   }
 ],
 
 "SEUNGJUN": [
   {
     "cardname": "✬✬✬✬✬ VICTON Sejun and Seungwoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "VICTON",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/a/Ut2G3SF"
   }
 ],
 "FLOWERS": [
   {
     "cardname": "✬✬✬✬✬ IZ*ONE Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/pf1Ckeu"
   }
@@ -21085,7 +21035,7 @@
 "WOOGI": [
   {
     "cardname": "✬✬✬✬✬ (G)I-DLE Yuqi",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/jdswjM8"
   }
@@ -21094,7 +21044,7 @@
 "LILIMOVES": [
   {
     "cardname": "✬✬✬✬✬ BLACKPINK Lisa",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/2R4u7yx"
   }
@@ -21103,7 +21053,7 @@
 "ROZALIN": [
   {
     "cardname": "✬✬✬✬✬ WANT Rozalin",
-    "cardgroup": "Patreon",
+    "cardgroup": "WANT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/9jLJ2DC"
   }
@@ -21112,7 +21062,7 @@
 "CHILD": [
   {
     "cardname": "✬✬✬✬✬ Soloist Mark",
-    "cardgroup": "Patreon",
+    "cardgroup": "Mark",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/9jXmhGV"
   }
@@ -21121,7 +21071,7 @@
 "IMBLUE": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/JnQSh3p"
   }
@@ -21130,7 +21080,7 @@
 "DONTSTOP": [
   {
     "cardname": "✬✬✬✬✬ Cuties",
-    "cardgroup": "Patreon",
+    "cardgroup": "Cuties",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/X5KZbA2"
   }
@@ -21139,7 +21089,7 @@
 "YAWNZZN": [
   {
     "cardname": "✬✬✬✬✬ TXT Yeonjun",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/9xKCa80"
   }
@@ -21148,7 +21098,7 @@
 "OYTYSAH": [
   {
     "cardname": "✬✬✬✬✬ ENHYPEN Ni-ki",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/PSYaSNl"
   }
@@ -21157,7 +21107,7 @@
 "COSMOS5": [
   {
     "cardname": "✬✬✬✬✬ Soloist B.I",
-    "cardgroup": "Patreon",
+    "cardgroup": "B.I",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/jOz4ARg"
   }
@@ -21166,7 +21116,7 @@
 "ADDRACTIVE": [
   {
     "cardname": "✬✬✬✬✬ ITZY Yeji",
-    "cardgroup": "Patreon",
+    "cardgroup": "ITZY",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/vPvEtYR"
   }
@@ -21175,7 +21125,7 @@
 "HYEWON": [
   {
     "cardname": "✬✬✬✬✬ Soloist Hyewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Hyewon",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/WAdOiDv"
   }
@@ -21184,7 +21134,7 @@
 "PARKSOOYOUNG": [
   {
     "cardname": "✬✬✬ Red Velvet Joy",
-    "cardgroup": "Patreon",
+    "cardgroup": "Red Velvet",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21192,7 +21142,7 @@
 "WINLIX": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21201,7 +21151,7 @@
 "YIHYUN": [
   {
     "cardname": "✰✰✰ Cho Yi Hyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Cho Yi Hyun",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21210,7 +21160,7 @@
 "LEE": [
   {
     "cardname": "✰ Lee Yoo Mi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Lee Yoo Mi",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21219,7 +21169,7 @@
 "SKYBLUE": [
   {
     "cardname": "✬ fromis_9 Hayoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "fromis_9",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21228,7 +21178,7 @@
 "YORM": [
   {
     "cardname": "✬ WJSN Yeoreum",
-    "cardgroup": "Patreon",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21237,7 +21187,7 @@
 "HWAHWA": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/mdRkOlM"
   }
@@ -21246,7 +21196,7 @@
 "SANJOOK": [
   {
     "cardname": "✬ ATEEZ San",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21255,7 +21205,7 @@
 "BOO": [
   {
     "cardname": "✬ NCT Doyoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21263,8 +21213,8 @@
 
 "YONGGUK": [
   {
-    "cardname": "✬✬✬✬✬ Bang Yongguk",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ Soloist Bang Yongguk",
+    "cardgroup": "Bang Yongguk",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/iABG1ik"
   }
@@ -21273,7 +21223,7 @@
 "RACHARACHARACHA": [
   {
     "cardname": "✬✬✬✬✬ 3RACHA",
-    "cardgroup": "Patreon",
+    "cardgroup": "3RACHA",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/UeVL9wp"
   }
@@ -21281,7 +21231,7 @@
 "KARINA": [
   {
     "cardname": "✬✬✬✬✬ aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/v3FaI6S"
   }
@@ -21290,7 +21240,7 @@
 "BARBIE": [
   {
     "cardname": "✬✬✬✬✬ NCT Jungwoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/BDao3Uf"
   }
@@ -21298,8 +21248,8 @@
 
 "AUSSIES": [
   {
-    "cardname": "✬✬✬✬✬ Stray Kids Bangchan & Felix",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ Stray Kids Bang Chan & Felix",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/kVhJZvN"
   }
@@ -21308,7 +21258,7 @@
 "THUNLIX": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/g6t223n"
   }
@@ -21317,7 +21267,7 @@
 "JAEHYUN": [
   {
     "cardname": "✬✬✬✬✬ NCT Jaehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/fsWm4T4"
   }
@@ -21326,7 +21276,7 @@
 "INSKZ": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids I.N",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/YURrdfH"
   }
@@ -21335,7 +21285,7 @@
 "MAKEAWISH": [
   {
     "cardname": "✬✬✬✬✬ NCT Jaemin",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/gKcmDEg"
   }
@@ -21344,7 +21294,7 @@
 "GHOST": [
   {
     "cardname": "✰✰✰✰✰ The Mysterious Class Haruto",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/3QFDV3s"
   }
@@ -21352,8 +21302,8 @@
 
 "HOONHEE": [
   {
-    "cardname": "✬✬✬✬✬ Enhypen Sunghoon & Heeseung",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ ENHYPEN Sunghoon & Heeseung",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/As55juO"
   }
@@ -21361,8 +21311,8 @@
 
 "DOHANSE": [
   {
-    "cardname": "✬✬✬✬✬ Victon Hanse",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ VICTON Hanse",
+    "cardgroup": "VICTON",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Q4L1YPa"
   }
@@ -21371,7 +21321,7 @@
 "LIMJI": [
   {
     "cardname": "✬✬✬✬✬ Soloist Lim Jimin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Lim Jimin",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/5rOHwnm"
   }
@@ -21380,7 +21330,7 @@
 "더": [
   {
     "cardname": "✬✬✬✬✬ The Rose Hajoon",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Rose",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Ljo4u9Q"
   }
@@ -21388,7 +21338,7 @@
 "FFC3": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21397,7 +21347,7 @@
 "KINGHAN": [
   {
     "cardname": "✬ Stray Kids Han",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21415,7 +21365,7 @@
 "TAENGOO": [
   {
     "cardname": "✬ Soloist Taeyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Taeyeon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21424,7 +21374,7 @@
 "SK8SOXER": [
   {
     "cardname": "✬ Sublime Artist Agency Kim Jihyang",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kim Jihyang",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21433,7 +21383,7 @@
 "BUBBLELIX": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21442,7 +21392,7 @@
 "FULLMOON": [
   {
     "cardname": "✬ IZ*ONE Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21450,7 +21400,7 @@
 
 "JUNGWONDAY": [
   {
-    "cardname": "<a:skypecake:888560707291992094> Enhypen Jungwon",
+    "cardname": "<a:skypecake:888560707291992094> ENHYPEN Jungwon",
     "cardgroup": "Custom Birthday",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -21460,7 +21410,7 @@
 "WINHWALL": [
   {
     "cardname": "✬ The Boyz Hwall",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21469,7 +21419,7 @@
 "WINWONNIE": [
   {
     "cardname": "✬ LOOΠΔ Gowon",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21478,7 +21428,7 @@
 "CEOFELIX": [
   {
     "cardname": "✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21487,7 +21437,7 @@
 "BBANGNYU": [
   {
     "cardname": "✬✬✬ The Boyz Younghoon & New",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21496,7 +21446,7 @@
 "MINJI": [
   {
     "cardname": "✬✬✬ Dreamcatcher Jiu",
-    "cardgroup": "Patreon",
+    "cardgroup": "Dreamcatcher",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -21505,7 +21455,7 @@
 "NOZEWORLD": [
   {
     "cardname": "✬✬✬✬✬ WayB Noze",
-    "cardgroup": "Patreon",
+    "cardgroup": "WayB",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/RS5mxGw"
   }
@@ -21514,7 +21464,7 @@
 "GYURI": [
   {
     "cardname": "✬✬✬✬✬ fromis_9 Gyuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "fromis_9",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/BZxk9Yg"
   }
@@ -21522,8 +21472,8 @@
 
 "NIKITTY": [
   {
-    "cardname": "✬✬✬✬✬ Enhypen Ni-ki",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ ENHYPEN Ni-ki",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/FspsStb"
   }
@@ -21532,7 +21482,7 @@
 "LXXK2U": [
   {
     "cardname": "✬✬✬✬✬ Soloist Yena",
-    "cardgroup": "Patreon",
+    "cardgroup": "Yena",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/jTBJke8"
   }
@@ -21540,8 +21490,8 @@
 
 "JAY": [
   {
-    "cardname": "✬✬✬✬✬ Enhypen Jay",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/AbtRxUQ"
   }
@@ -21549,8 +21499,8 @@
 
 "LABOYARON": [
   {
-    "cardname": "✬✬✬✬✬ Nu'est Aron",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ NU'EST Aron",
+    "cardgroup": "NU'EST",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/O5v5IXP"
   }
@@ -22980,7 +22930,7 @@
 ],
 "NEW4": [
   {
-    "cardname": "✧✧✧✧ The Boyz Chanhee Limited Card",
+    "cardname": "✧✧✧✧ Limited The Boyz Chanhee",
     "cardgroup": "The Boyz",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -22988,7 +22938,7 @@
 ],
 "ZICO4": [
   {
-    "cardname": "✧✧✧✧ Soloist Zico Limited Card",
+    "cardname": "✧✧✧✧ Limited Soloist Zico",
     "cardgroup": "Zico",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/WWrbJng"
@@ -23112,7 +23062,7 @@
 
 "JNS6SC1": [
   {
-    "cardname": "✦ Selca Seventeen Jun",
+    "cardname": "✦ Selca SEVENTEEN Jun",
     "cardgroup": "Selca",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -24485,7 +24435,7 @@
 "LUCAS": [
   {
     "cardname": "✬✬ NCT Lucas",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24494,7 +24444,7 @@
 "THEO": [
   {
     "cardname": "✬✬ P1Harmony Theo",
-    "cardgroup": "Patreon",
+    "cardgroup": "P1Harmony",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24503,7 +24453,7 @@
 "ILOVEDARONG": [
   {
     "cardname": "✬✬✬✬ The Boyz Hyunjae",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24512,7 +24462,7 @@
 "MYVIEW": [
   {
     "cardname": "✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24521,7 +24471,7 @@
 "VIBE": [
   {
     "cardname": "✬ ATEEZ Hongjoong",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24530,7 +24480,7 @@
 "BABE": [
   {
     "cardname": "✬ NCT Ten",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24539,7 +24489,7 @@
 "DISSONANCE": [
   {
     "cardname": "✬ Soloist Mudd the student",
-    "cardgroup": "Patreon",
+    "cardgroup": "Mudd the student",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24548,7 +24498,7 @@
 "SUNGLASSES": [
   {
     "cardname": "✬✬✬ Soloist Big Naughty",
-    "cardgroup": "Patreon",
+    "cardgroup": "Big Naughty",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24557,7 +24507,7 @@
 "STARS": [
   {
     "cardname": "✬ Soloist BE'O",
-    "cardgroup": "Patreon",
+    "cardgroup": "BE'O",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24566,7 +24516,7 @@
 "BLUELIX": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24575,7 +24525,7 @@
 "JENDEUK": [
   {
     "cardname": "✬ BLACKPINK Jennie",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24584,7 +24534,7 @@
 "JE1OVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Omega X Jehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24593,7 +24543,7 @@
 "LSBPVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> BLACKPINK Lisa",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24602,7 +24552,7 @@
 "FESKVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24611,7 +24561,7 @@
 "JHN1VD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> NCT 127 Jaehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24619,7 +24569,7 @@
 "KAAEVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24628,7 +24578,7 @@
 "WIAEVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Winter",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24637,7 +24587,7 @@
 "KHOWVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ONEWE Kanghyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24646,7 +24596,7 @@
 "CBSKVD4": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Changbin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24664,7 +24614,7 @@
 "JICHU": [
   {
     "cardname": "✬ BLACKPINK Jisoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24673,7 +24623,7 @@
 "CROCODILERINA": [
   {
     "cardname": "✬ aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24682,7 +24632,7 @@
 "LOML2": [
   {
     "cardname": "✬ TWICE Jeongyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "TWICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24691,7 +24641,7 @@
 "NOJAMBROS": [
   {
     "cardname": "✬ TWICE Chaeyoung and Jeongyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "TWICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24700,7 +24650,7 @@
 "ROOMMATES": [
   {
     "cardname": "✬ TWICE Jeongyeon and Momo",
-    "cardgroup": "Patreon",
+    "cardgroup": "TWICE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24709,7 +24659,7 @@
 "SHESMYJOY": [
   {
     "cardname": "✬ Red Velvet Joy",
-    "cardgroup": "Patreon",
+    "cardgroup": "Red Velvet",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24719,7 +24669,7 @@
 "ESPER": [
   {
     "cardname": "✬ Soloist Eunbi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Eunbi",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24728,7 +24678,7 @@
 "CHODIB": [
   {
     "cardname": "✬ (G)I-DLE Miyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24737,7 +24687,7 @@
 "DDEUKIE": [
   {
     "cardname": "✬ BLACKPINK Jennie",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24746,7 +24696,7 @@
 "CHICHU": [
   {
     "cardname": "✬ BLACKPINK Jisoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24754,7 +24704,7 @@
 "WINDY": [
   {
     "cardname": "✬ (G)I-DLE Soyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24763,7 +24713,7 @@
 "LALA": [
   {
     "cardname": "✬ BLACKPINK Lisa",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24772,7 +24722,7 @@
 "ROSEANNE": [
   {
     "cardname": "✬ BLACKPINK Rosé",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24781,7 +24731,7 @@
 "CHAELISA": [
   {
     "cardname": "✬ BLACKPINK Lisa and Rosé",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24789,8 +24739,8 @@
 
 "ZALINIE": [
   {
-    "cardname": "✬ Want Rozalin",
-    "cardgroup": "Patreon",
+    "cardname": "✬ WANT Rozalin",
+    "cardgroup": "WANT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24798,8 +24748,8 @@
 
 "JIHYE": [
   {
-    "cardname": "✬ WAYB NO:ZE",
-    "cardgroup": "Patreon",
+    "cardname": "✬ WayB NO:ZE",
+    "cardgroup": "WayB",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24808,7 +24758,7 @@
 "CHAEWON": [
   {
     "cardname": "✬ IZ*ONE Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24817,7 +24767,7 @@
 "WINTER": [
   {
     "cardname": "✬ aespa Winter",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24826,7 +24776,7 @@
 "SOFT": [
   {
     "cardname": "✰ Kim Ji Woong & Yoon Seo Bin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kim Ji Woong & Yoon Seo Bin",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24835,7 +24785,7 @@
 "SEOJOON": [
   {
     "cardname": "✰ Park Seo Joon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Park Seo Joon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24844,7 +24794,7 @@
 "WOOBIN": [
   {
     "cardname": "✰ Kim Woo Bin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kim Woo Bin",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24853,7 +24803,7 @@
 "MINHO": [
   {
     "cardname": "✰ Lee Min Ho",
-    "cardgroup": "Patreon",
+    "cardgroup": "Lee Min Ho",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24862,7 +24812,7 @@
 "HYUNGSIK": [
   {
     "cardname": "✰ Park Hyung Sik",
-    "cardgroup": "Patreon",
+    "cardgroup": "Park Hyung Sik",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24871,7 +24821,7 @@
 "JOOHYUK": [
   {
     "cardname": "✰ Nam Joo Hyuk",
-    "cardgroup": "Patreon",
+    "cardgroup": "Nam Joo Hyuk",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24880,7 +24830,7 @@
 "FELIX": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24889,7 +24839,7 @@
 "HYUNJIN": [
   {
     "cardname": "✬ Stray Kids Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24898,7 +24848,7 @@
 "HAN": [
   {
     "cardname": "✬ Stray Kids Han",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24907,7 +24857,7 @@
 "YJEONGIN": [
   {
     "cardname": "✬ Stray Kids I.N",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24915,7 +24865,7 @@
 "SEHSC1": [
   {
     "cardname": "✦ Patreon Selca CIX Seunghun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Selca",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24924,7 +24874,7 @@
 "GAYMNSNG": [
   {
     "cardname": "✬ Stray Kids Lee Know & Han",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24933,7 +24883,7 @@
 "JJASPJ1": [
   {
     "cardname": "✬ ASTRO JinJin",
-    "cardgroup": "Patreon",
+    "cardgroup": "ASTRO",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24942,7 +24892,7 @@
 "WOATPJ1": [
   {
     "cardname": "✬ ATEEZ Wooyoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24951,7 +24901,7 @@
 "JMNDPJ1": [
   {
     "cardname": "✬ NCT Dream Jaemin",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT Dream",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24960,7 +24910,7 @@
 "T8SVPJ1": [
   {
     "cardname": "✬ SEVENTEEN The8",
-    "cardgroup": "Patreon",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24969,7 +24919,7 @@
 "RAVN": [
   {
     "cardname": "✬ ONEUS Ravn",
-    "cardgroup": "Patreon",
+    "cardgroup": "ONEUS",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24978,7 +24928,7 @@
 "SEOHO": [
   {
     "cardname": "✬ ONEUS Seoho",
-    "cardgroup": "Patreon",
+    "cardgroup": "ONEUS",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24987,7 +24937,7 @@
 "LEEDO": [
   {
     "cardname": "✬ ONEUS Leedo",
-    "cardgroup": "Patreon",
+    "cardgroup": "ONEUS",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -24996,7 +24946,7 @@
 "KEONHEE": [
   {
     "cardname": "✬ ONEUS Keonhee",
-    "cardgroup": "Patreon",
+    "cardgroup": "ONEUS",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25005,7 +24955,7 @@
 "XION": [
   {
     "cardname": "✬ ONEUS Xion",
-    "cardgroup": "Patreon",
+    "cardgroup": "ONEUS",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25014,7 +24964,7 @@
 "ERICNAM": [
   {
     "cardname": "✬✬ Soloist Eric Nam",
-    "cardgroup": "Patreon",
+    "cardgroup": "Eric Nam",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25023,7 +24973,7 @@
 "HTTYD": [
   {
     "cardname": "✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25032,7 +24982,7 @@
 "SSETNETOT": [
   {
     "cardname": "✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25041,7 +24991,7 @@
 "PICASSO": [
   {
     "cardname": "✬✬ ENHYPEN Ni-Ki",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25050,7 +25000,7 @@
 "SFTAST": [
   {
     "cardname": "✬✬ ENHYPEN Ni-Ki",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25059,7 +25009,7 @@
 "PEACHES": [
   {
     "cardname": "✬✬ Soloist Kai",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kai",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25067,7 +25017,7 @@
 "HOTSTUFF": [
   {
     "cardname": "✬ GOT7 Jinyoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "GOT7",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25076,7 +25026,7 @@
 "ALLNIGHTCHA": [
   {
     "cardname": "✬ ASTRO Cha Eunwoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "ASTRO",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25085,7 +25035,7 @@
 "MXSBADIDEA": [
   {
     "cardname": "✬ ASTRO Moonbin x Sanha",
-    "cardgroup": "Patreon",
+    "cardgroup": "ASTRO",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25094,7 +25044,7 @@
 "SPRINGJINYOUNG": [
   {
     "cardname": "✬ CIX Bae Jinyoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "CIX",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25103,7 +25053,7 @@
 "INNIE": [
   {
     "cardname": "✬✬ Stray Kids I.N",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25112,7 +25062,7 @@
 "LUCASDAY": [
   {
     "cardname": "<a:skypecake:888560707291992094> NCT Lucas",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Bday",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25121,7 +25071,7 @@
 "WNTTAK": [
   {
     "cardname": "✬✬ The Boyz Kevin",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "2",
     "cardimage": "https://imgur.com/a/Ywuw3IU"
   }
@@ -25130,7 +25080,7 @@
 "DACAPO": [
   {
     "cardname": "✬ BDC Seongjun",
-    "cardgroup": "Patreon",
+    "cardgroup": "BDC",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25139,7 +25089,7 @@
 "HYUCK": [
   {
     "cardname": "✬ NCT Haechan",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25148,7 +25098,7 @@
 "JHPTCB1": [
   {
     "cardname": "✬ Catboy Jinho",
-    "cardgroup": "Patreon",
+    "cardgroup": "Catboy",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25157,7 +25107,7 @@
 "JHSHCB1": [
   {
     "cardname": "✬ Catboy Jonghyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Catboy",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25166,7 +25116,7 @@
 "BKEXCB1": [
   {
     "cardname": "✬ Catboy Baekhyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Catboy",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -25493,7 +25443,7 @@
 
 "HSSV1Y4": [
   {
-    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Seventeen Hoshi",
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> SEVENTEEN Hoshi",
     "cardgroup": "Anniversary",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/x37VG0I"
@@ -25502,7 +25452,7 @@
 
 "MYSV1Y4": [
   {
-    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Seventeen Mingyu",
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> SEVENTEEN Mingyu",
     "cardgroup": "Anniversary",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/NLceWoa"
@@ -25608,7 +25558,7 @@
 ],
 "KNPT1Y4": [
   {
-    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> Pentagon Kino",
+    "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> PENTAGON Kino",
     "cardgroup": "Anniversary",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/IhkJrK4"
@@ -26422,7 +26372,7 @@
 "MOON": [
   {
     "cardname": "✬✬✬✬✬ BTS Jin",
-    "cardgroup": "Patreon",
+    "cardgroup": "BTS",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/NsChGbB"
   }
@@ -26458,7 +26408,7 @@
 "DICE": [
   {
     "cardname": "✬✬✬ Soloist Onew",
-    "cardgroup": "Patreon",
+    "cardgroup": "Onew",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26467,7 +26417,7 @@
 "MANIACLIX": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/bxXvcq5"
   }
@@ -26476,7 +26426,7 @@
 "HYFESKMC5": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix & Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/Vqc8PRn"
   }
@@ -26485,7 +26435,7 @@
 "THANXX": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Xp09qG1"
   }
@@ -26494,7 +26444,7 @@
 "BAD": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Wooyoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/3MC5TQo"
   }
@@ -26502,8 +26452,8 @@
 
 "FRIZZYHAIR": [
   {
-    "cardname": "✬✬✬✬✬ 1Team Junghoon",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ 1TEAM Junghoon",
+    "cardgroup": "1TEAM",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/4aSQHP5"
   }
@@ -26521,7 +26471,7 @@
 "PUTITSTRAIGHT": [
   {
     "cardname": "✬✬✬✬✬ (G)I-DLE Minnie",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/4lr8i7T"
   }
@@ -26530,7 +26480,7 @@
 "KAHEI": [
   {
     "cardname": "✬ LOOΠΔ Vivi",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26539,7 +26489,7 @@
 "SOOYOUNG": [
   {
     "cardname": "✬ Red Velvet Joy",
-    "cardgroup": "Patreon",
+    "cardgroup": "Red Velvet",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26548,7 +26498,7 @@
 "SEOLBIN": [
   {
     "cardname": "✬ WJSN Seola & Soobin",
-    "cardgroup": "Patreon",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26557,7 +26507,7 @@
 "JENSOO": [
   {
     "cardname": "✬ BLACKPINK Jennie & Jisoo",
-    "cardgroup": "Patreon",
+    "cardgroup": "BLACKPINK",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26566,7 +26516,7 @@
 "HEYMAMA": [
   {
     "cardname": "✬✬✬✬✬ WayB No:ze",
-    "cardgroup": "Patreon",
+    "cardgroup": "WayB",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/LDty639"
   }
@@ -26575,7 +26525,7 @@
 "DAISYLIX": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26592,8 +26542,8 @@
 
 "TROUBLEMAKERJR": [
   {
-    "cardname": "✬✬✬✬✬ Nu'est JR",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ NU'EST JR",
+    "cardgroup": "NU'EST",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/EjMkNaB"
   }
@@ -26602,7 +26552,7 @@
 "YUJINIE": [
   {
     "cardname": "✬ IVE Yujin",
-    "cardgroup": "Patreon",
+    "cardgroup": "IVE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -26611,7 +26561,7 @@
 "CHOISAN": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ San",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/zteIUC2"
   }
@@ -26620,7 +26570,7 @@
 "TAEOH": [
   {
     "cardname": "✰✰✰✰✰ Kang Tae Oh",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kang Tae Oh",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/tBbkkDM"
   }
@@ -26629,7 +26579,7 @@
 "HSSVCB1": [
   {
     "cardname": "✬ Catboy Hoshi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Catboy",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28053,7 +28003,7 @@
 "BBANG4": [
   {
     "cardname": "✧✧✧✧ Limited The Boyz Younghoon",
-    "cardgroup": "THE BOYZ",
+    "cardgroup": "The Boyz",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28062,7 +28012,7 @@
 "NWTBPJ1": [
   {
     "cardname": "✬ The Boyz New",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28071,7 +28021,7 @@
 "CANNON": [
   {
     "cardname": "✬ Stray Kids Felix",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28080,7 +28030,7 @@
 "HYUNIE": [
   {
     "cardname": "✬ TXT Taehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28089,7 +28039,7 @@
 "BEOMKAI": [
   {
     "cardname": "✬ TXT Beomgyu & Huening Kai",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28098,7 +28048,7 @@
 "JINLIA": [
   {
     "cardname": "✬ ITZY Ryujin & Lia",
-    "cardgroup": "Patreon",
+    "cardgroup": "ITZY",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28107,7 +28057,7 @@
 "YESEO": [
   {
     "cardname": "✬ Kep1er Yeseo",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kep1er",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28116,7 +28066,7 @@
 "LUDA": [
   {
     "cardname": "✬ WJSN Luda",
-    "cardgroup": "Patreon",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28125,7 +28075,7 @@
 "NANA": [
   {
     "cardname": "✬ NCT Dream Jaemin",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28134,7 +28084,7 @@
 "KIMJIMIN": [
   {
     "cardname": "✬ Weeekly Monday",
-    "cardgroup": "Patreon",
+    "cardgroup": "Weeekly",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28143,7 +28093,7 @@
 "HKTXPJ1": [
   {
     "cardname": "✬ TXT Huening Kai",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28152,7 +28102,7 @@
 "SEATPJ1": [
   {
     "cardname": "✬ ATEEZ Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28161,7 +28111,7 @@
 "JONDPJ1": [
   {
     "cardname": "✬ NCT Dream Jeno",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28170,7 +28120,7 @@
 "BYTSPJ1": [
   {
     "cardname": "✬ TREASURE Bang Yedam",
-    "cardgroup": "Patreon",
+    "cardgroup": "TREASURE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28179,7 +28129,7 @@
 "AEONGIE": [
   {
     "cardname": "✬ LOOΠΔ Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28188,7 +28138,7 @@
 "DINOJJONG": [
   {
     "cardname": "✬✬✬ SHINee Jonghyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "SHINee",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28206,7 +28156,7 @@
 "CAPTAIN": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Hongjoong",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28215,7 +28165,7 @@
 "DANCERACHA": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Danceracha",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/h7Yl71S"
   }
@@ -28224,7 +28174,7 @@
 "BEOMGYU": [
   {
     "cardname": "✬✬✬✬✬ TXT Beomgyu",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/qftJFdv"
   }
@@ -28233,7 +28183,7 @@
 "DEJAVU": [
   {
     "cardname": "✬✬✬✬✬ NU'EST Ren",
-    "cardgroup": "Patreon",
+    "cardgroup": "NU'EST",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28242,7 +28192,7 @@
 "MASHIHO": [
   {
     "cardname": "✬✬✬✬✬ TREASURE Mashiho",
-    "cardgroup": "Patreon",
+    "cardgroup": "TREASURE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/bLoBfJr"
   }
@@ -28251,7 +28201,7 @@
 "SKATE": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Han",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/VeCsiyh"
   }
@@ -28269,7 +28219,7 @@
 "HWI": [
   {
     "cardname": "✬✬✬✬✬ TNX Hwi",
-    "cardgroup": "Patreon",
+    "cardgroup": "TNX",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/G0D1PnG"
   }
@@ -28277,8 +28227,8 @@
 
 "CANDYZAL": [
   {
-    "cardname": "✬✬✬✬✬ Want Rozalin",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ WANT Rozalin",
+    "cardgroup": "WANT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/aNQSdOk"
   }
@@ -28287,7 +28237,7 @@
 "QUEENLION": [
   {
     "cardname": "✬✬✬✬✬ (G)I-DLE Shuhua",
-    "cardgroup": "Patreon",
+    "cardgroup": "(G)I-DLE",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Upgv5wm"
   }
@@ -28296,7 +28246,7 @@
 "WONKI": [
   {
     "cardname": "✬✬✬✬✬ ENHYPEN Jungwon & Ni-Ki",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/gBt562a"
   }
@@ -28305,7 +28255,7 @@
 "MINJIU": [
   {
     "cardname": "✬✬✬✬✬ Dreamcatcher JiU",
-    "cardgroup": "Patreon",
+    "cardgroup": "Dreamcatcher",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/ny77xkW"
   }
@@ -28314,7 +28264,7 @@
 "THEKING": [
   {
     "cardname": "✬✬✬✬✬ Soloist Agust D",
-    "cardgroup": "Patreon",
+    "cardgroup": "Agust D",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/3cgrxmV"
   }
@@ -28322,8 +28272,8 @@
 
 "BAEKHULK": [
   {
-    "cardname": "✬✬✬✬✬ Nu'est Baekho",
-    "cardgroup": "Patreon",
+    "cardname": "✬✬✬✬✬ NU'EST Baekho",
+    "cardgroup": "NU'EST",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/ifPDnLj"
   }
@@ -28332,7 +28282,7 @@
 "RED": [
   {
     "cardname": "✬✬✬✬✬ NCT Taeyong",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/m3wVc1y"
   }
@@ -28341,7 +28291,7 @@
 "HOONIEVERSE": [
   {
     "cardname": "✬✬✬✬✬ ENHYPEN Sunghoon",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/gGCFtAg"
   }
@@ -28350,7 +28300,7 @@
 "SIYOO": [
   {
     "cardname": "✬✬✬✬✬ Dreamcatcher Siyeon & Yoohyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Dreamcatcher",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Pk5RcV1"
   }
@@ -28359,7 +28309,7 @@
 "MINJEONG": [
   {
     "cardname": "✬✬✬✬✬ aespa Winter",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/XdMLUTT"
   }
@@ -28377,7 +28327,7 @@
 "SEUNGLIX": [
   {
     "cardname": "✬✬✬✬✬ Stray Kids Felix & Seungmin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/N6dNHjK"
   }
@@ -28386,7 +28336,7 @@
 "GOTSEUL": [
   {
     "cardname": "✬✬✬✬✬ Red Velvet Seulgi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Red Velvet",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/OU9ihYM"
   }
@@ -28404,7 +28354,7 @@
 "MORK": [
   {
     "cardname": "✬ NCT Mark",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28413,7 +28363,7 @@
 "MCBOO": [
   {
     "cardname": "✬✬✬ SEVENTEEN Seungkwan",
-    "cardgroup": "Patreon",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28422,7 +28372,7 @@
 "GOWONLY": [
   {
     "cardname": "✬ LOOΠΔ Gowon",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28431,7 +28381,7 @@
 "JUNGWON": [
   {
     "cardname": "✬ ENHYPEN Jungwon",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28440,7 +28390,7 @@
 "SSANG": [
   {
     "cardname": "✬ LIGHTSUM Sangah",
-    "cardgroup": "Patreon",
+    "cardgroup": "LIGHTSUM",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28449,7 +28399,7 @@
 "FLOWERCAT": [
   {
     "cardname": "✬ LOOΠΔ Hyunjin",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28458,7 +28408,7 @@
 "ECTBPJ1": [
   {
     "cardname": "✬ The Boyz Eric",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28467,7 +28417,7 @@
 "JILOPJ1": [
   {
     "cardname": "✬ LOOΠΔ Jinsoul",
-    "cardgroup": "Patreon",
+    "cardgroup": "LOONA",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28476,7 +28426,7 @@
 "JERBZ": [
   {
     "cardname": "✬ The Boyz Kevin",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28485,7 +28435,7 @@
 "TBSC1": [
   {
     "cardname": "✦ Selca TXT Taehyun & Soobin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Selca",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28494,7 +28444,7 @@
 "HANYANG": [
   {
     "cardname": "✬ fromis_9 Hayoung",
-    "cardgroup": "Patreon",
+    "cardgroup": "fromis_9",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28503,7 +28453,7 @@
 "BABYSUN": [
   {
     "cardname": "✬ NCT Mark & Haechan",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28512,7 +28462,7 @@
 "PRIDE": [
   {
     "cardname": "✬✬✬✬✬ TXT Yeonjun",
-    "cardgroup": "Patreon",
+    "cardgroup": "TXT",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28521,7 +28471,7 @@
 "ERIC": [
   {
     "cardname": "✬✬✬✬✬ The Boyz Eric",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28530,7 +28480,7 @@
 "KTHV": [
   {
     "cardname": "✬✬✬✬✬ BTS V",
-    "cardgroup": "Patreon",
+    "cardgroup": "BTS",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28548,7 +28498,7 @@
 "GOTWEN": [
   {
     "cardname": "✬✬✬✬✬ GOT The Beat Wendy",
-    "cardgroup": "Patreon",
+    "cardgroup": "GOT the beat",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/VBWZw5s"
   }
@@ -28557,7 +28507,7 @@
 "JISUN": [
   {
     "cardname": "✬✬✬✬✬ fromis_9 Jisun",
-    "cardgroup": "Patreon",
+    "cardgroup": "fromis_9",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Z8lsR6p"
   }
@@ -28566,7 +28516,7 @@
 "YOOHYEON": [
   {
     "cardname": "✬✬✬✬✬ Dreamcatcher Yoohyeon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Dreamcatcher",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/yBcKu8R"
   }
@@ -28575,7 +28525,7 @@
 "LCNW5": [
   {
     "cardname": "✬✬✬✬✬ NCT U Lucas",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28602,7 +28552,7 @@
 "SVTLEADERS": [
   {
     "cardname": "✬✬✬✬✬ SEVENTEEN Leaders",
-    "cardgroup": "Patreon",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28611,7 +28561,7 @@
 "MATZ": [
   {
     "cardname": "✬✬✬✬✬ ATEEZ Hongjoong & Seonghwa",
-    "cardgroup": "Patreon",
+    "cardgroup": "ATEEZ",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28620,7 +28570,7 @@
 "BADNEWS": [
   {
     "cardname": "✬✬✬✬✬ TEMPEST Hwarang",
-    "cardgroup": "Patreon",
+    "cardgroup": "TEMPEST",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/dg799ks"
   }
@@ -28629,7 +28579,7 @@
 "NOZE24KMAGIC": [
   {
     "cardname": "✬✬✬✬✬ WayB No:ze",
-    "cardgroup": "Patreon",
+    "cardgroup": "WayB",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/ByQQ8qj"
   }
@@ -28638,7 +28588,7 @@
 "JEONJI": [
   {
     "cardname": "✬ DreamNote Miso",
-    "cardgroup": "Patreon",
+    "cardgroup": "DreamNote",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28647,7 +28597,7 @@
 "SEQUENCE": [
   {
     "cardname": "✬ WJSN Seola",
-    "cardgroup": "Patreon",
+    "cardgroup": "WJSN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28656,7 +28606,7 @@
 "NAMPARADISE": [
   {
     "cardname": "✬ Soloist Eric Nam",
-    "cardgroup": "Patreon",
+    "cardgroup": "Eric Nam",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28665,7 +28615,7 @@
 "JWONIE": [
   {
     "cardname": "✬ ENHYPEN Jungwon",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28674,7 +28624,7 @@
 "JIGOO": [
   {
     "cardname": "✬ Soloist Park Jihoon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Park Jihoon",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28683,7 +28633,7 @@
 "SEUNGBIN": [
   {
     "cardname": "✬ Stray Kids Seungmin & Changbin",
-    "cardgroup": "Patreon",
+    "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28692,7 +28642,7 @@
 "SSAMU": [
   {
     "cardname": "✬ Le Sserafim Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "LE SSERAFIM",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28701,7 +28651,7 @@
 "CHAEROMIE": [
   {
     "cardname": "✬ Kep1er Chaehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kep1er",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28710,7 +28660,7 @@
 "NUJES": [
   {
     "cardname": "✬ VICTON Sejun",
-    "cardgroup": "Patreon",
+    "cardgroup": "VICTON",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28719,7 +28669,7 @@
 "NYUHOON": [
   {
     "cardname": "✬✬✬ The Boyz BBangnyu",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28728,7 +28678,7 @@
 "YJW": [
   {
     "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> ENHYPEN Jungwon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Vday",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28737,7 +28687,7 @@
 "RTKCHANHEE": [
   {
     "cardname": "✬✬✬✬✬ The Boyz New",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/ZpeROeX"
   }
@@ -28755,7 +28705,7 @@
 "MARKLEE": [
   {
     "cardname": "✬ NCT Mark",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28764,7 +28714,7 @@
 "CHANHEE": [
   {
     "cardname": "✬ The Boyz New",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28773,7 +28723,7 @@
 "ROCKETPUNCHER": [
   {
     "cardname": "✬ aespa Karina",
-    "cardgroup": "Patreon",
+    "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28782,7 +28732,7 @@
 "JAYWON": [
   {
     "cardname": "✬ ENHYPEN Jungwon & Jay",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28791,7 +28741,7 @@
 "HYEONGJUN": [
   {
     "cardname": "✬ CRAVITY Hyeongjun",
-    "cardgroup": "Patreon",
+    "cardgroup": "CRAVITY",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28800,7 +28750,7 @@
 "YEJU": [
   {
     "cardname": "✬ ICHILLIN' Yeju",
-    "cardgroup": "Patreon",
+    "cardgroup": "ICHILLIN'",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28809,7 +28759,7 @@
 "KUANHUNG": [
   {
     "cardname": "✬ Darren Chen",
-    "cardgroup": "Patreon",
+    "cardgroup": "Darren Chen",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28818,7 +28768,7 @@
 "SSAMJIN": [
   {
     "cardname": "✬ IZ*ONE Yujin & Chaewon",
-    "cardgroup": "Patreon",
+    "cardgroup": "IZ*ONE",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28827,7 +28777,7 @@
 "PLUSMINUS": [
   {
     "cardname": "✬ Max & Hao",
-    "cardgroup": "Patreon",
+    "cardgroup": "Max & Hao",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28836,7 +28786,7 @@
 "OHMNANON": [
   {
     "cardname": "✬✬✬ Ohm & Nanon",
-    "cardgroup": "Patreon",
+    "cardgroup": "Ohm & Nanon",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28854,7 +28804,7 @@
 "TEETERTOTTER": [
   {
     "cardname": "✬✬✬✬✬ P1Harmony Theo & Soul",
-    "cardgroup": "Patreon",
+    "cardgroup": "P1Harmony",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28863,7 +28813,7 @@
 "SPIDER": [
   {
     "cardname": "✬✬✬✬✬ Soloist Hoshi",
-    "cardgroup": "Patreon",
+    "cardgroup": "Hoshi",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28872,7 +28822,7 @@
 "REVEAL": [
   {
     "cardname": "✬✬✬✬✬ The Boyz Q",
-    "cardgroup": "Patreon",
+    "cardgroup": "The Boyz",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28881,7 +28831,7 @@
 "TAETOO": [
   {
     "cardname": "✬✬✬✬✬ NCT 127 Taeyong",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28890,7 +28840,7 @@
 "NAOBSC1": [
   {
     "cardname": "✦ Selca Nana Ouyang",
-    "cardgroup": "Patreon",
+    "cardgroup": "Custom Selca",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -28899,7 +28849,7 @@
 "DEVIL": [
   {
     "cardname": "✰✰✰✰✰ Kinnporsche Vegas",
-    "cardgroup": "Patreon",
+    "cardgroup": "Kinnporsche",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28908,7 +28858,7 @@
 "BOYFRIENDVIBE": [
   {
     "cardname": "✬✬✬✬✬ NCT Jaehyun",
-    "cardgroup": "Patreon",
+    "cardgroup": "NCT",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/8s7Bz6r"
   }
@@ -28917,7 +28867,7 @@
 "MORE": [
   {
     "cardname": "✬✬✬✬✬ Soloist J-Hope",
-    "cardgroup": "Patreon",
+    "cardgroup": "J-Hope",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/fdXG7B6"
   }
@@ -28926,7 +28876,7 @@
 "MALEVENUS": [
   {
     "cardname": "✬✬✬✬✬ SF9 Zuho",
-    "cardgroup": "Patreon",
+    "cardgroup": "SF9",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28935,7 +28885,7 @@
 "KYUBIN": [
   {
     "cardname": "✬✬✬✬✬ OnlyOneOf Yoojung & KB",
-    "cardgroup": "Patreon",
+    "cardgroup": "OnlyOneOf",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -28944,7 +28894,7 @@
 "LMLY": [
   {
     "cardname": "✬✬✬✬✬ Soloist Jackson Wang",
-    "cardgroup": "Patreon",
+    "cardgroup": "Jackson Wang",
     "cardrarity": "5",
     "cardimage": "IMGUR LINK HERE"
   }
@@ -29900,7 +29850,7 @@
 "FOREVER9": [
   {
     "cardname": "✬✬✬✬✬ fromis_9 Gyuri",
-    "cardgroup": "Patreon",
+    "cardgroup": "fromis_9",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/FHiELWr"
   }
@@ -29909,7 +29859,7 @@
 "SHOON": [
   {
     "cardname": "✬ ENHYPEN Sunghoon",
-    "cardgroup": "Patreon",
+    "cardgroup": "ENHYPEN",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
@@ -31321,7 +31271,7 @@
   "JAEMARK": [
     {
       "cardname": "✬ NCT Jaehyun & Mark",
-      "cardgroup": "Patreon",
+      "cardgroup": "NCT",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31330,7 +31280,7 @@
   "KIDLEADER": [
     {
       "cardname": "✬ SNSD Taeyeon",
-      "cardgroup": "Patreon",
+      "cardgroup": "SNSD",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31339,7 +31289,7 @@
   "BBUBBLE": [
     {
       "cardname": "✬ Build Jakapan",
-      "cardgroup": "Patreon",
+      "cardgroup": "Build Jakapan",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31348,7 +31298,7 @@
   "JEONGYEON": [
     {
       "cardname": "✬ TWICE Jeongyeon",
-      "cardgroup": "Patreon",
+      "cardgroup": "TWICE",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31357,7 +31307,7 @@
   "MAXIDANG": [
     {
       "cardname": "✬ Stray Kids Felix",
-      "cardgroup": "Patreon",
+      "cardgroup": "Stray Kids",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31366,7 +31316,7 @@
   "RKWN": [
     {
       "cardname": "✬ ATBO Rakwon",
-      "cardgroup": "Patreon",
+      "cardgroup": "ATBO",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31375,7 +31325,7 @@
   "SUNNY": [
     {
       "cardname": "✬ ENHYPEN Sunoo",
-      "cardgroup": "Patreon",
+      "cardgroup": "ENHYPEN",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31384,7 +31334,7 @@
   "TSUKI": [
     {
       "cardname": "✬ Billlie Tsuki",
-      "cardgroup": "Patreon",
+      "cardgroup": "Billlie",
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
@@ -31401,8 +31351,8 @@
 
   "PVNING": [
     {
-      "cardname": "✬✬✬✬✬ aespa NingNing",
-      "cardgroup": "Patreon",
+      "cardname": "✬✬✬✬✬ aespa Ningning",
+      "cardgroup": "aespa",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31411,7 +31361,7 @@
   "YUKSEO": [
     {
       "cardname": "✬✬✬✬✬ DKB Yuku & Junseo",
-      "cardgroup": "Patreon",
+      "cardgroup": "DKB",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31420,7 +31370,7 @@
   "KUNLOML": [
     {
       "cardname": "✬✬✬✬✬ WayV Kun",
-      "cardgroup": "Patreon",
+      "cardgroup": "WayV",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31429,7 +31379,7 @@
   "ANGEL": [
     {
       "cardname": "✰✰✰✰✰ Kinnporsche Pete",
-      "cardgroup": "Patreon",
+      "cardgroup": "Kinnporsche",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31438,7 +31388,7 @@
   "YUKIKA": [
     {
       "cardname": "✬✬✬✬✬ Soloist Yukika",
-      "cardgroup": "Patreon",
+      "cardgroup": "Yukika",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31447,7 +31397,7 @@
   "STARCANDY": [
     {
       "cardname": "✬✬✬✬✬ BTS Jungkook",
-      "cardgroup": "Patreon",
+      "cardgroup": "BTS",
       "cardrarity": "5",
       "cardimage": "https://imgur.com/a/7skXnLT"
     }
@@ -31456,7 +31406,7 @@
   "NEVERCRY": [
     {
       "cardname": "✬✬✬✬✬ Soloist Jonghyun",
-      "cardgroup": "Patreon",
+      "cardgroup": "Jonghyun",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
@@ -31483,7 +31433,7 @@
   "AKMU": [
     {
       "cardname": "✬✬✬✬✬ AKMU",
-      "cardgroup": "Patreon",
+      "cardgroup": "AKMU",
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
