@@ -31437,5 +31437,15 @@
       "cardrarity": "5",
       "cardimage": "IMGUR LINK HERE"
     }
+  ],
+
+  "SCSV1": [
+    {
+      "cardname": "★ SEVENTEEN S.Coups",
+      "cardgroup": "SEVENTEEN",
+      "cardrarity": "1",
+      "cardworth": "60", 
+       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
   ]
 }
