@@ -25809,7 +25809,7 @@
 
 "BMKRD1": [
 {
-  "cardname": "★ K.A.R.D BM",
+  "cardname": "★ KARD BM",
   "cardgroup": "KARD",
   "cardrarity": "1",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -25818,7 +25818,7 @@
 
 "JSKRD1": [
 {
-  "cardname": "★ K.A.R.D J.Seph",
+  "cardname": "★ KARD J.Seph",
   "cardgroup": "KARD",
   "cardrarity": "1",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -25827,7 +25827,7 @@
 
 "JWKRD1": [
 {
-  "cardname": "★ K.A.R.D Jiwoo",
+  "cardname": "★ KARD Jiwoo",
   "cardgroup": "KARD",
   "cardrarity": "1",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -25836,7 +25836,7 @@
 
 "SMKRD1": [
 {
-  "cardname": "★ K.A.R.D Somin",
+  "cardname": "★ KARD Somin",
   "cardgroup": "KARD",
   "cardrarity": "1",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31441,7 +31441,7 @@
 
 "JNRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day NCT Jeno",
+    "cardname": "✧✧✧✧ Limited NCT Jeno",
     "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31450,7 +31450,7 @@
 
 "MHRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day BTOB Minhyuk",
+    "cardname": "✧✧✧✧ Limited BTOB Minhyuk",
     "cardgroup": "BTOB",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31459,7 +31459,7 @@
 
 "WNRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day Red Velvet Wendy",
+    "cardname": "✧✧✧✧ Limited Red Velvet Wendy",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31468,7 +31468,7 @@
 
 "SLRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day P1Harmony Soul",
+    "cardname": "✧✧✧✧ Limited P1Harmony Soul",
     "cardgroup": "P1Harmony",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31477,7 +31477,7 @@
 
 "KDRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day Soloist Kang Daniel",
+    "cardname": "✧✧✧✧ Limited Soloist Kang Daniel",
     "cardgroup": "Kang Daniel",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31486,7 +31486,7 @@
 
 "KVRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day The Boyz Kevin",
+    "cardname": "✧✧✧✧ Limited The Boyz Kevin",
     "cardgroup": "The Boyz",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31495,7 +31495,7 @@
 
 "WZRIE": [
   {
-    "cardname": "✧✧✧✧ Rie Day Soloist WOODZ",
+    "cardname": "✧✧✧✧ Limited Soloist WOODZ",
     "cardgroup": "WOODZ",
     "cardrarity": "4",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
