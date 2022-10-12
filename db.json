@@ -29136,7 +29136,7 @@
 
 "SVVAV4": [
 {
-  "cardname": "★★★★ VAV St. Van",
+  "cardname": "★★★★ VAV St.Van",
   "cardgroup": "VAV",
   "cardrarity": "4",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -31939,6 +31939,33 @@
     "cardname": "★★ Stray Kids Bang Chan",
     "cardgroup": "Stray Kids",
     "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JUBD3": [
+  {
+    "cardname": "★★★ BDC Junghwan",
+    "cardgroup": "BDC",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SEBD3": [
+  {
+    "cardname": "★★★ BDC Seongjun",
+    "cardgroup": "BDC",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SIBD3": [
+  {
+    "cardname": "★★★ BDC Sihun",
+    "cardgroup": "BDC",
+    "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
