@@ -29834,7 +29834,7 @@
   "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> GOT7 Jinyoung",
   "cardgroup": "GOT7",
   "cardrarity": "4",
-  "cardimage": "IMGUR LINK HERE"
+  "cardimage": "https://imgur.com/kVXko9w"
 }
 ],
 
@@ -31967,6 +31967,15 @@
     "cardgroup": "BDC",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYSTERY": [
+  {
+    "cardname": "⍰⍰⍰⍰ ?????? ???",
+    "cardgroup": "??????",
+    "cardrarity": "4",
+    "cardimage": "IMGUR LINK HERE"
   }
 ]
 }
