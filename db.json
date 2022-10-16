@@ -28797,7 +28797,7 @@
   "cardname": "✬✬✬✬✬ NCT Dream Jeno",
   "cardgroup": "NCT",
   "cardrarity": "5",
-  "cardimage": "IMGUR LINK HERE"
+  "cardimage": "https://imgur.com/a/WdyE7QX"
 }
 ],
 
@@ -31976,6 +31976,276 @@
     "cardgroup": "??????",
     "cardrarity": "4",
     "cardimage": "IMGUR LINK HERE"
+  }
+],
+
+"NIAEWZ1": [
+  {
+    "cardname": "EMOJI aespa Ningning",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUATWZ1": [
+  {
+    "cardname": "EMOJI ATEEZ Yunho",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ZLBAPWZ1": [
+  {
+    "cardname": "EMOJI B.A.P Zelo",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ECBAWZ1": [
+  {
+    "cardname": "EMOJI bugAboo Eunchae",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JICBWZ1": [
+  {
+    "cardname": "EMOJI Cherry Bullet Jiwon",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SIDCWZ1": [
+  {
+    "cardname": "EMOJI Dreamcatcher Siyeon",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MIEVWZ1": [
+  {
+    "cardname": "EMOJI EVERGLOW Mia",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JWFRWZ1": [
+  {
+    "cardname": "EMOJI fromis_9 Jiwon",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YUGFWZ1": [
+  {
+    "cardname": "EMOJI GFriend Yuju",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YSK1WZ1": [
+  {
+    "cardname": "EMOJI Kep1er Yeseo",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JILOWZ1": [
+  {
+    "cardname": "EMOJI LOOΠΔ Jinsoul",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ANMOWZ1": [
+  {
+    "cardname": "EMOJI MOMOLAND Ahin",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JENCTWZ1": [
+  {
+    "cardname": "EMOJI NCT Jeno",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YYNCTWZ1": [
+  {
+    "cardname": "EMOJI NCT YangYang",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"AROMGWZ1": [
+  {
+    "cardname": "EMOJI Oh My Girl Arin",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JEOXWZ1": [
+  {
+    "cardname": "EMOJI Omega X Jehyun",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LEONWZ1": [
+  {
+    "cardname": "EMOJI ONEUS Leedo",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NIOOWZ1": [
+  {
+    "cardname": "EMOJI OnlyOneOf Nine",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JSP1HWZ1": [
+  {
+    "cardname": "EMOJI P1Harmony Jongseob",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHPTWZ1": [
+  {
+    "cardname": "EMOJI PENTAGON Jinho",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YKPKWZ1": [
+  {
+    "cardname": "EMOJI Purple Kiss Yuki",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MYSVWZ1": [
+  {
+    "cardname": "EMOJI SEVENTEEN Mingyu",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHGGWZ1": [
+  {
+    "cardname": "EMOJI SNSD Seohyun",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SESTWZ1": [
+  {
+    "cardname": "EMOJI STAYC Sieun",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYSKWZ1": [
+  {
+    "cardname": "EMOJI Stray Kids Hyunjin",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KVTBWZ1": [
+  {
+    "cardname": "EMOJI The Boyz Kevin",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JITSWZ1": [
+  {
+    "cardname": "EMOJI TREASURE Jihoon",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SATWWZ1": [
+  {
+    "cardname": "EMOJI TWICE Sana",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YETXWZ1": [
+  {
+    "cardname": "EMOJI TXT Yeonjun",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DHWEIWZ1": [
+  {
+    "cardname": "EMOJI WEi Daehyeon",
+    "cardgroup": "Halloween",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
 ]
 }
