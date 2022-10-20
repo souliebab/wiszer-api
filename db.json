@@ -11303,8 +11303,8 @@
 
 "LET49WZ4": [
 {
-  "cardname": "<:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857> T1419 Leo",
-  "cardgroup": "T1419",
+  "cardname": "<:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857><:WISZWEEN21_BG:900212158569250857> TFN Leo",
+  "cardgroup": "TFN",
   "cardrarity": "4",
   "cardworth": "370", 
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -20170,8 +20170,8 @@
 ],
 "GWT92": [
 {
-  "cardname": "★★ T1419 Gunwoo",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Gunwoo",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20179,8 +20179,8 @@
 
 "ONT92": [
 {
-  "cardname": "★★ T1419 On",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN On",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20188,8 +20188,8 @@
 
 "LEOT92": [
 {
-  "cardname": "★★ T1419 Leo",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Leo",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20197,8 +20197,8 @@
 
 "ZRT92": [
 {
-  "cardname": "★★ T1419 Zero",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Zero",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20206,8 +20206,8 @@
 
 "KIOT92": [
 {
-  "cardname": "★★ T1419 Kio",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Kio",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20215,8 +20215,8 @@
 
 "KVT92": [
 {
-  "cardname": "★★ T1419 Kevin",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Kevin",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20224,8 +20224,8 @@
 
 "KRT92": [
 {
-  "cardname": "★★ T1419 Kairi",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Kairi",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20233,8 +20233,8 @@
 
 "NOAT92": [
 {
-  "cardname": "★★ T1419 Noa",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Noa",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -20242,8 +20242,8 @@
 
 "SNT92": [
 {
-  "cardname": "★★ T1419 Sian",
-  "cardgroup": "T1419",
+  "cardname": "★★ TFN Sian",
+  "cardgroup": "TFN",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
 }
@@ -25345,7 +25345,7 @@
 ],
 "LEOT91Y4": [
 {
-  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Leo",
+  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TFN Leo",
   "cardgroup": "Anniversary",
   "cardrarity": "4",
   "cardimage": "https://imgur.com/SCA3La7"
@@ -25354,7 +25354,7 @@
 
 "NOAT91Y4": [
 {
-  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Noa",
+  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TFN Noa",
   "cardgroup": "Anniversary",
   "cardrarity": "4",
   "cardimage": "https://imgur.com/4mdSJGd"
@@ -25363,7 +25363,7 @@
 
 "SNT91Y4": [
 {
-  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> T1419 Sian",
+  "cardname": "<:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821><:wizi1y:988133106194206821> TFN Sian",
   "cardgroup": "Anniversary",
   "cardrarity": "4",
   "cardimage": "https://imgur.com/sflPoQ2"
