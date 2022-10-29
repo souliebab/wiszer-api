@@ -13173,11 +13173,11 @@
     
     "KIBUM": [
       {
-        "cardname": "✬✬✬✬✬ SHINee Key",
-        "cardgroup": "SHINee",
+        "cardname": "✬✬✬✬✬ Soloist Key",
+        "cardgroup": "Key",
         "cardrarity": "5",
         "cardworth": "8000",
-        "cardimage": "https://imgur.com/Bi864F7"
+        "cardimage": "https://imgur.com/68hHCjw"
       }
     ],
     
@@ -31408,7 +31408,7 @@
     "cardname": "✬✬✬✬✬ Soloist Jonghyun",
     "cardgroup": "Jonghyun",
     "cardrarity": "5",
-    "cardimage": "IMGUR LINK HERE"
+    "cardimage": "https://imgur.com/a/ECVTsJh"
   }
 ],
 
@@ -32255,6 +32255,150 @@
     "cardgroup": "Stray Kids",
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GAMEBOY": [
+  {
+    "cardname": "✬ ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JCM": [
+  {
+    "cardname": "✬ The Boyz Q",
+    "cardgroup": "The Boyz",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PUPPIES": [
+  {
+    "cardname": "✬ Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JOYSYD": [
+  {
+    "cardname": "✬ Red Velvet Joy",
+    "cardgroup": "Red Velvet",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RUNA": [
+  {
+    "cardname": "✬ Billlie Haruna",
+    "cardgroup": "Billlie",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JAYMELON": [
+  {
+    "cardname": "✬ ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ZOBABY": [
+  {
+    "cardname": "✬ Weeekly Zoa",
+    "cardgroup": "Weeekly",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HYDE": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist Hyde",
+    "cardgroup": "Hyde",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"JOMAMA": [
+  {
+    "cardname": "✬✬✬✬✬ LOOΠΔ Haseul",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"GEUMHEE": [
+  {
+    "cardname": "✬✬✬✬✬ CSR Geumhee",
+    "cardgroup": "CSR",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"SWIM": [
+  {
+    "cardname": "✬✬✬✬✬ Until We Meet Again Dean & Win",
+    "cardgroup": "Until We Meet Again",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"IMTHEONEYEO": [
+  {
+    "cardname": "✬✬✬✬✬ ATEEZ Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"IVAN": [
+  {
+    "cardname": "✬✬✬✬✬ KINGDOM Ivan",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"CHERRYBABY": [
+  {
+    "cardname": "✬✬✬✬✬ KINGDOM Mujin",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"28REASONS": [
+  {
+    "cardname": "✬✬✬✬✬ Soloist Seulgi",
+    "cardgroup": "Seulgi",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
+  }
+],
+
+"物の哀れ": [
+  {
+    "cardname": "✬✬✬✬✬ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "5",
+    "cardimage": "IMGUR LINK"
   }
 ]
 }
