@@ -27100,6 +27100,14 @@
 }
 ],
 
+"GALE2": [
+  {
+    "cardname": "★★ LE SSERAFIM Kim Garam",
+    "cardgroup": "LE SSERAFIM",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ],
 
 "KALE2": [
 {
@@ -32384,7 +32392,7 @@
   }
 ],
 
-"28REASONS": [
+"SEULGI28REASONS": [
   {
     "cardname": "✬✬✬✬✬ Soloist Seulgi",
     "cardgroup": "Seulgi",
@@ -32858,6 +32866,15 @@
     "cardgroup": "Young K",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/ww8bfKC"
+  }
+],
+
+"HLSO4": [
+  {
+    "cardname": "★★★★ Soloist Holland",
+    "cardgroup": "Holland",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/xQpXJEW"
   }
 ],
 
