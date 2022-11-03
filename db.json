@@ -31314,7 +31314,7 @@
 
 "MAXIDANG": [
   {
-    "cardname": "✬ Stray Kids Felix",
+    "cardname": "✬ Stray Kids Changbin",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -32938,6 +32938,15 @@
     "cardgroup": "ICHILLIN'",
     "cardrarity": "2",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"BESTWORKYET": [
+  {
+    "cardname": "✰✰✰✰✰ Strangers From Hell Yoon Jongwoo",
+    "cardgroup": "Strangers From Hell",
+    "cardrarity": "5",
+    "cardimage": "https://imgur.com/hirtMOk"
   }
 ]
 }
