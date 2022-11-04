@@ -32948,5 +32948,14 @@
     "cardrarity": "5",
     "cardimage": "https://imgur.com/hirtMOk"
   }
+],
+
+"NISHIMURA": [
+  {
+    "cardname": "✬ ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
