@@ -32957,5 +32957,427 @@
     "cardrarity": "1",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+],
+
+"GSDKZ3": [
+  {
+    "cardname": "★★★ DKZ Giseok",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JCDKZ3": [
+  {
+    "cardname": "★★★ DKZ Jaechan",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHDKZ3": [
+  {
+    "cardname": "★★★ DKZ Jonghyeong",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KHDKZ3": [
+  {
+    "cardname": "★★★ DKZ Kyounghoon",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"MGDKZ3": [
+  {
+    "cardname": "★★★ DKZ Mingyu",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SHDKZ3": [
+  {
+    "cardname": "★★★ DKZ Sehyeon",
+    "cardgroup": "DKZ",
+    "cardrarity": "3",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"RMV2BT2": [
+  {
+    "cardname": "★★ BTS RM",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JNV2BT2": [
+  {
+    "cardname": "★★ BTS Jin",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SGV2BT2": [
+  {
+    "cardname": "★★ BTS Suga",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JHV2BT2": [
+  {
+    "cardname": "★★ BTS J-Hope",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JIV2BT2": [
+  {
+    "cardname": "★★ BTS Jimin",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"VV2BT2": [
+  {
+    "cardname": "★★ BTS V",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JUV2BT2": [
+  {
+    "cardname": "★★ BTS Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "2",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"IMMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X I.M",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/iuoKJWE"
+  }
+],
+
+"JOMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X Joohoney",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/AKs8p0y"
+  }
+],
+
+"HYMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X Hyungwon",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/pg8gxOc"
+  }
+],
+
+"KIMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X Kihyun",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/Nh4U3vQ"
+  }
+],
+
+"MIMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X Minhyuk",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/f8vIFm3"
+  }
+],
+
+"SHMXLK4": [
+  {
+    "cardname": "<:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592><:mxlovekilla:1038323508154990592> MONSTA X Shownu",
+    "cardgroup": "MONSTA X",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/QtgjypG"
+  }
+],
+"FMSQG1": [
+  {
+    "cardname": "✰ Squid Game Front Man",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CWSQG1": [
+  {
+    "cardname": "✰ Squid Game Cho Sangwoo",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ONSQG1": [
+  {
+    "cardname": "✰ Squid Game Oh Il Nam",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HMSQG1": [
+  {
+    "cardname": "✰ Squid Game Han Minyeo",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"JYSQG1": [
+  {
+    "cardname": "✰ Squid Game Ji Yeong",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"KSSQG1": [
+  {
+    "cardname": "✰ Squid Game Kang Saebyeok",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"AASQG1": [
+  {
+    "cardname": "✰ Squid Game Ali Abdul",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SLSQG1": [
+  {
+    "cardname": "✰ Squid Game Salesman",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"HJSQG1": [
+  {
+    "cardname": "✰ Squid Game Hwang Junho",
+    "cardgroup": "Drama",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"GLIVE4": [
+  {
+    "cardname": "★★★★ IVE Gaeul",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/ZEzfxW7"
+  }
+],
+
+"LEIVE4": [
+  {
+    "cardname": "★★★★ IVE Leeseo",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/ws7l0xz"
+  }
+],
+
+"LZIVE4": [
+  {
+    "cardname": "★★★★ IVE Liz",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/2kNhZWi"
+  }
+],
+
+"REIVE4": [
+  {
+    "cardname": "★★★★ IVE Rei",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/jjJmYON"
+  }
+],
+
+"WOIVE4": [
+  {
+    "cardname": "★★★★ IVE Wonyoung",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/1lubxVK"
+  }
+],
+
+"YJIVE4": [
+  {
+    "cardname": "★★★★ IVE Yujin",
+    "cardgroup": "IVE",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/asXt0vu"
+  }
+],
+
+"SWPK1": [
+  {
+    "cardname": "★ PURPLE KISS Swan",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"CHPK1": [
+  {
+    "cardname": "★ PURPLE KISS Chaein",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"YKPK1": [
+  {
+    "cardname": "★ PURPLE KISS Yuki",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"IRPK1": [
+  {
+    "cardname": "★ PURPLE KISS Ireh",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DSPK1": [
+  {
+    "cardname": "★ PURPLE KISS Dosie",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"NGPK1": [
+  {
+    "cardname": "★ PURPLE KISS Na Goeun",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"PJPK1": [
+  {
+    "cardname": "★ PURPLE KISS Park Jieun",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "1",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DAPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Dajeong",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"DIPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Dia",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"ELPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Ella",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"LOPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Lola",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SAPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Satbyeol",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+],
+
+"SUPXFB4": [
+  {
+    "cardname": "<:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014><:pixyfly:1038320855798780014> PIXY Sua",
+    "cardgroup": "PIXY",
+    "cardrarity": "4",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
 ]
 }
