@@ -34980,5 +34980,59 @@
     "cardrarity": "3",
     "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
   }
+  ],
+
+  "AIV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW Aisha",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "EUV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW E:U",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "MIV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW Mia",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "ONV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW Onda",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "SIV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW Sihyeon",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "YIV2EV3": [
+    {
+      "cardname": "★★★ EVERGLOW Yiren",
+      "cardgroup": "EVERGLOW",
+      "cardrarity": "3",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
   ]
 }
