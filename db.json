@@ -35034,5 +35034,212 @@
       "cardrarity": "3",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
+  ],
+
+  "BARBIEYOON": [
+    {
+      "cardname": "✰ STAYC Yoon",
+      "cardgroup": "STAYC",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "PUPPIPI": [
+    {
+      "cardname": "✰ Stray Kids Seungmin",
+      "cardgroup": "Stray Kids",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+
+  "KARISELLE": [
+    {
+      "cardname": "✰ aespa Karina & Giselle",
+      "cardgroup": "aespa",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "JINMANE": [
+    {
+      "cardname": "✰ BTS Jin",
+      "cardgroup": "BTS",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "LALUNA": [
+    {
+      "cardname": "✰ ICHILLIN' Joonie",
+      "cardgroup": "ICHILLIN'",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+
+  "JIUCULT": [
+    {
+      "cardname": "✰✰✰✰✰ Dreamcatcher JiU",
+      "cardgroup": "Dreamcatcher",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "GOBLIN": [
+    {
+      "cardname": "✰✰✰✰✰ A.C.E WOW & Donghun",
+      "cardgroup": "A.C.E",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "LOVESICK": [
+    {
+      "cardname": "✰✰✰✰✰ TXT Taehyun",
+      "cardgroup": "TXT",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "CHIWOO": [
+    {
+      "cardname": "✰✰✰✰✰ KINGDOM Chiwoo",
+      "cardgroup": "KINGDOM",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "FUCKITUP": [
+    {
+      "cardname": "✰✰✰✰✰ ATEEZ Mingi",
+      "cardgroup": "ATEEZ",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "RINA": [
+    {
+      "cardname": "✰✰✰✰✰ Weki Meki Rina",
+      "cardgroup": "Weki Meki",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "FESKTR5": [
+    {
+      "cardname": "✰✰✰✰✰ Stray Kids Felix",
+      "cardgroup": "Stray Kids",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "DUNA": [
+    {
+      "cardname": "✰✰✰✰✰ CSR Duna",
+      "cardgroup": "CSR",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "TRSJUNHOLEE": [
+    {
+      "cardname": "✰✰✰✰✰ The Red Sleeve Junho",
+      "cardgroup": "The Red Sleeve",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "HABBANG": [
+    {
+      "cardname": "✰✰✰✰✰ fromis_9 Hayoung",
+      "cardgroup": "fromis_9",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "YIBOBOY": [
+    {
+      "cardname": "✰✰✰✰✰ Soloist Yibo",
+      "cardgroup": "Yibo",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "NOZE": [
+    {
+      "cardname": "✰✰✰✰✰ WayB No:Ze",
+      "cardgroup": "WayB",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "GYUL": [
+    {
+      "cardname": "✰✰✰✰✰ fromis_9 Gyuri",
+      "cardgroup": "fromis_9",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "CHAENGIE": [
+    {
+      "cardname": "✰✰✰✰✰ fromis_9 Chaeyoung",
+      "cardgroup": "fromis_9",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "SUNSHINE": [
+    {
+      "cardname": "✰✰✰✰✰ Astro Sanha",
+      "cardgroup": "Astro",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "MOONLIGHT": [
+    {
+      "cardname": "✰✰✰✰✰ Astro Moonbin",
+      "cardgroup": "Astro",
+      "cardrarity": "5",
+      "cardimage": "IMGUR LINK HERE"
+    }
+  ],
+  
+  "SUNANDMOON": [
+    {
+      "cardname": "✰✰ NCT Taeil & Haechan",
+      "cardgroup": "NCT",
+      "cardrarity": "2",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+  ],
+  
+  "BYRSC1": [
+    {
+      "cardname": "✦ Selca Soloist Bang Yongguk",
+      "cardgroup": "Selca",
+      "cardrarity": "1",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
   ]
 }
