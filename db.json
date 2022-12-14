@@ -23067,7 +23067,7 @@
 ],
 "SHJW2": [
 {
-  "cardname": "★★ JWiiver Shita",
+  "cardname": "★★ JWiiver Chae Gaho",
   "cardgroup": "JWiiver",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -23094,7 +23094,7 @@
 
 "GKJW2": [
 {
-  "cardname": "★★ JWiiver GabinK",
+  "cardname": "★★ JWiiver Gabin",
   "cardgroup": "JWiiver",
   "cardrarity": "2",
   "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
@@ -34866,9 +34866,9 @@
   
   "SUNANDMOON": [
     {
-      "cardname": "✰✰ NCT Taeil & Haechan",
+      "cardname": "✰✰✰ NCT Taeil & Haechan",
       "cardgroup": "NCT",
-      "cardrarity": "2",
+      "cardrarity": "3",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
     }
   ],
