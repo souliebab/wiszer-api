@@ -35733,5 +35733,1415 @@
       "cardrarity": "1",
       "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png" 
     }
-  ]
+  ],
+
+  "JIWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Jihan",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    
+    "LJWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Jaehee",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    
+    "MOWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Monday",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    
+    "PSWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Soeun",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    
+    "SJWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Soojin",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+    
+    "ZOWESG4": [
+    {
+      "cardname": "🌠🌠🌠🌠 Weeekly Zoa",
+      "cardgroup": "Weeekly",
+      "cardrarity": "4",
+      "sgrelease": "2022",
+      "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+    }
+    ],
+
+    "ISSTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC Isa",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "JSTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC J",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "SNSTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC Seeun",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "SESTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC Sieun",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "SUSTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC Sumin",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "YOSTSG4": [
+      {
+        "cardname": "🌠🌠🌠🌠 STAYC Yoon",
+        "cardgroup": "STAYC",
+        "cardrarity": "4",
+        "sgrelease": "2022",
+        "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+      }
+      ],
+      
+      "KDSOSG4": [
+        {
+          "cardname": "🌠🌠🌠🌠 Soloist Kang Daniel",
+          "cardgroup": "Daniel",
+          "cardrarity": "4",
+          "sgrelease": "2022",
+          "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+        }
+        ],
+        
+        "EBSOSG4": [
+        {
+          "cardname": "🌠🌠🌠🌠 Soloist Eunbi",
+          "cardgroup": "Eunbi",
+          "cardrarity": "4",
+          "sgrelease": "2022",
+          "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+        }
+        ],
+        
+        "BETXSG4": [
+          {
+            "cardname": "🌠🌠🌠🌠 TXT Beomgyu",
+            "cardgroup": "TXT",
+            "cardrarity": "4",
+            "sgrelease": "2022",
+            "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+          }
+          ],
+          
+          "HKTXSG4": [
+          {
+            "cardname": "🌠🌠🌠🌠 TXT Huening Kai",
+            "cardgroup": "TXT",
+            "cardrarity": "4",
+            "sgrelease": "2022",
+            "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+          }
+          ],
+          
+          "SOTXSG4": [
+          {
+            "cardname": "🌠🌠🌠🌠 TXT Soobin",
+            "cardgroup": "TXT",
+            "cardrarity": "4",
+            "sgrelease": "2022",
+            "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+          }
+          ],
+          
+          "TATXSG4": [
+          {
+            "cardname": "🌠🌠🌠🌠 TXT Taehyun",
+            "cardgroup": "TXT",
+            "cardrarity": "4",
+            "sgrelease": "2022",
+            "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+          }
+          ],
+          
+          "YETXSG4": [
+          {
+            "cardname": "🌠🌠🌠🌠 TXT Yeonjun",
+            "cardgroup": "TXT",
+            "cardrarity": "4",
+            "sgrelease": "2022",
+            "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+          }
+          ],
+
+          "BOWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Bona",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "DAWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Dawon",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "DYWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Dayoung",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "EUWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Eunseo",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "EXWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN EXY",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "LUWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Luda",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "SEWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Seola",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "SBWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Soobin",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "YNWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Yeonjung",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+            
+            "YEWJSG4": [
+            {
+              "cardname": "🌠🌠🌠🌠 WJSN Yeoreum",
+              "cardgroup": "WJSN",
+              "cardrarity": "4",
+              "sgrelease": "2022",
+              "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+            }
+            ],
+
+            "CHSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Chani",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "DASFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Dawon",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "HWSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Hwiyoung",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "INSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Inseong",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "JASFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Jaeyoon",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "ROSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Rowoon",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "TYSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Taeyang",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "YOSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Youngbin",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+              
+              "ZUSFSG4": [
+              {
+                "cardname": "🌠🌠🌠🌠 SF9 Zuho",
+                "cardgroup": "SF9",
+                "cardrarity": "4",
+                "sgrelease": "2022",
+                "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+              }
+              ],
+
+              "ECTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Eric",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HJTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Hyunjae",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JCTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Jacob",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JKTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Juhaknyeon",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JYTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Juyeon",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"KVTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Kevin",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"NWTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz New",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"QTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Q",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SYTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Sangyeon",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SWTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Sunwoo",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YHTBSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 The Boyz Younghoon",
+  "cardgroup": "The Boyz",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"DNSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Dino",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"DKSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN DK",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HSSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Hoshi",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JHSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Jeonghan",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JSSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Joshua",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JNSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Jun",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MYSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Mingyu",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SPSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN S.Coups",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SKSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Seungkwan",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"T8SVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN The8",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"VNSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Vernon",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"WWSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Wonwoo",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"WOSVSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 SEVENTEEN Woozi",
+  "cardgroup": "SEVENTEEN",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CHTWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Chaeyoung",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"DATWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Dahyun",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JITWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Jihyo",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MITWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Mina",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MOTWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Momo",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"NYTWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Nayeon",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SATWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Sana",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"TZTWSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 TWICE Tzuyu",
+  "cardgroup": "TWICE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"BCSKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Bang Chan",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CBSKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Changbin",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"FESKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Felix",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HASKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Han",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HYSKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Hyunjin",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"INSKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids I.N",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"LKSKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Lee Know",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SESKSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Stray Kids Seungmin",
+  "cardgroup": "Stray Kids",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HWONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Hwanwoong",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"KEONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Keonhee",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"LEONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Leedo",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"RAONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Ravn",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SEONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Seoho",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"XIONSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONEUS Xion",
+  "cardgroup": "ONEUS",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CHK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Chaehyun",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"DAK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Dayeon",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HBK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Bahiyyih",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HKK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Hikaru",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MSK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Mashiro",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"XTK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Xiaoting",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YSK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Yeseo",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YEK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Youngeun",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YJK1SG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Kep1er Yujin",
+  "cardgroup": "Kep1er",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CRLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Choerry",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CHLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Chuu",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"GOLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Gowon",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HALOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Haseul",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HELOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Heejin",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HYLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Hyunjin",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JILOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Jinsoul",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"KLLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Kim Lip",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"OHLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Olivia Hye",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"VILOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Vivi",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YELOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Yeojin",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YVLOSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 LOOΠΔ Yves",
+  "cardgroup": "LOONA",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"CEASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO Cha Eunwoo",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JJASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO JinJin",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MJASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO MJ",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SAASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO Sanha",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"ROASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO Rocky",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MBASG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ASTRO Moonbin",
+  "cardgroup": "ASTRO",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"DADCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher Dami",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"GADCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher Gahyeon",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HADCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher Handong",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JIDCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher JiU",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SIDCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher Siyeon",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SUDCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher SuA",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YODCSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 Dreamcatcher Yoohyeon",
+  "cardgroup": "Dreamcatcher",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"ETOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF E-Tion",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HYOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF Hyojin",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JUOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF J-Us",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MKOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF MK",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"UOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF U",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"WYOFSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 ONF Wyatt",
+  "cardgroup": "ONF",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MIGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Minnie",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"MYGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Miyeon",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SHGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Shuhua",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SOGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Soojin",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SYGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Soyeon",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"YUGISG4": [
+{
+  "cardname": "🌠🌠🌠🌠 (G)I-DLE Yuqi",
+  "cardgroup": "(G)I-DLE",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"IKP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Intak",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JGP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Jiung",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"JSP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Jongseob",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"KHP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Keeho",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"SUP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Soul",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"THP1HSG4": [
+{
+  "cardname": "🌠🌠🌠🌠 P1Harmony Theo",
+  "cardgroup": "P1Harmony",
+  "cardrarity": "4",
+  "sgrelease": "2022",
+  "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+}
+],
+
+"HYOHGGSG4": [
+  {
+    "cardname": "🌠🌠🌠🌠 OH!GG Hyoyeon",
+    "cardgroup": "SNSD",
+    "cardrarity": "4",
+    "sgrelease": "2022",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ],
+  
+  "SNOHGGSG4": [
+  {
+    "cardname": "🌠🌠🌠🌠 OH!GG Sunny",
+    "cardgroup": "SNSD",
+    "cardrarity": "4",
+    "sgrelease": "2022",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ],
+  
+  "TYOHGGSG4": [
+  {
+    "cardname": "🌠🌠🌠🌠 OH!GG Taeyeon",
+    "cardgroup": "SNSD",
+    "cardrarity": "4",
+    "sgrelease": "2022",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ],
+  
+  "YOOHGGSG4": [
+  {
+    "cardname": "🌠🌠🌠🌠 OH!GG Yoona",
+    "cardgroup": "SNSD",
+    "cardrarity": "4",
+    "sgrelease": "2022",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ],
+  
+  "YUOHGGSG4": [
+  {
+    "cardname": "🌠🌠🌠🌠 OH!GG Yuri",
+    "cardgroup": "SNSD",
+    "cardrarity": "4",
+    "sgrelease": "2022",
+    "cardimage": "https://wiszercards.sgp1.cdn.digitaloceanspaces.com/wiszerimages/$message[1].png"
+  }
+  ]  
 }
