@@ -3155,5 +3155,23 @@
     "cardrarity": "5",
     "cardimage": "https://imgur.com/a/tbt4i77"
   }
+],
+
+"MAXSO4": [
+  {
+    "cardname": "★★★★ Soloist Max Changmin",
+    "cardgroup": "Max",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/mfCv8cr"
+  }
+],
+
+"JESO4": [
+  {
+    "cardname": "★★★★ Soloist Jessi",
+    "cardgroup": "Jessi",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/a/hodBjUF"
+  }
 ]
 }
