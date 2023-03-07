@@ -1,13 +1,3046 @@
 {
 "HHRSC1": [
   {
-    "cardname": "✦ Staff Selca Soloist Hyunjun",
+    "cardname": "<:limitedcard:1082456164295524405> Selca Soloist Hyunjun",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
+
+"SHKSC1": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Selca EVERGLOW Sihyeon",
+    "cardgroup": "Staff Selca",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SURSC1": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Selca P1Harmony Soul",
+    "cardgroup": "Staff Selca",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMRSC1": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Selca JUST B JM",
+    "cardgroup": "Staff Selca",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SRESC1": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Selca Soloist Seori",
+    "cardgroup": "Staff Selca",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WLWSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca Soloist WILLOW",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"CHASC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca NCT Dream Chenle",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"SABSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca Astro Sanha",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"JK10SC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca BTS Jungkook",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"PRFSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca Perth",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"JYYSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca GOT7 Jinyoung",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"SKYSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca SEVENTEEN Seungkwan",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"SRPSC1": [
+{
+  "cardname": "<:limitedcard:1082456164295524405> Selca fromis_9 Saerom",
+  "cardgroup": "Staff Selca",
+  "cardrarity": "LIMITED",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"RIBBON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist BamBam",
+    "cardgroup": "BamBam",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/5QPSubF"
+  }
+],
+
+"ILLAILLA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist B.I",
+    "cardgroup": "B.I",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/r569J6I.gif"
+  }
+],
+
+"AIRPLANE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist B.I",
+    "cardgroup": "B.I",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/qugIxt7.gif"
+  }
+],
+
+"MOBB2": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> MOBB Bobby & Mino",
+    "cardgroup": "MOBB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/Igj9bmb"
+  }
+],
+
+"BOMYOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Golden Child Bomin & Y",
+    "cardgroup": "Golden Child",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/likPefT"
+  }
+],
+
+"ITECOO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist DPR LIVE",
+    "cardgroup": "DPR LIVE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/rc3Z4uP.gif"
+  }
+],
+
+"LEADER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/LBBBb2D"
+  }
+],
+
+"JJINNIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYUNLIX": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin & Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/FMF6wFx.gif"
+  }
+],
+
+"AMICUSADARAS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Wooyoung & San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"KEYBOARD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DAY6 Wonpil",
+    "cardgroup": "DAY6",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"FRUITY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Ten",
+    "cardgroup": "Ten",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+    
+"NOMANNERS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Taeyong & Ten",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"HWASAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa & San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Pdp9u52"
+  }
+],
+
+"PINKY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"THIRST": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"INHYUK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> E'LAST Choi In",
+    "cardgroup": "E'LAST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/kmjssql.gif"
+  }
+],
+
+"WGPG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> GOT7 Jinyoung & Jackson",
+    "cardgroup": "GOT7",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/ExrVdWw"
+  }
+],
+
+"CUDDLY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Jongho & Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"KIBUM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Key",
+    "cardgroup": "Key",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/68hHCjw"
+  }
+],
+
+"BADLOVE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Key",
+    "cardgroup": "Key",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"EDELWEISS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> T1419 Leo",
+    "cardgroup": "T1419",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"BANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/p0F31f9.gif"
+  }
+],
+
+"IAMDRUM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DAY6 Dowoon",
+    "cardgroup": "DAY6",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KACHOWDY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MARKHYUCK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Haechan & Mark",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/gc6P2MB.gif"
+  }
+],
+
+"WANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Jackson Wang",
+    "cardgroup": "Jackson Wang",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/xop8ap7.gif"
+  }
+],
+
+"MOMANDDAD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TREASURE Jihoon & Hyunsuk",
+    "cardgroup": "TREASURE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/PKj73xd"
+  }
+],
+
+"CUTE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Mark & Johnny",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"MINGKIPUPPY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Mingi & Yunho",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"ROWOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SF9 Rowoon",
+    "cardgroup": "SF9",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/TtBUo3n.gif"
+  }
+],
+
+"ZICO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Zico",
+    "cardgroup": "Zico",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/DwZKinS"
+  }
+],
+
+"LION": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Yuta",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"ETERNAL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Young K",
+    "cardgroup": "Young K",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"YJSUPREMACY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/WJ1bK8e.gif"
+  }
+],
+
+"FROSTYONG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Taeyong",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"AHGASE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> GOT7 Yugyeom",
+    "cardgroup": "GOT7",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"FESKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CBSKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Changbin (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BCSKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Bang Chan (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HASKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Han (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYSKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"INSKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids I.N (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LKSKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Lee Know (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SESKBRT3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Seungmin (Beret)",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LIXSLOVER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Selca Changbin's Cake",
+    "cardgroup": "Patreon Selca",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JCC": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Johnny",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/rQoxnCU.mp4"
+  }
+],
+
+"TAEKOOK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BTS Taehyung & Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/8OKs9AU"
+  }
+],
+
+"VAMPIRE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Mingi",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"KING": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"QUEEN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"NCTZONE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Taeyong & Jungwoo",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"HWANWOONG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Hwanwoong",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://i.imgur.com/kgFBehA.mp4"
+  }
+],
   
+"MOONBAE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Kevin & Jacob",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"FESKWZ4": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"KINGHYUN": [
+  {
+    "cardname":"<:patreoncard:1082458994729299978> Stray Kids Hyunjin",
+    "cardgroup":"Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"KINGLIX": [
+  {
+    "cardname":"<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup":"Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MINNICHA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> (G)I-DLE Minnie",
+    "cardgroup": "(G)I-DLE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"IMSALTY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"OSAKA127": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Yuta",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SHOTATO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Shotaro",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"DDAY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Xdinary Heroes Jooyeon",
+    "cardgroup": "Xdinary Heroes",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYJSC1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Selca Stray Kids Hyunjin",
+    "cardgroup": "Patreon Selca",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TENYANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayV Ten & YangYang",
+    "cardgroup": "WayV",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/kUxEmLD.mp4"
+  }
+],
+
+"FESKCHZ5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/friDtcf.mp4"
+  }
+], 
+
+"FESKWF5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/4cIL2eo"
+  }
+], 
+  
+"FESKWG5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/aAT2nQ8"
+  }
+], 
+  
+"FESKLVTR5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/jUkk3LR"
+  }
+], 
+
+"PAINTME": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> 2CHAN",
+    "cardgroup": "2CHAN",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+], 
+
+"WINE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Sweet Blood Yoon Chi Woo",
+    "cardgroup": "The Sweet Blood",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/uoc6cdM"
+  }
+], 
+
+"HEART": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/kwMevg1"
+  }
+], 
+  
+"LOVE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/kJug6n0"
+  }
+],  
+
+"IMBLUE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/JnQSh3p"
+  }
+],
+
+"DONTSTOP": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Cuties",
+    "cardgroup": "Cuties",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"OYTYSAH": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/PSYaSNl"
+  }
+],
+  
+"COSMOS5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist B.I",
+    "cardgroup": "B.I",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/jOz4ARg"
+  }
+],
+  
+"BARBIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Jungwoo",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/BDao3Uf"
+  }
+],
+
+"VIBE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"MYVIEW": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BABE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Ten",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JJASPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ASTRO JinJin",
+    "cardgroup": "ASTRO",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"WOATPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Wooyoung",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JMNDPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Dream Jaemin",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"T8SVPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN The8",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NWTBPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz New",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HKTXPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Huening Kai",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SEATPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JONDPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Dream Jeno",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BYTSPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TREASURE Bang Yedam",
+    "cardgroup": "TREASURE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ECTBPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Eric",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JILOPJ1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LOOΠΔ Jinsoul",
+    "cardgroup": "LOONA",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HTTYD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SSETNETOT": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"PICASSO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SFTAST": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"INNIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids I.N",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HUSBAND": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jake",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/2HoznEJ"
+  }
+],
+  
+"PRINCEJIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"YNS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Yeonjun & Soobin",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/0WKR25s"
+  }
+],
+  
+"BROWTF": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHILD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Mark",
+    "cardgroup": "Mark",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/9jXmhGV"
+  }
+],
+  
+"AUSSIES": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Bang Chan & Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/kVhJZvN"
+  }
+],
+  
+"MAKEAWISH": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Jaemin",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/gKcmDEg"
+  }
+],
+  
+"BUBBLELIX": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"DISSONANCE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Mudd the student",
+    "cardgroup": "Mudd the student",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SEOJOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Park Seo Joon",
+    "cardgroup": "Park Seo Joon",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WOOBIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kim Woo Bin",
+    "cardgroup": "Kim Woo Bin",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"MINHO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Lee Min Ho",
+    "cardgroup": "Lee Min Ho",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYUNGSIK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Park Hyung Sik",
+    "cardgroup": "Park Hyung Sik",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JOOHYUK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Nam Joo Hyuk",
+    "cardgroup": "Nam Joo Hyuk",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"GAYMNSNG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Lee Know & Han",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"ERICNAM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Eric Nam",
+    "cardgroup": "Eric Nam",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"PEACHES": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Kai",
+    "cardgroup": "Kai",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"DAISYLIX": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"TAEOH": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kang Tae Oh",
+    "cardgroup": "Kang Tae Oh",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/tBbkkDM"
+  }
+],
+  
+"CANNON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYUNIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SKATE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Han",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/VeCsiyh"
+  }
+],
+  
+"HWI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TNX Hwi",
+    "cardgroup": "TNX",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/G0D1PnG"
+  }
+],
+  
+"JERBZ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Kevin",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PRIDE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Yeonjun",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/KwjKxrN"
+  }
+],
+  
+"JISUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> fromis_9 Jisun",
+    "cardgroup": "fromis_9",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/Z8lsR6p"
+  }
+],
+  
+"SVTLEADERS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Leaders",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/kffm6g3"
+  }
+],
+  
+"SEUNGBIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Seungmin & Changbin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"RTKCHANHEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz New",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/ZpeROeX"
+  }
+],
+
+"CHANHEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz New",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"PLUSMINUS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Max & Hao",
+    "cardgroup": "Max & Hao",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"OHMNANON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Ohm & Nanon",
+    "cardgroup": "Ohm & Nanon",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"REVEAL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Q",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/qpUCekS"
+  }
+],
+  
+"MORE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist J-Hope",
+    "cardgroup": "J-Hope",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/fdXG7B6"
+  }
+],
+  
+"LMLY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Jackson Wang",
+    "cardgroup": "Jackson Wang",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+  
+"MAXIDANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Changbin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RKWN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATBO Rakwon",
+    "cardgroup": "ATBO",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PVNING": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> aespa Ningning",
+    "cardgroup": "aespa",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"AKMU": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> AKMU",
+    "cardgroup": "AKMU",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/dRfF9oi"
+  }
+],
+
+"PUPPIES": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SEULGI28REASONS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Seulgi",
+    "cardgroup": "Seulgi",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/KEbsxiK"
+  }
+],
+
+"PUPPIPI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Seungmin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIUCULT": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Dreamcatcher JiU",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"GAYZ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> OnlyOneOf Nine & Yoojung",
+    "cardgroup": "OnlyOneOf", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MINKI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NewJeans Minji",
+    "cardgroup": "NewJeans",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JENNIFER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LE SSERAFIM Yunjin",
+    "cardgroup": "LE SSERAFIM",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUNHOLEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> 2PM Junho",
+    "cardgroup": "2PM",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/QL9AizG"
+  }
+],
+  
+"BETONMIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NU'EST Minhyun",
+    "cardgroup": "NU'EST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/3XaepTB"
+  }
+],
+  
+"LABOYARON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NU'EST Aron",
+    "cardgroup": "NU'EST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/O5v5IXP"
+  }
+],
+
+"CBSKVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Changbin",
+    "cardgroup": "Patreon Valentine's Day",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HOTSTUFF": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> GOT7 Jinyoung",
+    "cardgroup": "GOT7",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"ALLNIGHTCHA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ASTRO Cha Eunwoo",
+    "cardgroup": "ASTRO",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"MXSBADIDEA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ASTRO Moonbin & Sanha",
+    "cardgroup": "ASTRO",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SPRINGJINYOUNG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> CIX Bae Jinyoung",
+    "cardgroup": "CIX",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SEOLBIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WJSN Seola & Soobin",
+    "cardgroup": "WJSN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"TROUBLEMAKERJR": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NU'EST JR",
+    "cardgroup": "NU'EST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/EjMkNaB"
+  }
+],
+  
+"LUDA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WJSN Luda",
+    "cardgroup": "WJSN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DEJAVU": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NU'EST Ren",
+    "cardgroup": "NU'EST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Dtt7n9v"
+  }
+],
+
+"BAEKHULK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NU'EST Baekho",
+    "cardgroup": "NU'EST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/ifPDnLj"
+  }
+],
+  
+"FLOWERCAT": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LOOΠΔ Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SEQUENCE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WJSN Seola",
+    "cardgroup": "WJSN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YEJU": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ICHILLIN' Yeju",
+    "cardgroup": "ICHILLIN'",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BOYFRIENDVIBE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Jaehyun",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/8s7Bz6r"
+  }
+],
+
+"SHOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUNNY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Sunoo",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TSUKI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Billlie Tsuki",
+    "cardgroup": "Billlie",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KUNLOML": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayV Kun",
+    "cardgroup": "WayV",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"RUNA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Billlie Haruna",
+    "cardgroup": "Billlie",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JAYMELON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IMTHEONEYEO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Yeosang",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"NISHIMURA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BARBIEYOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> STAYC Yoon",
+    "cardgroup": "STAYC",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LALUNA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ICHILLIN' Joonie",
+    "cardgroup": "ICHILLIN'",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TRSJUNHOLEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Red Sleeve Junho",
+    "cardgroup": "The Red Sleeve",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"LOVETICON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> CSR Geumhee",
+    "cardgroup": "CSR",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BESTBOYINTAK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> P1Harmony Intak",
+    "cardgroup": "P1Harmony", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MODELJJY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> B1A4 Jung Jinyoung",
+    "cardgroup": "Jinyoung", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PUZZLERTAEYANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> SF9 Taeyang",
+    "cardgroup": "SF9", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RENJUNGUITARMAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> NCT Renjun",
+    "cardgroup": "NCT", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TONYANGZ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Billlie Tsuki & Sheon",
+    "cardgroup": "Billlie", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUNLOML": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Jun",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/v6MPdJO"
+  }
+], 
+
+"STARS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist BE'O",
+    "cardgroup": "BE'O",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHN1VD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> NCT 127 Jaehyun",
+    "cardgroup": "Custom Vday",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"AOTM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/mTIqbjf"
+  }
+],
+
+"SHUSHU": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Joshua",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/BJiuvxk"
+  }
+],  
+
+"JHPTCB1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Catboy Jinho",
+    "cardgroup": "Catboy",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JHSHCB1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Catboy Jonghyun",
+    "cardgroup": "Catboy",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BKEXCB1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Catboy Baekhyun",
+    "cardgroup": "Catboy",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HSSVCB1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Catboy Hoshi",
+    "cardgroup": "Catboy",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"AEONGIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LOOΠΔ Hyunjin",
+    "cardgroup": "LOONA",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BABIE": [
+  {
+    "cardname": "<:tamababie:1051226017563430982><:tamababie:1051226017563430982><:tamababie:1051226017563430982><:tamababie:1051226017563430982> NCT Lucas",
+    "cardgroup": "Babie",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/zWkvg7U"
+  }
+],
+  
+"TIGER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/DIpzvdH"
+  }
+],
+  
+"HANYANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> fromis_9 Hayoung",
+    "cardgroup": "fromis_9",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"NAMPARADISE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Eric Nam",
+    "cardgroup": "Eric Nam",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"CHAEROMIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kep1er Chaehyun",
+    "cardgroup": "Kep1er",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BEGIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> OnlyOneOf KB & Yoojung",
+    "cardgroup": "OnlyOneOf",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/mP8kSBU"
+  }
+],
+  
+"ROCKETPUNCHER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> aespa Karina",
+    "cardgroup": "aespa",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SPIDER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Hoshi",
+    "cardgroup": "Hoshi",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/xtAnmpI"
+  }
+],
+
+"JAEMARK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Jaehyun & Mark",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KIDLEADER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SNSD Taeyeon",
+    "cardgroup": "SNSD",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DANN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> KINGDOM Dann",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/ydV9hYp"
+  }
+],
+
+"ZOBABY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Weeekly Zoa",
+    "cardgroup": "Weeekly",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IVAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> KINGDOM Ivan",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"CHIWOO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> KINGDOM Chiwoo",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"POMPOMZI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Woozi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"POMPOMEC": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Eric",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"POMPOMSHI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Hoshi",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"POMPOMKEV": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Kevin",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BEAR": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> P1Harmony Theo",
+    "cardgroup": "P1Harmony", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Jun",
+    "cardgroup": "SEVENTEEN", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUNBEAR": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Haechan",
+    "cardgroup": "NCT", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BOOBEAR": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Seungkwan",
+    "cardgroup": "SEVENTEEN", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MITO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DPR IAN",
+    "cardgroup": "DPR IAN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/ke3P3Te"
+  }
+],
+
+"LILIMOVES": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Lisa",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/2R4u7yx"
+  }
+],
+
+"JENDEUK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Jennie",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JICHU": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Jisoo",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"LALA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Lisa",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"ROSEANNE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Rosé",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"CHAELISA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Lisa and Rosé",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WNTTAK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Kevin",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Ywuw3IU"
+  }
+],
+  
+"DACAPO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BDC Seongjun",
+    "cardgroup": "BDC",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYUCK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Haechan",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"TRICKSTER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/CrOsZVA"
+  }
+],
+  
+"LUCY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LUCY",
+    "cardgroup": "LUCY",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/lBNtiHz"
+  }
+],
+      
+"JENSOO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> BLACKPINK Jennie & Jisoo",
+    "cardgroup": "BLACKPINK",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YUJINIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> IVE Yujin",
+    "cardgroup": "IVE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JINLIA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ITZY Ryujin & Lia",
+    "cardgroup": "ITZY",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CAPTAIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"FATHERSDAY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> P1Harmony Keeho & Soul",
+    "cardgroup": "P1Harmony",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/0qXtkiE"
+  }
+],
+  
+"RED": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Taeyong",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/m3wVc1y"
+  }
+],
+
+"BABYSUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Mark & Haechan",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"GYEOM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Yugyeom",
+    "cardgroup": "Yugyeom",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/kNPJsa0"
+  }
+],
+  
+"FUCKINGCOOL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist HUTA",
+    "cardgroup": "HUTA",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/rMdXU2f"
+  }
+],
+  
+"MATZ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Hongjoong & Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+  
+"MARKLEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Mark",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"PUPMODE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Dream Jeno",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/WdyE7QX"
+  }
+],
+  
+"DEVIL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kinnporsche Vegas",
+    "cardgroup": "Kinnporsche",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+  
+"ANGEL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kinnporsche Pete",
+    "cardgroup": "Kinnporsche",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"KD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Kang Daniel",
+    "cardgroup": "Kang Daniel",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"SWIM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Until We Meet Again Dean & Win",
+    "cardgroup": "Until We Meet Again",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"CHERRYBABY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> KINGDOM Mujin",
+    "cardgroup": "KINGDOM",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"BESTWORKYET": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Strangers From Hell Yoon Jongwoo",
+    "cardgroup": "Strangers From Hell",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/hirtMOk"
+  }
+],
+
+"FUCKITUP": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Mingi",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"FESKSTR5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"SUNSHINE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Astro Sanha",
+    "cardgroup": "Astro",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/toL0ZaP"
+  }
+],
+
+"MOONLIGHT": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Astro Moonbin",
+    "cardgroup": "Astro",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Gugr1tv"
+  }
+],
+
+"SUNANDMOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> NCT Taeil & Haechan",
+    "cardgroup": "NCT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BYRSC1": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Selca Soloist Bang Yongguk",
+    "cardgroup": "Patreon Selca",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MKRSC1": [
+{
+  "cardname": "<:patreoncard:1082458994729299978> Selca ONF MK",
+  "cardgroup": "Patreon Selca",
+  "cardrarity": "PATREON",
+  "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+}
+],
+
+"XIUBAEK": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> EXO Xiumin & Baekhyun",
+    "cardgroup": "EXO", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NAVINCI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> Navinci Minsung",
+    "cardgroup": "Navinci", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SEKAI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> EXO Sehun & Kai",
+    "cardgroup": "EXO", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KSW": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> The Boyz Sunwoo",
+    "cardgroup": "The Boyz", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SIWAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> Im Siwan",
+    "cardgroup": "Siwan", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BCSM4": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978>95524405> Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"INSKZ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids I.N",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/YURrdfH"
+  }
+],
+  
+"GHOST": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Mysterious Class Haruto",
+    "cardgroup": "The Mysterious Class",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/3QFDV3s"
+  }
+],
+  
+"FFC3": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"KINGHAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Han",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"CEOFELIX": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NIKITTY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+  
+"FESKVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Felix",
+    "cardgroup": "Patreon Valentine's Day",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SOFT": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Kim Ji Woong & Yoon Seo Bin",
+    "cardgroup": "Kim Ji Woong & Yoon Seo Bin",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"LUCASDAY": [
+  {
+    "cardname": "<a:skypecake:888560707291992094> NCT Lucas",
+    "cardgroup": "Patreon Birthday",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYFESKMC5": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Felix & Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Vqc8PRn"
+  }
+],
+  
+"THANXX": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/Xp09qG1"
+  }
+],
+  
+"BAD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Wooyoung",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/3MC5TQo"
+  }
+],
+  
+"BADNEWS": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TEMPEST Hwarang",
+    "cardgroup": "TEMPEST",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/dg799ks"
+  }
+],
+  
+"ERIC": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Eric",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/vhhDvEx"
+  }
+],
+
+"NUJES": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> VICTON Sejun",
+    "cardgroup": "VICTON",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"NYUHOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz BBangnyu",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TEETERTOTTER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> P1Harmony Theo & Soul",
+    "cardgroup": "P1Harmony",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"YUKSEO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DKB Yuku & Junseo",
+    "cardgroup": "DKB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/puexBIt"
+  }
+],
+
+"JCM": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> The Boyz Q",
+    "cardgroup": "The Boyz",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"物の哀れ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+  
+"KARISELLE": [
+    {
+      "cardname": "<:patreoncard:1082458994729299978> aespa Karina & Giselle",
+      "cardgroup": "aespa",
+      "cardrarity": "PATREON",
+      "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    }
+],
+    
+"GOBLIN": [
+    {
+      "cardname": "<:patreoncard:1082458994729299978> A.C.E WOWHUN",
+      "cardgroup": "A.C.E",
+      "cardrarity": "PATREON",
+      "cardimage": "NOT FINISHED"
+    }
+],
+
+"VENDING": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids I.N",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WHITE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RIKIKI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PURPLE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> SEVENTEEN Jun",
+    "cardgroup": "SEVENTEEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PRADA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MULLET": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Beomgyu",
+    "cardgroup": "TXT", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BROWNIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids I.N",
+    "cardgroup": "Stray Kids", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CITYBOY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ Seonghwa",
+    "cardgroup": "ATEEZ", 
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GUITAR": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DAY6 Sungjin",
+    "cardgroup": "DAY6",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"TAEHYUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TXT Taehyun",
+    "cardgroup": "TXT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/hqImqIm"
+  }
+], 
+  
+"EAJ": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DAY6 Jae",
+    "cardgroup": "DAY6",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SEUNGJUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> VICTON Sejun & Seungwoo",
+    "cardgroup": "VICTON",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/Ut2G3SF"
+  }
+],
+  
+"ROZALIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WANT Rozalin",
+    "cardgroup": "WANT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/9jLJ2DC"
+  }
+],
+  
+"NOZEWORLD": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayB NO:ZE",
+    "cardgroup": "WayB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/RS5mxGw"
+  }
+],
+  
+"JAY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jay",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/AbtRxUQ"
+  }
+],
+
+"ZALINIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WANT Rozalin",
+    "cardgroup": "WANT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIHYE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayB NO:ZE",
+    "cardgroup": "WayB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHAEWON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> IZ*ONE Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WINTER": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> aespa Winter",
+    "cardgroup": "aespa",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RAVN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Ravn",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SEOHO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Seoho",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"LEEDO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Leedo",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"KEONHEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Keonhee",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"XION": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ONEUS Xion",
+    "cardgroup": "ONEUS",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HEYMAMA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayB NO:ZE",
+    "cardgroup": "WayB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/LDty639"
+  }
+],
+  
+"CHOISAN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ATEEZ San",
+    "cardgroup": "ATEEZ",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/zteIUC2"
+  }
+],
+    
+"MASHIHO": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> TREASURE Mashiho",
+    "cardgroup": "TREASURE",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/a/bLoBfJr"
+  }
+],
+
+"CANDYZAL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WANT Rozalin",
+    "cardgroup": "WANT",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/aNQSdOk"
+  }
+],
+
+"WONKI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jungwon & Ni-Ki",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/gBt562a"
+  }
+],
+
+"HOONIEVERSE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Sunghoon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/gGCFtAg"
+  }
+],
+  
+"MINJEONG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> aespa Winter",
+    "cardgroup": "aespa",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/XdMLUTT"
+  }
+],
+
+"NOZE24KMAGIC": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayB NO:ZE",
+    "cardgroup": "WayB",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/ByQQ8qj"
+  }
+],
+
+"JWONIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"BBUBBLE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Build Jakapan",
+    "cardgroup": "Build Jakapan",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GAMEBOY": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> ENHYPEN Jungwon",
+    "cardgroup": "ENHYPEN",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HABBANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> fromis_9 Hayoung",
+    "cardgroup": "fromis_9",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"NOZE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> WayB NO:ZE",
+    "cardgroup": "WayB",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"GYUL": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> fromis_9 Gyuri",
+    "cardgroup": "fromis_9",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"CHAENGIE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> fromis_9 Chaeyoung",
+    "cardgroup": "fromis_9",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"WIAEVD4": [
+  {
+    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Winter",
+    "cardgroup": "Patreon Valentine's Day",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"KIMJIMIN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Weeekly Monday",
+    "cardgroup": "Weeekly",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"SSANG": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> LIGHTSUM Sangah",
+    "cardgroup": "LIGHTSUM",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"JEONJI": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> DreamNote Miso",
+    "cardgroup": "DreamNote",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"HYEONGJUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> CRAVITY Hyeongjun",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+  
+"YUKIKA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Yukika",
+    "cardgroup": "Yukika",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+    
+"GEUMHEE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> CSR Geumhee",
+    "cardgroup": "CSR",
+    "cardrarity": "PATREON",
+    "cardimage": "https://imgur.com/dx2xUs6"
+  }
+],
+          
+"DUNA": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> CSR Duna",
+    "cardgroup": "CSR",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+  
+"DIVE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Jinyoung",
+    "cardgroup": "Jinyoung",
+    "cardrarity": "PATREON",
+    "cardimage": "PENDING REMAKE"
+  }
+],
+
+"JIHOONLOVE": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Park Jihoon",
+    "cardgroup": "Park Jihoon",
+    "cardrarity": "PATREON",
+    "cardimage": "NOT FINISHED"
+  }
+],
+
+"REDMOON": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Bang Chan",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"REDSUN": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Stray Kids Hyunjin",
+    "cardgroup": "Stray Kids",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VOID": [
+  {
+    "cardname": "<:patreoncard:1082458994729299978> Soloist Hyunjun",
+    "cardgroup": "Hyunjun",
+    "cardrarity": "PATREON",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "JYTBZ3": [
   {
     "cardname": "★★★ The Boyz Juyeon",
