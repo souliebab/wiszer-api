@@ -1,5 +1,5 @@
 {
-"HHRSC1": [
+"HHRSC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca Soloist Hyunjun",
     "cardgroup": "Staff Selca",
@@ -8,7 +8,7 @@
   }
 ],
 
-"SHKSC1": [
+"SHKSC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca EVERGLOW Sihyeon",
     "cardgroup": "Staff Selca",
@@ -17,7 +17,7 @@
   }
 ],
 
-"SURSC1": [
+"SURSC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca P1Harmony Soul",
     "cardgroup": "Staff Selca",
@@ -26,7 +26,7 @@
   }
 ],
 
-"JMRSC1": [
+"JMRSC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca JUST B JM",
     "cardgroup": "Staff Selca",
@@ -35,7 +35,7 @@
   }
 ],
 
-"SRESC1": [
+"SRESC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca Soloist Seori",
     "cardgroup": "Staff Selca",
@@ -44,7 +44,7 @@
   }
 ],
 
-"WLWSC1": [
+"WLWSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca Soloist WILLOW",
   "cardgroup": "Staff Selca",
@@ -53,7 +53,7 @@
 }
 ],
 
-"CHASC1": [
+"CHASC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca NCT Dream Chenle",
   "cardgroup": "Staff Selca",
@@ -62,7 +62,7 @@
 }
 ],
 
-"SABSC1": [
+"SABSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca Astro Sanha",
   "cardgroup": "Staff Selca",
@@ -71,7 +71,7 @@
 }
 ],
 
-"JK10SC1": [
+"JK10SC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca BTS Jungkook",
   "cardgroup": "Staff Selca",
@@ -80,7 +80,7 @@
 }
 ],
 
-"PRFSC1": [
+"PRFSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca Perth",
   "cardgroup": "Staff Selca",
@@ -89,7 +89,7 @@
 }
 ],
 
-"JYYSC1": [
+"JYYSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca GOT7 Jinyoung",
   "cardgroup": "Staff Selca",
@@ -98,7 +98,7 @@
 }
 ],
 
-"SKYSC1": [
+"SKYSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca SEVENTEEN Seungkwan",
   "cardgroup": "Staff Selca",
@@ -107,7 +107,7 @@
 }
 ],
 
-"SRPSC1": [
+"SRPSC": [
 {
   "cardname": "<:limitedcard:1082456164295524405> Selca fromis_9 Saerom",
   "cardgroup": "Staff Selca",
@@ -1423,7 +1423,7 @@
 
 "CBSKVD4": [
   {
-    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Changbin",
+    "cardname": "<:vday:1085521579443765268> Stray Kids Changbin",
     "cardgroup": "Patreon Valentine's Day",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -1720,7 +1720,7 @@
 
 "JHN1VD4": [
   {
-    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> NCT 127 Jaehyun",
+    "cardname": "<:vday:1085521579443765268> NCT 127 Jaehyun",
     "cardgroup": "Custom Vday",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -2303,7 +2303,7 @@
   }
 ],
 
-"BYRSC1": [
+"BYRSC": [
   {
     "cardname": "<:patreoncard:1082458994729299978> Selca Soloist Bang Yongguk",
     "cardgroup": "Patreon Selca",
@@ -2312,7 +2312,7 @@
   }
 ],
 
-"MKRSC1": [
+"MKRSC": [
 {
   "cardname": "<:patreoncard:1082458994729299978> Selca ONF MK",
   "cardgroup": "Patreon Selca",
@@ -2431,7 +2431,7 @@
   
 "FESKVD4": [
   {
-    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> Stray Kids Felix",
+    "cardname": "<:vday:1085521579443765268> Stray Kids Felix",
     "cardgroup": "Patreon Valentine's Day",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -2449,8 +2449,8 @@
   
 "LUCASDAY": [
   {
-    "cardname": "<a:skypecake:888560707291992094> NCT Lucas",
-    "cardgroup": "Patreon Birthday",
+    "cardname": "<:patreoncard:1082458994729299978> NCT Lucas",
+    "cardgroup": "NCT",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -2926,7 +2926,7 @@
 
 "WIAEVD4": [
   {
-    "cardname": "<:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754><:vdaywz:941922993616072754> aespa Winter",
+    "cardname": "<:vday:1085521579443765268> aespa Winter",
     "cardgroup": "Patreon Valentine's Day",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -9682,6 +9682,60 @@
     "cardgroup": "TFBOYS",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IMMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X I.M",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/iuoKJWE"
+  }
+],
+
+"JHMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X Joohoney",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/AKs8p0y"
+  }
+],
+
+"HWMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X Hyungwon",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/pg8gxOc"
+  }
+],
+
+"KIMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X Kihyun",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/Nh4U3vQ"
+  }
+],
+
+"MHMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X Minhyuk",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/f8vIFm3"
+  }
+],
+
+"SNMXWZ": [
+  {
+    "cardname": "<:mx:1085522476576034896> MONSTA X Shownu",
+    "cardgroup": "MONSTA X EVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://imgur.com/QtgjypG"
   }
 ]
 }
