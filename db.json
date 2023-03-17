@@ -1891,8 +1891,8 @@
 
 "ZOBABY": [
   {
-    "cardname": "<:patreoncard:1082458994729299978> Weeekly Zoa",
-    "cardgroup": "Weeekly",
+    "cardname": "<:patreoncard:1082458994729299978> WEEEKLY Zoa",
+    "cardgroup": "WEEEKLY",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -2935,8 +2935,8 @@
   
 "KIMJIMIN": [
   {
-    "cardname": "<:patreoncard:1082458994729299978> Weeekly Monday",
-    "cardgroup": "Weeekly",
+    "cardname": "<:patreoncard:1082458994729299978> WEEEKLY Monday",
+    "cardgroup": "WEEEKLY",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -9684,6 +9684,2684 @@
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
+
+"SJGISB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> (G)I-DLE Soojin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KMKACTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Actor Kim Minkyu",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PTACTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Actor Perth",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"STACTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Actor Saint",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WTAESB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> aespa Winter",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNASB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ASTRO Sanha",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJATZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ATEEZ Hongjoong",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNATZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ATEEZ San",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SGATZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ATEEZ Seonghwa",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MZB17SB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> BAE173 Muzin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TKBLSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Billlie Tsuki",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LSBPSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> BLACKPINK Lisa",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MHBTBSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> BTOB Minhyuk",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JKBTSSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> BTS Jungkook",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GHCSRSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> CSR Geumhee",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YKD6SB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> DAY6 Young K",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GHDCSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Dreamcatcher Gahyeon",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JKENSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Jake",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWENSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Jungwon",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NKENSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Ni-Ki",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"ODEVSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> EVERGLOW Onda",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BMGCSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Golden Child Bomin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWG7SB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> GOT7 Jackson",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSH1SB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> H1-KEY Hwiseo",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IVKDSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> KINGDOM Ivan",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJLOSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> LOOΠΔ Heejin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMNCTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NCT Jaemin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSNCTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NCT Jisung",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TLNCTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NCT Taeil",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MJNJSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NewJeans Minji",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"BAENMSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NMIXX BAE",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MHNUSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> NU'EST Minhyun",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJONFSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> ONF Hyojin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUP1HSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> P1Harmony Soul",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KNPTGSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Pentagon Kino",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSSVTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> SEVENTEEN Hoshi",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VNSVTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> SEVENTEEN Vernon",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TYSF9SB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> SF9 Taeyang",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYOGGSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> SNSD Hyoyeon",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SOSOSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Soloist Somi",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"INSKZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> Stray Kids I.N",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LEOTFNSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> TFN Leo",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHTBZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> The Boyz Juhaknyeon",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HRTSSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> TREASURE Haruto",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KLTRISB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> TRI.BE Kelly",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HKTXTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> TXT Huening Kai",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJTXTSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> TXT Yeonjun",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KMVVSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> VERIVERY Kangmin",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBVZSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> VIVIZ SinB",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LDWJSB": [
+  {
+    "cardname": "<:bloomevent:1085035683170762793> WJSN Luda",
+    "cardgroup": "BLOOM",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DJPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Dajeong",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DIAPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Dia",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ELPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Ella",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LLPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Lola",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Satbyeol",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUAPXWZ": [
+  {
+    "cardname": "<:pixy:1085521576558067722> PIXY Sua",
+    "cardgroup": "PIXYEVENT",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DR2NVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> 2NE1 Dara",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MNATZVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> ATEEZ Mingi",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TKBLVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Billlie Tsuki",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RSBPVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> BLACKPINK Rosé",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JKBTSVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> BTS Jungkook",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYCXVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> CIX Bae Jinyoung",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUADCVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Dreamcatcher SuA",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MUEPVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> EPEX MU",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KAIEXOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> EXO Kai",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHF9VD": [
+  {
+    "cardname": "<:vday:1085521579443765268> fromis_9 Jiheon",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YQGIVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> (G)I-DLE Yuqi",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYG7VD": [
+  {
+    "cardname": "<:vday:1085521579443765268> GOT7 Jinyoung",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YNITVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> ITZY Yuna",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYIVEVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> IVE Wonyoung",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+ 
+"MSK1VD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Kep1er Mashiro",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CRLOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> LOOΠΔ Choerry",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TYNCTVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> NCT Taeyong",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMNCTVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> NCT Jaemin",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHSVTVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> SEVENTEEN Jeonghan",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GDSOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Soloist G-Dragon",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HHSOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Soloist Hyunjun",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IUSOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Soloist IU",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYRSOVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Soloist Yuri",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YNSCVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> STAYC Yoon",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LKSKZVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> Stray Kids Lee Know",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ERTBZVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> The Boyz Eric",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHTWVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> TWICE Jihyo",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NVXVD": [
+  {
+    "cardname": "<:vday:1085521579443765268> VIXX N",
+    "cardgroup": "VALENTINES",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYGIHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> (G)I-DLE Soyeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NNAEHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> aespa Ningning",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHATZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> ATEEZ Yunho",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YSATZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> ATEEZ Yeosang",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ZLBAPHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> B.A.P Zelo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMBTSHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> BTS Jimin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ECBUGHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> bugAboo Eunchae",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWCBHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Cherry Bullet Jiwon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIUDCHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Dreamcatcher JiU",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYDCHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Dreamcatcher Siyeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"ODEVHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> EVERGLOW Onda",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MIAEVHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> EVERGLOW Mia",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BKEXOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> EXO Baekhyun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GRF9HW": [
+  {
+    "cardname": "<:hw:1085521574188298250> fromis_9 Gyuri",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWF9HW": [
+  {
+    "cardname": "<:hw:1085521574188298250> fromis_9 Jiwon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YUGFHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> GFRIEND Yuju",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RJITHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> ITZY Ryujin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"EBIZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> IZ*ONE Eunbi",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MJIZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> IZ*ONE Minju",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YSK1HW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Kep1er Yeseo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"OHLOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> LOOΠΔ Olivia Hye",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSLOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> LOOΠΔ Jinsoul",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NCMOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> MOMOLAND Nancy",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ANMOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> MOMOLAND Ahin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JONCTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> NCT Johnny",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WWNCTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> NCT Winwin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JNNCTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> NCT Jeno",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YYNCTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> NCT YangYang",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"AROMGHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> OH MY GIRL Arin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHOXHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> OMEGA X Jehyun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LDONHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> ONEUS Leedo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NNOOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> OnlyOneOf Nine",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JGP1HHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> P1Harmony Jiung",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSP1HHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> P1Harmony Jongseob",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHPTGHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> PENTAGON Jinho",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YKPKHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> PURPLE KISS Yuki",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SGRVHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Red Velvet Seulgi",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WZSVTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> SEVENTEEN Woozi",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MGSVTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> SEVENTEEN Mingyu",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KEYSHHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> SHINee Key",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+ 
+"SHGGHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> SNSD Seohyun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ALSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist Ailee",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BBSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist BamBam",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LNSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist Luna",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PJSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist Park Jihoon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SOSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist Somi",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WHSOHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Soloist Wonho",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SISCHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> STAYC Sieun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJSKZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> Stray Kids Hyunjin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LEOTFNHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TFN Leo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYTBZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> The Boyz Juyeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVTBZHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> The Boyz Kevin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHTSHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TREASURE Jihoon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NYTWHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TWICE Nayeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNTWHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TWICE Sana",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBTXTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TXT Soobin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJTXTHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> TXT Yeonjun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KMVVHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> VERIVERY Kangmin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYWEIHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> WEi Daehyeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJWJHW": [
+  {
+    "cardname": "<:hw:1085521574188298250> WJSN Yeonjung",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CEASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO Cha Eunwoo",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JJASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO JinJin",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MJASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO MJ",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MBASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO Moonbin",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RCASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO Rocky",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNASWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ASTRO Sanha",
+    "cardgroup": "SEASONSGREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+ 
+"HJATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Hongjoong",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Jongho",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MNATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Mingi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ San",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SGATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Seonghwa",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Wooyoung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YSATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Yeosang",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHATZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ATEEZ Yunho",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"JNBPWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> BLACKPINK Jennie",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSBPWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> BLACKPINK Jisoo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LSBPWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> BLACKPINK Lisa",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RSBPWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> BLACKPINK Rosé",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DMDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher Dami",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GHDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher Gahyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HDDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher Handong",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIUDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher JiU",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher Siyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUADCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher SuA",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHDCWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Dreamcatcher Yoohyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"MNGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Minnie",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MYGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Miyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SHGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Shuhua",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SJGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Soojin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Soyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YQGIWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> (G)I-DLE Yuqi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BHK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Bahiyyih",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Chaehyun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Dayeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HKK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Hikaru",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MSK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Mashiro",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"XTK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Xiaoting",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YSK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Yeseo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YGK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Youngeun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJK1WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Kep1er Yujin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"CRLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Choerry",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Chuu",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GWLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Gowon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Haseul",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Heejin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Hyunjin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Jinsoul",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KLLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Kim Lip",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"OHLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Olivia Hye",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VVLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Vivi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Yeojin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YVLOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> LOOΠΔ Yves",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"CLNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Chenle",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Doyoung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HCNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Haechan",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Jaehyun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Jaemin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JNNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Jeno",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Jisung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JONCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Johnny",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Jungwoo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"KUNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Kun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LCNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Lucas",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MKNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Mark",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RJNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Renjun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TLNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Taeil",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TYNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Taeyong",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TENCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Ten",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WWNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Winwin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YTNCTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> NCT Yuta",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"HYOGGWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> OH!GG Hyoyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNGGWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> OH!GG Sunny",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TAEGGWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> OH!GG Taeyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YNGGWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> OH!GG Yoona",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRGGWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> OH!GG Yuri",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HWONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Hwanwoong",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KHONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Keonhee",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LDONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Leedo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RVONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Ravn",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SHONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Seoho",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"XIONWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONEUS Xion",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ETONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF E-Tion",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF Hyojin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUSONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF J-Us",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MKONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF MK",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"UONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF U",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYONFWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> ONF Wyatt",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IKP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Intak",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JGP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Jiung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Jongseob",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KHP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Keeho",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Soul",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"THP1HWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> P1Harmony Theo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"DNSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Dino",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DKSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN DK",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Hoshi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Jeonghan",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Joshua",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUNSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Jun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MGSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Mingyu",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SCSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN S.Coups",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SKSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Seungkwan",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"T8SVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN The8",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VNSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Vernon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WWSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Wonwoo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WZSVTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SEVENTEEN Woozi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"CNSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Chani",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DWSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Dawon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Hwiyoung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ISSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Inseong",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Jaeyoon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RWSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Rowoon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TYSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Taeyang",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YBSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Youngbin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ZHSF9WZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> SF9 Zuho",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KDSOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Soloist Kang Daniel",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"EBSOWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Soloist Eunbi",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+ 
+"BCSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Bang Chan",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CBSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Changbin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"FXSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Felix",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HANSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Han",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Hyunjin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"INSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids I.N",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LKSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Lee Know",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SMSKZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> Stray Kids Seungmin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"ERTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Eric",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Hyunjae",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JCTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Jacob",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Juhaknyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Juyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Kevin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NWTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz New",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"QTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Q",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Sangyeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SWTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Sunwoo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHTBZWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> The Boyz Younghoon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CYTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Chaeyoung",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Dahyun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Jihyo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MNTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Mina",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MMTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Momo",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NYTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Nayeon",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Sana",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TZTWWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TWICE Tzuyu",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BGTXTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TXT Beomgyu",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HKTXTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TXT Huening Kai",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBTXTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TXT Soobin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"THTXTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TXT Taehyun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJTXTWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> TXT Yeonjun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+"JHWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Jaehee",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Jihan",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MNWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Monday",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SOWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Soeun",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SJWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Soojin",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ZOAWEWZ": [
+  {
+    "cardname": "<:sg:1085521577870893056> WEEEKLY Zoa",
+    "cardgroup": "SEASONS GREETINGS",
+    "cardrarity": "ARCHIVED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 
 "IMMXWZ": [
   {
