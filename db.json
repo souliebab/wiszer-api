@@ -64,16 +64,16 @@
 
 "SABSC": [
 {
-  "cardname": "<:limitedcard:1082456164295524405> Selca Astro Sanha",
+  "cardname": "<:limitedcard:1082456164295524405> Selca ASTRO Sanha",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
 }
 ],
 
-"JK10SC": [
+"BBLSC": [
 {
-  "cardname": "<:limitedcard:1082456164295524405> Selca BTS Jungkook",
+  "cardname": "<:limitedcard:1082456164295524405> Selca SKZOO Bbokari",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -2278,8 +2278,8 @@
 
 "SUNSHINE": [
   {
-    "cardname": "<:patreoncard:1082458994729299978> Astro Sanha",
-    "cardgroup": "Astro",
+    "cardname": "<:patreoncard:1082458994729299978> ASTRO Sanha",
+    "cardgroup": "ASTRO",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/toL0ZaP"
   }
@@ -2287,8 +2287,8 @@
 
 "MOONLIGHT": [
   {
-    "cardname": "<:patreoncard:1082458994729299978> Astro Moonbin",
-    "cardgroup": "Astro",
+    "cardname": "<:patreoncard:1082458994729299978> ASTRO Moonbin",
+    "cardgroup": "ASTRO",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/Gugr1tv"
   }
