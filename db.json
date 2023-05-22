@@ -1,4 +1,130 @@
 {
+"KDRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Soloist Kang Daniel",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DKRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> SEVENTEEN DK",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"COBI": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> The Boyz Jacob",
+    "cardgroup": "Jacob Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JNRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> NCT Jeno",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> The Boyz Kevin",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WNRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Red Velvet Wendy",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WZRIE": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Soloist WOODZ",
+    "cardgroup": "Rie Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"FULLSUNDAY": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> NCT Haechan",
+    "cardgroup": "Haechan Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/L0wtZve"
+  }
+],
+
+"HOSH": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> SEVENTEEN Hoshi",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/a/KnsKOKP"
+  }
+],
+
+"JJONG": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> SHINee Jonghyun",
+    "cardgroup": "Limited",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/a/B68PxII"
+  }
+],
+
+"BEOMGYU": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> TXT Beomgyu",
+    "cardgroup": "Limited",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/a/qftJFdv"
+  }
+],
+
+"CLVRDAY": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> The Boyz Juhaknyeon",
+    "cardgroup": "Clover Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/a/bmA8EQZ"
+  }
+],
+
+"KIMKI": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> SHINee Key",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/a/oktTSIM"
+  }
+],
+
+"MORKDAY": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> NCT Mark",
+    "cardgroup": "Mark Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://imgur.com/XUu9VOq"
+  }
+],
+
 "HHRSC": [
   {
     "cardname": "<:limitedcard:1082456164295524405> Selca Soloist Hyunjun",
