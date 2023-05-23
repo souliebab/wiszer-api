@@ -13608,7 +13608,7 @@
 
 "SYEV1": [
   {
-    "cardname": "★ EVERGLOW Siyeon",
+    "cardname": "★ EVERGLOW Sihyeon",
     "cardgroup": "EVERGLOW",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13757,6 +13757,16 @@
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
+
+"FMNIK1": [
+  {
+    "cardname": "★ NIK Fumiya",
+    "cardgroup": "NIK",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "EDPTG1": [
   {
     "cardname": "★ PENTAGON E'Dawn",
@@ -15249,7 +15259,7 @@
   }
 ],
 
-"KHSO1": [
+"KHWSO1": [
   {
     "cardname": "★ Soloist Kang Hyewon",
     "cardgroup": "Hyewon",
@@ -15294,7 +15304,7 @@
   }
 ],
 
-"WHSO2": [
+"WHESO2": [
   {
     "cardname": "★★ Soloist Wheein",
     "cardgroup": "Wheein",
