@@ -17,6 +17,60 @@
   }
 ],
 
+"JGLIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> Yoon Jongwoo",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JWLIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> ZB1 Kim Jiwoong",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RILIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> ZB1 Ricky",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LEOLIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> TFN Leo",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LCLIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> NCT Lucas",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HVLIX": [
+  {
+    "cardname": "<:limitedcard:1082456164295524405> XG Harvey",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "COBI": [
   {
     "cardname": "<:limitedcard:1082456164295524405> The Boyz Jacob",
@@ -14746,7 +14800,7 @@
 
 "JHDKZ3": [
   {
-    "cardname": "★★★ DKZ Jonghyeon",
+    "cardname": "★★★ DKZ Jonghyeong",
     "cardgroup": "DKZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
