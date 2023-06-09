@@ -16297,7 +16297,7 @@
 "HYGDO3": [
   {
     "cardname": "★★★ GUGUDAN OGUOGU Hyeyeon",
-    "cardgroup": "OGUOGU",
+    "cardgroup": "GUGUDAN",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -16306,7 +16306,7 @@
 "MNGDO3": [
   {
     "cardname": "★★★ GUGUDAN OGUOGU Mina",
-    "cardgroup": "OGUOGU",
+    "cardgroup": "GUGUDAN",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -16422,8 +16422,8 @@
  
 "BMAPC4": [
   {
-    "cardname": "★★★★ APINK CHOBOM Bomi",
-    "cardgroup": "CHOBOM",
+    "cardname": "★★★★ Apink CHOBOM Bomi",
+    "cardgroup": "Apink",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/sNfwidd"
   }
@@ -16431,8 +16431,8 @@
 
 "CHAPC4": [
   {
-    "cardname": "★★★★ APINK CHOBOM Chorong",
-    "cardgroup": "CHOBOM",
+    "cardname": "★★★★ Apink CHOBOM Chorong",
+    "cardgroup": "Apink",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/p7lSvLX"
   }
