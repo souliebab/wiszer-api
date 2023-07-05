@@ -3540,6 +3540,7 @@
 "CS2PM1": [
   {
     "cardname": "★ 2PM Chansung",
+    "membername": "Chansung",
     "cardgroup": "2PM",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
