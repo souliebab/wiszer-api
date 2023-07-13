@@ -6151,7 +6151,7 @@
 "JYCX1": [
   {
     "cardname": "★ CIX Bae Jinyoung",
-    "membername": "Jinyoung",
+    "membername": "Bae Jinyoung",
     "cardgroup": "CIX",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -7081,7 +7081,7 @@
 "MAXSO4": [
   {
     "cardname": "★★★★ Soloist Max Changmin",
-    "membername": "Changmin",
+    "membername": "Max Changmin",
     "cardgroup": "Max",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/mfCv8cr"
@@ -7181,7 +7181,7 @@
 "MJSO2": [
   {
     "cardname": "★★ Soloist MJ",
-    "membername": "IU",
+    "membername": "MJ",
     "cardgroup": "MJ",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -8173,7 +8173,7 @@
 "BAENM2": [
   {
     "cardname": "★★ NMIXX BAE",
-    "membername": "Bae",
+    "membername": "BAE",
     "cardgroup": "NMIXX",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -10196,7 +10196,7 @@
 "CNUB143": [
   {
     "cardname": "★★★ B1A4 CNU",
-    "membername": "Cnu",
+    "membername": "CNU",
     "cardgroup": "B1A4",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17418,7 +17418,7 @@
 "KEBSO2": [
   {
     "cardname": "★★ Soloist Kwon Eunbi",
-    "membername": "Eunbi",
+    "membername": "Kwon Eunbi",
     "cardgroup": "Eunbi",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17548,7 +17548,7 @@
 "LCYSO4": [
   {
     "cardname": "★★★★ Soloist Lee Chaeyeon",
-    "membername": "Chaeyeon",
+    "membername": "Lee Chaeyeon",
     "cardgroup": "Chaeyeon",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/a/VQivMib"
@@ -17818,7 +17818,7 @@
 "MCMTQ3": [
   {
     "cardname": "★★★ TVXQ! Max Changmin",
-    "membername": "Changmin",
+    "membername": "Max Changmin",
     "cardgroup": "TVXQ!",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
