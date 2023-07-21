@@ -17578,7 +17578,7 @@
 "DHHD1": [
   {
     "cardname": "★ H&D Dohyon",
-    "membername": "Dohyon",
+    "membername": "H&D Dohyon",
     "cardgroup": "H&D",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17588,7 +17588,7 @@
 "HGHD1": [
   {
     "cardname": "★ H&D Hangyul",
-    "membername": "Hangyul",
+    "membername": "H&D Hangyul",
     "cardgroup": "H&D",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17598,7 +17598,7 @@
 "LEEXW1": [
   {
     "cardname": "★ KIM WOOSEOK X LEE EUNSANG Lee Eunsang",
-    "membername": "Lee Eunsang",
+    "membername": "KIM WOOSEOK X LEE EUNSANG Lee Eunsang",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17608,7 +17608,7 @@
 "KWEXW1": [
   {
     "cardname": "★ KIM WOOSEOK X LEE EUNSANG Kim Wooseok",
-    "membername": "Kim Wooseok",
+    "membername": "KIM WOOSEOK X LEE EUNSANG Kim Wooseok",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17618,7 +17618,7 @@
 "BBBXS1": [
   {
     "cardname": "★ BAMBAM & SEULGI BamBam",
-    "membername": "BamBam",
+    "membername": "BAMBAM & SEULGI BamBam",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17628,7 +17628,7 @@
 "SGBXS1": [
   {
     "cardname": "★ BAMBAM & SEULGI Seulgi",
-    "membername": "Seulgi",
+    "membername": "BAMBAM & SEULGI Seulgi",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17638,8 +17638,8 @@
 "BOAKM1": [
   {
     "cardname": "★ KEEMBO Boa",
-    "membername": "Boa",
-    "cardgroup": "Keembo",
+    "membername": "KEEMBO Boa",
+    "cardgroup": "KEEMBO",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -17648,8 +17648,8 @@
 "BHKM1": [
   {
     "cardname": "★ KEEMBO Bohyung",
-    "membername": "Bohyung",
-    "cardgroup": "Keembo",
+    "membername": "KEEMBO Bohyung",
+    "cardgroup": "KEEMBO",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -17657,8 +17657,8 @@
 
 "KUKX1": [
   {
-    "cardname": "★ KUN & XIAOJUN Kun",
-    "membername": "Kun",
+    "cardname": "★ WayV-KUN&XIAOJUN Kun",
+    "membername": "WayV-KUN&XIAOJUN Kun",
     "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17667,8 +17667,8 @@
 
 "XJKX1": [
   {
-    "cardname": "★ KUN & XIAOJUN Xiaojun",
-    "membername": "Xiaojun",
+    "cardname": "★ WayV-KUN&XIAOJUN Xiaojun",
+    "membername": "WayV-KUN&XIAOJUN Xiaojun",
     "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17678,7 +17678,7 @@
 "TYTXW2": [
   {
     "cardname": "★★ TAEYONG X WONSTEIN Taeyong",
-    "membername": "Taeyong",
+    "membername": "TAEYONG X WONSTEIN Taeyong",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17688,7 +17688,7 @@
 "WSTXW2": [
   {
     "cardname": "★★ TAEYONG X WONSTEIN Wonstein",
-    "membername": "Wonstein",
+    "membername": "TAEYONG X WONSTEIN Wonstein",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17698,7 +17698,7 @@
 "CHAK4": [
   {
     "cardname": "★★★★ AKMU Chanhyuk",
-    "membername": "Chanhyuk",
+    "membername": "AKMU Chanhyuk",
     "cardgroup": "AKMU",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17708,7 +17708,7 @@
 "SHAK4": [
   {
     "cardname": "★★★★ AKMU Suhyun",
-    "membername": "Suhyun",
+    "membername": "AKMU Suhyun",
     "cardgroup": "AKMU",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17718,7 +17718,7 @@
 "PSYPXS2": [
   {
     "cardname": "★★ PSY & SUGA PSY",
-    "membername": "PSY",
+    "membername": "PSY & SUGA PSY",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17728,7 +17728,7 @@
 "SGPXS2": [
   {
     "cardname": "★★ PSY & SUGA Suga",
-    "membername": "Suga",
+    "membername": "PSY & SUGA Suga",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17738,7 +17738,7 @@
 "KTKXS2": [
   {
     "cardname": "★★ KENTA ・ SANGGYUN Kenta",
-    "membername": "Kenta",
+    "membername": "KENTA ・ SANGGYUN Kenta",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17748,7 +17748,7 @@
 "SGKXS2": [
   {
     "cardname": "★★ KENTA ・ SANGGYUN Sanggyun",
-    "membername": "Sanggyun",
+    "membername": "KENTA ・ SANGGYUN Sanggyun",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17758,7 +17758,7 @@
 "SHSXS2": [
   {
     "cardname": "★★ SHIMA X SUMIRE SHIMA",
-    "membername": "SHIMA",
+    "membername": "SHIMA X SUMIRE SHIMA",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17768,7 +17768,7 @@
 "SUSXS2": [
   {
     "cardname": "★★ SHIMA X SUMIRE Sumire",
-    "membername": "Sumire",
+    "membername": "SHIMA X SUMIRE Sumire",
     "cardgroup": "Duo",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17778,7 +17778,7 @@
 "HYGDO3": [
   {
     "cardname": "★★★ GUGUDAN OGUOGU Hyeyeon",
-    "membername": "Hyeyeon",
+    "membername": "GUGUDAN OGUOGU Hyeyeon",
     "cardgroup": "GUGUDAN",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17788,7 +17788,7 @@
 "MNGDO3": [
   {
     "cardname": "★★★ GUGUDAN OGUOGU Mina",
-    "membername": "Mina",
+    "membername": "GUGUDAN OGUOGU Mina",
     "cardgroup": "GUGUDAN",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17798,7 +17798,7 @@
 "CYESC3": [
   {
     "cardname": "★★★ EXO-SC Chanyeol",
-    "membername": "Chanyeol",
+    "membername": "EXO-SC Chanyeol",
     "cardgroup": "EXO",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17808,7 +17808,7 @@
 "SNESC3": [
   {
     "cardname": "★★★ EXO-SC Sehun",
-    "membername": "Sehun",
+    "membername": "EXO-SC Sehun",
     "cardgroup": "EXO",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17818,7 +17818,7 @@
 "MCMTQ3": [
   {
     "cardname": "★★★ TVXQ! Max Changmin",
-    "membername": "Max Changmin",
+    "membername": "TVXQ! Max Changmin",
     "cardgroup": "TVXQ!",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17828,7 +17828,7 @@
 "UKYTQ3": [
   {
     "cardname": "★★★ TVXQ! U-Know Yunho",
-    "membername": "U-Know Yunho",
+    "membername": "TVXQ! U-Know Yunho",
     "cardgroup": "TVXQ!",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17837,8 +17837,8 @@
 
 "TETXY3": [
   {
-    "cardname": "★★★ TEN & YANGYANG Ten",
-    "membername": "Ten",
+    "cardname": "★★★ WayV-TEN&YANGYANG Ten",
+    "membername": "WayV-TEN&YANGYANG Ten",
     "cardgroup": "NCT",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17847,8 +17847,8 @@
 
 "YYTXY3": [
   {
-    "cardname": "★★★ TEN & YANGYANG YangYang",
-    "membername": "YangYang",
+    "cardname": "★★★ WayV-TEN&YANGYANG YangYang",
+    "membername": "WayV-TEN&YANGYANG YangYang",
     "cardgroup": "NCT",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17858,7 +17858,7 @@
 "CASTM3": [
   {
     "cardname": "★★★ STRAWBERRY MILK Choa",
-    "membername": "Choa",
+    "membername": "STRAWBERRY MILK Choa",
     "cardgroup": "STRAWBERRY MILK",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17868,7 +17868,7 @@
 "WYSTM3": [
   {
     "cardname": "★★★ STRAWBERRY MILK Way",
-    "membername": "Way",
+    "membername": "STRAWBERRY MILK Way",
     "cardgroup": "STRAWBERRY MILK",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17878,7 +17878,7 @@
 "JCJXR4": [
   {
     "cardname": "★★★★ JAY CHANG X RODA Jay Chang",
-    "membername": "Jay Chang",
+    "membername": "JAY CHANG X RODA Jay Chang",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17888,7 +17888,7 @@
 "RDJXR4": [
   {
     "cardname": "★★★★ JAY CHANG X RODA Roda",
-    "membername": "Roda",
+    "membername": "JAY CHANG X RODA Roda",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17898,7 +17898,7 @@
 "JMTXJ4": [
   {
     "cardname": "★★★★ TAEYANG X JIMIN Jimin",
-    "membername": "Jimin",
+    "membername": "TAEYANG X JIMIN Jimin",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17908,7 +17908,7 @@
 "TYTXJ4": [
   {
     "cardname": "★★★★ TAEYANG X JIMIN Taeyang",
-    "membername": "Taeyang",
+    "membername": "TAEYANG X JIMIN Taeyang",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -17918,7 +17918,7 @@
 "BMAPC4": [
   {
     "cardname": "★★★★ Apink CHOBOM Bomi",
-    "membername": "Bomi",
+    "membername": "Apink CHOBOM Bomi",
     "cardgroup": "Apink",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/sNfwidd"
@@ -17928,7 +17928,7 @@
 "CHAPC4": [
   {
     "cardname": "★★★★ Apink CHOBOM Chorong",
-    "membername": "Chorong",
+    "membername": "Apink CHOBOM Chorong",
     "cardgroup": "Apink",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/p7lSvLX"
@@ -17938,7 +17938,7 @@
 "MGMXW4": [
   {
     "cardname": "★★★★ WONWOO X MINGYU Mingyu",
-    "membername": "Mingyu",
+    "membername": "WONWOO X MINGYU Mingyu",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/7YTCz9E"
@@ -17948,7 +17948,7 @@
 "WWMXW4": [
   {
     "cardname": "★★★★ WONWOO X MINGYU Wonwoo",
-    "membername": "Wonwoo",
+    "membername": "WONWOO X MINGYU Wonwoo",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/j0LEuXG"
@@ -17958,7 +17958,7 @@
 "DWHXD5": [
   {
     "cardname": "★★★★★ HyunA&DAWN DAWN",
-    "membername": "DAWN",
+    "membername": "HyunA&DAWN DAWN",
     "cardgroup": "HyunA&DAWN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Mc3outY"
@@ -17968,7 +17968,7 @@
 "HAHXD5": [
   {
     "cardname": "★★★★★ HyunA&DAWN HyunA",
-    "membername": "HyunA",
+    "membername": "HyunA&DAWN HyunA",
     "cardgroup": "HyunA&DAWN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/kFMWJoQ"
