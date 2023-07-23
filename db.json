@@ -10236,7 +10236,7 @@
 "MOABBM3": [
   {
     "cardname": "★★★ BABYMETAL MOAMETAL",
-    "membername": "MOAMETAL",
+    "membername": "BABYMETAL MOAMETAL",
     "cardgroup": "BABYMETAL",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -10246,7 +10246,7 @@
 "SUBBM3": [
   {
     "cardname": "★★★ BABYMETAL SU-METAL",
-    "membername": "SU-METAL",
+    "membername": "BABYMETAL SU-METAL",
     "cardgroup": "BABYMETAL",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
