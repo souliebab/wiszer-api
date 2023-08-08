@@ -1,4 +1,14 @@
 {
+"UHOH": [
+  {
+    "cardname": "No Favourite Set!",
+    "membername": "No Fav",
+    "cardgroup": "No Fav",
+    "cardrarity": "N/A",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "KDRIE": [
   {
     "cardname": "<:limited:1137808009184157728> Soloist Kang Daniel",
