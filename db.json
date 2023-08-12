@@ -10976,6 +10976,7 @@
 "SJGISB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> (G)I-DLE Soojin",
+    "membername": "(G)I-DLE Soojin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -10985,6 +10986,7 @@
 "KMKACTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Actor Kim Minkyu",
+    "membername": "Actor Kim Minkyu",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -10994,6 +10996,7 @@
 "PTACTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Actor Perth",
+    "membername": "Actor Perth",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11003,6 +11006,7 @@
 "STACTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Actor Saint",
+    "membername": "Actor Saint",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11012,6 +11016,7 @@
 "WTAESB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> aespa Winter",
+    "membername": "aespa Winter",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11021,6 +11026,7 @@
 "SNASB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ASTRO Sanha",
+    "membername": "ASTRO Sanha",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11030,6 +11036,7 @@
 "HJATZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ATEEZ Hongjoong",
+    "membername": "ATEEZ Hongjoong",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11039,6 +11046,7 @@
 "SNATZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ATEEZ San",
+    "membername": "ATEEZ San",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11048,6 +11056,7 @@
 "SGATZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ATEEZ Seonghwa",
+    "membername": "ATEEZ Seonghwa",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11057,6 +11066,7 @@
 "MZB17SB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> BAE173 Muzin",
+    "membername": "BAE173 Muzin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11066,6 +11076,7 @@
 "TKBLSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Billlie Tsuki",
+    "membername": "Billlie Tsuki",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11075,6 +11086,7 @@
 "LSBPSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> BLACKPINK Lisa",
+    "membername": "BLACKPINK Lisa",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11084,6 +11096,7 @@
 "MHBTBSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> BTOB Minhyuk",
+    "membername": "BTOB Minhyuk",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11093,6 +11106,7 @@
 "JKBTSSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> BTS Jungkook",
+    "membername": "BTS Jungkook",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11102,6 +11116,7 @@
 "GHCSRSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> CSR Geumhee",
+    "membername": "CSR Geumhee",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11111,6 +11126,7 @@
 "YKD6SB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> DAY6 Young K",
+    "membername": "DAY6 Young K",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11120,6 +11136,7 @@
 "GHDCSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Dreamcatcher Gahyeon",
+    "membername": "Dreamcatcher Gahyeon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11129,6 +11146,7 @@
 "JKENSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Jake",
+    "membername": "ENHYPEN Jake",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11138,6 +11156,7 @@
 "JWENSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Jungwon",
+    "membername": "ENHYPEN Jungwon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11147,6 +11166,7 @@
 "NKENSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ENHYPEN Ni-Ki",
+    "membername": "ENHYPEN Ni-Ki",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11155,6 +11175,7 @@
 "ODEVSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> EVERGLOW Onda",
+    "membername": "EVERGLOW Onda",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11164,6 +11185,7 @@
 "BMGCSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Golden Child Bomin",
+    "membername": "Golden Child Bomin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11173,6 +11195,7 @@
 "JWG7SB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> GOT7 Jackson",
+    "membername": "GOT7 Jackson",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11182,6 +11205,7 @@
 "HSH1SB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> H1-KEY Hwiseo",
+    "membername": "H1-KEY Hwiseo",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11191,6 +11215,7 @@
 "IVKDSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> KINGDOM Ivan",
+    "membername": "Kingdom Ivan",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11200,6 +11225,7 @@
 "HJLOSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> LOOΠΔ Heejin",
+    "membername": "LOOΠΔ Heejin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11209,6 +11235,7 @@
 "JMNCTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NCT Jaemin",
+    "membername": "NCT Jaemin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11218,6 +11245,7 @@
 "JSNCTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NCT Jisung",
+    "membername": "NCT Jisung",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11227,6 +11255,7 @@
 "TLNCTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NCT Taeil",
+    "membername": "NCT Taeil",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11236,6 +11265,7 @@
 "MJNJSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NewJeans Minji",
+    "membername": "NewJeans Minji",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11244,6 +11274,7 @@
 "BAENMSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NMIXX BAE",
+    "membername": "NMIXX BAE",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11253,6 +11284,7 @@
 "MHNUSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> NU'EST Minhyun",
+    "membername": "NU'EST Minhyun",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11262,6 +11294,7 @@
 "HJONFSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> ONF Hyojin",
+    "membername": "ONF Hyojin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11271,6 +11304,7 @@
 "SUP1HSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> P1Harmony Soul",
+    "membername": "P1Harmony Soul",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11280,6 +11314,7 @@
 "KNPTGSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> PENTAGON Kino",
+    "membername": "PENTAGON Kino",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11289,6 +11324,7 @@
 "HSSVTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> SEVENTEEN Hoshi",
+    "membername": "SEVENTEEN Hoshi",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11298,6 +11334,7 @@
 "VNSVTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> SEVENTEEN Vernon",
+    "membername": "SEVENTEEN Vernon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11307,6 +11344,7 @@
 "TYSF9SB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> SF9 Taeyang",
+    "membername": "SF9 Taeyang",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11316,6 +11354,7 @@
 "HYOGGSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> SNSD Hyoyeon",
+    "membername": "SNSD Hyoyeon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11325,6 +11364,7 @@
 "SOSOSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Soloist Somi",
+    "membername": "Soloist Somi",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11334,6 +11374,7 @@
 "INSKZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> Stray Kids I.N",
+    "membername": "Stray Kids I.N",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11343,6 +11384,7 @@
 "LEOTFNSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> TFN Leo",
+    "membername": "TFN Leo",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11352,6 +11394,7 @@
 "JHTBZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> The Boyz Juhaknyeon",
+    "membername": "The Boyz Juhaknyeon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11361,6 +11404,7 @@
 "HRTSSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> TREASURE Haruto",
+    "membername": "TREASURE Haruto",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11370,6 +11414,7 @@
 "KLTRISB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> TRI.BE Kelly",
+    "membername": "TRI.BE Kelly",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11379,6 +11424,7 @@
 "HKTXTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> TXT Huening Kai",
+    "membername": "TXT Huening Kai",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11388,6 +11434,7 @@
 "YJTXTSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> TXT Yeonjun",
+    "membername": "TXT Yeonjun",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11397,6 +11444,7 @@
 "KMVVSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> VERIVERY Kangmin",
+    "membername": "VERIVERY Kangmin",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11406,6 +11454,7 @@
 "SBVZSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> VIVIZ SinB",
+    "membername": "VIVIZ SinB",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -11415,6 +11464,7 @@
 "LDWJSB": [
   {
     "cardname": "<:bloomevent:1085035683170762793> WJSN Luda",
+    "membername": "WJSN Luda",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
