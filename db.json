@@ -89,6 +89,66 @@
   }
 ],
 
+"DOYUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> EXO D.O.",
+    "membername": "D.O.",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSYUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> SEVENTEEN Hoshi",
+    "membername": "Hoshi",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMYUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> NCT Jaemin",
+    "membername": "Jaemin",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JUNYUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> SEVENTEEN Jun",
+    "membername": "Jun",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVYUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> The Boyz Kevin",
+    "membername": "Kevin",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"T8YUTO": [
+  {
+    "cardname": "<:limited:1137808009184157728> SEVENTEEN The8",
+    "membername": "The8",
+    "cardgroup": "Yuto Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "COBI": [
   {
     "cardname": "<:limited:1137808009184157728> The Boyz Jacob",
