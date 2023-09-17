@@ -26155,6 +26155,16 @@
   }
 ],
 
+"MJ2521DR": [
+  {
+    "cardname": "✩ Twenty-Five Twenty-One Moon Jiwoong",
+    "membername": "Moon Jiwoong",
+    "cardgroup": "Twenty-Five Twenty-One",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "NH2521DR": [
   {
     "cardname": "✩ Twenty-Five Twenty-One Na Heedo",
