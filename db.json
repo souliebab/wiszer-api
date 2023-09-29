@@ -9,6 +9,15 @@
   }
 ],
 
+"PUBUB": [
+  {
+    "cardname": "<:pubub:1157155184254914610> pubub",
+    "cardgroup": "pubub",
+    "cardrarity": "EVENT",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "YKRIE": [
   {
     "cardname": "<:limited:1137808009184157728> DAY6 Young K",
