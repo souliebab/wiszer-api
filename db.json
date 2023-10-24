@@ -30309,16 +30309,6 @@
   }
 ],
 
-"JHTRI2": [
-  {
-    "cardname": "★★ TRI.BE Jinha",
-    "membername": "Jinha",
-    "cardgroup": "TRI.BE",
-    "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
-  }
-],
-
 "KLTRI2": [
   {
     "cardname": "★★ TRI.BE Kelly",
@@ -30929,7 +30919,7 @@
   }
 ],
 
-"HSMRMDR": [
+"HMRMDR": [
   {
     "cardname": "✩ Re:Mind Higashimura Mei",
     "membername": "Higashimura Mei",
@@ -30939,7 +30929,7 @@
   }
 ],
 
-"ICMRMDR": [
+"IMRMDR": [
   {
     "cardname": "✩ Re:Mind Iguchi Mao",
     "membername": "Iguchi Mao",
@@ -30949,7 +30939,7 @@
   }
 ],
 
-"KYYRMDR": [
+"KYRMDR": [
   {
     "cardname": "✩ Re:Mind Kageyama Yūka",
     "membername": "Kageyama Yūka",
@@ -30959,7 +30949,7 @@
   }
 ],
 
-"KZMRMDR": [
+"KMRMDR": [
   {
     "cardname": "✩ Re:Mind Kakizaki Memi",
     "membername": "Kakizaki Memi",
@@ -30969,7 +30959,7 @@
   }
 ],
 
-"KTSRMDR": [
+"KSRMDR": [
   {
     "cardname": "✩ Re:Mind Katō Shiho",
     "membername": "Katō Shiho",
@@ -30979,7 +30969,7 @@
   }
 ],
 
-"STKRMDR": [
+"SKKRMDR": [
   {
     "cardname": "✩ Re:Mind Saitō Kyōko",
     "membername": "Saitō Kyōko",
@@ -30989,7 +30979,7 @@
   }
 ],
 
-"SSKRMDR": [
+"SKMRMDR": [
   {
     "cardname": "✩ Re:Mind Sasaki Kumi",
     "membername": "Sasaki Kumi",
@@ -30999,7 +30989,7 @@
   }
 ],
 
-"SSMRMDR": [
+"SMRMDR": [
   {
     "cardname": "✩ Re:Mind Sasaki Mirei",
     "membername": "Sasaki Mirei",
@@ -31009,7 +30999,7 @@
   }
 ],
 
-"TMARMDR": [
+"TARMDR": [
   {
     "cardname": "✩ Re:Mind Takamoto Ayaka",
     "membername": "Takamoto Ayaka",
@@ -31019,7 +31009,7 @@
   }
 ],
 
-"TKMRMDR": [
+"TMRMDR": [
   {
     "cardname": "✩ Re:Mind Takase Mana",
     "membername": "Takase Mana",
@@ -31029,7 +31019,7 @@
   }
 ],
 
-"UHSRMDR": [
+"USRMDR": [
   {
     "cardname": "✩ Re:Mind Ushio Sarina",
     "membername": "Ushio Sarina",
@@ -31039,7 +31029,7 @@
   }
 ],
 
-"WNMRMDR": [
+"WMRMDR": [
   {
     "cardname": "✩ Re:Mind Watanabe Miho",
     "membername": "Watanabe Miho",
@@ -31049,7 +31039,7 @@
   }
 ],
 
-"KSYSFHDR": [
+"KSSFHDR": [
   {
     "cardname": "✩ Strangers from Hell Kang Seokyoon",
     "membername": "Kang Seokyoon",
@@ -31059,7 +31049,7 @@
   }
 ],
 
-"MJESFHDR": [
+"MJSFHDR": [
   {
     "cardname": "✩ Strangers from Hell Min Jieun",
     "membername": "Min Jieun",
@@ -31069,7 +31059,7 @@
   }
 ],
 
-"SMJSFHDR": [
+"SMSFHDR": [
   {
     "cardname": "✩ Strangers from Hell Seo Moonjo",
     "membername": "Seo Moonjo",
@@ -31079,7 +31069,7 @@
   }
 ],
 
-"SJHSFHDR": [
+"SJSFHDR": [
   {
     "cardname": "✩ Strangers from Hell So Junghwa",
     "membername": "So Junghwa",
@@ -31089,7 +31079,7 @@
   }
 ],
 
-"YJWSFHDR": [
+"YJSFHDR": [
   {
     "cardname": "✩ Strangers from Hell Yoon Jongwoo",
     "membername": "Yoon Jongwoo",
@@ -31099,7 +31089,7 @@
   }
 ],
 
-"JJWTKADR": [
+"JJKADR": [
   {
     "cardname": "✩ The King's Affection Jung Jiwoon",
     "membername": "Jung Jiwoon",
@@ -31109,7 +31099,7 @@
   }
 ],
 
-"KGOTKADR": [
+"KGKADR": [
   {
     "cardname": "✩ The King's Affection Kim Gaon",
     "membername": "Kim Gaon",
@@ -31119,7 +31109,7 @@
   }
 ],
 
-"LHWTKADR": [
+"LHWKADR": [
   {
     "cardname": "✩ The King's Affection Lee Hwi",
     "membername": "Lee Hwi",
@@ -31129,7 +31119,7 @@
   }
 ],
 
-"LHYTKADR": [
+"LHYKADR": [
   {
     "cardname": "✩ The King's Affection Lee Hyun",
     "membername": "Lee Hyun",
@@ -31139,7 +31129,7 @@
   }
 ],
 
-"NHKTKADR": [
+"NHKADR": [
   {
     "cardname": "✩ The King's Affection Noh Hakyung",
     "membername": "Noh Hakyung",
@@ -31149,7 +31139,7 @@
   }
 ],
 
-"SSETKADR": [
+"SSKADR": [
   {
     "cardname": "✩ The King's Affection Shin Soeun",
     "membername": "Shin Soeun",
@@ -31159,7 +31149,7 @@
   }
 ],
 
-"HHTYOMDR": [
+"HHYMDR": [
   {
     "cardname": "✩ Youth of May Hwang Heetae",
     "membername": "Hwang Heetae",
@@ -31169,7 +31159,7 @@
   }
 ],
 
-"KMHYOMDR": [
+"KMYMDR": [
   {
     "cardname": "✩ Youth of May Kim Myunghee",
     "membername": "Kim Myunghee",
@@ -31179,7 +31169,7 @@
   }
 ],
 
-"LSCYOMDR": [
+"LSCYMDR": [
   {
     "cardname": "✩ Youth of May Lee Soochan",
     "membername": "Lee Soochan",
@@ -31189,7 +31179,7 @@
   }
 ],
 
-"LSRYOMDR": [
+"LSRYMDR": [
   {
     "cardname": "✩ Youth of May Lee Sooryeon",
     "membername": "Lee Sooryeon",
@@ -31199,7 +31189,7 @@
   }
 ],
 
-"GWNYCDR": [
+"GWYCDR": [
   {
     "cardname": "✩ Yumi's Cells Goo Woong",
     "membername": "Goo Woong",
@@ -31209,7 +31199,7 @@
   }
 ],
 
-"KYMYCDR": [
+"KYYCDR": [
   {
     "cardname": "✩ Yumi's Cells Kim Yumi",
     "membername": "Kim Yumi",
@@ -31229,7 +31219,7 @@
   }
 ],
 
-"SSYYCDR": [
+"SSYCDR": [
   {
     "cardname": "✩ Yumi's Cells Seo Sae-Yi",
     "membername": "Seo Sae-Yi",
@@ -31239,7 +31229,7 @@
   }
 ],
 
-"YBBYCDR": [
+"YBYCDR": [
   {
     "cardname": "✩ Yumi's Cells Yoo Babi",
     "membername": "Yoo Babi",
