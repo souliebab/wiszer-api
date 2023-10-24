@@ -31377,5 +31377,75 @@
     "cardrarity": "4",
     "cardimage": "https://imgur.com/a/6bji9fw"
   }
+],
+
+"DBMDDR": [
+  {
+    "cardname": "✩ Manner of Death Dr. Bun",
+    "membername": "Dr. Bun",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DOMDDR": [
+  {
+    "cardname": "✩ Manner of Death Dr. Oat",
+    "membername": "Dr. Oat",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IMMDDR": [
+  {
+    "cardname": "✩ Manner of Death Inspector M",
+    "membername": "Inspector M",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JNMDDR": [
+  {
+    "cardname": "✩ Manner of Death Jane",
+    "membername": "Jane",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SWMDDR": [
+  {
+    "cardname": "✩ Manner of Death Sorawit",
+    "membername": "Sorawit",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TNMDDR": [
+  {
+    "cardname": "✩ Manner of Death Tan",
+    "membername": "Tan",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TTMDDR": [
+  {
+    "cardname": "✩ Manner of Death Tat",
+    "membername": "Tat",
+    "cardgroup": "Manner of Death",
+    "cardrarity": "D",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
 ]
 }
