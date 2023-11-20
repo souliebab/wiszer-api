@@ -31447,5 +31447,1395 @@
     "cardrarity": "D",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
+],
+
+"JHBTS1": [
+  {
+    "cardname": "★ BTS j-hope",
+    "membername": "j-hope",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMBTS1": [
+  {
+    "cardname": "★ BTS Jimin",
+    "membername": "Jimin",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JINBTS1": [
+  {
+    "cardname": "★ BTS Jin",
+    "membername": "Jin",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JKBTS1": [
+  {
+    "cardname": "★ BTS Jungkook",
+    "membername": "Jungkook",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RMBTS1": [
+  {
+    "cardname": "★ BTS RM",
+    "membername": "RM",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SGBTS1": [
+  {
+    "cardname": "★ BTS Suga",
+    "membername": "Suga",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VBTS1": [
+  {
+    "cardname": "★ BTS V",
+    "membername": "V",
+    "cardgroup": "BTS",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"EHGF1": [
+  {
+    "cardname": "★ GFRIEND Eunha",
+    "membername": "Eunha",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBGF1": [
+  {
+    "cardname": "★ GFRIEND SinB",
+    "membername": "SinB",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SWGF1": [
+  {
+    "cardname": "★ GFRIEND Sowon",
+    "membername": "Sowon",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"UJGF1": [
+  {
+    "cardname": "★ GFRIEND Umji",
+    "membername": "Umji",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRGF1": [
+  {
+    "cardname": "★ GFRIEND Yerin",
+    "membername": "Yerin",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YUGF1": [
+  {
+    "cardname": "★ GFRIEND Yuju",
+    "membername": "Yuju",
+    "cardgroup": "GFRIEND",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CWIZ1": [
+  {
+    "cardname": "★ IZ*ONE Chaewon",
+    "membername": "Chaewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CYIZ1": [
+  {
+    "cardname": "★ IZ*ONE Chaeyeon",
+    "membername": "Chaeyeon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"EBIZ1": [
+  {
+    "cardname": "★ IZ*ONE Eunbi",
+    "membername": "Eunbi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HTIZ1": [
+  {
+    "cardname": "★ IZ*ONE Hitomi",
+    "membername": "Hitomi",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HWIZ1": [
+  {
+    "cardname": "★ IZ*ONE Hyewon",
+    "membername": "Hyewon",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MJIZ1": [
+  {
+    "cardname": "★ IZ*ONE Minju",
+    "membername": "Minju",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NKIZ1": [
+  {
+    "cardname": "★ IZ*ONE Nako",
+    "membername": "Nako",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SKIZ1": [
+  {
+    "cardname": "★ IZ*ONE Sakura",
+    "membername": "Sakura",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYIZ1": [
+  {
+    "cardname": "★ IZ*ONE Wonyoung",
+    "membername": "Wonyoung",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YNIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yena",
+    "membername": "Yena",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yujin",
+    "membername": "Yujin",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRIZ1": [
+  {
+    "cardname": "★ IZ*ONE Yuri",
+    "membername": "Yuri",
+    "cardgroup": "IZ*ONE",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ALCR2": [
+  {
+    "cardname": "★★ CRAVITY Allen",
+    "membername": "Allen",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJCR2": [
+  {
+    "cardname": "★★ CRAVITY Hyeongjun",
+    "membername": "Hyeongjun",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMCR2": [
+  {
+    "cardname": "★★ CRAVITY Jungmo",
+    "membername": "Jungmo",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MHCR2": [
+  {
+    "cardname": "★★ CRAVITY Minhee",
+    "membername": "Minhee",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SMCR2": [
+  {
+    "cardname": "★★ CRAVITY Seongmin",
+    "membername": "Seongmin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SRCR2": [
+  {
+    "cardname": "★★ CRAVITY Serim",
+    "membername": "Serim",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TYCR2": [
+  {
+    "cardname": "★★ CRAVITY Taeyoung",
+    "membername": "Taeyoung",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WJCR2": [
+  {
+    "cardname": "★★ CRAVITY Wonjin",
+    "membername": "Wonjin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WBCR2": [
+  {
+    "cardname": "★★ CRAVITY Woobin",
+    "membername": "Woobin",
+    "cardgroup": "CRAVITY",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ESLS2": [
+  {
+    "cardname": "★★ LUNARSOLAR Eseo",
+    "membername": "Eseo",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JNLS2": [
+  {
+    "cardname": "★★ LUNARSOLAR Jian",
+    "membername": "Jian",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"TRLS2": [
+  {
+    "cardname": "★★ LUNARSOLAR Taeryeong",
+    "membername": "Taeryeong",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRLS2": [
+  {
+    "cardname": "★★ LUNARSOLAR Yuuri",
+    "membername": "Yuuri",
+    "cardgroup": "LUNARSOLAR",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CRLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Choerry",
+    "membername": "Choerry",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Chuu",
+    "membername": "Chuu",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GWLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Gowon",
+    "membername": "Gowon",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Haseul",
+    "membername": "Haseul",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Heejin",
+    "membername": "Heejin",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYELO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Hyeju",
+    "membername": "Hyeju",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Hyunjin",
+    "membername": "Hyunjin",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Jinsoul",
+    "membername": "Jinsoul",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KLLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Kim Lip",
+    "membername": "Kim Lip",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VVLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Vivi",
+    "membername": "Vivi",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Yeojin",
+    "membername": "Yeojin",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YVLO3": [
+  {
+    "cardname": "★★★ LOOΠΔ Yves",
+    "membername": "Yves",
+    "cardgroup": "LOOΠΔ",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Hongseok",
+    "membername": "Hongseok",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HUIPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Hui",
+    "membername": "Hui",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KNPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Kino",
+    "membername": "Kino",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SWPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Shinwon",
+    "membername": "Shinwon",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WSPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Wooseok",
+    "membername": "Wooseok",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YNPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Yanan",
+    "membername": "Yanan",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YOPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Yeo One",
+    "membername": "Yeo One",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YTPTG3": [
+  {
+    "cardname": "★★★ PENTAGON Yuto",
+    "membername": "Yuto",
+    "cardgroup": "PENTAGON",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DJZEA3": [
+  {
+    "cardname": "★★★ ZE:A Dongjun",
+    "membername": "Dongjun",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HCZEA3": [
+  {
+    "cardname": "★★★ ZE:A Heechul",
+    "membername": "Heechul",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSZEA3": [
+  {
+    "cardname": "★★★ ZE:A Hyungsik",
+    "membername": "Hyungsik",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVZEA3": [
+  {
+    "cardname": "★★★ ZE:A Kevin",
+    "membername": "Kevin",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KHZEA3": [
+  {
+    "cardname": "★★★ ZE:A Kwanghee",
+    "membername": "Kwanghee",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MWZEA3": [
+  {
+    "cardname": "★★★ ZE:A Minwoo",
+    "membername": "Minwoo",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SWZEA3": [
+  {
+    "cardname": "★★★ ZE:A Siwan",
+    "membername": "Siwan",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"THZEA3": [
+  {
+    "cardname": "★★★ ZE:A Taeheon",
+    "membername": "Taeheon",
+    "cardgroup": "ZE:A",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BITB174": [
+  {
+    "cardname": "★★★★ BAE173 Bit",
+    "membername": "Bit",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DHB174": [
+  {
+    "cardname": "★★★★ BAE173 Doha",
+    "membername": "Doha",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYB174": [
+  {
+    "cardname": "★★★★ BAE173 Dohyon",
+    "membername": "Dohyon",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HGB174": [
+  {
+    "cardname": "★★★★ BAE173 Hangyul",
+    "membername": "Hangyul",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JMB174": [
+  {
+    "cardname": "★★★★ BAE173 J-Min",
+    "membername": "J-Min",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSB174": [
+  {
+    "cardname": "★★★★ BAE173 Junseo",
+    "membername": "Junseo",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MZB174": [
+  {
+    "cardname": "★★★★ BAE173 Muzin",
+    "membername": "Muzin",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJB174": [
+  {
+    "cardname": "★★★★ BAE173 Yoojun",
+    "membername": "Yoojun",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YSB174": [
+  {
+    "cardname": "★★★★ BAE173 Youngseo",
+    "membername": "Youngseo",
+    "cardgroup": "BAE173",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DMDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER Dami",
+    "membername": "Dami",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GHDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER Gahyeon",
+    "membername": "Gahyeon",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HDDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER Handong",
+    "membername": "Handong",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIUDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER JiU",
+    "membername": "JiU",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER Siyeon",
+    "membername": "Siyeon",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SUADC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER SuA",
+    "membername": "SuA",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHDC4": [
+  {
+    "cardname": "★★★★ DREAMCATCHER Yoohyeon",
+    "membername": "Yoohyeon",
+    "cardgroup": "DREAMCATCHER",
+    "cardrarity": "4",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ADRSO1": [
+  {
+    "cardname": "★ Soloist ADORA",
+    "membername": "ADORA",
+    "cardgroup": "ADORA",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BBSO1": [
+  {
+    "cardname": "★ Soloist BamBam",
+    "membername": "BamBam",
+    "cardgroup": "BamBam",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GRSO1": [
+  {
+    "cardname": "★ Soloist GRAY",
+    "membername": "GRAY",
+    "cardgroup": "GRAY",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LHSO2": [
+  {
+    "cardname": "★★ Soloist LeeHi",
+    "membername": "LeeHi",
+    "cardgroup": "LeeHi",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NLSO2": [
+  {
+    "cardname": "★★ Soloist Niel",
+    "membername": "Niel",
+    "cardgroup": "Niel",
+    "cardrarity": "2",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JESO3": [
+  {
+    "cardname": "★★★ Soloist Jessi",
+    "membername": "Jessi",
+    "cardgroup": "Jessi",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DNSO3": [
+  {
+    "cardname": "★★★ Soloist DEAN",
+    "membername": "DEAN",
+    "cardgroup": "DEAN",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PBYACTSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> Actor Park Boyoung ( Selca )",
+    "membername": "<:zselca:1141980913996144660> Actor Park Boyoung",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PHSACTSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> Actor Park Hyungsik ( Selca )",
+    "membername": "<:zselca:1141980913996144660> Actor Park Hyungsik",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JJASC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> ASTRO JinJin ( Selca )",
+    "membername": "<:zselca:1141980913996144660> ASTRO JinJin",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BLCGSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> cignature Belle ( Selca )",
+    "membername": "<:zselca:1141980913996144660> cignature Belle",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JIUDCSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> Dreamcatcher JiU ( Selca )",
+    "membername": "<:zselca:1141980913996144660> Dreamcatcher JiU",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KTEVSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> EVNNE Keita ( Selca )",
+    "membername": "<:zselca:1141980913996144660> EVNNE Keita",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ECLESC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> LE SSERAFIM Eunchae ( Selca )",
+    "membername": "<:zselca:1141980913996144660> LE SSERAFIM Eunchae",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SLMOOSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> MAMAMOO Solar ( Selca )",
+    "membername": "<:zselca:1141980913996144660> MAMAMOO Solar",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SKNCTSC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> NCT Sakuya ( Selca )",
+    "membername": "<:zselca:1141980913996144660> NCT Sakuya",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSWEISC": [
+  {
+    "cardname": "<:zselca:1141980913996144660> WEi Junseo ( Selca )",
+    "membername": "<:zselca:1141980913996144660> WEi Junseo",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CL2NPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> 2ne1 CL ( Pride )",
+    "membername": "<:zpride:1144912085407506544> 2ne1 CL",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHACTPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> Actor Cooheart ( Pride )",
+    "membername": "<:zpride:1144912085407506544> Actor Cooheart",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GYJACTPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> Actor Go Yoon Jung ( Pride )",
+    "membername": "<:zpride:1144912085407506544> Actor Go Yoon Jung",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MSBLPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> Billlie Moon Sua ( Pride )",
+    "membername": "<:zpride:1144912085407506544> Billlie Moon Sua",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IMMXPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> MONSTA X I.M ( Pride )",
+    "membername": "<:zpride:1144912085407506544> MONSTA X I.M",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YHOXPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> OMEGA X Yechan ( Pride )",
+    "membername": "<:zpride:1144912085407506544> OMEGA X Yechan",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HWONPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> ONEUS Hwanwoong ( Pride )",
+    "membername": "<:zpride:1144912085407506544> ONEUS Hwanwoong",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HASOPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> Soloist HyunA ( Pride )",
+    "membername": "<:zpride:1144912085407506544> Soloist HyunA",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YUSOPC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> Soloist Yuju ( Pride )",
+    "membername": "<:zpride:1144912085407506544> Soloist Yuju",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HBZB1PC": [
+  {
+    "cardname": "<:zpride:1144912085407506544> ZEROBASEONE Hanbin ( Pride )",
+    "membername": "<:zpride:1144912085407506544> ZEROBASEONE Hanbin",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CNACEAUC": [
+  {
+    "cardname": "PLACEHOLDER A.C.E Yuchan ( Autumn )",
+    "membername": "PLACEHOLDER A.C.E Yuchan",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HHKACTAUC": [
+  {
+    "cardname": "PLACEHOLDER Actor Han Hyojoo ( Autumn )",
+    "membername": "PLACEHOLDER Actor Han Hyojoo",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHIACTAUC": [
+  {
+    "cardname": "PLACEHOLDER Actor Jung Haein ( Autumn )",
+    "membername": "PLACEHOLDER Actor Jung Haein",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSMACTAUC": [
+  {
+    "cardname": "PLACEHOLDER Actor Jung Somin ( Autumn )",
+    "membername": "PLACEHOLDER Actor Jung Somin",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LDWACTAUC": [
+  {
+    "cardname": "PLACEHOLDER Actor Lee Dongwook ( Autumn )",
+    "membername": "PLACEHOLDER Actor Lee Dongwook",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KRALAUC": [
+  {
+    "cardname": "PLACEHOLDER ALICE Karin ( Autumn )",
+    "membername": "PLACEHOLDER ALICE Karin",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SHBNDAUC": [
+  {
+    "cardname": "PLACEHOLDER BOYNEXTDOOR Sungho ( Autumn )",
+    "membername": "PLACEHOLDER BOYNEXTDOOR Sungho",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SGBVAUC": [
+  {
+    "cardname": "PLACEHOLDER BVNDIT Seungeun ( Autumn )",
+    "membername": "PLACEHOLDER BVNDIT Seungeun",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HJCRAUC": [
+  {
+    "cardname": "PLACEHOLDER CRAVITY Hyeongjun ( Autumn )",
+    "membername": "PLACEHOLDER CRAVITY Hyeongjun",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SHENAUC": [
+  {
+    "cardname": "PLACEHOLDER ENHYPEN Sunghoon ( Autumn )",
+    "membername": "PLACEHOLDER ENHYPEN Sunghoon",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CYF9AUC": [
+  {
+    "cardname": "PLACEHOLDER fromis_9 Chaeyoung ( Autumn )",
+    "membername": "PLACEHOLDER fromis_9 Chaeyoung",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RRLYAUC": [
+  {
+    "cardname": "PLACEHOLDER ILY:1 Ririka ( Autumn )",
+    "membername": "PLACEHOLDER ILY:1 Ririka",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GLIVEAUC": [
+  {
+    "cardname": "PLACEHOLDER IVE Gaeul ( Autumn )",
+    "membername": "PLACEHOLDER IVE Gaeul",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YJLMAUC": [
+  {
+    "cardname": "PLACEHOLDER LOOSSEMBLE Yeojin ( Autumn )",
+    "membername": "PLACEHOLDER LOOSSEMBLE Yeojin",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SYNMAUC": [
+  {
+    "cardname": "PLACEHOLDER NMIXX Sullyoon ( Autumn )",
+    "membername": "PLACEHOLDER NMIXX Sullyoon",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"NNOOAUC": [
+  {
+    "cardname": "PLACEHOLDER OnlyOneOf Nine ( Autumn )",
+    "membername": "PLACEHOLDER OnlyOneOf Nine",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JSP1HAUC": [
+  {
+    "cardname": "PLACEHOLDER P1Harmony Jongseob ( Autumn )",
+    "membername": "PLACEHOLDER P1Harmony Jongseob",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HRPFAUC": [
+  {
+    "cardname": "PLACEHOLDER PinkFantasy Harin ( Autumn )",
+    "membername": "PLACEHOLDER PinkFantasy Harin",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BISOAUC": [
+  {
+    "cardname": "PLACEHOLDER Soloist B.I ( Autumn )",
+    "membername": "PLACEHOLDER Soloist B.I",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CHSOAUC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Chungha ( Autumn )",
+    "membername": "PLACEHOLDER Soloist Chungha",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JAMSOAUC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Jamie ( Autumn )",
+    "membername": "PLACEHOLDER Soloist Jamie",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"PJSOAUC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Park Jihoon ( Autumn )",
+    "membername": "PLACEHOLDER Soloist Park Jihoon",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYTBZAUC": [
+  {
+    "cardname": "PLACEHOLDER THE BOYZ Juyeon ( Autumn )",
+    "membername": "PLACEHOLDER THE BOYZ Juyeon",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KJTNXAUC": [
+  {
+    "cardname": "PLACEHOLDER TNX Kyungjun ( Autumn )",
+    "membername": "PLACEHOLDER TNX Kyungjun",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYBUQAUC": [
+  {
+    "cardname": "PLACEHOLDER UNIQ Yibo ( Autumn )",
+    "membername": "PLACEHOLDER UNIQ Yibo",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HSWVCAUC": [
+  {
+    "cardname": "PLACEHOLDER VICTON Seungwoo ( Autumn )",
+    "membername": "PLACEHOLDER VICTON Seungwoo",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHWEAUC": [
+  {
+    "cardname": "PLACEHOLDER Weeekly Jaehee ( Autumn )",
+    "membername": "PLACEHOLDER Weeekly Jaehee",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYWMAUC": [
+  {
+    "cardname": "PLACEHOLDER Weki Meki Doyeon ( Autumn )",
+    "membername": "PLACEHOLDER Weki Meki Doyeon",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRWJAUC": [
+  {
+    "cardname": "PLACEHOLDER WJSN Yeoreum ( Autumn )",
+    "membername": "PLACEHOLDER WJSN Yeoreum",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"UOXEAUC": [
+  {
+    "cardname": "PLACEHOLDER XEED UO ( Autumn )",
+    "membername": "PLACEHOLDER XEED UO",
+    "cardgroup": "Autumn",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
 ]
 }
