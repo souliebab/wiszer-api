@@ -2491,17 +2491,7 @@
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
-  
-"NAMPARADISE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Eric Nam",
-    "membername": "Eric Nam",
-    "cardgroup": "Eric Nam",
-    "cardrarity": "PATREON",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
-  }
-],
-  
+    
 "CHAEROMIE": [
   {
     "cardname": "<:patcard:1138076615998451792> Kep1er Chaehyun",
@@ -6516,16 +6506,6 @@
     "cardname": "★ Soloist DEAN",
     "membername": "DEAN",
     "cardgroup": "DEAN",
-    "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
-  }
-],
-
-"ENSO1": [
-  {
-    "cardname": "★ Soloist Eric Nam",
-    "membername": "Eric Nam",
-    "cardgroup": "Eric Nam",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -14072,15 +14052,6 @@
 }
 ],
 
-"ENSOAF": [
-{
-  "cardname": "<:apf:1091435481721471077> Soloist Eric Nam",
-  "cardgroup": "APRILFOOLS",
-  "cardrarity": "ARCHIVED",
-  "cardimage": "https://i.imgur.com/irVhsWj"
-}
-],
-
 "JINBTSAF": [
 {
   "cardname": "<:apf:1091435481721471077> BTS Jin",
@@ -17774,16 +17745,6 @@
     "membername": "CL",
     "cardgroup": "CL",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
-  }
-],
-
-"ENSO3": [
-  {
-    "cardname": "★★★ Soloist Eric Nam",
-    "membername": "Eric Nam",
-    "cardgroup": "Eric Nam",
-    "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
@@ -32541,8 +32502,8 @@
 
 "CNACEAUC": [
   {
-    "cardname": "PLACEHOLDER A.C.E Yuchan ( Autumn )",
-    "membername": "PLACEHOLDER A.C.E Yuchan",
+    "cardname": "<:zautumn:1177279663870050499> A.C.E Yuchan ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> A.C.E Yuchan",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32551,8 +32512,8 @@
 
 "HHKACTAUC": [
   {
-    "cardname": "PLACEHOLDER Actor Han Hyojoo ( Autumn )",
-    "membername": "PLACEHOLDER Actor Han Hyojoo",
+    "cardname": "<:zautumn:1177279663870050499> Actor Han Hyojoo ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Actor Han Hyojoo",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32561,8 +32522,8 @@
 
 "JHIACTAUC": [
   {
-    "cardname": "PLACEHOLDER Actor Jung Haein ( Autumn )",
-    "membername": "PLACEHOLDER Actor Jung Haein",
+    "cardname": "<:zautumn:1177279663870050499> Actor Jung Haein ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Actor Jung Haein",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32571,8 +32532,8 @@
 
 "JSMACTAUC": [
   {
-    "cardname": "PLACEHOLDER Actor Jung Somin ( Autumn )",
-    "membername": "PLACEHOLDER Actor Jung Somin",
+    "cardname": "<:zautumn:1177279663870050499> Actor Jung Somin ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Actor Jung Somin",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32581,8 +32542,8 @@
 
 "LDWACTAUC": [
   {
-    "cardname": "PLACEHOLDER Actor Lee Dongwook ( Autumn )",
-    "membername": "PLACEHOLDER Actor Lee Dongwook",
+    "cardname": "<:zautumn:1177279663870050499> Actor Lee Dongwook ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Actor Lee Dongwook",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32591,8 +32552,8 @@
 
 "KRALAUC": [
   {
-    "cardname": "PLACEHOLDER ALICE Karin ( Autumn )",
-    "membername": "PLACEHOLDER ALICE Karin",
+    "cardname": "<:zautumn:1177279663870050499> ALICE Karin ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> ALICE Karin",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32601,8 +32562,8 @@
 
 "SHBNDAUC": [
   {
-    "cardname": "PLACEHOLDER BOYNEXTDOOR Sungho ( Autumn )",
-    "membername": "PLACEHOLDER BOYNEXTDOOR Sungho",
+    "cardname": "<:zautumn:1177279663870050499> BOYNEXTDOOR Sungho ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> BOYNEXTDOOR Sungho",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32611,8 +32572,8 @@
 
 "SGBVAUC": [
   {
-    "cardname": "PLACEHOLDER BVNDIT Seungeun ( Autumn )",
-    "membername": "PLACEHOLDER BVNDIT Seungeun",
+    "cardname": "<:zautumn:1177279663870050499> BVNDIT Seungeun ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> BVNDIT Seungeun",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32621,8 +32582,8 @@
 
 "HJCRAUC": [
   {
-    "cardname": "PLACEHOLDER CRAVITY Hyeongjun ( Autumn )",
-    "membername": "PLACEHOLDER CRAVITY Hyeongjun",
+    "cardname": "<:zautumn:1177279663870050499> CRAVITY Hyeongjun ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> CRAVITY Hyeongjun",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32631,8 +32592,8 @@
 
 "SHENAUC": [
   {
-    "cardname": "PLACEHOLDER ENHYPEN Sunghoon ( Autumn )",
-    "membername": "PLACEHOLDER ENHYPEN Sunghoon",
+    "cardname": "<:zautumn:1177279663870050499> ENHYPEN Sunghoon ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> ENHYPEN Sunghoon",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32641,8 +32602,8 @@
 
 "CYF9AUC": [
   {
-    "cardname": "PLACEHOLDER fromis_9 Chaeyoung ( Autumn )",
-    "membername": "PLACEHOLDER fromis_9 Chaeyoung",
+    "cardname": "<:zautumn:1177279663870050499> fromis_9 Chaeyoung ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> fromis_9 Chaeyoung",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32651,8 +32612,8 @@
 
 "RRLYAUC": [
   {
-    "cardname": "PLACEHOLDER ILY:1 Ririka ( Autumn )",
-    "membername": "PLACEHOLDER ILY:1 Ririka",
+    "cardname": "<:zautumn:1177279663870050499> ILY:1 Ririka ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> ILY:1 Ririka",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32661,8 +32622,8 @@
 
 "GLIVEAUC": [
   {
-    "cardname": "PLACEHOLDER IVE Gaeul ( Autumn )",
-    "membername": "PLACEHOLDER IVE Gaeul",
+    "cardname": "<:zautumn:1177279663870050499> IVE Gaeul ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> IVE Gaeul",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32671,8 +32632,8 @@
 
 "YJLMAUC": [
   {
-    "cardname": "PLACEHOLDER LOOSSEMBLE Yeojin ( Autumn )",
-    "membername": "PLACEHOLDER LOOSSEMBLE Yeojin",
+    "cardname": "<:zautumn:1177279663870050499> LOOSSEMBLE Yeojin ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> LOOSSEMBLE Yeojin",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32681,8 +32642,8 @@
 
 "SYNMAUC": [
   {
-    "cardname": "PLACEHOLDER NMIXX Sullyoon ( Autumn )",
-    "membername": "PLACEHOLDER NMIXX Sullyoon",
+    "cardname": "<:zautumn:1177279663870050499> NMIXX Sullyoon ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> NMIXX Sullyoon",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32691,8 +32652,8 @@
 
 "NNOOAUC": [
   {
-    "cardname": "PLACEHOLDER OnlyOneOf Nine ( Autumn )",
-    "membername": "PLACEHOLDER OnlyOneOf Nine",
+    "cardname": "<:zautumn:1177279663870050499> OnlyOneOf Nine ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> OnlyOneOf Nine",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32701,8 +32662,8 @@
 
 "JSP1HAUC": [
   {
-    "cardname": "PLACEHOLDER P1Harmony Jongseob ( Autumn )",
-    "membername": "PLACEHOLDER P1Harmony Jongseob",
+    "cardname": "<:zautumn:1177279663870050499> P1Harmony Jongseob ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> P1Harmony Jongseob",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32711,8 +32672,8 @@
 
 "HRPFAUC": [
   {
-    "cardname": "PLACEHOLDER PinkFantasy Harin ( Autumn )",
-    "membername": "PLACEHOLDER PinkFantasy Harin",
+    "cardname": "<:zautumn:1177279663870050499> PinkFantasy Harin ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> PinkFantasy Harin",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32721,8 +32682,8 @@
 
 "BISOAUC": [
   {
-    "cardname": "PLACEHOLDER Soloist B.I ( Autumn )",
-    "membername": "PLACEHOLDER Soloist B.I",
+    "cardname": "<:zautumn:1177279663870050499> Soloist B.I ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Soloist B.I",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32731,8 +32692,8 @@
 
 "CHSOAUC": [
   {
-    "cardname": "PLACEHOLDER Soloist Chungha ( Autumn )",
-    "membername": "PLACEHOLDER Soloist Chungha",
+    "cardname": "<:zautumn:1177279663870050499> Soloist Chungha ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Soloist Chungha",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32741,8 +32702,8 @@
 
 "JAMSOAUC": [
   {
-    "cardname": "PLACEHOLDER Soloist Jamie ( Autumn )",
-    "membername": "PLACEHOLDER Soloist Jamie",
+    "cardname": "<:zautumn:1177279663870050499> Soloist Jamie ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Soloist Jamie",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32751,8 +32712,8 @@
 
 "PJSOAUC": [
   {
-    "cardname": "PLACEHOLDER Soloist Park Jihoon ( Autumn )",
-    "membername": "PLACEHOLDER Soloist Park Jihoon",
+    "cardname": "<:zautumn:1177279663870050499> Soloist Park Jihoon ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Soloist Park Jihoon",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32761,8 +32722,8 @@
 
 "JYTBZAUC": [
   {
-    "cardname": "PLACEHOLDER THE BOYZ Juyeon ( Autumn )",
-    "membername": "PLACEHOLDER THE BOYZ Juyeon",
+    "cardname": "<:zautumn:1177279663870050499> THE BOYZ Juyeon ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> THE BOYZ Juyeon",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32771,8 +32732,8 @@
 
 "KJTNXAUC": [
   {
-    "cardname": "PLACEHOLDER TNX Kyungjun ( Autumn )",
-    "membername": "PLACEHOLDER TNX Kyungjun",
+    "cardname": "<:zautumn:1177279663870050499> TNX Kyungjun ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> TNX Kyungjun",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32781,8 +32742,8 @@
 
 "WYBUQAUC": [
   {
-    "cardname": "PLACEHOLDER UNIQ Yibo ( Autumn )",
-    "membername": "PLACEHOLDER UNIQ Yibo",
+    "cardname": "<:zautumn:1177279663870050499> UNIQ Yibo ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> UNIQ Yibo",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32791,8 +32752,8 @@
 
 "HSWVCAUC": [
   {
-    "cardname": "PLACEHOLDER VICTON Seungwoo ( Autumn )",
-    "membername": "PLACEHOLDER VICTON Seungwoo",
+    "cardname": "<:zautumn:1177279663870050499> VICTON Seungwoo ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> VICTON Seungwoo",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32801,8 +32762,8 @@
 
 "JHWEAUC": [
   {
-    "cardname": "PLACEHOLDER Weeekly Jaehee ( Autumn )",
-    "membername": "PLACEHOLDER Weeekly Jaehee",
+    "cardname": "<:zautumn:1177279663870050499> Weeekly Jaehee ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Weeekly Jaehee",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32811,8 +32772,8 @@
 
 "DYWMAUC": [
   {
-    "cardname": "PLACEHOLDER Weki Meki Doyeon ( Autumn )",
-    "membername": "PLACEHOLDER Weki Meki Doyeon",
+    "cardname": "<:zautumn:1177279663870050499> Weki Meki Doyeon ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> Weki Meki Doyeon",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32821,8 +32782,8 @@
 
 "YRWJAUC": [
   {
-    "cardname": "PLACEHOLDER WJSN Yeoreum ( Autumn )",
-    "membername": "PLACEHOLDER WJSN Yeoreum",
+    "cardname": "<:zautumn:1177279663870050499> WJSN Yeoreum ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> WJSN Yeoreum",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -32831,8 +32792,8 @@
 
 "UOXEAUC": [
   {
-    "cardname": "PLACEHOLDER XEED UO ( Autumn )",
-    "membername": "PLACEHOLDER XEED UO",
+    "cardname": "<:zautumn:1177279663870050499> XEED UO ( Autumn )",
+    "membername": "<:zautumn:1177279663870050499> XEED UO",
     "cardgroup": "Autumn",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
