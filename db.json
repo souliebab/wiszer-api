@@ -32798,5 +32798,25 @@
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
+],
+
+"ENSO3": [
+  {
+    "cardname": "★★★ Soloist Eric Nam",
+    "membername": "Eric Nam",
+    "cardgroup": "Eric Nam",
+    "cardrarity": "3",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"ENSO1": [
+  {
+    "cardname": "★ Soloist Eric Nam",
+    "membername": "Eric Nam",
+    "cardgroup": "Eric Nam",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
 ]
 }
