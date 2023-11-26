@@ -21,6 +21,7 @@
 "YKRIE": [
   {
     "cardname": "<:limited:1137808009184157728> DAY6 Young K",
+    "membername": "Young K",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://imgur.com/a/obNRj4r"
@@ -30,6 +31,7 @@
 "MKRIE": [
   {
     "cardname": "<:limited:1137808009184157728> ONF MK",
+    "membername": "MK",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -39,6 +41,7 @@
 "KNRIE": [
   {
     "cardname": "<:limited:1137808009184157728> PENTAGON Kino",
+    "membername": "Kino",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -48,6 +51,7 @@
 "SYRIE": [
   {
     "cardname": "<:limited:1137808009184157728> LUCY Sangyeop",
+    "membername": "Sangyeop",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -57,6 +61,7 @@
 "TLRIE": [
   {
     "cardname": "<:limited:1137808009184157728> NCT Taeil",
+    "membername": "Taeil",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -66,6 +71,7 @@
 "DPRRIE": [
   {
     "cardname": "<:limited:1137808009184157728> SOLOIST DPR IAN",
+    "membername": "DPR IAN",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://imgur.com/a/xlZQMVv"
