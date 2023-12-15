@@ -78,6 +78,36 @@
   }
 ],
 
+"KWSHEEZ": [
+  {
+    "cardname": "<:limited:1137808009184157728> Soloist Kim Wooseok",
+    "membername": "Kim Wooseok",
+    "cardgroup": "Heez Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CEHEEZ": [
+  {
+    "cardname": "<:limited:1137808009184157728> ASTRO Cha Eunwoo",
+    "membername": "Cha Eunwoo",
+    "cardgroup": "Heez Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HYHEEZ": [
+  {
+    "cardname": "<:limited:1137808009184157728> OMEGA X Hyuk",
+    "membername": "Hyuk",
+    "cardgroup": "Heez Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "SLAY": [
   {
     "cardname": "<:patcard:1138076615998451792> Jiwoong & Jongwoo",
