@@ -33058,9 +33058,9 @@
 
 "CYBUG1": [
   {
-    "cardname": "★ BugAboo Choyeon",
+    "cardname": "★ bugAboo Choyeon",
     "membername": "Choyeon",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -33068,9 +33068,9 @@
 
 "CNBUG1": [
   {
-    "cardname": "★ BugAboo Cyan",
+    "cardname": "★ bugAboo Cyan",
     "membername": "Cyan",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -33078,9 +33078,9 @@
 
 "ECBUG1": [
   {
-    "cardname": "★ BugAboo Eunchae",
+    "cardname": "★ bugAboo Eunchae",
     "membername": "Eunchae",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -33088,9 +33088,9 @@
 
 "RNBUG1": [
   {
-    "cardname": "★ BugAboo Rainie",
+    "cardname": "★ bugAboo Rainie",
     "membername": "Rainie",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -33098,9 +33098,9 @@
 
 "YNBUG1": [
   {
-    "cardname": "★ BugAboo Yoona",
+    "cardname": "★ bugAboo Yoona",
     "membername": "Yoona",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -33108,9 +33108,9 @@
 
 "ZINBUG1": [
   {
-    "cardname": "★ BugAboo Zin",
+    "cardname": "★ bugAboo Zin",
     "membername": "Zin",
-    "cardgroup": "BugAboo",
+    "cardgroup": "bugAboo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
