@@ -547,6 +547,17 @@
   }
 ],
 
+"ZTRSC": [
+  {
+    "cardname": "<:limited:1137808009184157728> Selca Soloist Z.TAO",
+    "membername": "Z.TAO",
+    "cardgroup": "Staff Selca",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+
 "JMRSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca JUST B JM",
@@ -3079,8 +3090,8 @@
 
 "MKRSC": [
 {
-  "cardname": "<:patcard:1138076615998451792> Selca ONF MK",
-  "membername": "MK",
+  "cardname": "<:patcard:1138076615998451792> Selca ONF Minkyun",
+  "membername": "Minkyun",
   "cardgroup": "Patreon Selca",
   "cardrarity": "PATREON",
   "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
