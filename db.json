@@ -517,6 +517,36 @@
   }
 ],
 
+"CLMO": [
+  {
+    "cardname": "<:limited:1137808009184157728> 2NE1 CL",
+    "membername": "CL",
+    "cardgroup": "Mo Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SPRMO": [
+  {
+    "cardname": "<:limited:1137808009184157728> Soloist SPARKY",
+    "membername": "SPARKY",
+    "cardgroup": "Mo Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"IDMO": [
+  {
+    "cardname": "<:limited:1137808009184157728> Soloist ID:Earth",
+    "membername": "ID:Earth",
+    "cardgroup": "Mo Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
 "HHRSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca Soloist Hyunjun",
