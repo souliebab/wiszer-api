@@ -379,7 +379,7 @@
 
 "KVYUTO": [
   {
-    "cardname": "<:limited:1137808009184157728> The Boyz Kevin",
+    "cardname": "<:limited:1137808009184157728> THE BOYZ Kevin",
     "membername": "Kevin",
     "cardgroup": "Yuto Day",
     "cardrarity": "LIMITED",
@@ -399,7 +399,7 @@
 
 "COBI": [
   {
-    "cardname": "<:limited:1137808009184157728> The Boyz Jacob",
+    "cardname": "<:limited:1137808009184157728> THE BOYZ Jacob",
     "membername": "Jacob",
     "cardgroup": "Jacob Day",
     "cardrarity": "LIMITED",
@@ -419,7 +419,7 @@
 
 "KVRIE": [
   {
-    "cardname": "<:limited:1137808009184157728> The Boyz Kevin",
+    "cardname": "<:limited:1137808009184157728> THE BOYZ Kevin",
     "membername": "Kevin",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
@@ -489,7 +489,7 @@
 
 "CLVRDAY": [
   {
-    "cardname": "<:limited:1137808009184157728> The Boyz Juhaknyeon",
+    "cardname": "<:limited:1137808009184157728> THE BOYZ Juhaknyeon",
     "membername": "Juhaknyeon",
     "cardgroup": "Clover Day",
     "cardrarity": "LIMITED",
@@ -1220,9 +1220,9 @@
   
 "MOONBAE": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Kevin & Jacob",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Kevin & Jacob",
     "membername": "Kevin & Jacob",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -1530,9 +1530,9 @@
 
 "NWTBPJ1": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz New",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ New",
     "membername": "New",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -1580,9 +1580,9 @@
 
 "ECTBPJ1": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Eric",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Eric",
     "membername": "Eric",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -1880,9 +1880,9 @@
   
 "JERBZ": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Kevin",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Kevin",
     "membername": "Kevin",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -1930,9 +1930,9 @@
   
 "RTKCHANHEE": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz New",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ New",
     "membername": "New",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/ZpeROeX"
   }
@@ -1940,9 +1940,9 @@
 
 "CHANHEE": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz New",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ New",
     "membername": "New",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -1970,9 +1970,9 @@
 
 "REVEAL": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Q",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Q",
     "membername": "Q",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/qpUCekS"
   }
@@ -2204,7 +2204,7 @@
     "membername": "JR",
     "cardgroup": "NU'EST",
     "cardrarity": "PATREON",
-    "cardimage": "https://imgur.com/a/EjMkNaB"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
   
@@ -2234,7 +2234,7 @@
     "membername": "Baekho",
     "cardgroup": "NU'EST",
     "cardrarity": "PATREON",
-    "cardimage": "https://imgur.com/a/ifPDnLj"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
   
@@ -2690,9 +2690,9 @@
 
 "POMPOMEC": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Eric",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Eric",
     "membername": "Eric",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -2710,9 +2710,9 @@
 
 "POMPOMKEV": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Kevin",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Kevin",
     "membername": "Kevin",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -2830,9 +2830,9 @@
 
 "WNTTAK": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Kevin",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Kevin",
     "membername": "Kevin",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/Ywuw3IU"
   }
@@ -3160,9 +3160,9 @@
 
 "KSW": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Sunwoo",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Sunwoo",
     "membername": "Sunwoo",
-    "cardgroup": "The Boyz", 
+    "cardgroup": "THE BOYZ", 
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3320,9 +3320,9 @@
   
 "ERIC": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Eric",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Eric",
     "membername": "Eric",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/vhhDvEx"
   }
@@ -3340,9 +3340,9 @@
   
 "NYUHOON": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz BBangnyu",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ BBangnyu",
     "membername": "BBangnyu",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3370,9 +3370,9 @@
 
 "JCM": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Boyz Q",
+    "cardname": "<:patcard:1138076615998451792> THE BOYZ Q",
     "membername": "Q",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3930,9 +3930,9 @@
 
 "JYTBZ3": [
   {
-    "cardname": "★★★ The Boyz Juyeon",
+    "cardname": "★★★ THE BOYZ Juyeon",
     "membername": "Juyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3940,9 +3940,9 @@
 
 "YHTBZ3": [
   {
-    "cardname": "★★★ The Boyz Younghoon",
+    "cardname": "★★★ THE BOYZ Younghoon",
     "membername": "Younghoon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3950,9 +3950,9 @@
 
 "SWTBZ3": [
   {
-    "cardname": "★★★ The Boyz Sunwoo",
+    "cardname": "★★★ THE BOYZ Sunwoo",
     "membername": "Sunwoo",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3960,9 +3960,9 @@
 
 "SYTBZ3": [
   {
-    "cardname": "★★★ The Boyz Sangyeon",
+    "cardname": "★★★ THE BOYZ Sangyeon",
     "membername": "Sangyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3970,9 +3970,9 @@
 
 "QTBZ3": [
   {
-    "cardname": "★★★ The Boyz Q",
+    "cardname": "★★★ THE BOYZ Q",
     "membername": "Q",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3980,9 +3980,9 @@
 
 "NWTBZ3": [
   {
-    "cardname": "★★★ The Boyz New",
+    "cardname": "★★★ THE BOYZ New",
     "membername": "New",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -3990,9 +3990,9 @@
 
 "KVTBZ3": [
   {
-    "cardname": "★★★ The Boyz Kevin",
+    "cardname": "★★★ THE BOYZ Kevin",
     "membername": "Kevin",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -4000,9 +4000,9 @@
 
 "JHTBZ3": [
   {
-    "cardname": "★★★ The Boyz Juhaknyeon",
+    "cardname": "★★★ THE BOYZ Juhaknyeon",
     "membername": "Juhaknyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -4010,9 +4010,9 @@
 
 "JCTBZ3": [
   {
-    "cardname": "★★★ The Boyz Jacob",
+    "cardname": "★★★ THE BOYZ Jacob",
     "membername": "Jacob",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -4020,9 +4020,9 @@
 
 "HJTBZ3": [
   {
-    "cardname": "★★★ The Boyz Hyunjae",
+    "cardname": "★★★ THE BOYZ Hyunjae",
     "membername": "Hyunjae",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -4030,9 +4030,9 @@
 
 "ERTBZ3": [
   {
-    "cardname": "★★★ The Boyz Eric",
+    "cardname": "★★★ THE BOYZ Eric",
     "membername": "Eric",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -5205,7 +5205,7 @@
     "membername": "Gaeul",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/ZEzfxW7"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5215,7 +5215,7 @@
     "membername": "Leeseo",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/ws7l0xz"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5225,7 +5225,8 @@
     "membername": "Liz",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/2kNhZWi"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+
   }
 ],
 
@@ -5235,7 +5236,8 @@
     "membername": "Rei",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/jjJmYON"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+
   }
 ],
 
@@ -5245,7 +5247,8 @@
     "membername": "Wonyoung",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/1lubxVK"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+
   }
 ],
 
@@ -5255,7 +5258,8 @@
     "membername": "Yujin",
     "cardgroup": "IVE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/asXt0vu"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+
   }
 ],
 
@@ -5515,7 +5519,7 @@
     "membername": "Taeyeon",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/WgzcvFo" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5525,7 +5529,7 @@
     "membername": "Sunny",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/Ew89B9U" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5535,7 +5539,7 @@
     "membername": "Tiffany",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/xh54qWE" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5545,7 +5549,7 @@
     "membername": "Hyoyeon",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/Itu3SyE" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5555,7 +5559,7 @@
     "membername": "Yuri",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/Zs4rRu1" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5565,7 +5569,7 @@
     "membername": "Sooyoung",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/LkqX5t4" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5575,7 +5579,7 @@
     "membername": "Yoona",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/xJt0PzZ" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -5585,7 +5589,7 @@
     "membername": "Seohyun",
     "cardgroup": "SNSD",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/EmK0a1Y" 
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ], 
 
@@ -6833,28 +6837,8 @@
     "membername": "Yena",
     "cardgroup": "Yena",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/Q9p4g4F"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
-],
-
-"BKSO5": [
-  {
-    "cardname": "★★★★★ Soloist Baekhyun",
-    "membername": "Baekhyun",
-    "cardgroup": "Baekhyun",
-    "cardrarity": "5",
-    "cardimage": "https://imgur.com/N7BQoAX"
-  }
-],
-
-"JNSO5": [
-{
-  "cardname": "★★★★★ Soloist Jennie",
-  "membername": "Jennie",
-  "cardgroup": "Jennie",
-  "cardrarity": "5",
-  "cardimage": "https://imgur.com/VbtUz4a"
-}
 ],
 
 "HJATZ1": [
@@ -7333,7 +7317,7 @@
     "membername": "Chaeyoung",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/5eCLaCr"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7343,7 +7327,7 @@
     "membername": "Gyuri",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/B0HZhMF"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7353,7 +7337,7 @@
     "membername": "Hayoung",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/NLkKDD9"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7363,7 +7347,7 @@
     "membername": "Jiheon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/cL9dihM"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7373,7 +7357,7 @@
     "membername": "Jisun",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/66MAo79"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7383,7 +7367,7 @@
     "membername": "Jiwon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/2yUCSpu"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7393,7 +7377,7 @@
     "membername": "Nagyung",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/nZ83X3E"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7403,7 +7387,7 @@
     "membername": "Saerom",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/Ds4UZRa"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -7413,7 +7397,7 @@
     "membername": "Seoyeon",
     "cardgroup": "fromis_9",
     "cardrarity": "5",
-    "cardimage": "https://imgur.com/a/tbt4i77"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9139,7 +9123,7 @@
     "membername": "Dongheon",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/KKalsT4"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9149,7 +9133,7 @@
     "membername": "Gyehyeon",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/Xbe3IEe"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9159,7 +9143,7 @@
     "membername": "Hoyoung",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/UhJAX91"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9169,7 +9153,7 @@
     "membername": "Kangmin",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/IgZrHKS"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9179,7 +9163,7 @@
     "membername": "Minchan",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/cgnAdim"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9189,7 +9173,7 @@
     "membername": "Yeonho",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/ub7SqwY"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -9199,7 +9183,7 @@
     "membername": "Yongseung",
     "cardgroup": "VERIVERY",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/5jW0BXy"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -11722,8 +11706,8 @@
 
 "JHTBZSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> The Boyz Juhaknyeon",
-    "membername": "The Boyz Juhaknyeon",
+    "cardname": "<:bloom:1089723556302176336> THE BOYZ Juhaknyeon",
+    "membername": "THE BOYZ Juhaknyeon",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -12081,7 +12065,7 @@
 
 "ERTBZVD": [
   {
-    "cardname": "<:vday:1091435490919587901> The Boyz Eric",
+    "cardname": "<:vday:1091435490919587901> THE BOYZ Eric",
     "cardgroup": "VALENTINES",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -12556,7 +12540,7 @@
 
 "JYTBZHW": [
   {
-    "cardname": "<:halloween:1091435483264991323> The Boyz Juyeon",
+    "cardname": "<:halloween:1091435483264991323> THE BOYZ Juyeon",
     "cardgroup": "HALLOWEEN",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -12565,7 +12549,7 @@
 
 "KVTBZHW": [
   {
-    "cardname": "<:halloween:1091435483264991323> The Boyz Kevin",
+    "cardname": "<:halloween:1091435483264991323> THE BOYZ Kevin",
     "cardgroup": "HALLOWEEN",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13762,7 +13746,7 @@
 ],
 "ERTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Eric",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Eric",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13771,7 +13755,7 @@
 
 "HJTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Hyunjae",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Hyunjae",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13780,7 +13764,7 @@
 
 "JCTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Jacob",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Jacob",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13789,7 +13773,7 @@
 
 "JHTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Juhaknyeon",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Juhaknyeon",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13798,7 +13782,7 @@
 
 "JYTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Juyeon",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Juyeon",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13807,7 +13791,7 @@
 
 "KVTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Kevin",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Kevin",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13816,7 +13800,7 @@
 
 "NWTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz New",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ New",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13825,7 +13809,7 @@
 
 "QTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Q",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Q",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13834,7 +13818,7 @@
 
 "SYTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Sangyeon",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Sangyeon",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13843,7 +13827,7 @@
 
 "SWTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Sunwoo",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Sunwoo",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13852,7 +13836,7 @@
 
 "YHTBZWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> The Boyz Younghoon",
+    "cardname": "<:sg:1091435489162174526> THE BOYZ Younghoon",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -14176,7 +14160,7 @@
 
 "NWTBZAF": [
 {
-  "cardname": "<:apf:1091435481721471077> The Boyz New",
+  "cardname": "<:apf:1091435481721471077> THE BOYZ New",
   "cardgroup": "APRILFOOLS",
   "cardrarity": "ARCHIVED",
   "cardimage": "https://i.imgur.com/tGHM9KQ"
@@ -17681,7 +17665,7 @@
     "membername": "Giselle",
     "cardgroup": "aespa",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/IHFwqcK"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -17691,7 +17675,7 @@
     "membername": "Karina",
     "cardgroup": "aespa",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/GO9f8Dg"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -17701,7 +17685,7 @@
     "membername": "Ningning",
     "cardgroup": "aespa",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/WQQSQL4"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -17711,7 +17695,7 @@
     "membername": "Winter",
     "cardgroup": "aespa",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/alcrbPR"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
 ],
 
@@ -19567,9 +19551,9 @@
 
 "NWTBZPC": [
   {
-    "cardname": "<:zpride:1144912085407506544> The Boyz New ( Pride )",
-    "membername": "<:zpride:1144912085407506544> The Boyz New",
-    "cardgroup": "The Boyz",
+    "cardname": "<:zpride:1144912085407506544> THE BOYZ New ( Pride )",
+    "membername": "<:zpride:1144912085407506544> THE BOYZ New",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19887,9 +19871,9 @@
 
 "ERTBZ1": [
   {
-    "cardname": "★ The Boyz Eric",
+    "cardname": "★ THE BOYZ Eric",
     "membername": "Eric",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19897,9 +19881,9 @@
 
 "HJTBZ1": [
   {
-    "cardname": "★ The Boyz Hyunjae",
+    "cardname": "★ THE BOYZ Hyunjae",
     "membername": "Hyunjae",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19907,9 +19891,9 @@
 
 "JCTBZ1": [
   {
-    "cardname": "★ The Boyz Jacob",
+    "cardname": "★ THE BOYZ Jacob",
     "membername": "Jacob",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19917,9 +19901,9 @@
 
 "JHTBZ1": [
   {
-    "cardname": "★ The Boyz Juhaknyeon",
+    "cardname": "★ THE BOYZ Juhaknyeon",
     "membername": "Juhaknyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19927,9 +19911,9 @@
 
 "JYTBZ1": [
   {
-    "cardname": "★ The Boyz Juyeon",
+    "cardname": "★ THE BOYZ Juyeon",
     "membername": "Juyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19937,9 +19921,9 @@
 
 "KVTBZ1": [
   {
-    "cardname": "★ The Boyz Kevin",
+    "cardname": "★ THE BOYZ Kevin",
     "membername": "Kevin",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19947,9 +19931,9 @@
 
 "NWTBZ1": [
   {
-    "cardname": "★ The Boyz New",
+    "cardname": "★ THE BOYZ New",
     "membername": "New",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19957,9 +19941,9 @@
 
 "QTBZ1": [
   {
-    "cardname": "★ The Boyz Q",
+    "cardname": "★ THE BOYZ Q",
     "membername": "Q",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19967,9 +19951,9 @@
 
 "SYTBZ1": [
   {
-    "cardname": "★ The Boyz Sangyeon",
+    "cardname": "★ THE BOYZ Sangyeon",
     "membername": "Sangyeon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19977,9 +19961,9 @@
 
 "SWTBZ1": [
   {
-    "cardname": "★ The Boyz Sunwoo",
+    "cardname": "★ THE BOYZ Sunwoo",
     "membername": "Sunwoo",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -19987,9 +19971,9 @@
 
 "YHTBZ1": [
   {
-    "cardname": "★ The Boyz Younghoon",
+    "cardname": "★ THE BOYZ Younghoon",
     "membername": "Younghoon",
-    "cardgroup": "The Boyz",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -29619,8 +29603,8 @@
 
 "ERTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Eric",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Eric",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/SmnR8PB"
   }
@@ -29628,8 +29612,8 @@
 
 "HJTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Hyunjae",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Hyunjae",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/Bz27SUp"
   }
@@ -29637,8 +29621,8 @@
 
 "JCTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Jacob",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Jacob",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/TTSsiLw"
   }
@@ -29646,8 +29630,8 @@
 
 "JHTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Juhaknyeon",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Juhaknyeon",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/afraWY2"
   }
@@ -29655,8 +29639,8 @@
 
 "JYTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Juyeon",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Juyeon",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/ChJRQRS"
   }
@@ -29664,8 +29648,8 @@
 
 "KVTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Kevin",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Kevin",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/EGWMjVL"
   }
@@ -29673,8 +29657,8 @@
 
 "NWTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz New",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ New",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/EcFvNXH"
   }
@@ -29682,8 +29666,8 @@
 
 "QTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Q",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Q",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/24SP71E"
   }
@@ -29691,8 +29675,8 @@
 
 "SYTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Sangyeon",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Sangyeon",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/hdHPNv2"
   }
@@ -29700,8 +29684,8 @@
 
 "SWTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Sunwoo",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Sunwoo",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/xoE2pZh"
   }
@@ -29709,8 +29693,8 @@
 
 "YHTBZDI": [
   {
-    "cardname": "<:tbz:1156752023933440090> The Boyz Younghoon",
-    "cardgroup": "The Boyz",
+    "cardname": "<:tbz:1156752023933440090> THE BOYZ Younghoon",
+    "cardgroup": "THE BOYZ",
     "cardrarity": "EVENT",
     "cardimage": "https://imgur.com/epyjOkk"
   }
@@ -37900,7 +37884,7 @@
   {
     "cardname": "★★ Soloist DALsooobin",
     "membername": "DALsooobin",
-    "cardgroup": "dalsooobin",
+    "cardgroup": "DALsooobin",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -37970,7 +37954,7 @@
   {
     "cardname": "★★★ Soloist BÉBE YANA",
     "membername": "BÉBE YANA",
-    "cardgroup": "bebe yana",
+    "cardgroup": "Bebe Yana",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -37990,7 +37974,7 @@
   {
     "cardname": "★★★ Soloist Corbyn",
     "membername": "Corbyn",
-    "cardgroup": "Corbin",
+    "cardgroup": "Corbyn",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -38000,7 +37984,7 @@
   {
     "cardname": "★★★ Soloist ID:Earth",
     "membername": "ID:Earth",
-    "cardgroup": "idearth",
+    "cardgroup": "IDEarth",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -38010,7 +37994,7 @@
   {
     "cardname": "★★★ Soloist Yena",
     "membername": "Yena",
-    "cardgroup": "yena",
+    "cardgroup": "Yena",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
@@ -38020,7 +38004,7 @@
   {
     "cardname": "★★★ Soloist Yorch",
     "membername": "Yorch",
-    "cardgroup": "yorch",
+    "cardgroup": "Yorch",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
