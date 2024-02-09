@@ -39,8 +39,8 @@
 
 "MKRIE": [
   {
-    "cardname": "<:limited:1137808009184157728> ONF MK",
-    "membername": "MK",
+    "cardname": "<:limited:1137808009184157728> ONF Minkyun",
+    "membername": "Minkyun",
     "cardgroup": "Rie Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -8631,10 +8631,10 @@
   }
 ],
 
-"JUSONF2": [
+"SJONF2": [
   {
-    "cardname": "★★ ONF J-Us",
-    "membername": "J-Us",
+    "cardname": "★★ ONF Seungjun",
+    "membername": "Seungjun",
     "cardgroup": "ONF",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -8643,8 +8643,8 @@
 
 "MKONF2": [
   {
-    "cardname": "★★ ONF MK",
-    "membername": "MK",
+    "cardname": "★★ ONF Minkyun",
+    "membername": "Minkyun",
     "cardgroup": "ONF",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -10916,10 +10916,10 @@
   }
 ],
 
-"XIU103": [
+"DYU103": [
   {
-    "cardname": "★★★ UP10TION Xiao",
-    "membername": "Xiao",
+    "cardname": "★★★ UP10TION Dongyeol",
+    "membername": "Dongyeol",
     "cardgroup": "UP10TION",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13369,9 +13369,9 @@
   }
 ],
 
-"JUSONFWZ": [
+"SJONFWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> ONF J-Us",
+    "cardname": "<:sg:1091435489162174526> ONF Seungjun",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -13380,7 +13380,7 @@
 
 "MKONFWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> ONF MK",
+    "cardname": "<:sg:1091435489162174526> ONF Minkyun",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -29850,10 +29850,10 @@
   }
 ],
 
-"JUSONF1": [
+"SJONF1": [
   {
-    "cardname": "★ ONF J-Us",
-    "membername": "J-Us",
+    "cardname": "★ ONF Seungjun",
+    "membername": "Seungjun",
     "cardgroup": "ONF",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -29862,8 +29862,8 @@
 
 "MKONF1": [
   {
-    "cardname": "★ ONF MK",
-    "membername": "MK",
+    "cardname": "★ ONF Minkyun",
+    "membername": "Minkyun",
     "cardgroup": "ONF",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
