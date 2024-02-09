@@ -35808,8 +35808,8 @@
 
 "POBB1": [
   {
-    "cardname": "★ Block B P.O.",
-    "membername": "P.O.",
+    "cardname": "★ Block B P.O",
+    "membername": "P.O",
     "cardgroup": "Block B",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -35841,6 +35841,66 @@
     "cardname": "★ Block B Zico",
     "membername": "Zico",
     "cardgroup": "Block B",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"AYDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Ahyoung",
+    "membername": "Ahyoung",
+    "cardgroup": "Dal☆Shabet",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Jiyul",
+    "membername": "Jiyul",
+    "cardgroup": "Dal☆Shabet",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KEDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Kaeun",
+    "membername": "Kaeun",
+    "cardgroup": "Dal☆Shabet",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SRDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Serri",
+    "membername": "Serri",
+    "cardgroup": "Dal☆Shabet",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SBDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Subin",
+    "membername": "Subin",
+    "cardgroup": "Dal☆Shabet",
+    "cardrarity": "1",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"VKDS1": [
+  {
+    "cardname": "★ Dal☆Shabet Viki",
+    "membername": "Viki",
+    "cardgroup": "Dal☆Shabet",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
