@@ -38338,6 +38338,307 @@
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
+],
+
+
+"HSHACTWTC": [
+  {
+    "cardname": "PLACEHOLDER Actor Han Sohee ( Winter )",
+    "membername": "PLACEHOLDER Actor Han Sohee",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MEWACTWTC": [
+  {
+    "cardname": "PLACEHOLDER Actor Mew ( Winter )",
+    "membername": "PLACEHOLDER Actor Mew",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SNADYWTC": [
+  {
+    "cardname": "PLACEHOLDER ADYA Sena ( Winter )",
+    "membername": "PLACEHOLDER ADYA Sena",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KRAEWTC": [
+  {
+    "cardname": "PLACEHOLDER aespa Karina ( Winter )",
+    "membername": "PLACEHOLDER aespa Karina",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CEASWTC": [
+  {
+    "cardname": "PLACEHOLDER ASTRO Cha Eunwoo ( Winter )",
+    "membername": "PLACEHOLDER ASTRO Cha Eunwoo",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JHATZWTC": [
+  {
+    "cardname": "PLACEHOLDER ATEEZ Jongho ( Winter )",
+    "membername": "PLACEHOLDER ATEEZ Jongho",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CSBTBWTC": [
+  {
+    "cardname": "PLACEHOLDER BTOB Changsub ( Winter )",
+    "membername": "PLACEHOLDER BTOB Changsub",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CSCGWTC": [
+  {
+    "cardname": "PLACEHOLDER cignature Chaesol ( Winter )",
+    "membername": "PLACEHOLDER cignature Chaesol",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SACSRWTC": [
+  {
+    "cardname": "PLACEHOLDER CSR Sua ( Winter )",
+    "membername": "PLACEHOLDER CSR Sua",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"MIAEVWTC": [
+  {
+    "cardname": "PLACEHOLDER EVERGLOW Mia ( Winter )",
+    "membername": "PLACEHOLDER EVERGLOW Mia",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"XMEXOWTC": [
+  {
+    "cardname": "PLACEHOLDER EXO Xiumin ( Winter )",
+    "membername": "PLACEHOLDER EXO Xiumin",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JYG7WTC": [
+  {
+    "cardname": "PLACEHOLDER GOT7 Jinyoung ( Winter )",
+    "membername": "PLACEHOLDER GOT7 Jinyoung",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"BHK1WTC": [
+  {
+    "cardname": "PLACEHOLDER Kep1er Bahiyyih ( Winter )",
+    "membername": "PLACEHOLDER Kep1er Bahiyyih",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GWLCWTC": [
+  {
+    "cardname": "PLACEHOLDER LUCY Gwangil ( Winter )",
+    "membername": "PLACEHOLDER LUCY Gwangil",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YWMOWTC": [
+  {
+    "cardname": "PLACEHOLDER MOMOLAND Yeonwoo ( Winter )",
+    "membername": "PLACEHOLDER MOMOLAND Yeonwoo",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WYONFWTC": [
+  {
+    "cardname": "PLACEHOLDER ONF Wyatt ( Winter )",
+    "membername": "PLACEHOLDER ONF Wyatt",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"GNPKWTC": [
+  {
+    "cardname": "PLACEHOLDER PURPLE KISS Goeun ( Winter )",
+    "membername": "PLACEHOLDER PURPLE KISS Goeun",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YRRVWTC": [
+  {
+    "cardname": "PLACEHOLDER Red Velvet Yeri ( Winter )",
+    "membername": "PLACEHOLDER Red Velvet Yeri",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"RWSF9WTC": [
+  {
+    "cardname": "PLACEHOLDER SF9 Rowoon ( Winter )",
+    "membername": "PLACEHOLDER SF9 Rowoon",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"CXSOWTC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Cheng Xiao ( Winter )",
+    "membername": "PLACEHOLDER Soloist Cheng Xiao",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"HAHSOWTC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Ha Hyunsang ( Winter )",
+    "membername": "PLACEHOLDER Soloist Ha Hyunsang",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"WHSOWTC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Wonho ( Winter )",
+    "membername": "PLACEHOLDER Soloist Wonho",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"YUKSOWTC": [
+  {
+    "cardname": "PLACEHOLDER Soloist Yukika ( Winter )",
+    "membername": "PLACEHOLDER Soloist Yukika",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"SMSKZWTC": [
+  {
+    "cardname": "PLACEHOLDER Stray Kids Seungmin ( Winter )",
+    "membername": "PLACEHOLDER Stray Kids Seungmin",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"KVTBZWTC": [
+  {
+    "cardname": "PLACEHOLDER THE BOYZ Kevin ( Winter )",
+    "membername": "PLACEHOLDER THE BOYZ Kevin",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"JKTSWTC": [
+  {
+    "cardname": "PLACEHOLDER TREASURE Jaehyuk ( Winter )",
+    "membername": "PLACEHOLDER TREASURE Jaehyuk",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"DYTWWTC": [
+  {
+    "cardname": "PLACEHOLDER TWICE Dahyun ( Winter )",
+    "membername": "PLACEHOLDER TWICE Dahyun",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"THTXTWTC": [
+  {
+    "cardname": "PLACEHOLDER TXT Taehyun ( Winter )",
+    "membername": "PLACEHOLDER TXT Taehyun",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"UJVVWTC": [
+  {
+    "cardname": "PLACEHOLDER VIVIZ Umji ( Winter )",
+    "membername": "PLACEHOLDER VIVIZ Umji",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
+],
+
+"LUAWMWTC": [
+  {
+    "cardname": "PLACEHOLDER Weki Meki Lua ( Winter )",
+    "membername": "PLACEHOLDER Weki Meki Lua",
+    "cardgroup": "Winter",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+  }
 ]
 
 }
