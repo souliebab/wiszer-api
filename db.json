@@ -39075,7 +39075,7 @@
   {
     "cardname": "★★★ C-CLOWN Ray",
     "membername": "Ray",
-    "cardgroup": ["C-CLOWN", "test", "hello"],
+    "cardgroup": "C-CLOWN",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
   }
