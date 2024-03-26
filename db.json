@@ -567,16 +567,6 @@
   }
 ],
 
-"SURSC": [
-  {
-    "cardname": "<:limited:1137808009184157728> Selca P1Harmony Soul",
-    "membername": "Soul",
-    "cardgroup": "Staff Selca",
-    "cardrarity": "LIMITED",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
-  }
-],
-
 "ZTRSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca Soloist Z.TAO",
