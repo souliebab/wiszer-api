@@ -41364,7 +41364,7 @@
 "CHAK1": [
   {
     "cardname": "★ AKMU Chanhyuk",
-    "membername": "Chanhyuk",
+    "membername": "AKMU Chanhyuk",
     "cardgroup": "AKMU",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41374,7 +41374,7 @@
 "SHAK1": [
   {
     "cardname": "★ AKMU Suhyun",
-    "membername": "Suhyun",
+    "membername": "AKMU Suhyun",
     "cardgroup": "AKMU",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41384,7 +41384,7 @@
 "KTKXS1": [
   {
     "cardname": "★ KENTA ・ SANGGYUN Kenta",
-    "membername": "Kenta",
+    "membername": "KENTA ・ SANGGYUN Kenta",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41394,7 +41394,7 @@
 "SGKXS1": [
   {
     "cardname": "★ KENTA ・ SANGGYUN Sanggyun",
-    "membername": "Sanggyun",
+    "membername": "KENTA ・ SANGGYUN Sanggyun",
     "cardgroup": "Duo",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41404,7 +41404,7 @@
 "MBMPL1": [
   {
     "cardname": "★ MAMAMOO+ Moonbyul",
-    "membername": "Moonbyul",
+    "membername": "MAMAMOO+ Moonbyul",
     "cardgroup": "MAMAMOO",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41414,7 +41414,7 @@
 "SLMPL1": [
   {
     "cardname": "★ MAMAMOO+ Solar",
-    "membername": "Solar",
+    "membername": "MAMAMOO+ Solar",
     "cardgroup": "MAMAMOO",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41424,7 +41424,7 @@
 "JBJJP2": [
   {
     "cardname": "★★ JJ Project Jay B",
-    "membername": "Jay B",
+    "membername": "JJ Project Jay B",
     "cardgroup": "GOT7",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41434,7 +41434,7 @@
 "JYJJP2": [
   {
     "cardname": "★★ JJ Project Jinyoung",
-    "membername": "Jinyoung",
+    "membername": "JJ Project Jinyoung",
     "cardgroup": "GOT7",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41444,7 +41444,7 @@
 "BOAKM2": [
   {
     "cardname": "★★ KEEMBO Boa",
-    "membername": "Boa",
+    "membername": "KEEMBO Boa",
     "cardgroup": "KEEMBO",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41454,7 +41454,7 @@
 "BHKM2": [
   {
     "cardname": "★★ KEEMBO Bohyung",
-    "membername": "Bohyung",
+    "membername": "KEEMBO Bohyung",
     "cardgroup": "KEEMBO",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41464,7 +41464,7 @@
 "CHCXH3": [
   {
     "cardname": "★★★ CHUNGHA  X HONGJOONG Chungha",
-    "membername": "Chungha",
+    "membername": "CHUNGHA  X HONGJOONG Chungha",
     "cardgroup": "Duo",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41474,7 +41474,7 @@
 "HJCXH3": [
   {
     "cardname": "★★★ CHUNGHA X HONGJOONG Hongjoong",
-    "membername": "Hongjoong",
+    "membername": "CHUNGHA  X HONGJOONG Hongjoong",
     "cardgroup": "Duo",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41484,7 +41484,7 @@
 "NNNXP4": [
   {
     "cardname": "★★★★ NUNEW X PAUL KIM Nunew",
-    "membername": "Nunew",
+    "membername": "NUNEW X PAUL KIM Nunew",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41494,7 +41494,7 @@
 "PKNXP4": [
   {
     "cardname": "★★★★ NUNEW X PAUL KIM Paul Kim",
-    "membername": "Paul Kim",
+    "membername": "NUNEW X PAUL KIM Paul Kim",
     "cardgroup": "Duo",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41504,7 +41504,7 @@
 "ERSXE4": [
   {
     "cardname": "★★★★ ERIC X SUNWOO Eric",
-    "membername": "Eric",
+    "membername": "ERIC X SUNWOO Eric",
     "cardgroup": "THE BOYZ",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41514,7 +41514,7 @@
 "SWSXE4": [
   {
     "cardname": "★★★★ ERIC X SUNWOO Sunwoo",
-    "membername": "Sunwoo",
+    "membername": "ERIC X SUNWOO Sunwoo",
     "cardgroup": "THE BOYZ",
     "cardrarity": "4",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
@@ -41524,7 +41524,7 @@
 "IRIXS5": [
   {
     "cardname": "★★★★★ IRENE & SEULGI Irene",
-    "membername": "Irene",
+    "membername": "IRENE & SEULGI Irene",
     "cardgroup": "Red Velvet",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/Lib7GQp"
@@ -41534,7 +41534,7 @@
 "SGIXS5": [
   {
     "cardname": "★★★★★ IRENE & SEULGI Seulgi",
-    "membername": "Seulgi",
+    "membername": "IRENE & SEULGI Seulgi",
     "cardgroup": "Red Velvet",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/jZO7WUv"
@@ -41544,7 +41544,7 @@
 "MBMXS5": [
   {
     "cardname": "★★★★★ MOONBIN & SANHA Moonbin",
-    "membername": "Moonbin",
+    "membername": "MOONBIN & SANHA Moonbin",
     "cardgroup": "ASTRO",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/FXA7pR1"
@@ -41554,7 +41554,7 @@
 "SNMXS5": [
   {
     "cardname": "★★★★★ MOONBIN & SANHA Sanha",
-    "membername": "Sanha",
+    "membername": "MOONBIN & SANHA Sanha",
     "cardgroup": "ASTRO",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/AVJn8ch"
