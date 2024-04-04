@@ -279,8 +279,8 @@
 
 "JGLIX": [
   {
-    "cardname": "<:limited:1137808009184157728> Yoon Jongwoo",
-    "membername": "Yoon Jongwoo",
+    "cardname": "<:limited:1137808009184157728> ONE PACT Jongwoo",
+    "membername": "Jongwoo",
     "cardgroup": "Felix Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -2630,9 +2630,9 @@
 
 "DANN": [
   {
-    "cardname": "<:patcard:1138076615998451792> KINGDOM Dann",
+    "cardname": "<:patcard:1138076615998451792> The KingDom Dann",
     "membername": "Dann",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/7UHN5qu"
   }
@@ -2650,9 +2650,9 @@
 
 "IVAN": [
   {
-    "cardname": "<:patcard:1138076615998451792> KINGDOM Ivan",
+    "cardname": "<:patcard:1138076615998451792> The KingDom Ivan",
     "membername": "Ivan",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/HmLhB8C"
   }
@@ -2660,9 +2660,9 @@
 
 "CHIWOO": [
   {
-    "cardname": "<:patcard:1138076615998451792> KINGDOM Chiwoo",
+    "cardname": "<:patcard:1138076615998451792> The KingDom Chiwoo",
     "membername": "Chiwoo",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "PATREON",
     "cardimage": "NOT FINISHED"
   }
@@ -3030,9 +3030,9 @@
 
 "CHERRYBABY": [
   {
-    "cardname": "<:patcard:1138076615998451792> KINGDOM Mujin",
+    "cardname": "<:patcard:1138076615998451792> The KingDom Mujin",
     "membername": "Mujin",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "PATREON",
     "cardimage": "NOT FINISHED"
   }
@@ -7173,9 +7173,9 @@
 
 "ARKD4": [
   {
-    "cardname": "★★★★ KINGDOM Arthur",
+    "cardname": "★★★★ The KingDom Arthur",
     "membername": "Arthur",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/X9IY3mI"
   }
@@ -7183,9 +7183,9 @@
 
 "CWKD4": [
   {
-    "cardname": "★★★★ KINGDOM Chiwoo",
+    "cardname": "★★★★ The KingDom Chiwoo",
     "membername": "Chiwoo",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/sC9qgtX"
   }
@@ -7193,9 +7193,9 @@
 
 "DNKD4": [
   {
-    "cardname": "★★★★ KINGDOM Dann",
+    "cardname": "★★★★ The KingDom Dann",
     "membername": "Dann",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/WCGVi5a"
   }
@@ -7203,9 +7203,9 @@
 
 "IVKD4": [
   {
-    "cardname": "★★★★ KINGDOM Ivan",
+    "cardname": "★★★★ The KingDom Ivan",
     "membername": "Ivan",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/9bSrAe5"
   }
@@ -7213,9 +7213,9 @@
 
 "JHKD4": [
   {
-    "cardname": "★★★★ KINGDOM Jahan",
+    "cardname": "★★★★ The KingDom Jahan",
     "membername": "Jahan",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/wzpU307"
   }
@@ -7223,9 +7223,9 @@
 
 "LSKD4": [
   {
-    "cardname": "★★★★ KINGDOM Louis",
+    "cardname": "★★★★ The KingDom Louis",
     "membername": "Louis",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/uyt5ghy"
   }
@@ -7233,9 +7233,9 @@
 
 "MJKD4": [
   {
-    "cardname": "★★★★ KINGDOM Mujin",
+    "cardname": "★★★★ The KingDom Mujin",
     "membername": "Mujin",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/ywLi1R3"
   }
@@ -11517,8 +11517,8 @@
 
 "IVKDSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> KINGDOM Ivan",
-    "membername": "Kingdom Ivan",
+    "cardname": "<:bloom:1089723556302176336> The KingDom Ivan",
+    "membername": "The KingDom Ivan",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -20980,9 +20980,9 @@
 
 "B4SO2": [
   {
-    "cardname": "★★ Soloist Bol4",
-    "membername": "Bol4",
-    "cardgroup": "Bol4",
+    "cardname": "★★ Soloist BOL4",
+    "membername": "BOL4",
+    "cardgroup": "BOL4",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23539,9 +23539,9 @@
 
 "ARKD3": [
   {
-    "cardname": "★★★ KINGDOM Arthur",
+    "cardname": "★★★ The KingDom Arthur",
     "membername": "Arthur",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23549,9 +23549,9 @@
 
 "DNKD3": [
   {
-    "cardname": "★★★ KINGDOM Dann",
+    "cardname": "★★★ The KingDom Dann",
     "membername": "Dann",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23559,9 +23559,9 @@
 
 "HNKD3": [
   {
-    "cardname": "★★★ KINGDOM Hwon",
+    "cardname": "★★★ The KingDom Hwon",
     "membername": "Hwon",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23569,9 +23569,9 @@
 
 "IVKD3": [
   {
-    "cardname": "★★★ KINGDOM Ivan",
+    "cardname": "★★★ The KingDom Ivan",
     "membername": "Ivan",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23579,9 +23579,9 @@
 
 "JHKD3": [
   {
-    "cardname": "★★★ KINGDOM Jahan",
+    "cardname": "★★★ The KingDom Jahan",
     "membername": "Jahan",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23589,9 +23589,9 @@
 
 "LSKD3": [
   {
-    "cardname": "★★★ KINGDOM Louis",
+    "cardname": "★★★ The KingDom Louis",
     "membername": "Louis",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -23599,9 +23599,9 @@
 
 "MJKD3": [
   {
-    "cardname": "★★★ KINGDOM Mujin",
+    "cardname": "★★★ The KingDom Mujin",
     "membername": "Mujin",
-    "cardgroup": "KINGDOM",
+    "cardgroup": "The KingDom",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -38170,7 +38170,7 @@
 
 "ARKD1Y": [
   {
-    "cardname": "<:1year:1207917708088442890> KINGDOM Arthur",
+    "cardname": "<:1year:1207917708088442890> The KingDom Arthur",
     "cardgroup": "One Year",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
