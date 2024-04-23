@@ -22261,7 +22261,7 @@
   {
     "cardname": "★★ ODD EYE CIRCLE Choerry",
     "membername": "Choerry",
-    "cardgroup": "ODD EYE CIRCLE",
+    "cardgroup": "ARTMS",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -22271,7 +22271,7 @@
   {
     "cardname": "★★ ODD EYE CIRCLE Jinsoul",
     "membername": "Jinsoul",
-    "cardgroup": "ODD EYE CIRCLE",
+    "cardgroup": "ARTMS",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -22281,7 +22281,7 @@
   {
     "cardname": "★★ ODD EYE CIRCLE Kim Lip",
     "membername": "Kim Lip",
-    "cardgroup": "ODD EYE CIRCLE",
+    "cardgroup": "ARTMS",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -42176,46 +42176,6 @@
     "cardname": "★ PSYCHIC FEVER from EXILE TRIBE Weesa",
     "membername": "Weesa",
     "cardgroup": "EXILE TRIBE",
-    "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"CDQW1": [
-  {
-    "cardname": "★ QWER Chodan",
-    "membername": "Chodan",
-    "cardgroup": "QWER",
-    "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"HNQW1": [
-  {
-    "cardname": "★ QWER Hina",
-    "membername": "Hina",
-    "cardgroup": "QWER",
-    "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"MGQW1": [
-  {
-    "cardname": "★ QWER Magenta",
-    "membername": "Magenta",
-    "cardgroup": "QWER",
-    "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"SYQW1": [
-  {
-    "cardname": "★ QWER Siyeon",
-    "membername": "Siyeon",
-    "cardgroup": "QWER",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
