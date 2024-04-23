@@ -41957,7 +41957,7 @@
     "membername": "Baro",
     "cardgroup": "B1A4",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -41967,7 +41967,7 @@
     "membername": "CNU",
     "cardgroup": "B1A4",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -41977,7 +41977,7 @@
     "membername": "Gongchan",
     "cardgroup": "B1A4",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -41987,7 +41987,7 @@
     "membername": "Jinyoung",
     "cardgroup": "B1A4",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -41997,7 +41997,7 @@
     "membername": "Sandeul",
     "cardgroup": "B1A4",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42007,7 +42007,7 @@
     "membername": "Jennie",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42017,7 +42017,7 @@
     "membername": "Jisoo",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42027,7 +42027,7 @@
     "membername": "Lisa",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42037,7 +42037,7 @@
     "membername": "Rosé",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42047,7 +42047,7 @@
     "membername": "Dohwan",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42057,7 +42057,7 @@
     "membername": "Hwi",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42067,7 +42067,7 @@
     "membername": "Hyunbin",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42077,7 +42077,7 @@
     "membername": "Keita",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42087,7 +42087,7 @@
     "membername": "TAG",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42097,7 +42097,7 @@
     "membername": "Tan",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42107,7 +42107,7 @@
     "membername": "Won",
     "cardgroup": "Ciipher",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42117,7 +42117,7 @@
     "membername": "Jimmy",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42127,7 +42127,7 @@
     "membername": "Kokoro",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42137,7 +42137,7 @@
     "membername": "Ren",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42147,7 +42147,7 @@
     "membername": "Ryoga",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42157,7 +42157,7 @@
     "membername": "Ryushin",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42167,7 +42167,7 @@
     "membername": "Tsurugi",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42177,7 +42177,7 @@
     "membername": "Weesa",
     "cardgroup": "EXILE TRIBE",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42187,7 +42187,7 @@
     "membername": "Chodan",
     "cardgroup": "QWER",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42197,7 +42197,7 @@
     "membername": "Hina",
     "cardgroup": "QWER",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42207,7 +42207,7 @@
     "membername": "Magenta",
     "cardgroup": "QWER",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42217,7 +42217,7 @@
     "membername": "Siyeon",
     "cardgroup": "QWER",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42227,7 +42227,7 @@
     "membername": "Bang Chan",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42237,7 +42237,7 @@
     "membername": "Changbin",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42247,7 +42247,7 @@
     "membername": "Felix",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42257,7 +42257,7 @@
     "membername": "Han",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42267,7 +42267,7 @@
     "membername": "Hyunjin",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42277,7 +42277,7 @@
     "membername": "I.N",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42287,7 +42287,7 @@
     "membername": "Lee Know",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42297,7 +42297,7 @@
     "membername": "Seungmin",
     "cardgroup": "Stray Kids",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42307,7 +42307,7 @@
     "membername": "Beomgyu",
     "cardgroup": "TXT",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42317,7 +42317,7 @@
     "membername": "Huening Kai",
     "cardgroup": "TXT",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42327,7 +42327,7 @@
     "membername": "Soobin",
     "cardgroup": "TXT",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42337,7 +42337,7 @@
     "membername": "Taehyun",
     "cardgroup": "TXT",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42347,7 +42347,7 @@
     "membername": "Yeonjun",
     "cardgroup": "TXT",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42357,7 +42357,7 @@
     "membername": "Jaehee",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42367,7 +42367,7 @@
     "membername": "Jihan",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42377,7 +42377,7 @@
     "membername": "Jiyoon",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42387,7 +42387,7 @@
     "membername": "Monday",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42397,7 +42397,7 @@
     "membername": "Soeun",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42407,7 +42407,7 @@
     "membername": "Soojin",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42417,7 +42417,7 @@
     "membername": "Zoa",
     "cardgroup": "Weeekly",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42427,7 +42427,7 @@
     "membername": "Bona",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42437,7 +42437,7 @@
     "membername": "Cheng Xiao",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42447,7 +42447,7 @@
     "membername": "Dawon",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42457,7 +42457,7 @@
     "membername": "Dayoung",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42467,7 +42467,7 @@
     "membername": "Eunseo",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42477,7 +42477,7 @@
     "membername": "EXY",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42487,7 +42487,7 @@
     "membername": "Luda",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42497,7 +42497,7 @@
     "membername": "Mei Qi",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42507,7 +42507,7 @@
     "membername": "SeolA",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42517,7 +42517,7 @@
     "membername": "Soobin",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42527,7 +42527,7 @@
     "membername": "Xuan Yi",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42537,7 +42537,7 @@
     "membername": "Yeonjung",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42547,7 +42547,7 @@
     "membername": "Yeoreum",
     "cardgroup": "WJSN",
     "cardrarity": "1",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42557,7 +42557,7 @@
     "membername": "Doyum",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42567,7 +42567,7 @@
     "membername": "Jinsung",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42577,7 +42577,7 @@
     "membername": "Junseo",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42587,7 +42587,7 @@
     "membername": "Seunghwan",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42597,7 +42597,7 @@
     "membername": "Sungwon",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42607,7 +42607,7 @@
     "membername": "Taekhyeon",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42617,7 +42617,7 @@
     "membername": "Taewoo",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42627,7 +42627,7 @@
     "membername": "Yechan",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42637,7 +42637,7 @@
     "membername": "Yongha",
     "cardgroup": "1THE9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42647,7 +42647,7 @@
     "membername": "Chengyun",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42657,7 +42657,7 @@
     "membername": "Haixuan",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42667,7 +42667,7 @@
     "membername": "JinJin",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42677,7 +42677,7 @@
     "membername": "LinLin",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42687,7 +42687,7 @@
     "membername": "Pinxin",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42697,7 +42697,7 @@
     "membername": "Vikky",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42707,7 +42707,7 @@
     "membername": "Xiyan",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42717,7 +42717,7 @@
     "membername": "XuXu",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42727,7 +42727,7 @@
     "membername": "Yanling",
     "cardgroup": "babyMINT",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42737,7 +42737,7 @@
     "membername": "D1",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42747,7 +42747,7 @@
     "membername": "E-Chan",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42757,7 +42757,7 @@
     "membername": "GK",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42767,7 +42767,7 @@
     "membername": "Harry-June",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42777,7 +42777,7 @@
     "membername": "Heechan",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42787,7 +42787,7 @@
     "membername": "Junseo",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42797,7 +42797,7 @@
     "membername": "Lune",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42807,7 +42807,7 @@
     "membername": "Teo",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42817,7 +42817,7 @@
     "membername": "Yuku",
     "cardgroup": "DKB",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42827,7 +42827,7 @@
     "membername": "Baekhyun",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42837,7 +42837,7 @@
     "membername": "Chanyeol",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42847,7 +42847,7 @@
     "membername": "D.O.",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42857,7 +42857,7 @@
     "membername": "Kai",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42867,7 +42867,7 @@
     "membername": "Lay",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42877,7 +42877,7 @@
     "membername": "Sehun",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42887,7 +42887,7 @@
     "membername": "Xiumin",
     "cardgroup": "EXO",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42897,7 +42897,7 @@
     "membername": "Chaeyoung",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42907,7 +42907,7 @@
     "membername": "Gyuri",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42917,7 +42917,7 @@
     "membername": "Hayoung",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42927,7 +42927,7 @@
     "membername": "Jiheon",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42937,7 +42937,7 @@
     "membername": "Jisun",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42947,7 +42947,7 @@
     "membername": "Jiwon",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42957,7 +42957,7 @@
     "membername": "Nagyung",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42967,7 +42967,7 @@
     "membername": "Saerom",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42977,7 +42977,7 @@
     "membername": "Seoyeon",
     "cardgroup": "fromis_9",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42987,7 +42987,7 @@
     "membername": "Anne",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -42997,7 +42997,7 @@
     "membername": "Lena",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43007,7 +43007,7 @@
     "membername": "Minju",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43017,7 +43017,7 @@
     "membername": "Miya",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43027,7 +43027,7 @@
     "membername": "Seokyoung",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43037,7 +43037,7 @@
     "membername": "Seoryoung",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43047,7 +43047,7 @@
     "membername": "Soso",
     "cardgroup": "GWSN",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43057,7 +43057,7 @@
     "membername": "Jaehee",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43067,7 +43067,7 @@
     "membername": "Riku",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43077,7 +43077,7 @@
     "membername": "Ryo",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43087,7 +43087,7 @@
     "membername": "Sakuya",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43097,7 +43097,7 @@
     "membername": "Sion",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43107,7 +43107,7 @@
     "membername": "Yushi",
     "cardgroup": "NCT WISH",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43117,7 +43117,7 @@
     "membername": "Daehyeon",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43127,7 +43127,7 @@
     "membername": "Eunki",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43137,7 +43137,7 @@
     "membername": "Hyunmin",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43147,7 +43147,7 @@
     "membername": "Kiwon",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43157,7 +43157,7 @@
     "membername": "Seongri",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43167,7 +43167,7 @@
     "membername": "Sunghyuk",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43177,7 +43177,7 @@
     "membername": "Wontak",
     "cardgroup": "RAINZ",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43187,7 +43187,7 @@
     "membername": "Opp",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43197,7 +43197,7 @@
     "membername": "Pa",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43207,7 +43207,7 @@
     "membername": "Peanut",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43217,7 +43217,7 @@
     "membername": "Woochul",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43227,7 +43227,7 @@
     "membername": "Yongkwon",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43237,7 +43237,7 @@
     "membername": "Yoyo",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43247,7 +43247,7 @@
     "membername": "Yunmin",
     "cardgroup": "THE7",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43257,7 +43257,7 @@
     "membername": "Elisia",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43267,7 +43267,7 @@
     "membername": "Gehlee",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43277,7 +43277,7 @@
     "membername": "Hyeonju",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43287,7 +43287,7 @@
     "membername": "Kotoko",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43297,7 +43297,7 @@
     "membername": "Nana",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43307,7 +43307,7 @@
     "membername": "Seowon",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43317,7 +43317,7 @@
     "membername": "Yoona",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43327,7 +43327,7 @@
     "membername": "Yunha",
     "cardgroup": "UNIS",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43337,7 +43337,7 @@
     "membername": "Hyunny",
     "cardgroup": "VVUP",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43347,7 +43347,7 @@
     "membername": "Kim",
     "cardgroup": "VVUP",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43357,7 +43357,7 @@
     "membername": "Paan",
     "cardgroup": "VVUP",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43367,7 +43367,7 @@
     "membername": "Suyeon",
     "cardgroup": "VVUP",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43377,7 +43377,7 @@
     "membername": "Doeun",
     "cardgroup": "YOUNG POSSE",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43387,7 +43387,7 @@
     "membername": "Jiana",
     "cardgroup": "YOUNG POSSE",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43397,7 +43397,7 @@
     "membername": "Jieun",
     "cardgroup": "YOUNG POSSE",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43407,7 +43407,7 @@
     "membername": "Sunhye",
     "cardgroup": "YOUNG POSSE",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43417,7 +43417,7 @@
     "membername": "Yeonjung",
     "cardgroup": "YOUNG POSSE",
     "cardrarity": "2",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43427,7 +43427,7 @@
     "membername": "Duna",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43437,7 +43437,7 @@
     "membername": "Geumhee",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43447,7 +43447,7 @@
     "membername": "Seoyeon",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43457,7 +43457,7 @@
     "membername": "Sihyeon",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43467,7 +43467,7 @@
     "membername": "Sua",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43477,7 +43477,7 @@
     "membername": "Yeham",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43487,7 +43487,7 @@
     "membername": "Yuna",
     "cardgroup": "CSR",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43497,7 +43497,7 @@
     "membername": "Heeseung",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43507,7 +43507,7 @@
     "membername": "Jake",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43517,7 +43517,7 @@
     "membername": "Jay",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43527,7 +43527,7 @@
     "membername": "Jungwon",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43537,7 +43537,7 @@
     "membername": "Ni-Ki",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43547,7 +43547,7 @@
     "membername": "Sunghoon",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43557,7 +43557,7 @@
     "membername": "Sunoo",
     "cardgroup": "ENHYPEN",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43567,7 +43567,7 @@
     "membername": "Doy",
     "cardgroup": "NOMAD",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43577,7 +43577,7 @@
     "membername": "Junho",
     "cardgroup": "NOMAD",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43587,7 +43587,7 @@
     "membername": "One",
     "cardgroup": "NOMAD",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43597,7 +43597,7 @@
     "membername": "Rivr",
     "cardgroup": "NOMAD",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43607,7 +43607,7 @@
     "membername": "Sangha",
     "cardgroup": "NOMAD",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43617,7 +43617,7 @@
     "membername": "Irene",
     "cardgroup": "Red Velvet",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43627,7 +43627,7 @@
     "membername": "Joy",
     "cardgroup": "Red Velvet",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43637,7 +43637,7 @@
     "membername": "Seulgi",
     "cardgroup": "Red Velvet",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43647,7 +43647,7 @@
     "membername": "Wendy",
     "cardgroup": "Red Velvet",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43657,7 +43657,7 @@
     "membername": "Yeri",
     "cardgroup": "Red Velvet",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43667,7 +43667,7 @@
     "membername": "Liu",
     "cardgroup": "RESCENE",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43677,7 +43677,7 @@
     "membername": "May",
     "cardgroup": "RESCENE",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43687,7 +43687,7 @@
     "membername": "Minami",
     "cardgroup": "RESCENE",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43697,7 +43697,7 @@
     "membername": "Woni",
     "cardgroup": "RESCENE",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43707,7 +43707,7 @@
     "membername": "Zena",
     "cardgroup": "RESCENE",
     "cardrarity": "3",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43717,7 +43717,7 @@
     "membername": "Choerry",
     "cardgroup": "ARTMS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43727,7 +43727,7 @@
     "membername": "Haseul",
     "cardgroup": "ARTMS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43737,7 +43737,7 @@
     "membername": "Heejin",
     "cardgroup": "ARTMS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43747,7 +43747,7 @@
     "membername": "Jinsoul",
     "cardgroup": "ARTMS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43757,7 +43757,7 @@
     "membername": "Kim Lip",
     "cardgroup": "ARTMS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43767,7 +43767,7 @@
     "membername": "Belle",
     "cardgroup": "KISS OF LIFE",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43777,7 +43777,7 @@
     "membername": "Haneul",
     "cardgroup": "KISS OF LIFE",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43787,7 +43787,7 @@
     "membername": "Julie",
     "cardgroup": "KISS OF LIFE",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43797,7 +43797,7 @@
     "membername": "Natty",
     "cardgroup": "KISS OF LIFE",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43807,7 +43807,7 @@
     "membername": "Hyeonbin",
     "cardgroup": "NOWADAYS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43817,7 +43817,7 @@
     "membername": "Jinhyuk",
     "cardgroup": "NOWADAYS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43827,7 +43827,7 @@
     "membername": "Siyun",
     "cardgroup": "NOWADAYS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43837,7 +43837,7 @@
     "membername": "Yeonwoo",
     "cardgroup": "NOWADAYS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43847,7 +43847,7 @@
     "membername": "Yoon",
     "cardgroup": "NOWADAYS",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43857,7 +43857,7 @@
     "membername": "Hongseok",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43867,7 +43867,7 @@
     "membername": "Jinho",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43877,7 +43877,7 @@
     "membername": "Kino",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43887,7 +43887,7 @@
     "membername": "Shinwon",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43897,7 +43897,7 @@
     "membername": "Wooseok",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43907,7 +43907,7 @@
     "membername": "Yanan",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43917,7 +43917,7 @@
     "membername": "Yeo One",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -43927,7 +43927,7 @@
     "membername": "Yuto",
     "cardgroup": "PENTAGON",
     "cardrarity": "4",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$message[1].png"
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ]
 }
