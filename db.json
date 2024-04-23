@@ -16478,8 +16478,8 @@
 
 "KHDKZ3": [
   {
-    "cardname": "★★★ DKZ Kyounghoon",
-    "membername": "Kyounghoon",
+    "cardname": "★★★ DKZ Kyoungyoon",
+    "membername": "Kyoungyoon",
     "cardgroup": "DKZ",
     "cardrarity": "3",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -26591,8 +26591,8 @@
 
 "KHDKZ2": [
   {
-    "cardname": "★★ DKZ Kyounghoon",
-    "membername": "Kyounghoon",
+    "cardname": "★★ DKZ Kyoungyoon",
+    "membername": "Kyoungyoon",
     "cardgroup": "DKZ",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
