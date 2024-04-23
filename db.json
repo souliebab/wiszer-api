@@ -2760,9 +2760,9 @@
 
 "LILIMOVES": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Lisa",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Lisa",
     "membername": "Lisa",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/2R4u7yx"
   }
@@ -2770,9 +2770,9 @@
 
 "JENDEUK": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Jennie",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Jennie",
     "membername": "Jennie",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -2780,9 +2780,9 @@
 
 "JICHU": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Jisoo",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Jisoo",
     "membername": "Jisoo",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -2790,9 +2790,9 @@
   
 "LALA": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Lisa",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Lisa",
     "membername": "Lisa",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -2800,9 +2800,9 @@
   
 "ROSEANNE": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Rosé",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Rosé",
     "membername": "Rosé",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -2810,9 +2810,9 @@
   
 "CHAELISA": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Lisa & Rosé",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Lisa & Rosé",
     "membername": "Lisa & Rosé",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -2870,9 +2870,9 @@
       
 "JENSOO": [
   {
-    "cardname": "<:patcard:1138076615998451792> BLACKPINK Jennie & Jisoo",
+    "cardname": "<:patcard:1138076615998451792> BLΛƆKPIИK Jennie & Jisoo",
     "membername": "Jennie & Jisoo",
-    "cardgroup": "BLACKPINK",
+    "cardgroup": "BLΛƆKPIИK",
     "cardrarity": "PATREON",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -9010,7 +9010,7 @@
 ],
 "JNBP4": [
   {
-    "cardname": "★★★★ BLACKPINK Jennie",
+    "cardname": "★★★★ BLΛƆKPIИK Jennie",
     "membername": "Jennie",
     "cardgroup": "BLACKPINK",
     "cardrarity": "4",
@@ -9020,7 +9020,7 @@
 
 "JSBP4": [
   {
-    "cardname": "★★★★ BLACKPINK Jisoo",
+    "cardname": "★★★★ BLΛƆKPIИK Jisoo",
     "membername": "Jisoo",
     "cardgroup": "BLACKPINK",
     "cardrarity": "4",
@@ -9030,7 +9030,7 @@
 
 "LSBP4": [
   {
-    "cardname": "★★★★ BLACKPINK Lisa",
+    "cardname": "★★★★ BLΛƆKPIИK Lisa",
     "membername": "Lisa",
     "cardgroup": "BLACKPINK",
     "cardrarity": "4",
@@ -9040,7 +9040,7 @@
 
 "RSBP4": [
   {
-    "cardname": "★★★★ BLACKPINK Rosé",
+    "cardname": "★★★★ BLΛƆKPIИK Rosé",
     "membername": "Rosé",
     "cardgroup": "BLACKPINK",
     "cardrarity": "4",
@@ -10438,9 +10438,9 @@
 
 "LCWOO2": [
   {
-    "cardname": "★★ woo!ah! Lucy",
+    "cardname": "★★ WOOAH Lucy",
     "membername": "Lucy",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -10448,9 +10448,9 @@
 
 "MSWOO2": [
   {
-    "cardname": "★★ woo!ah! Minseo",
+    "cardname": "★★ WOOAH Minseo",
     "membername": "Minseo",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -10458,9 +10458,9 @@
 
 "NNWOO2": [
   {
-    "cardname": "★★ woo!ah! Nana",
+    "cardname": "★★ WOOAH Nana",
     "membername": "Nana",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -10468,9 +10468,9 @@
 
 "SYWOO2": [
   {
-    "cardname": "★★ woo!ah! Songyee",
+    "cardname": "★★ WOOAH Songyee",
     "membername": "Songyee",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -10478,9 +10478,9 @@
 
 "SRWOO2": [
   {
-    "cardname": "★★ woo!ah! Sora",
+    "cardname": "★★ WOOAH Sora",
     "membername": "Sora",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -10488,9 +10488,9 @@
 
 "WYWOO2": [
   {
-    "cardname": "★★ woo!ah! Wooyeon",
+    "cardname": "★★ WOOAH Wooyeon",
     "membername": "Wooyeon",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -11388,8 +11388,8 @@
 
 "LSBPSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> BLACKPINK Lisa",
-    "membername": "BLACKPINK Lisa",
+    "cardname": "<:bloom:1089723556302176336> BLΛƆKPIИK Lisa",
+    "membername": "BLΛƆKPIИK Lisa",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -11857,7 +11857,7 @@
 
 "RSBPVD": [
   {
-    "cardname": "<:vday:1091435490919587901> BLACKPINK Rosé",
+    "cardname": "<:vday:1091435490919587901> BLΛƆKPIИK Rosé",
     "cardgroup": "VALENTINES",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -12745,7 +12745,7 @@
 ],
 "JNBPWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> BLACKPINK Jennie",
+    "cardname": "<:sg:1091435489162174526> BLΛƆKPIИK Jennie",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -12754,7 +12754,7 @@
 
 "JSBPWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> BLACKPINK Jisoo",
+    "cardname": "<:sg:1091435489162174526> BLΛƆKPIИK Jisoo",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -12763,7 +12763,7 @@
 
 "LSBPWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> BLACKPINK Lisa",
+    "cardname": "<:sg:1091435489162174526> BLΛƆKPIИK Lisa",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -12772,7 +12772,7 @@
 
 "RSBPWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> BLACKPINK Rosé",
+    "cardname": "<:sg:1091435489162174526> BLΛƆKPIИK Rosé",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -14267,7 +14267,7 @@
 
 "JSBPAF": [
 {
-  "cardname": "<:apf:1091435481721471077> BLACKPINK Jisoo",
+  "cardname": "<:apf:1091435481721471077> BLΛƆKPIИK Jisoo",
   "cardgroup": "APRILFOOLS",
   "cardrarity": "ARCHIVED",
   "cardimage": "https://i.imgur.com/BgOKDTn"
@@ -19331,8 +19331,8 @@
 
 "RSBPPC": [
   {
-    "cardname": "<:_pride:1223678584275599382> BLACKPINK Rosé ( Pride )",
-    "membername": "<:_pride:1223678584275599382> BLACKPINK Rosé",
+    "cardname": "<:_pride:1223678584275599382> BLΛƆKPIИK Rosé ( Pride )",
+    "membername": "<:_pride:1223678584275599382> BLΛƆKPIИK Rosé",
     "cardgroup": "Pride",
     "cardrarity": "C",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -20240,7 +20240,7 @@
 
 "JNBP3": [
   {
-    "cardname": "★★★ BLACKPINK Jennie",
+    "cardname": "★★★ BLΛƆKPIИK Jennie",
     "membername": "Jennie",
     "cardgroup": "BLACKPINK",
     "cardrarity": "3",
@@ -20250,7 +20250,7 @@
 
 "JSBP3": [
   {
-    "cardname": "★★★ BLACKPINK Jisoo",
+    "cardname": "★★★ BLΛƆKPIИK Jisoo",
     "membername": "Jisoo",
     "cardgroup": "BLACKPINK",
     "cardrarity": "3",
@@ -20260,7 +20260,7 @@
 
 "LSBP3": [
   {
-    "cardname": "★★★ BLACKPINK Lisa",
+    "cardname": "★★★ BLΛƆKPIИK Lisa",
     "membername": "Lisa",
     "cardgroup": "BLACKPINK",
     "cardrarity": "3",
@@ -20270,7 +20270,7 @@
 
 "RSBP3": [
   {
-    "cardname": "★★★ BLACKPINK Rosé",
+    "cardname": "★★★ BLΛƆKPIИK Rosé",
     "membername": "Rosé",
     "cardgroup": "BLACKPINK",
     "cardrarity": "3",
@@ -23875,7 +23875,7 @@
 
 "JSBPZD": [
   {
-    "cardname": "<:zodiac:1141980950327205909> BLACKPINK Jisoo",
+    "cardname": "<:zodiac:1141980950327205909> BLΛƆKPIИK Jisoo",
     "cardgroup": "Zodiac",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -24641,9 +24641,9 @@
 
 "LCWOO1": [
   {
-    "cardname": "★ woo!ah! Lucy",
+    "cardname": "★ WOOAH Lucy",
     "membername": "Lucy",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -24651,9 +24651,9 @@
 
 "MSWOO1": [
   {
-    "cardname": "★ woo!ah! Minseo",
+    "cardname": "★ WOOAH Minseo",
     "membername": "Minseo",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -24661,9 +24661,9 @@
 
 "NNWOO1": [
   {
-    "cardname": "★ woo!ah! Nana",
+    "cardname": "★ WOOAH Nana",
     "membername": "Nana",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -24671,9 +24671,9 @@
 
 "SRWOO1": [
   {
-    "cardname": "★ woo!ah! Sora",
+    "cardname": "★ WOOAH Sora",
     "membername": "Sora",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -24681,9 +24681,9 @@
 
 "WYWOO1": [
   {
-    "cardname": "★ woo!ah! Wooyeon",
+    "cardname": "★ WOOAH Wooyeon",
     "membername": "Wooyeon",
-    "cardgroup": "woo!ah!",
+    "cardgroup": "WOOAH",
     "cardrarity": "1",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -38089,7 +38089,7 @@
 
 "JNBP1Y": [
   {
-    "cardname": "<:1year:1207917708088442890> BLACKPINK Jennie",
+    "cardname": "<:1year:1207917708088442890> BLΛƆKPIИK Jennie",
     "cardgroup": "One Year",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -41673,8 +41673,8 @@
 
 "LCWOOBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> woo!ah! Lucy ( Birthday )",
-    "membername": "<:_bday:1223678582987952180> woo!ah! Lucy",
+    "cardname": "<:_bday:1223678582987952180> WOOAH Lucy ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> WOOAH Lucy",
     "cardgroup": "Birthday",
     "cardrarity": "EVENT",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -42003,7 +42003,7 @@
 
 "JNBP1": [
   {
-    "cardname": "★ BLACKPINK Jennie",
+    "cardname": "★ BLΛƆKPIИK Jennie",
     "membername": "Jennie",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
@@ -42013,7 +42013,7 @@
 
 "JSBP1": [
   {
-    "cardname": "★ BLACKPINK Jisoo",
+    "cardname": "★ BLΛƆKPIИK Jisoo",
     "membername": "Jisoo",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
@@ -42023,7 +42023,7 @@
 
 "LSBP1": [
   {
-    "cardname": "★ BLACKPINK Lisa",
+    "cardname": "★ BLΛƆKPIИK Lisa",
     "membername": "Lisa",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
@@ -42033,7 +42033,7 @@
 
 "RSBP1": [
   {
-    "cardname": "★ BLACKPINK Rosé",
+    "cardname": "★ BLΛƆKPIИK Rosé",
     "membername": "Rosé",
     "cardgroup": "BLACKPINK",
     "cardrarity": "1",
@@ -43055,7 +43055,7 @@
   {
     "cardname": "★★ NCT WISH Jaehee",
     "membername": "Jaehee",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -43065,7 +43065,7 @@
   {
     "cardname": "★★ NCT WISH Riku",
     "membername": "Riku",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -43075,7 +43075,7 @@
   {
     "cardname": "★★ NCT WISH Ryo",
     "membername": "Ryo",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -43085,7 +43085,7 @@
   {
     "cardname": "★★ NCT WISH Sakuya",
     "membername": "Sakuya",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -43095,7 +43095,7 @@
   {
     "cardname": "★★ NCT WISH Sion",
     "membername": "Sion",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -43105,7 +43105,7 @@
   {
     "cardname": "★★ NCT WISH Yushi",
     "membername": "Yushi",
-    "cardgroup": "NCT WISH",
+    "cardgroup": "NCT",
     "cardrarity": "2",
     "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
