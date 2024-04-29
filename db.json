@@ -173,7 +173,7 @@
     "membername": "Young K",
     "cardgroup": "DAY6", 
     "cardrarity": "PATREON",
-    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://ik.imagekit.io/souliebab/$toUppercase[$message[1]].png"
   }
 ],
 
