@@ -43889,5 +43889,126 @@
     "cardrarity": "4",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
   }
+],
+
+"TKTEMBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> &TEAM Taki ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> &TEAM Taki",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MJILBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ILLIT Minju ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> ILLIT Minju",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SGKXSBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> KENTA ・ SANGGYUN  Sanggyun ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> KENTA ・ SANGGYUN  Sanggyun",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NTKFBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> KISS OF LIFE Natty ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> KISS OF LIFE Natty",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BYDSOBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist Bang Yedam ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist Bang Yedam",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"IUSOBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist IU ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist IU",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GWTFNBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> TFN Gunwoo ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> TFN Gunwoo",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"XYSSSBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> tripleS Xinyu ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> tripleS Xinyu",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJTWSBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> TWS Youngjae ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> TWS Youngjae",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"EHVVBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> VIVIZ Eunha ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> VIVIZ Eunha",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ESWJBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> WJSN Eunseo ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> WJSN Eunseo",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RCZBBD": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ZEROBASEONE Ricky ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> ZEROBASEONE Ricky",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://soulcards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
 ]
+
 }
