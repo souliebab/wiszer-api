@@ -557,6 +557,26 @@
   }
 ],
 
+"GWZB11Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> One Year ZEROBASEONE Gunwook",
+    "membername": "Gunwook",
+    "cardgroup": "Giveaways",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"QTBZ1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> One Year THE BOYZ Q",
+    "membername": "Q",
+    "cardgroup": "Giveaways",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
 "SHKSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca EVERGLOW Sihyeon",
@@ -24161,8 +24181,8 @@
 
 "BGTXTSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  TXT Beomgyu ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  TXT Beomgyu",
+    "cardname": "<:_selca:1223678585966035065> TXT Beomgyu ( Selca )",
+    "membername": "<:_selca:1223678585966035065> TXT Beomgyu",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24171,8 +24191,8 @@
 
 "HNXGSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  XG Hinata ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  XG Hinata",
+    "cardname": "<:_selca:1223678585966035065> XG Hinata ( Selca )",
+    "membername": "<:_selca:1223678585966035065> XG Hinata",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24181,8 +24201,8 @@
 
 "SLLMNSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  LUMINOUS Suil ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  LUMINOUS Suil",
+    "cardname": "<:_selca:1223678585966035065> LUMINOUS Suil ( Selca )",
+    "membername": "<:_selca:1223678585966035065> LUMINOUS Suil",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24191,8 +24211,8 @@
 
 "DNNJSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  NewJeans Danielle ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  NewJeans Danielle",
+    "cardname": "<:_selca:1223678585966035065> NewJeans Danielle ( Selca )",
+    "membername": "<:_selca:1223678585966035065> NewJeans Danielle",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24201,8 +24221,8 @@
 
 "HYOXSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  OMEGA X Hyuk ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  OMEGA X Hyuk",
+    "cardname": "<:_selca:1223678585966035065> OMEGA X Hyuk ( Selca )",
+    "membername": "<:_selca:1223678585966035065> OMEGA X Hyuk",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24211,8 +24231,8 @@
 
 "KHP1HSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  P1HARMONY Keeho ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  P1HARMONY Keeho",
+    "cardname": "<:_selca:1223678585966035065> P1HARMONY Keeho ( Selca )",
+    "membername": "<:_selca:1223678585966035065> P1HARMONY Keeho",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24221,8 +24241,8 @@
 
 "YNPTGSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  PENTAGON Yanan ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  PENTAGON Yanan",
+    "cardname": "<:_selca:1223678585966035065> PENTAGON Yanan ( Selca )",
+    "membername": "<:_selca:1223678585966035065> PENTAGON Yanan",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24231,8 +24251,8 @@
 
 "JSSVTSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  SEVENTEEN Joshua ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  SEVENTEEN Joshua",
+    "cardname": "<:_selca:1223678585966035065> SEVENTEEN Joshua ( Selca )",
+    "membername": "<:_selca:1223678585966035065> SEVENTEEN Joshua",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24241,8 +24261,8 @@
 
 "AXSOSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Soloist AleXa ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Soloist AleXa",
+    "cardname": "<:_selca:1223678585966035065> Soloist AleXa ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Soloist AleXa",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24251,8 +24271,8 @@
 
 "DPRISOSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Soloist DPR IAN ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Soloist DPR IAN",
+    "cardname": "<:_selca:1223678585966035065> Soloist DPR IAN ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Soloist DPR IAN",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24261,8 +24281,8 @@
 
 "JNYSOSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Soloist Junny ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Soloist Junny",
+    "cardname": "<:_selca:1223678585966035065> Soloist Junny ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Soloist Junny",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24271,8 +24291,8 @@
 
 "YNSOSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Soloist Yena ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Soloist Yena",
+    "cardname": "<:_selca:1223678585966035065> Soloist Yena ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Soloist Yena",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24281,8 +24301,8 @@
 
 "JDVSPKSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  SUPERKIND JDV ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  SUPERKIND JDV",
+    "cardname": "<:_selca:1223678585966035065> SUPERKIND JDV ( Selca )",
+    "membername": "<:_selca:1223678585966035065> SUPERKIND JDV",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24291,8 +24311,8 @@
 
 "SNTFNSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  TFN Sian ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  TFN Sian",
+    "cardname": "<:_selca:1223678585966035065> TFN Sian ( Selca )",
+    "membername": "<:_selca:1223678585966035065> TFN Sian",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24301,8 +24321,8 @@
 
 "JHTRISC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  TRI.BE Jinha ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  TRI.BE Jinha",
+    "cardname": "<:_selca:1223678585966035065> TRI.BE Jinha ( Selca )",
+    "membername": "<:_selca:1223678585966035065> TRI.BE Jinha",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24311,8 +24331,8 @@
 
 "HRSSSSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  tripleS Hyerin ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  tripleS Hyerin",
+    "cardname": "<:_selca:1223678585966035065> tripleS Hyerin ( Selca )",
+    "membername": "<:_selca:1223678585966035065> tripleS Hyerin",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24321,8 +24341,8 @@
 
 "SWADYSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  ADYA Seowon ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  ADYA Seowon",
+    "cardname": "<:_selca:1223678585966035065> ADYA Seowon ( Selca )",
+    "membername": "<:_selca:1223678585966035065> ADYA Seowon",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24331,8 +24351,8 @@
 
 "YSATZSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  ATEEZ Yeosang ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  ATEEZ Yeosang",
+    "cardname": "<:_selca:1223678585966035065> ATEEZ Yeosang ( Selca )",
+    "membername": "<:_selca:1223678585966035065> ATEEZ Yeosang",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24341,8 +24361,8 @@
 
 "GCB14SC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  B1A4 Gongchan ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  B1A4 Gongchan",
+    "cardname": "<:_selca:1223678585966035065> B1A4 Gongchan ( Selca )",
+    "membername": "<:_selca:1223678585966035065> B1A4 Gongchan",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24351,8 +24371,8 @@
 
 "SHBLSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Billlie Sheon ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Billlie Sheon",
+    "cardname": "<:_selca:1223678585966035065> Billlie Sheon ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Billlie Sheon",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24361,8 +24381,8 @@
 
 "DNCSRSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  CSR Duna ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  CSR Duna",
+    "cardname": "<:_selca:1223678585966035065> CSR Duna ( Selca )",
+    "membername": "<:_selca:1223678585966035065> CSR Duna",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24371,8 +24391,8 @@
 
 "EJDNSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  DreamNote Eunjo ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  DreamNote Eunjo",
+    "cardname": "<:_selca:1223678585966035065> DreamNote Eunjo ( Selca )",
+    "membername": "<:_selca:1223678585966035065> DreamNote Eunjo",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24381,8 +24401,8 @@
 
 "WRFRSSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  FORESTELLA Woorim ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  FORESTELLA Woorim",
+    "cardname": "<:_selca:1223678585966035065> FORESTELLA Woorim ( Selca )",
+    "membername": "<:_selca:1223678585966035065> FORESTELLA Woorim",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24391,8 +24411,8 @@
 
 "JJGCSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Golden Child Jangjun ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Golden Child Jangjun",
+    "cardname": "<:_selca:1223678585966035065> Golden Child Jangjun ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Golden Child Jangjun",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24401,8 +24421,8 @@
 
 "YELH1KSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  H1-KEY Yel ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  H1-KEY Yel",
+    "cardname": "<:_selca:1223678585966035065> H1-KEY Yel ( Selca )",
+    "membername": "<:_selca:1223678585966035065> H1-KEY Yel",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24411,8 +24431,8 @@
 
 "JNICSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  ICHILLIN' Joonie ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  ICHILLIN' Joonie",
+    "cardname": "<:_selca:1223678585966035065> ICHILLIN' Joonie ( Selca )",
+    "membername": "<:_selca:1223678585966035065> ICHILLIN' Joonie",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24421,8 +24441,8 @@
 
 "LINFSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  INFINITE L ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  INFINITE L",
+    "cardname": "<:_selca:1223678585966035065> INFINITE L ( Selca )",
+    "membername": "<:_selca:1223678585966035065> INFINITE L",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24431,8 +24451,8 @@
 
 "REIVESC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  IVE Rei ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  IVE Rei",
+    "cardname": "<:_selca:1223678585966035065> IVE Rei ( Selca )",
+    "membername": "<:_selca:1223678585966035065> IVE Rei",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24441,8 +24461,8 @@
 
 "DYK1SC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  KEP1ER Dayeon ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  KEP1ER Dayeon",
+    "cardname": "<:_selca:1223678585966035065> KEP1ER Dayeon ( Selca )",
+    "membername": "<:_selca:1223678585966035065> KEP1ER Dayeon",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -24451,8 +24471,8 @@
 
 "HNKFSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  KISS OF LIFE Haneul ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  KISS OF LIFE Haneul",
+    "cardname": "<:_selca:1223678585966035065> KISS OF LIFE Haneul ( Selca )",
+    "membername": "<:_selca:1223678585966035065> KISS OF LIFE Haneul",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32362,8 +32382,8 @@
 
 "PBYACTSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Actor Park Boyoung ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Actor Park Boyoung",
+    "cardname": "<:_selca:1223678585966035065> Actor Park Boyoung ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Actor Park Boyoung",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32372,8 +32392,8 @@
 
 "PHSACTSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Actor Park Hyungsik ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Actor Park Hyungsik",
+    "cardname": "<:_selca:1223678585966035065> Actor Park Hyungsik ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Actor Park Hyungsik",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32382,8 +32402,8 @@
 
 "JJASC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  ASTRO JinJin ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  ASTRO JinJin",
+    "cardname": "<:_selca:1223678585966035065> ASTRO JinJin ( Selca )",
+    "membername": "<:_selca:1223678585966035065> ASTRO JinJin",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32392,8 +32412,8 @@
 
 "BLCGSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  cignature Belle ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  cignature Belle",
+    "cardname": "<:_selca:1223678585966035065> cignature Belle ( Selca )",
+    "membername": "<:_selca:1223678585966035065> cignature Belle",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32402,8 +32422,8 @@
 
 "JIUDCSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  Dreamcatcher JiU ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  Dreamcatcher JiU",
+    "cardname": "<:_selca:1223678585966035065> Dreamcatcher JiU ( Selca )",
+    "membername": "<:_selca:1223678585966035065> Dreamcatcher JiU",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32412,8 +32432,8 @@
 
 "KTEVSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  EVNNE Keita ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  EVNNE Keita",
+    "cardname": "<:_selca:1223678585966035065> EVNNE Keita ( Selca )",
+    "membername": "<:_selca:1223678585966035065> EVNNE Keita",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32422,8 +32442,8 @@
 
 "ECLESC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  LE SSERAFIM Eunchae ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  LE SSERAFIM Eunchae",
+    "cardname": "<:_selca:1223678585966035065> LE SSERAFIM Eunchae ( Selca )",
+    "membername": "<:_selca:1223678585966035065> LE SSERAFIM Eunchae",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32432,8 +32452,8 @@
 
 "SLMOOSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  MAMAMOO Solar ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  MAMAMOO Solar",
+    "cardname": "<:_selca:1223678585966035065> MAMAMOO Solar ( Selca )",
+    "membername": "<:_selca:1223678585966035065> MAMAMOO Solar",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32442,8 +32462,8 @@
 
 "SKNCTSC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  NCT Sakuya ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  NCT Sakuya",
+    "cardname": "<:_selca:1223678585966035065> NCT Sakuya ( Selca )",
+    "membername": "<:_selca:1223678585966035065> NCT Sakuya",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32452,8 +32472,8 @@
 
 "JSWEISC": [
   {
-    "cardname": "<:_selca:1223678585966035065>  WEi Junseo ( Selca )",
-    "membername": "<:_selca:1223678585966035065>  WEi Junseo",
+    "cardname": "<:_selca:1223678585966035065> WEi Junseo ( Selca )",
+    "membername": "<:_selca:1223678585966035065> WEi Junseo",
     "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
@@ -32485,6 +32505,46 @@
     "cardname": "<:_pride:1223678584275599382> Actor Kim Dami ( Pride )",
     "membername": "<:_pride:1223678584275599382> Actor Kim Dami",
     "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYSOPC": [
+  {
+    "cardname": "<:_pride:1223678584275599382> Soloist So!YoON!  ( Pride )",
+    "membername": "<:_pride:1223678584275599382> Soloist So!YoON! ",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BIBISOPC": [
+  {
+    "cardname": "<:_pride:1223678584275599382> Soloist BIBI ( Pride )",
+    "membername": "<:_pride:1223678584275599382> Soloist BIBI",
+    "cardgroup": "Pride",
+    "cardrarity": "C",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ZHSF9SC": [
+  {
+    "cardname": "<:_selca:1223678585966035065> SF9 Zuho ( Selca )",
+    "membername": "<:_selca:1223678585966035065> SF9 Zuho",
+    "cardgroup": "Selca",
+    "cardrarity": "C",
+    "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHBNDSC": [
+  {
+    "cardname": "<:_selca:1223678585966035065> BOYNEXTDOOR Jaehyun ( Selca )",
+    "membername": "<:_selca:1223678585966035065> BOYNEXTDOOR Jaehyun",
+    "cardgroup": "Selca",
     "cardrarity": "C",
     "cardimage": "https://ik.imagekit.io/souliebab/cards/$toUppercase[$message[1]].png"
   }
