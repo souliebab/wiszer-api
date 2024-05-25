@@ -117,16 +117,6 @@
   }
 ],
 
-"SLAY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Jiwoong & Jongwoo",
-    "membername": "Jiwoong & Jongwoo",
-    "cardgroup": "Boys Planet 999", 
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
 "MINGOO": [
   {
     "cardname": "<:patcard:1138076615998451792> SEVENTEEN Mingyu",
@@ -182,16 +172,6 @@
     "cardname": "<:patcard:1138076615998451792> MONSTA X Kihyun",
     "membername": "Kihyun",
     "cardgroup": "MONSTA X", 
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"HUFFLEYUNHO": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Yunho",
-    "membername": "Yunho",
-    "cardgroup": "ATEEZ", 
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -688,16 +668,6 @@
 }
 ],
 
-"SRPSC": [
-{
-  "cardname": "<:limited:1137808009184157728> Selca fromis_9 Saerom",
-  "membername": "Saerom",
-  "cardgroup": "Staff Selca",
-  "cardrarity": "LIMITED",
-  "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-}
-],
-
 "RIBBON": [
   {
     "cardname": "<:patcard:1138076615998451792> Soloist BamBam",
@@ -788,16 +758,6 @@
   }
 ],
 
-"AMICUSADARAS": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Wooyoung & San",
-    "membername": "Wooyoung & San",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "KEYBOARD": [
   {
     "cardname": "<:patcard:1138076615998451792> DAY6 Wonpil",
@@ -808,26 +768,6 @@
   }
 ],
 
-"FRUITY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Ten",
-    "membername": "Ten",
-    "cardgroup": "Ten",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-    
-"NOMANNERS": [
-  {
-    "cardname": "<:patcard:1138076615998451792> NCT Taeyong & Ten",
-    "membername": "Taeyong & Ten",
-    "cardgroup": "NCT",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "HWASAN": [
   {
     "cardname": "<:patcard:1138076615998451792> ATEEZ Seonghwa & San",
@@ -835,16 +775,6 @@
     "cardgroup": "ATEEZ",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/Pdp9u52"
-  }
-],
-
-"PINKY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Seonghwa",
-    "membername": "Seonghwa",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
   }
 ],
 
@@ -878,16 +808,6 @@
   }
 ],
 
-"CUDDLY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Jongho & Yeosang",
-    "membername": "Jongho & Yeosang",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "KIBUM": [
   {
     "cardname": "<:patcard:1138076615998451792> Soloist Key",
@@ -895,26 +815,6 @@
     "cardgroup": "Key",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/68hHCjw"
-  }
-],
-
-"BADLOVE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Key",
-    "membername": "Key",
-    "cardgroup": "Key",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"EDELWEISS": [
-  {
-    "cardname": "<:patcard:1138076615998451792> T1419 Leo",
-    "membername": "Leo",
-    "cardgroup": "T1419",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
   }
 ],
 
@@ -978,26 +878,6 @@
   }
 ],
 
-"CUTE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> NCT Mark & Johnny",
-    "membername": "Mark & Johnny",
-    "cardgroup": "NCT",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"MINGKIPUPPY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Mingi & Yunho",
-    "membername": "Mingi & Yunho",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "ROWOON": [
   {
     "cardname": "<:patcard:1138076615998451792> SF9 Rowoon",
@@ -1015,26 +895,6 @@
     "cardgroup": "Zico",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/DwZKinS"
-  }
-],
-
-"LION": [
-  {
-    "cardname": "<:patcard:1138076615998451792> NCT Yuta",
-    "membername": "Yuta",
-    "cardgroup": "NCT",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"ETERNAL": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Young K",
-    "membername": "Young K",
-    "cardgroup": "Young K",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
   }
 ],
 
@@ -1178,46 +1038,6 @@
   }
 ],
 
-"VAMPIRE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Mingi",
-    "membername": "Mingi",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"KING": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Hongjoong",
-    "membername": "Hongjoong",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"QUEEN": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Seonghwa",
-    "membername": "Seonghwa",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
-"NCTZONE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> NCT Taeyong & Jungwoo",
-    "membername": "Taeyong & Jungwoo",
-    "cardgroup": "NCT",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "HWANWOONG": [
   {
     "cardname": "<:patcard:1138076615998451792> ONEUS Hwanwoong",
@@ -1298,16 +1118,6 @@
   }
 ],
   
-"SHOTATO": [
-  {
-    "cardname": "<:patcard:1138076615998451792> NCT Shotaro",
-    "membername": "Shotaro",
-    "cardgroup": "NCT",
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-  
 "DDAY": [
   {
     "cardname": "<:patcard:1138076615998451792> Xdinary Heroes Jooyeon",
@@ -1376,17 +1186,7 @@
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/jUkk3LR"
   }
-], 
-
-"PAINTME": [
-  {
-    "cardname": "<:patcard:1138076615998451792> 2CHAN",
-    "membername": "2CHAN",
-    "cardgroup": "2CHAN",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-], 
+],
 
 "WINE": [
   {
@@ -1428,16 +1228,6 @@
   }
 ],
 
-"DONTSTOP": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Hongjoong & Mingi",
-    "membername": "Hongjoong & Mingi",
-    "cardgroup": "Cuties",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
-
 "OYTYSAH": [
   {
     "cardname": "<:patcard:1138076615998451792> ENHYPEN Ni-Ki",
@@ -1472,16 +1262,6 @@
   {
     "cardname": "<:patcard:1138076615998451792> ATEEZ Hongjoong",
     "membername": "Hongjoong",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-  
-"MYVIEW": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Seonghwa",
-    "membername": "Seonghwa",
     "cardgroup": "ATEEZ",
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -1998,16 +1778,6 @@
   }
 ],
   
-"LMLY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Jackson Wang",
-    "membername": "Jackson Wang",
-    "cardgroup": "Jackson Wang",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-  
 "MAXIDANG": [
   {
     "cardname": "<:patcard:1138076615998451792> Stray Kids Changbin",
@@ -2025,16 +1795,6 @@
     "cardgroup": "ATBO",
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"PVNING": [
-  {
-    "cardname": "<:patcard:1138076615998451792> aespa Ningning",
-    "membername": "Ningning",
-    "cardgroup": "aespa",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
   }
 ],
 
@@ -2348,16 +2108,6 @@
   }
 ],
 
-"IMTHEONEYEO": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Yeosang",
-    "membername": "Yeosang",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
 "NISHIMURA": [
   {
     "cardname": "<:patcard:1138076615998451792> ENHYPEN Ni-Ki",
@@ -2385,16 +2135,6 @@
     "cardgroup": "ICHILLIN'",
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"TRSJUNHOLEE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> The Red Sleeve Junho",
-    "membername": "Junho",
-    "cardgroup": "The Red Sleeve",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
   }
 ],
 
@@ -2918,16 +2658,6 @@
   }
 ],
 
-"CAPTAIN": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Hongjoong",
-    "membername": "Hongjoong",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
 "FATHERSDAY": [
   {
     "cardname": "<:patcard:1138076615998451792> P1Harmony Keeho & Soul",
@@ -2978,16 +2708,6 @@
   }
 ],
   
-"MATZ": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Hongjoong & Seonghwa",
-    "membername": "Hongjoong & Seonghwa",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-  
 "MARKLEE": [
   {
     "cardname": "<:patcard:1138076615998451792> NCT Mark",
@@ -3007,26 +2727,6 @@
     "cardimage": "https://imgur.com/4WaxcuE"
   }
 ],
-  
-"DEVIL": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Kinnporsche Vegas",
-    "membername": "Vegas",
-    "cardgroup": "Kinnporsche",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-  
-"ANGEL": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Kinnporsche Pete",
-    "membername": "Pete",
-    "cardgroup": "Kinnporsche",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
 
 "KD": [
   {
@@ -3035,16 +2735,6 @@
     "cardgroup": "Kang Daniel",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/nFydXEa"
-  }
-],
-
-"SWIM": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Until We Meet Again Dean & Win",
-    "membername": "Dean & Win",
-    "cardgroup": "Until We Meet Again",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
   }
 ],
 
@@ -3065,16 +2755,6 @@
     "cardgroup": "Strangers From Hell",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/hirtMOk"
-  }
-],
-
-"FUCKITUP": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Mingi",
-    "membername": "Mingi",
-    "cardgroup": "ATEEZ",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
   }
 ],
 
@@ -3247,32 +2927,12 @@
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
-
-"NIKITTY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ENHYPEN Ni-Ki",
-    "membername": "Ni-Ki",
-    "cardgroup": "ENHYPEN",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
-  }
-],
   
 "FESKVD4": [
   {
     "cardname": "<:vday:1091435490919587901> Stray Kids Felix",
     "membername": "Felix",
     "cardgroup": "Patreon Valentine's Day",
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"SOFT": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Kim Ji Woong & Yoon Seo Bin",
-    "membername": "Kim Ji Woong & Yoon Seo Bin",
-    "cardgroup": "Kim Ji Woong & Yoon Seo Bin",
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -3358,16 +3018,6 @@
   }
 ],
 
-"TEETERTOTTER": [
-  {
-    "cardname": "<:patcard:1138076615998451792> P1Harmony Theo & Soul",
-    "membername": "Theo & Soul",
-    "cardgroup": "P1Harmony",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
 "YUKSEO": [
   {
     "cardname": "<:patcard:1138076615998451792> DKB Yuku & Junseo",
@@ -3375,26 +3025,6 @@
     "cardgroup": "DKB",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/puexBIt"
-  }
-],
-
-"JCM": [
-  {
-    "cardname": "<:patcard:1138076615998451792> THE BOYZ Q",
-    "membername": "Q",
-    "cardgroup": "THE BOYZ",
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"物の哀れ": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ENHYPEN Ni-Ki",
-    "membername": "Ni-Ki",
-    "cardgroup": "ENHYPEN",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
   }
 ],
   
@@ -3405,16 +3035,6 @@
       "cardgroup": "aespa",
       "cardrarity": "PATREON",
       "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-    }
-],
-    
-"GOBLIN": [
-    {
-      "cardname": "<:patcard:1138076615998451792> A.C.E WOWHUN",
-      "membername": "WOWHUN",
-      "cardgroup": "A.C.E",
-      "cardrarity": "PATREON",
-      "cardimage": "NOT FINISHED"
     }
 ],
 
@@ -3473,26 +3093,6 @@
     "cardname": "<:patcard:1138076615998451792> TXT Beomgyu",
     "membername": "Beomgyu",
     "cardgroup": "TXT", 
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"BROWNIE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Stray Kids I.N",
-    "membername": "I.N",
-    "cardgroup": "Stray Kids", 
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"CITYBOY": [
-  {
-    "cardname": "<:patcard:1138076615998451792> ATEEZ Seonghwa",
-    "membername": "Seonghwa",
-    "cardgroup": "ATEEZ", 
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -3768,46 +3368,6 @@
   }
 ],
 
-"HABBANG": [
-  {
-    "cardname": "<:patcard:1138076615998451792> fromis_9 Hayoung",
-    "membername": "Hayoung",
-    "cardgroup": "fromis_9",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
-"NOZE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> WayB NO:ZE",
-    "membername": "NO:ZE",
-    "cardgroup": "WayB",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
-"GYUL": [
-  {
-    "cardname": "<:patcard:1138076615998451792> fromis_9 Gyuri",
-    "membername": "Gyuri",
-    "cardgroup": "fromis_9",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
-"CHAENGIE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> fromis_9 Chaeyoung",
-    "membername": "Chaeyoung",
-    "cardgroup": "fromis_9",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
 "WIAEVD4": [
   {
     "cardname": "<:vday:1091435490919587901> aespa Winter",
@@ -3857,16 +3417,6 @@
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
-  
-"YUKIKA": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Yukika",
-    "membername": "Yukika",
-    "cardgroup": "Yukika",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
     
 "GEUMHEE": [
   {
@@ -3875,26 +3425,6 @@
     "cardgroup": "CSR",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/dx2xUs6"
-  }
-],
-          
-"DUNA": [
-  {
-    "cardname": "<:patcard:1138076615998451792> CSR Duna",
-    "membername": "Duna",
-    "cardgroup": "CSR",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-  
-"DIVE": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Jinyoung",
-    "membername": "Jinyoung",
-    "cardgroup": "Jinyoung",
-    "cardrarity": "PATREON",
-    "cardimage": "PENDING REMAKE"
   }
 ],
 
@@ -3923,16 +3453,6 @@
     "cardname": "<:patcard:1138076615998451792> Stray Kids Hyunjin",
     "membername": "Hyunjin",
     "cardgroup": "Stray Kids",
-    "cardrarity": "PATREON",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"VOID": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Soloist Hyunjun",
-    "membername": "Hyunjun",
-    "cardgroup": "Hyunjun",
     "cardrarity": "PATREON",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -4193,16 +3713,6 @@
   {
     "cardname": "★★★ Dreamcatcher Handong",
     "membername": "Handong",
-    "cardgroup": "Dreamcatcher",
-    "cardrarity": "3",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"JIUDC3": [
-  {
-    "cardname": "★★★ Dreamcatcher JiU",
-    "membername": "JiU",
     "cardgroup": "Dreamcatcher",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -4675,16 +4185,6 @@
     "membername": "Mina",
     "cardgroup": "TWICE",
     "cardrarity": "3",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
-"KRAE1": [
-  {
-    "cardname": "★ aespa Karina",
-    "membername": "Karina",
-    "cardgroup": "aespa",
-    "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
@@ -7730,15 +7230,6 @@
   }
 ],
 
-"YBB2Y1": [
-  {
-    "cardname": "★ BLANK2Y Youngbin",
-    "membername": "Youngbin",
-    "cardgroup": "BLANK2Y",
-    "cardrarity": "1",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
 "CSBTB1": [
   {
     "cardname": "★ BTOB Changsub",
@@ -8525,8 +8016,8 @@
 
 "JNNM2": [
   {
-    "cardname": "★★ NMIXX Jinni",
-    "membername": "Jinni",
+    "cardname": "★★ NMIXX Jini",
+    "membername": "Jini",
     "cardgroup": "NMIXX",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
