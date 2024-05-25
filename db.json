@@ -1838,16 +1838,6 @@
   }
 ],
 
-"JIUCULT": [
-  {
-    "cardname": "<:patcard:1138076615998451792> Dreamcatcher JiU",
-    "membername": "JiU",
-    "cardgroup": "Dreamcatcher",
-    "cardrarity": "PATREON",
-    "cardimage": "NOT FINISHED"
-  }
-],
-
 "GAYZ": [
   {
     "cardname": "<:patcard:1138076615998451792> OnlyOneOf Nine & Yoojung",
@@ -3027,16 +3017,6 @@
     "cardimage": "https://imgur.com/puexBIt"
   }
 ],
-  
-"KARISELLE": [
-    {
-      "cardname": "<:patcard:1138076615998451792> aespa Karina & Giselle",
-      "membername": "Karina & Giselle",
-      "cardgroup": "aespa",
-      "cardrarity": "PATREON",
-      "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-    }
-],
 
 "VENDING": [
   {
@@ -3719,6 +3699,16 @@
   }
 ],
 
+"JIUDC3": [
+  {
+    "cardname": "★★★ Dreamcatcher JiU",
+    "membername": "JiU",
+    "cardgroup": "Dreamcatcher",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
 "SYDC3": [
   {
     "cardname": "★★★ Dreamcatcher Siyeon",
@@ -4193,6 +4183,16 @@
   {
     "cardname": "★ aespa Giselle",
     "membername": "Giselle",
+    "cardgroup": "aespa",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KRAE1": [
+  {
+    "cardname": "★ aespa Karina",
+    "membername": "Karina",
     "cardgroup": "aespa",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
