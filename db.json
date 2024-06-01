@@ -44538,14 +44538,14 @@
     "membername": "Yuqi",
     "cardgroup": "Yuqi",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/Wkqf45a"
   }
 ],
 
 "KTOACTBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> Actor Kang Tae Oh ( Birthday )",
-    "membername": "<:_bday:1223678582987952180> Actor Kang Tae Oh",
+    "cardname": "<:_bday:1223678582987952180> Actor Kang Tae-Oh ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Actor Kang Tae-Oh",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
