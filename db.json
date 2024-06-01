@@ -43560,6 +43560,1194 @@
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
-]
+],
 
-}
+"DY821": [
+  {
+    "cardname": "★ 82MAJOR Dogyun",
+    "membername": "Dogyun",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SJ821": [
+  {
+    "cardname": "★ 82MAJOR Seokjoon",
+    "membername": "Seokjoon",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SB821": [
+  {
+    "cardname": "★ 82MAJOR Seongbin",
+    "membername": "Seongbin",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SG821": [
+  {
+    "cardname": "★ 82MAJOR Seongil",
+    "membername": "Seongil",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SM821": [
+  {
+    "cardname": "★ 82MAJOR Seongmo",
+    "membername": "Seongmo",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YC821": [
+  {
+    "cardname": "★ 82MAJOR Yechan",
+    "membername": "Yechan",
+    "cardgroup": "82MAJOR",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KNAG1": [
+  {
+    "cardname": "★ ATARASHII GAKKO! Kanon",
+    "membername": "Kanon",
+    "cardgroup": "ATARASHII GAKKO!",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MZAG1": [
+  {
+    "cardname": "★ ATARASHII GAKKO! Mizyu",
+    "membername": "Mizyu",
+    "cardgroup": "ATARASHII GAKKO!",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RNAG1": [
+  {
+    "cardname": "★ ATARASHII GAKKO! Rin",
+    "membername": "Rin",
+    "cardgroup": "ATARASHII GAKKO!",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SZAG1": [
+  {
+    "cardname": "★ ATARASHII GAKKO! Suzuka",
+    "membername": "Suzuka",
+    "cardgroup": "ATARASHII GAKKO!",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DWEOD1": [
+  {
+    "cardname": "★ DAY6 (Even of Day) Dowoon",
+    "membername": "Dowoon",
+    "cardgroup": "DAY6",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WPEOD1": [
+  {
+    "cardname": "★ DAY6 (Even of Day) Wonpil",
+    "membername": "Wonpil",
+    "cardgroup": "DAY6",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YKEOD1": [
+  {
+    "cardname": "★ DAY6 (Even of Day) Young K",
+    "membername": "Young K",
+    "cardgroup": "DAY6",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DHSLL1": [
+  {
+    "cardname": "★ LOVElution Dahyun",
+    "membername": "Dahyun",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HRSLL1": [
+  {
+    "cardname": "★ LOVElution Hyerin",
+    "membername": "Hyerin",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KDSLL1": [
+  {
+    "cardname": "★ LOVElution Kaede",
+    "membername": "Kaede",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NNSLL1": [
+  {
+    "cardname": "★ LOVElution Nien",
+    "membername": "Nien",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYSLL1": [
+  {
+    "cardname": "★ LOVElution Seoyeon",
+    "membername": "Seoyeon",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHSLL1": [
+  {
+    "cardname": "★ LOVElution Sohyun",
+    "membername": "Sohyun",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"XYSLL1": [
+  {
+    "cardname": "★ LOVElution Xinyu",
+    "membername": "Xinyu",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YBSLL1": [
+  {
+    "cardname": "★ LOVElution Yubin",
+    "membername": "Yubin",
+    "cardgroup": "tripleS",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CS2PM2": [
+  {
+    "cardname": "★★ 2PM Chansung",
+    "membername": "Chansung",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JH2PM2": [
+  {
+    "cardname": "★★ 2PM Junho",
+    "membername": "Junho",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JK2PM2": [
+  {
+    "cardname": "★★ 2PM Jun. K",
+    "membername": "Jun. K",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NK2PM2": [
+  {
+    "cardname": "★★ 2PM Nichkhun",
+    "membername": "Nichkhun",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TC2PM2": [
+  {
+    "cardname": "★★ 2PM Taecyeon",
+    "membername": "Taecyeon",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WY2PM2": [
+  {
+    "cardname": "★★ 2PM Wooyoung",
+    "membername": "Wooyoung",
+    "cardgroup": "2PM",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JWBV2": [
+  {
+    "cardname": "★★ BVNDIT Jungwoo",
+    "membername": "Jungwoo",
+    "cardgroup": "BVNDIT",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SGBV2": [
+  {
+    "cardname": "★★ BVNDIT Seungeun",
+    "membername": "Seungeun",
+    "cardgroup": "BVNDIT",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYBV2": [
+  {
+    "cardname": "★★ BVNDIT Simyeong",
+    "membername": "Simyeong",
+    "cardgroup": "BVNDIT",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHBV2": [
+  {
+    "cardname": "★★ BVNDIT Songhee",
+    "membername": "Songhee",
+    "cardgroup": "BVNDIT",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YYBV2": [
+  {
+    "cardname": "★★ BVNDIT Yiyeon",
+    "membername": "Yiyeon",
+    "cardgroup": "BVNDIT",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CIPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Chaein",
+    "membername": "Chaein",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DSPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Dosie",
+    "membername": "Dosie",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GNPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Goeun",
+    "membername": "Goeun",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"IHPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Ireh",
+    "membername": "Ireh",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JNPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Jieun",
+    "membername": "Jieun",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Swan",
+    "membername": "Swan",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YKPK2": [
+  {
+    "cardname": "★★ PURPLE KISS Yuki",
+    "membername": "Yuki",
+    "cardgroup": "PURPLE KISS",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DJTR2": [
+  {
+    "cardname": "★★ The Rose Dojoon",
+    "membername": "Dojoon",
+    "cardgroup": "The Rose",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HJTR2": [
+  {
+    "cardname": "★★ The Rose Hajoon",
+    "membername": "Hajoon",
+    "cardgroup": "The Rose",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHTR2": [
+  {
+    "cardname": "★★ The Rose Jaehyeong",
+    "membername": "Jaehyeong",
+    "cardgroup": "The Rose",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WSTR2": [
+  {
+    "cardname": "★★ The Rose Woosung",
+    "membername": "Woosung",
+    "cardgroup": "The Rose",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DYAM3": [
+  {
+    "cardname": "★★★ AIMERS Doryun",
+    "membername": "Doryun",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"EJAM3": [
+  {
+    "cardname": "★★★ AIMERS Eunjun",
+    "membername": "Eunjun",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SWAM3": [
+  {
+    "cardname": "★★★ AIMERS Seunghwan",
+    "membername": "Seunghwan",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYAM3": [
+  {
+    "cardname": "★★★ AIMERS Seunghyun",
+    "membername": "Seunghyun",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WYAM3": [
+  {
+    "cardname": "★★★ AIMERS Wooyoung",
+    "membername": "Wooyoung",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YLAM3": [
+  {
+    "cardname": "★★★ AIMERS Yoel",
+    "membername": "Yoel",
+    "cardgroup": "AIMERS",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ASEV3": [
+  {
+    "cardname": "★★★ EVERGLOW Aisha",
+    "membername": "Aisha",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"EUEV3": [
+  {
+    "cardname": "★★★ EVERGLOW E:U",
+    "membername": "E:U",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MIAEV3": [
+  {
+    "cardname": "★★★ EVERGLOW Mia",
+    "membername": "Mia",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ODEV3": [
+  {
+    "cardname": "★★★ EVERGLOW Onda",
+    "membername": "Onda",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYEV3": [
+  {
+    "cardname": "★★★ EVERGLOW Sihyeon",
+    "membername": "Sihyeon",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YREV3": [
+  {
+    "cardname": "★★★ EVERGLOW Yiren",
+    "membername": "Yiren",
+    "cardgroup": "EVERGLOW",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ANFF3": [
+  {
+    "cardname": "★★★ FIFTY FIFTY Aran",
+    "membername": "Aran",
+    "cardgroup": "FIFTY FIFTY",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SIOFF3": [
+  {
+    "cardname": "★★★ FIFTY FIFTY Sio",
+    "membername": "Sio",
+    "cardgroup": "FIFTY FIFTY",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KNFF3": [
+  {
+    "cardname": "★★★ FIFTY FIFTY Keena",
+    "membername": "Keena",
+    "cardgroup": "FIFTY FIFTY",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNFF3": [
+  {
+    "cardname": "★★★ FIFTY FIFTY Saena",
+    "membername": "Saena",
+    "cardgroup": "FIFTY FIFTY",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BKSM3": [
+  {
+    "cardname": "★★★ SuperM Baekhyun",
+    "membername": "Baekhyun",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KAISM3": [
+  {
+    "cardname": "★★★ SuperM Kai",
+    "membername": "Kai",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LCSM3": [
+  {
+    "cardname": "★★★ SuperM Lucas",
+    "membername": "Lucas",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MKSM3": [
+  {
+    "cardname": "★★★ SuperM Mark",
+    "membername": "Mark",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TMSM3": [
+  {
+    "cardname": "★★★ SuperM Taemin",
+    "membername": "Taemin",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TYSM3": [
+  {
+    "cardname": "★★★ SuperM Taeyong",
+    "membername": "Taeyong",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TENSM3": [
+  {
+    "cardname": "★★★ SuperM Ten",
+    "membername": "Ten",
+    "cardgroup": "SuperM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HMBL4": [
+  {
+    "cardname": "★★★★ Billlie Haram",
+    "membername": "Haram",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HRBL4": [
+  {
+    "cardname": "★★★★ Billlie Haruna",
+    "membername": "Haruna",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MSBL4": [
+  {
+    "cardname": "★★★★ Billlie Moon Sua",
+    "membername": "Moon Sua",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHBL4": [
+  {
+    "cardname": "★★★★ Billlie Sheon",
+    "membername": "Sheon",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYBL4": [
+  {
+    "cardname": "★★★★ Billlie Siyoon",
+    "membername": "Siyoon",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNBL4": [
+  {
+    "cardname": "★★★★ Billlie Suhyeon",
+    "membername": "Suhyeon",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TKBL4": [
+  {
+    "cardname": "★★★★ Billlie Tsuki",
+    "membername": "Tsuki",
+    "cardgroup": "Billlie",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GWZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Gunwook",
+    "membername": "Gunwook",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GVZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Gyuvin",
+    "membername": "Gyuvin",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HBZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Hanbin",
+    "membername": "Hanbin",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JWZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Jiwoong",
+    "membername": "Jiwoong",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MTZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Matthew",
+    "membername": "Matthew",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RCZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Ricky",
+    "membername": "Ricky",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TRZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Taerae",
+    "membername": "Taerae",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Yujin",
+    "membername": "Yujin",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ZHZB14": [
+  {
+    "cardname": "★★★★ ZEROBASEONE Zhang Hao",
+    "membername": "Zhang Hao",
+    "cardgroup": "ZEROBASEONE",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CESO1": [
+  {
+    "cardname": "★ Soloist Cha Eunwoo",
+    "membername": "Cha Eunwoo",
+    "cardgroup": "Eunwoo",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JAMSO1": [
+  {
+    "cardname": "★ Soloist Jamie",
+    "membername": "Jamie",
+    "cardgroup": "Jamie",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WDSO1": [
+  {
+    "cardname": "★ Soloist Wendy",
+    "membername": "Wendy",
+    "cardgroup": "Wendy",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WKSO1": [
+  {
+    "cardname": "★ Soloist Wooseok",
+    "membername": "Wooseok",
+    "cardgroup": "Wooseok",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DOSO2": [
+  {
+    "cardname": "★★ Soloist D.O.",
+    "membername": "D.O.",
+    "cardgroup": "D.O.",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KHWSO2": [
+  {
+    "cardname": "★★ Soloist Kang Hyewon",
+    "membername": "Kang Hyewon",
+    "cardgroup": "Hyewon",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LEVSO2": [
+  {
+    "cardname": "★★ Soloist Le'v",
+    "membername": "Le'v",
+    "cardgroup": "Le'v",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YOASO2": [
+  {
+    "cardname": "★★ Soloist YooA",
+    "membername": "YooA",
+    "cardgroup": "YooA",
+    "cardrarity": "2",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BMSO3": [
+  {
+    "cardname": "★★★ Soloist BM",
+    "membername": "BM",
+    "cardgroup": "BM",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HUSO3": [
+  {
+    "cardname": "★★★ Soloist HUTA",
+    "membername": "HUTA",
+    "cardgroup": "HUTA",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JSSO3": [
+  {
+    "cardname": "★★★ Soloist Jisoo",
+    "membername": "Jisoo",
+    "cardgroup": "Jisoo",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SLSO3": [
+  {
+    "cardname": "★★★ Soloist Solar",
+    "membername": "Solar",
+    "cardgroup": "Solar",
+    "cardrarity": "3",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KHSO4": [
+  {
+    "cardname": "★★★★ Soloist Kihyun",
+    "membername": "Kihyun",
+    "cardgroup": "Kihyun",
+    "cardrarity": "4",
+    "cardimage": "https://imgur.com/YLRV3ER"
+  }
+],
+
+"MBSO4": [
+  {
+    "cardname": "★★★★ Soloist Moonbyul",
+    "membername": "Moonbyul",
+    "cardgroup": "Moonbyul",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RCSO4": [
+  {
+    "cardname": "★★★★ Soloist Rocky",
+    "membername": "Rocky",
+    "cardgroup": "Rocky",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YQSO4": [
+  {
+    "cardname": "★★★★ Soloist Yuqi",
+    "membername": "Yuqi",
+    "cardgroup": "Yuqi",
+    "cardrarity": "4",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KTOACTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Actor Kang Tae Oh ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Actor Kang Tae Oh",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LHRACTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Actor Lee Hyeri ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Actor Lee Hyeri",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JSATSBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ARTMS Jinsoul ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> ARTMS Jinsoul",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LCLLIBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> lilli lilli Luce ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> lilli lilli Luce",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HCNCTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> NCT Haechan ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> NCT Haechan",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"AROMGBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> OH MY GIRL Arin ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> OH MY GIRL Arin",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JUNSVTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> SEVENTEEN Jun ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> SEVENTEEN Jun",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DWSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist DAWN ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist DAWN",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YBSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist Yerin Baek ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist Yerin Baek",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JYTABDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> T-ara Jiyeon ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> T-ara Jiyeon",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YSVVBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> VERIVERY Yongseung ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> VERIVERY Yongseung",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NVXBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> VIXX N ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> VIXX N",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LSDEL": [
+  {
+    "cardname": "<:limited:1137808009184157728> BLΛƆKPIИK Lisa",
+    "membername": "Lisa",
+    "cardgroup": "Delphins Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BKDEL": [
+  {
+    "cardname": "<:limited:1137808009184157728> EXO Baekhyun",
+    "membername": "Baekhyun",
+    "cardgroup": "Delphins Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"VNDEL": [
+  {
+    "cardname": "<:limited:1137808009184157728> SEVENTEEN Vernon",
+    "membername": "Vernon",
+    "cardgroup": "Delphins Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GHELEN": [
+  {
+    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyeon",
+    "membername": "Gahyeon",
+    "cardgroup": "Elen Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHELEN": [
+  {
+    "cardname": "<:limited:1137808009184157728> (G)I-DLE Shuhua",
+    "membername": "Shuhua",
+    "cardgroup": "Elen Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TAEELEN": [
+  {
+    "cardname": "<:limited:1137808009184157728> SNSD Taeyeon",
+    "membername": "Taeyeon",
+    "cardgroup": "Elen Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HJLIX": [
+  {
+    "cardname": "<:limited:1137808009184157728> ATEEZ Hongjoong",
+    "membername": "Hongjoong",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNTLIX": [
+  {
+    "cardname": "<:limited:1137808009184157728> Actor Nut",
+    "membername": "Nut",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YHLIX": [
+  {
+    "cardname": "<:limited:1137808009184157728> ATEEZ Yunho",
+    "membername": "Yunho",
+    "cardgroup": "Felix Day",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+]}
