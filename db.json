@@ -45375,7 +45375,7 @@
   {
     "cardname": "★★ SEVENTEEN Leaders Hoshi",
     "membername": "Hoshi",
-    "cardgroup": "SEVENTEEN Leaders",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -45385,7 +45385,7 @@
   {
     "cardname": "★★ SEVENTEEN Leaders S.Coups",
     "membername": "S.Coups",
-    "cardgroup": "SEVENTEEN Leaders",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -45395,7 +45395,7 @@
   {
     "cardname": "★★ SEVENTEEN Leaders Woozi",
     "membername": "Woozi",
-    "cardgroup": "SEVENTEEN Leaders",
+    "cardgroup": "SEVENTEEN",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -45665,7 +45665,7 @@
   {
     "cardname": "★★★★ NCT Dream Chenle",
     "membername": "Chenle",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/Hc0i3xB"
   }
@@ -45675,7 +45675,7 @@
   {
     "cardname": "★★★★ NCT Dream Haechan",
     "membername": "Haechan",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/vHRoAii"
   }
@@ -45685,7 +45685,7 @@
   {
     "cardname": "★★★★ NCT Dream Jaemin",
     "membername": "Jaemin",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/VcfpRAL"
   }
@@ -45695,7 +45695,7 @@
   {
     "cardname": "★★★★ NCT Dream Jeno",
     "membername": "Jeno",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/onP6tyA"
   }
@@ -45705,7 +45705,7 @@
   {
     "cardname": "★★★★ NCT Dream Jisung",
     "membername": "Jisung",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/iKwBeVr"
   }
@@ -45715,7 +45715,7 @@
   {
     "cardname": "★★★★ NCT Dream Mark",
     "membername": "Mark",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/yEqWhjp"
   }
@@ -45725,7 +45725,7 @@
   {
     "cardname": "★★★★ NCT Dream Renjun",
     "membername": "Renjun",
-    "cardgroup": "NCT Dream",
+    "cardgroup": "NCT",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/vmCfXWA"
   }
