@@ -2880,9 +2880,9 @@
   
 "GHOST": [
   {
-    "cardname": "<:patcard:1138076615998451792> The Mysterious Class Haruto",
+    "cardname": "<:patcard:1138076615998451792> The The Mysterious Class Haruto",
     "membername": "Haruto",
-    "cardgroup": "The Mysterious Class",
+    "cardgroup": "The The Mysterious Class",
     "cardrarity": "PATREON",
     "cardimage": "https://imgur.com/a/3QFDV3s"
   }
@@ -45331,16 +45331,6 @@
   }
 ],
 
-"ELPX2": [
-  {
-    "cardname": "★★ PIXY Ella",
-    "membername": "Ella",
-    "cardgroup": "PIXY",
-    "cardrarity": "2",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
-  }
-],
-
 "LLPX2": [
   {
     "cardname": "★★ PIXY Lola",
@@ -45901,7 +45891,7 @@
   }
 ],
 
-"XTLFDR": [
+"XTEFDR": [
   {
     "cardname": "✩ Exclusive Fairytale Xiao Tu",
     "membername": "Xiao Tu",
@@ -45911,7 +45901,7 @@
   }
 ],
 
-"YZLFDR": [
+"YZEFDR": [
   {
     "cardname": "✩ Exclusive Fairytale Yin Zihan",
     "membername": "Yin Zihan",
@@ -45983,9 +45973,9 @@
 
 "AHMCDR": [
   {
-    "cardname": "✩ Mysterious Class Asahi",
+    "cardname": "✩ The Mysterious Class Asahi",
     "membername": "Asahi",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -45993,9 +45983,9 @@
 
 "BYMCDR": [
   {
-    "cardname": "✩ Mysterious Class Bang Yedam",
+    "cardname": "✩ The Mysterious Class Bang Yedam",
     "membername": "Bang Yedam",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46003,9 +45993,9 @@
 
 "HSMCDR": [
   {
-    "cardname": "✩ Mysterious Class Choi Hyunsuk",
+    "cardname": "✩ The Mysterious Class Choi Hyunsuk",
     "membername": "Choi Hyunsuk",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46013,9 +46003,9 @@
 
 "HRMCDR": [
   {
-    "cardname": "✩ Mysterious Class Haruto",
+    "cardname": "✩ The Mysterious Class Haruto",
     "membername": "Haruto",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46023,9 +46013,9 @@
 
 "DYMCDR": [
   {
-    "cardname": "✩ Mysterious Class Kim Doyoung",
+    "cardname": "✩ The Mysterious Class Kim Doyoung",
     "membername": "Kim Doyoung",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46033,9 +46023,9 @@
 
 "JNMCDR": [
   {
-    "cardname": "✩ Mysterious Class Kim Junkyu",
+    "cardname": "✩ The Mysterious Class Kim Junkyu",
     "membername": "Kim Junkyu",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46043,9 +46033,9 @@
 
 "MHMCDR": [
   {
-    "cardname": "✩ Mysterious Class Mashiho",
+    "cardname": "✩ The Mysterious Class Mashiho",
     "membername": "Mashiho",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46053,9 +46043,9 @@
 
 "JGMCDR": [
   {
-    "cardname": "✩ Mysterious Class Park Jeongwoo",
+    "cardname": "✩ The Mysterious Class Park Jeongwoo",
     "membername": "Park Jeongwoo",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46063,9 +46053,9 @@
 
 "JHMCDR": [
   {
-    "cardname": "✩ Mysterious Class Park Jihoon",
+    "cardname": "✩ The Mysterious Class Park Jihoon",
     "membername": "Park Jihoon",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46073,9 +46063,9 @@
 
 "JWMCDR": [
   {
-    "cardname": "✩ Mysterious Class So Junghwan",
+    "cardname": "✩ The Mysterious Class So Junghwan",
     "membername": "So Junghwan",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46083,9 +46073,9 @@
 
 "JKMCDR": [
   {
-    "cardname": "✩ Mysterious Class Yoon Jaehyuk",
+    "cardname": "✩ The Mysterious Class Yoon Jaehyuk",
     "membername": "Yoon Jaehyuk",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46093,9 +46083,9 @@
 
 "YSMCDR": [
   {
-    "cardname": "✩ Mysterious Class Yoshi",
+    "cardname": "✩ The Mysterious Class Yoshi",
     "membername": "Yoshi",
-    "cardgroup": "Mysterious Class",
+    "cardgroup": "The Mysterious Class",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46117,6 +46107,306 @@
     "membername": "Hong Haein",
     "cardgroup": "Queen of Tears",
     "cardrarity": "D",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NK2PMSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> 2PM Nichkhun ( Spring )",
+    "membername": "<:_spring:1255307819658379304> 2PM Nichkhun",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CYACTSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Actor Chanya ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Actor Chanya",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LCMACTSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Actor Lee Chaemin ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Actor Lee Chaemin",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SWAMSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> AIMERS Seunghwan ( Spring )",
+    "membername": "<:_spring:1255307819658379304> AIMERS Seunghwan",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MJGBAPSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> B.A.P Jongup ( Spring )",
+    "membername": "<:_spring:1255307819658379304> B.A.P Jongup",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RMBTSSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> BTS RM ( Spring )",
+    "membername": "<:_spring:1255307819658379304> BTS RM",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YHCXSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> CIX Yonghee ( Spring )",
+    "membername": "<:_spring:1255307819658379304> CIX Yonghee",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HJCSSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> CLASS:y Hyeju ( Spring )",
+    "membername": "<:_spring:1255307819658379304> CLASS:y Hyeju",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YECLCSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> CLC Yeeun ( Spring )",
+    "membername": "<:_spring:1255307819658379304> CLC Yeeun",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DMDCSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Dreamcatcher Dami ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Dreamcatcher Dami",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MKILSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> ILLIT Moka ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ILLIT Moka",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JWKRDSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> KARD Jiwoo ( Spring )",
+    "membername": "<:_spring:1255307819658379304> KARD Jiwoo",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MULLSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> LIMELIGHT MiU ( Spring )",
+    "membername": "<:_spring:1255307819658379304> LIMELIGHT MiU",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MIUMEISPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> ME:I Miu ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ME:I Miu",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHNFSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> N.Flying Seunghyub ( Spring )",
+    "membername": "<:_spring:1255307819658379304> N.Flying Seunghyub",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WWNCTSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> NCT Winwin ( Spring )",
+    "membername": "<:_spring:1255307819658379304> NCT Winwin",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LLNMSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> NMIXX Lily ( Spring )",
+    "membername": "<:_spring:1255307819658379304> NMIXX Lily",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHONSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> ONEUS Seoho ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ONEUS Seoho",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GKONSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> ONEWE Giuk ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ONEWE Giuk",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DJPXSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> PIXY Dajeong ( Spring )",
+    "membername": "<:_spring:1255307819658379304> PIXY Dajeong",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WDRVSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Red Velvet Wendy ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Red Velvet Wendy",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SKSVTSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> SEVENTEEN Seungkwan ( Spring )",
+    "membername": "<:_spring:1255307819658379304> SEVENTEEN Seungkwan",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHSJSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> SHINee Jonghyun ( Spring )",
+    "membername": "<:_spring:1255307819658379304> SHINee Jonghyun",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TAESOSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Soloist Taeyeon ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Soloist Taeyeon",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"FKSOSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Soloist Fujii Kaze ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Soloist Fujii Kaze",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ANDSOSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> Soloist Anda ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Soloist Anda",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHTWSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> TWICE Jihyo ( Spring )",
+    "membername": "<:_spring:1255307819658379304> TWICE Jihyo",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BCVCSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> VICTON Byungchan ( Spring )",
+    "membername": "<:_spring:1255307819658379304> VICTON Byungchan",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JNWNSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> WINNER Jinu ( Spring )",
+    "membername": "<:_spring:1255307819658379304> WINNER Jinu",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JNYPSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> YOUNG POSSE Jiana ( Spring )",
+    "membername": "<:_spring:1255307819658379304> YOUNG POSSE Jiana",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ]
