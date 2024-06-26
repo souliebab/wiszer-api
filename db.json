@@ -46281,10 +46281,10 @@
   }
 ],
 
-"SHONSPC": [
+"KHONSPC": [
   {
-    "cardname": "<:_spring:1255307819658379304> ONEUS Seoho ( Spring )",
-    "membername": "<:_spring:1255307819658379304> ONEUS Seoho",
+    "cardname": "<:_spring:1255307819658379304> ONEUS Keonhee ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ONEUS Keonhee",
     "cardgroup": "Spring",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
