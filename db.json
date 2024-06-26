@@ -46241,10 +46241,10 @@
   }
 ],
 
-"MIUMEISPC": [
+"SZMEISPC": [
   {
-    "cardname": "<:_spring:1255307819658379304> ME:I Miu ( Spring )",
-    "membername": "<:_spring:1255307819658379304> ME:I Miu",
+    "cardname": "<:_spring:1255307819658379304> ME:I Suzu ( Spring )",
+    "membername": "<:_spring:1255307819658379304> ME:I Suzu",
     "cardgroup": "Spring",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
