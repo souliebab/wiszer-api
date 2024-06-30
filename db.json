@@ -18,7 +18,7 @@
   }
 ],
 
-"YKRIE": [
+"YKDEX": [
   {
     "cardname": "<:limited:1137808009184157728> DAY6 Young K",
     "membername": "Young K",
@@ -37,7 +37,7 @@
   }
 ],
 
-"MKRIE": [
+"MKDEX": [
   {
     "cardname": "<:limited:1137808009184157728> ONF Minkyun",
     "membername": "Minkyun",
@@ -47,7 +47,7 @@
   }
 ],
 
-"KNRIE": [
+"KNDEX": [
   {
     "cardname": "<:limited:1137808009184157728> PENTAGON Kino",
     "membername": "Kino",
@@ -57,7 +57,7 @@
   }
 ],
 
-"SYRIE": [
+"SYDEX": [
   {
     "cardname": "<:limited:1137808009184157728> LUCY Sangyeop",
     "membername": "Sangyeop",
@@ -67,7 +67,7 @@
   }
 ],
 
-"TLRIE": [
+"TLDEX": [
   {
     "cardname": "<:limited:1137808009184157728> NCT Taeil",
     "membername": "Taeil",
@@ -77,7 +77,7 @@
   }
 ],
 
-"DPRRIE": [
+"DPRDEX": [
   {
     "cardname": "<:limited:1137808009184157728> SOLOIST DPR IAN",
     "membername": "DPR IAN",
@@ -237,7 +237,7 @@
   }
 ],
 
-"KDRIE": [
+"KDDEX": [
   {
     "cardname": "<:limited:1137808009184157728> Soloist Kang Daniel",
     "membername": "Kang Daniel",
@@ -247,7 +247,7 @@
   }
 ],
 
-"DKRIE": [
+"DKDEX": [
   {
     "cardname": "<:limited:1137808009184157728> SEVENTEEN DK",
     "membername": "DK",
@@ -277,7 +277,7 @@
   }
 ],
 
-"RILIX": [
+"RCLIX": [
   {
     "cardname": "<:limited:1137808009184157728> ZEROBASEONE Ricky",
     "membername": "Ricky",
@@ -317,7 +317,7 @@
   }
 ],
 
-"DOYUTO": [
+"DOBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> EXO D.O.",
     "membername": "D.O.",
@@ -327,7 +327,7 @@
   }
 ],
 
-"HSYUTO": [
+"HSBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> SEVENTEEN Hoshi",
     "membername": "Hoshi",
@@ -337,7 +337,7 @@
   }
 ],
 
-"JMYUTO": [
+"JMBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> NCT Jaemin",
     "membername": "Jaemin",
@@ -347,7 +347,7 @@
   }
 ],
 
-"JUNYUTO": [
+"JUNBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> SEVENTEEN Jun",
     "membername": "Jun",
@@ -357,7 +357,7 @@
   }
 ],
 
-"KVYUTO": [
+"KVBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> THE BOYZ Kevin",
     "membername": "Kevin",
@@ -367,7 +367,7 @@
   }
 ],
 
-"T8YUTO": [
+"T8BEAR": [
   {
     "cardname": "<:limited:1137808009184157728> SEVENTEEN The8",
     "membername": "The8",
@@ -377,7 +377,7 @@
   }
 ],
 
-"COBI": [
+"COBIDAY": [
   {
     "cardname": "<:limited:1137808009184157728> THE BOYZ Jacob",
     "membername": "Jacob",
@@ -387,7 +387,7 @@
   }
 ],
 
-"JNRIE": [
+"JNDEX": [
   {
     "cardname": "<:limited:1137808009184157728> NCT Jeno",
     "membername": "Jeno",
@@ -397,7 +397,7 @@
   }
 ],
 
-"KVRIE": [
+"KVDEX": [
   {
     "cardname": "<:limited:1137808009184157728> THE BOYZ Kevin",
     "membername": "Kevin",
@@ -407,7 +407,7 @@
   }
 ],
 
-"WNRIE": [
+"WDDEX": [
   {
     "cardname": "<:limited:1137808009184157728> Red Velvet Wendy",
     "membername": "Wendy",
@@ -417,7 +417,7 @@
   }
 ],
 
-"WZRIE": [
+"WODEX": [
   {
     "cardname": "<:limited:1137808009184157728> Soloist WOODZ",
     "membername": "WOODZ",
@@ -437,7 +437,7 @@
   }
 ],
 
-"HOSH": [
+"TIGERBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> SEVENTEEN Hoshi",
     "membername": "Hoshi",
@@ -477,7 +477,7 @@
   }
 ],
 
-"KIMKI": [
+"KEYBEAR": [
   {
     "cardname": "<:limited:1137808009184157728> SHINee Key",
     "membername": "Key",
@@ -517,7 +517,7 @@
   }
 ],
 
-"IDMO": [
+"IDEMO": [
   {
     "cardname": "<:limited:1137808009184157728> Soloist ID:Earth",
     "membername": "ID:Earth",
@@ -527,7 +527,7 @@
   }
 ],
 
-"HHRSC": [
+"HHDEXSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca Soloist Hyunjun",
     "membername": "Hyunjun",
@@ -567,7 +567,7 @@
   }
 ],
 
-"ZTRSC": [
+"ZTDEXSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca Soloist Z.TAO",
     "membername": "Z.TAO",
@@ -578,7 +578,7 @@
 ],
 
 
-"JMRSC": [
+"JMDEXSC": [
   {
     "cardname": "<:limited:1137808009184157728> Selca JUST B JM",
     "membername": "JM",
@@ -648,7 +648,7 @@
 }
 ],
 
-"JYYSC": [
+"JYBEARSC": [
 {
   "cardname": "<:limited:1137808009184157728> Selca GOT7 Jinyoung",
   "membername": "Jinyoung",
@@ -658,7 +658,7 @@
 }
 ],
 
-"SKYSC": [
+"SKBEARSC": [
 {
   "cardname": "<:limited:1137808009184157728> Selca SEVENTEEN Seungkwan",
   "membername": "Seungkwan",
@@ -2458,7 +2458,7 @@
   }
 ],
 
-"BEAR": [
+"THEOBEAR": [
   {
     "cardname": "<:patcard:1138076615998451792> P1Harmony Theo",
     "membername": "Theo",
@@ -2788,7 +2788,7 @@
   }
 ],
 
-"BYRSC": [
+"BYGDEXSC": [
   {
     "cardname": "<:patcard:1138076615998451792> Selca Soloist Bang Yongguk",
     "membername": "Bang Yongguk",
@@ -2798,7 +2798,7 @@
   }
 ],
 
-"MKRSC": [
+"MKDEXSC": [
 {
   "cardname": "<:patcard:1138076615998451792> Selca ONF Minkyun",
   "membername": "Minkyun",
@@ -7021,11 +7021,11 @@
   }
 ],
 
-"TRSO2": [
+"MUUSO2": [
   {
-    "cardname": "★★ Soloist Taeryeong",
-    "membername": "Taeryeong",
-    "cardgroup": "Taeryeong",
+    "cardname": "★★ Soloist MUU",
+    "membername": "MUU",
+    "cardgroup": "MUU",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -11016,7 +11016,7 @@
   }
 ],
 
-"HSH1SB": [
+"HSH1KSB": [
   {
     "cardname": "<:bloom:1089723556302176336> H1-KEY Hwiseo",
     "membername": "H1-KEY Hwiseo",
@@ -11265,7 +11265,7 @@
   }
 ],
 
-"SBVZSB": [
+"SBVVSB": [
   {
     "cardname": "<:bloom:1089723556302176336> VIVIZ SinB",
     "membername": "VIVIZ SinB",
@@ -11850,7 +11850,7 @@
   }
 ],
 
-"JHOXHW": [
+"JYOXHW": [
   {
     "cardname": "<:halloween:1091435483264991323> OMEGA X Jehyun",
     "cardgroup": "HALLOWEEN",
@@ -13165,7 +13165,7 @@
   }
 ],
 
-"EBSOWZ": [
+"KEBSOWZ": [
   {
     "cardname": "<:sg:1091435489162174526> Soloist Eunbi",
     "cardgroup": "SEASONS GREETINGS",
@@ -13542,7 +13542,7 @@
   }
 ],
 
-"KIMXWZ": [
+"KHMXWZ": [
   {
     "cardname": "<:mx:1091435485559263303> MONSTA X Kihyun",
     "cardgroup": "MONSTA X EVENT",
@@ -13758,7 +13758,7 @@
 }
 ],
 
-"LSHAKAF": [
+"SHAKAF": [
 {
   "cardname": "<:apf:1091435481721471077> AKMU Suhyun",
   "cardgroup": "APRILFOOLS",
@@ -15987,7 +15987,7 @@
   }
 ],
 
-"KHDKZ3": [
+"KYDKZ3": [
   {
     "cardname": "★★★ DKZ Kyoungyoon",
     "membername": "Kyoungyoon",
@@ -16590,7 +16590,7 @@
   }
 ],
 
-"KWSO2": [
+"KWSSO2": [
   {
     "cardname": "★★ Soloist Kim Wooseok",
     "membername": "Kim Wooseok",
@@ -18880,7 +18880,7 @@
   }
 ],
 
-"SNEXPC": [
+"SNEXOPC": [
   {
     "cardname": "<:_pride:1223678584275599382> EXO Sehun ( Pride )",
     "membername": "<:_pride:1223678584275599382> EXO Sehun",
@@ -25830,7 +25830,7 @@
   }
 ],
 
-"OSWW11": [
+"OSW11": [
   {
     "cardname": "★ Wanna One Seongwu",
     "membername": "Seongwu",
@@ -26100,7 +26100,7 @@
   }
 ],
 
-"KHDKZ2": [
+"KYDKZ2": [
   {
     "cardname": "★★ DKZ Kyoungyoon",
     "membername": "Kyoungyoon",
@@ -41182,7 +41182,7 @@
   }
 ],
 
-"LHSOBDC": [
+"LUSOBDC": [
   {
     "cardname": "<:_bday:1223678582987952180> Soloist Luhan ( Birthday )",
     "membername": "<:_bday:1223678582987952180> Soloist Luhan",
