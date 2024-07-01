@@ -648,6 +648,106 @@
 }
 ],
 
+"BKDLP1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> EXO Baehyun",
+    "membername": "Baehyun",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GHELN1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyeon",
+    "membername": "Gahyeon",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HWMO1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> PRECIOUS HanWoom",
+    "membername": "HanWoom",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JJDEX1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> TAN Jaejun",
+    "membername": "Jaejun",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MKBEAR1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> ONF Minkyun",
+    "membername": "Minkyun",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SJBEAR1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> ONF Seungjun",
+    "membername": "Seungjun",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SKHEZ1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> Actor Song Kang",
+    "membername": "Song Kang",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNTFX1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> Actor Supanut",
+    "membername": "Supanut",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TKBEE1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> Billlie Tsuki",
+    "membername": "Tsuki",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YHDEX1Y": [
+  {
+    "cardname": "<:limited:1137808009184157728> THE BOYZ Younghoon",
+    "membername": "Younghoon",
+    "cardgroup": "Staff One Year",
+    "cardrarity": "LIMITED",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
 "JYBEARSC": [
 {
   "cardname": "<:limited:1137808009184157728> Selca GOT7 Jinyoung",
