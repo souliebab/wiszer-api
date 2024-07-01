@@ -6927,7 +6927,7 @@
     "membername": "Jessi",
     "cardgroup": "Jessi",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/hodBjUF"
+    "cardimage": "https://imgur.com/fBCbbSt"
   }
 ],
 
@@ -16666,7 +16666,7 @@
     "membername": "Irene",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/iphMR5h"
+    "cardimage": "https://imgur.com/vfqEMay"
   }
 ],
 
@@ -16676,7 +16676,7 @@
     "membername": "Joy",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/PH8wvxS"
+    "cardimage": "https://imgur.com/q2kfncN"
   }
 ],
 
@@ -16686,7 +16686,7 @@
     "membername": "Seulgi",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/9IibqTR"
+    "cardimage": "https://imgur.com/hHfqPiP"
   }
 ],
 
@@ -16696,7 +16696,7 @@
     "membername": "Wendy",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/XpAzGwx"
+    "cardimage": "https://imgur.com/EoeUSK8"
   }
 ],
 
@@ -16706,7 +16706,7 @@
     "membername": "Yeri",
     "cardgroup": "Red Velvet",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/a/3FLgoBs"
+    "cardimage": "https://imgur.com/h2Ccd2x"
   }
 ],
 
@@ -46406,6 +46406,126 @@
     "cardname": "<:_spring:1255307819658379304> YOUNG POSSE Jiana ( Spring )",
     "membername": "<:_spring:1255307819658379304> YOUNG POSSE Jiana",
     "cardgroup": "Spring",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LLBMTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> babyMINT LinLin ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> babyMINT LinLin",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YSBVNBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> BADVILLAIN YunSeo ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> BADVILLAIN YunSeo",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CGDPBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> DRIPPIN Changuk ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> DRIPPIN Changuk",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ASEVBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> EVERGLOW Aisha ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> EVERGLOW Aisha",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YUELPBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> LAPILLUS Yue ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> LAPILLUS Yue",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHNOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> NOMAD Junho ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> NOMAD Junho",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHOXBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> OMEGA X Jaehan ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> OMEGA X Jaehan",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNPKBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> PURPLE KISS Swan ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> PURPLE KISS Swan",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TDSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist The Deep ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist The Deep",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WMWFBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> WATERFIRE Wumuti ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> WATERFIRE Wumuti",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GLXHBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Xdinary Heroes Gunil ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Xdinary Heroes Gunil",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHXKBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> xikers Junghoon ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> xikers Junghoon",
+    "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
