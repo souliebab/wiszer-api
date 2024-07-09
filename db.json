@@ -18,6 +18,16 @@
   }
 ],
 
+"IXCSO1": [
+  {
+    "cardname": "★ Soloist inDEX carD",
+    "membername": "inDEX carD",
+    "cardgroup": "inDEX carD",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
 "YKDEX": [
   {
     "cardname": "<:limited:1137808009184157728> DAY6 Young K",
