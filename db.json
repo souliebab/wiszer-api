@@ -47015,7 +47015,7 @@
   {
     "cardname": "★ NCT 127 Doyoung",
     "membername": "Doyoung",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47025,7 +47025,7 @@
   {
     "cardname": "★ NCT 127 Haechan",
     "membername": "Haechan",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47035,7 +47035,7 @@
   {
     "cardname": "★ NCT 127 Jaehyun",
     "membername": "Jaehyun",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47045,7 +47045,7 @@
   {
     "cardname": "★ NCT 127 Johnny",
     "membername": "Johnny",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47055,7 +47055,7 @@
   {
     "cardname": "★ NCT 127 Jungwoo",
     "membername": "Jungwoo",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47065,7 +47065,7 @@
   {
     "cardname": "★ NCT 127 Mark",
     "membername": "Mark",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47075,7 +47075,7 @@
   {
     "cardname": "★ NCT 127 Taeil",
     "membername": "Taeil",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47085,7 +47085,7 @@
   {
     "cardname": "★ NCT 127 Taeyong",
     "membername": "Taeyong",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -47095,7 +47095,7 @@
   {
     "cardname": "★ NCT 127 Yuta",
     "membername": "Yuta",
-    "cardgroup": "NCT 127",
+    "cardgroup": "NCT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
