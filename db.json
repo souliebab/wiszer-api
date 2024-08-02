@@ -590,8 +590,8 @@
 
 "JMDEXSC": [
   {
-    "cardname": "<:limited:1137808009184157728> Selca JUST B JM",
-    "membername": "JM",
+    "cardname": "<:limited:1137808009184157728> Selca JUST B Siwoo",
+    "membername": "Siwoo",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -8700,11 +8700,11 @@
 
 "JMJB4": [
   {
-    "cardname": "★★★★ JUST B JM",
-    "membername": "JM",
+    "cardname": "★★★★ JUST B Siwoo",
+    "membername": "Siwoo",
     "cardgroup": "JUST B",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/gIaTo6a"
+    "cardimage": "https://imgur.com/Lrwhxa0"
   }
 ],
 
@@ -13789,7 +13789,7 @@
 
 "JMJBAF": [
 {
-  "cardname": "<:apf:1091435481721471077> JUST B JM",
+  "cardname": "<:apf:1091435481721471077> JUST B Siwoo",
   "cardgroup": "APRILFOOLS",
   "cardrarity": "ARCHIVED",
   "cardimage": "https://i.imgur.com/vzLXCgs"
@@ -34483,8 +34483,8 @@
 
 "JMJB3": [
   {
-    "cardname": "★★★ JUST B JM",
-    "membername": "JM",
+    "cardname": "★★★ JUST B Siwoo",
+    "membername": "Siwoo",
     "cardgroup": "JUST B",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
