@@ -48691,10 +48691,10 @@
   }
 ],
 
-"HSLOSMC": [
+"HSATSSMC": [
   {
-    "cardname": "<:_summer:1268787973810425967> LOOΠΔ Haseul ( Summer )",
-    "membername": "<:_summer:1268787973810425967> LOOΠΔ Haseul",
+    "cardname": "<:_summer:1268787973810425967> ARTMS Haseul ( Summer )",
+    "membername": "<:_summer:1268787973810425967> ARTMS Haseul",
     "cardgroup": "Summer",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
