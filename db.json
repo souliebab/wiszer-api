@@ -28252,9 +28252,9 @@
 
 "GULL1": [
   {
-    "cardname": "★ MΛDEIN Gaeun",
+    "cardname": "★ LIMΞLIGHT Gaeun",
     "membername": "Gaeun",
-    "cardgroup": "MADEIN",
+    "cardgroup": "LIMELIGHT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -28262,9 +28262,9 @@
 
 "MULL1": [
   {
-    "cardname": "★ MΛDEIN MiU",
+    "cardname": "★ LIMΞLIGHT MiU",
     "membername": "MiU",
-    "cardgroup": "MADEIN",
+    "cardgroup": "LIMELIGHT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -28272,9 +28272,9 @@
 
 "SHLL1": [
   {
-    "cardname": "★ MΛDEIN Suhye",
+    "cardname": "★ LIMΞLIGHT Suhye",
     "membername": "Suhye",
-    "cardgroup": "MADEIN",
+    "cardgroup": "LIMELIGHT",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46343,8 +46343,8 @@
 
 "MULLSPC": [
   {
-    "cardname": "<:_spring:1255307819658379304> MΛDEIN MiU ( Spring )",
-    "membername": "<:_spring:1255307819658379304> MΛDEIN MiU",
+    "cardname": "<:_spring:1255307819658379304> LIMΞLIGHT MiU ( Spring )",
+    "membername": "<:_spring:1255307819658379304> LIMΞLIGHT MiU",
     "cardgroup": "Spring",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
