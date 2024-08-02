@@ -730,8 +730,8 @@
 
 "SNTFX1Y": [
   {
-    "cardname": "<:limited:1137808009184157728> Actor Supanut",
-    "membername": "Supanut",
+    "cardname": "<:limited:1137808009184157728> Actor Nut Supanut",
+    "membername": "Nut Supanut",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -10919,8 +10919,8 @@
 
 "PTACTSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> Actor Perth",
-    "membername": "Actor Perth",
+    "cardname": "<:bloom:1089723556302176336> Actor Perth Nakhun",
+    "membername": "Actor Perth Nakhun",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -10929,8 +10929,8 @@
 
 "STACTSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> Actor Saint",
-    "membername": "Actor Saint",
+    "cardname": "<:bloom:1089723556302176336> Actor Saint Suppapong",
+    "membername": "Actor Saint Suppapong",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -32093,8 +32093,8 @@
 
 "CHACTPC": [
   {
-    "cardname": "<:_pride:1223678584275599382> Actor Cooheart ( Pride )",
-    "membername": "<:_pride:1223678584275599382> Actor Cooheart",
+    "cardname": "<:_pride:1223678584275599382> Actor Cooheart Katsamonnat( Pride )",
+    "membername": "<:_pride:1223678584275599382> Actor Cooheart Katsamonnat",
     "cardgroup": "Pride",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -37723,7 +37723,7 @@
 
 "BRACT1Y": [
   {
-    "cardname": "<:1year:1207917708088442890> Actor Bright",
+    "cardname": "<:1year:1207917708088442890> Actor Bright Vachirawit",
     "cardgroup": "One Year",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -38004,8 +38004,8 @@
 
 "MEWACTWTC": [
   {
-    "cardname": "<:_winter:1223678588700852367> Actor Mew ( Winter )",
-    "membername": "<:_winter:1223678588700852367> Actor Mew",
+    "cardname": "<:_winter:1223678588700852367> Actor Mew Suppasit( Winter )",
+    "membername": "<:_winter:1223678588700852367> Actor Mew Suppasit",
     "cardgroup": "Winter",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -44844,8 +44844,8 @@
 
 "SNTLIX": [
   {
-    "cardname": "<:limited:1137808009184157728> Actor Nut",
-    "membername": "Nut",
+    "cardname": "<:limited:1137808009184157728> Actor Nut Supanut",
+    "membername": "Nut Supanut",
     "cardgroup": "Felix Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -46233,8 +46233,8 @@
 
 "CYACTSPC": [
   {
-    "cardname": "<:_spring:1255307819658379304> Actor Chanya ( Spring )",
-    "membername": "<:_spring:1255307819658379304> Actor Chanya",
+    "cardname": "<:_spring:1255307819658379304> Actor Chanya Mclory ( Spring )",
+    "membername": "<:_spring:1255307819658379304> Actor Chanya Mclory",
     "cardgroup": "Spring",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -48553,8 +48553,8 @@
 
 "GUNACTSMC": [
   {
-    "cardname": "<:_summer:1268787973810425967> Actor Gun ( Summer )",
-    "membername": "<:_summer:1268787973810425967> Actor Gun",
+    "cardname": "<:_summer:1268787973810425967> Actor Gun Atthaphan( Summer )",
+    "membername": "<:_summer:1268787973810425967> Actor Gun Atthaphan",
     "cardgroup": "Summer",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -48563,8 +48563,8 @@
 
 "SMACTSMC": [
   {
-    "cardname": "<:_summer:1268787973810425967> Actor Sammy ( Summer )",
-    "membername": "<:_summer:1268787973810425967> Actor Sammy",
+    "cardname": "<:_summer:1268787973810425967> Actor Sammy Melanie ( Summer )",
+    "membername": "<:_summer:1268787973810425967> Actor Sammy Melanie",
     "cardgroup": "Summer",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
