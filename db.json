@@ -48155,7 +48155,7 @@
   {
     "cardname": "★★★ Soloist BIBI",
     "membername": "BIBI",
-    "cardgroup": "Soloist",
+    "cardgroup": "BIBI",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48165,7 +48165,7 @@
   {
     "cardname": "★★★ Soloist Bobby",
     "membername": "Bobby",
-    "cardgroup": "Soloist",
+    "cardgroup": "Bobby",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48175,7 +48175,7 @@
   {
     "cardname": "★★★ Soloist COOING",
     "membername": "COOING",
-    "cardgroup": "Soloist",
+    "cardgroup": "COOING",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48185,7 +48185,7 @@
   {
     "cardname": "★★★ Soloist Fatou",
     "membername": "Fatou",
-    "cardgroup": "Soloist",
+    "cardgroup": "Fatou",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48195,7 +48195,7 @@
   {
     "cardname": "★★★ Soloist Yugyeom",
     "membername": "Yugyeom",
-    "cardgroup": "Soloist",
+    "cardgroup": "Yugyeom",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48205,7 +48205,7 @@
   {
     "cardname": "★★★ Soloist Yuto",
     "membername": "Yuto",
-    "cardgroup": "Soloist",
+    "cardgroup": "Yuto",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48215,7 +48215,7 @@
   {
     "cardname": "★★★★ Soloist Lisa",
     "membername": "Lisa",
-    "cardgroup": "Soloist",
+    "cardgroup": "Lisa",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/mBsUegM"
   }
@@ -48225,7 +48225,7 @@
   {
     "cardname": "★★★★ Soloist Mijoo",
     "membername": "Mijoo",
-    "cardgroup": "Soloist",
+    "cardgroup": "Mijoo",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/2LXxJ7f"
   }
@@ -48235,7 +48235,7 @@
   {
     "cardname": "★★★★ Soloist Supanut",
     "membername": "Supanut",
-    "cardgroup": "Soloist",
+    "cardgroup": "Supanut",
     "cardrarity": "4",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -48245,7 +48245,7 @@
   {
     "cardname": "★★★★ Soloist Taeyong",
     "membername": "Taeyong",
-    "cardgroup": "Soloist",
+    "cardgroup": "Taeyong",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/CpW1W3U"
   }
