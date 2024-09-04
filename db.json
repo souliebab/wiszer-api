@@ -48839,6 +48839,125 @@
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
-]
+],
 
+"MK4MBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> 4MIX Mcka ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> 4MIX Mcka",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YZKACTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Actor Kento Yamazaki ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Actor Kento Yamazaki",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ZCBBBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Block B Zico ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Block B Zico",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JKBTSBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> BTS Jungkook ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> BTS Jungkook",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ABFXBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> f(x) Amber ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> f(x) Amber",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> GOT7 Youngjae ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> GOT7 Youngjae",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JYICBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ICHILLIN' Jiyoon ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> ICHILLIN' Jiyoon",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJIVEBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> IVE Yujin ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> IVE Yujin",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"AHMOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> MOMOLAND Ahin ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> MOMOLAND Ahin",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JOYRVBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Red Velvet Joy ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Red Velvet Joy",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LYJSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist Lee Youngji ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> Soloist Lee Youngji",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HJTBZBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> THE BOYZ Hyunjae ( Birthday )",
+    "membername": "<:_bday:1223678582987952180> THE BOYZ Hyunjae",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+]
 }
