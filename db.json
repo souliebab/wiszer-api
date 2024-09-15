@@ -670,8 +670,8 @@
 
 "GHELN1Y": [
   {
-    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -3791,8 +3791,8 @@
 
 "GHDC3": [
   {
-    "cardname": "★★★ Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "★★★ Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Dreamcatcher",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -11059,8 +11059,8 @@
 
 "GHDCSB": [
   {
-    "cardname": "<:bloom:1089723556302176336> Dreamcatcher Gahyeon",
-    "membername": "Dreamcatcher Gahyeon",
+    "cardname": "<:bloom:1089723556302176336> Dreamcatcher Gahyun",
+    "membername": "Dreamcatcher Gahyun",
     "cardgroup": "BLOOM",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -12411,7 +12411,7 @@
 
 "GHDCWZ": [
   {
-    "cardname": "<:sg:1091435489162174526> Dreamcatcher Gahyeon",
+    "cardname": "<:sg:1091435489162174526> Dreamcatcher Gahyun",
     "cardgroup": "SEASONS GREETINGS",
     "cardrarity": "ARCHIVED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -16854,7 +16854,7 @@
   {
     "cardname": "★ Orange Caramel Lizzy",
     "membername": "Lizzy",
-    "cardgroup": "Orange Caramel",
+    "cardgroup": "After School",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -16864,7 +16864,7 @@
   {
     "cardname": "★ Orange Caramel Nana",
     "membername": "Nana",
-    "cardgroup": "Orange Caramel",
+    "cardgroup": "After School",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -16874,7 +16874,7 @@
   {
     "cardname": "★ Orange Caramel Raina",
     "membername": "Raina",
-    "cardgroup": "Orange Caramel",
+    "cardgroup": "After School",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -19232,8 +19232,8 @@
 
 "GHDC1": [
   {
-    "cardname": "★ Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "★ Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Dreamcatcher",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -31853,8 +31853,8 @@
 
 "GHDC4": [
   {
-    "cardname": "★★★★ Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "★★★★ Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Dreamcatcher",
     "cardrarity": "4",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -38404,8 +38404,8 @@
 
 "GHDC2": [
   {
-    "cardname": "★★ Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "★★ Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Dreamcatcher",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -44804,8 +44804,8 @@
 
 "GHELEN": [
   {
-    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyeon",
-    "membername": "Gahyeon",
+    "cardname": "<:limited:1137808009184157728> Dreamcatcher Gahyun",
+    "membername": "Gahyun",
     "cardgroup": "Elen Day",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
