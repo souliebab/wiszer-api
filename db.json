@@ -24380,6 +24380,36 @@
   }
 ],
 
+"JHBDC1": [
+  {
+    "cardname": "★ BDC Junghwan",
+    "membername": "Junghwan",
+    "cardgroup": "BDC",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SJBDC1": [
+  {
+    "cardname": "★ BDC Seongjun",
+    "membername": "Seongjun",
+    "cardgroup": "BDC",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHBDC1": [
+  {
+    "cardname": "★ BDC Sihun",
+    "membername": "Sihun",
+    "cardgroup": "BDC",
+    "cardrarity": "1",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
 "HDWV2": [
   {
     "cardname": "★★ WayV Hendery",
