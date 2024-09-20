@@ -41066,7 +41066,7 @@
 "MBMPL1": [
   {
     "cardname": "★ MAMAMOO+ Moonbyul",
-    "membername": "MAMAMOO+ Moonbyul",
+    "membername": "Moonbyul",
     "cardgroup": "MAMAMOO",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -41076,7 +41076,7 @@
 "SLMPL1": [
   {
     "cardname": "★ MAMAMOO+ Solar",
-    "membername": "MAMAMOO+ Solar",
+    "membername": "Solar",
     "cardgroup": "MAMAMOO",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -49995,7 +49995,7 @@
 "CR1C1": [
   {
     "cardname": "★ 1CHU Chaerin",
-    "membername": "Chaerin",
+    "membername": "1CHU Chaerin",
     "cardgroup": "1CHU",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50005,7 +50005,7 @@
 "SH1C1": [
   {
     "cardname": "★ 1CHU Sulhee",
-    "membername": "Sulhee",
+    "membername": "1CHU Sulhee",
     "cardgroup": "1CHU",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50015,7 +50015,7 @@
 "LHHS1": [
   {
     "cardname": "★ Hi Suhyun LeeHi",
-    "membername": "LeeHi",
+    "membername": "Hi Suhyun LeeHi",
     "cardgroup": "Hi Suhyun",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50025,7 +50025,7 @@
 "SHHS1": [
   {
     "cardname": "★ Hi Suhyun Suhyun",
-    "membername": "Suhyun",
+    "membername": "Hi Suhyun Suhyun",
     "cardgroup": "Hi Suhyun",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50035,7 +50035,7 @@
 "LEOVLR1": [
   {
     "cardname": "★ VIXX LR Leo",
-    "membername": "Leo",
+    "membername": "VIXX LR Leo",
     "cardgroup": "VIXX",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50045,7 +50045,7 @@
 "RVVLR1": [
   {
     "cardname": "★ VIXX LR Ravi",
-    "membername": "Ravi",
+    "membername": "VIXX LR Ravi",
     "cardgroup": "VIXX",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50075,7 +50075,7 @@
 "MOABBM2": [
   {
     "cardname": "★★ BABYMETAL MOAMETAL",
-    "membername": "MOAMETAL",
+    "membername": "BABYMETAL MOAMETAL",
     "cardgroup": "BABYMETAL",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50085,7 +50085,7 @@
 "SUBBM2": [
   {
     "cardname": "★★ BABYMETAL SU-METAL",
-    "membername": "SU-METAL",
+    "membername": "BABYMETAL SU-METAL",
     "cardgroup": "BABYMETAL",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50135,7 +50135,7 @@
 "EKB904": [
   {
     "cardname": "★★★★ 90TAN Eunkwang",
-    "membername": "Eunkwang",
+    "membername": "90TAN Eunkwang",
     "cardgroup": "BTOB",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/tA0Meu2"
@@ -50145,7 +50145,7 @@
 "MHB904": [
   {
     "cardname": "★★★★ 90TAN Minhyuk",
-    "membername": "Minhyuk",
+    "membername": "90TAN Minhyuk",
     "cardgroup": "BTOB",
     "cardrarity": "4",
     "cardimage": "https://imgur.com/Tndyi5R"
@@ -50155,7 +50155,7 @@
 "JHJXW5": [
   {
     "cardname": "★★★★★ JxW Jeonghan",
-    "membername": "Jeonghan",
+    "membername": "JxW Jeonghan",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/u9SHBSd"
@@ -50165,7 +50165,7 @@
 "WWJXW5": [
   {
     "cardname": "★★★★★ JxW Wonwoo",
-    "membername": "Wonwoo",
+    "membername": "JxW Wonwoo",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "5",
     "cardimage": "https://imgur.com/4AZm08p"
