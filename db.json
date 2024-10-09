@@ -46415,8 +46415,8 @@
 
 "LINBMTBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> babyMINT LinLin",
-    "membername": "<:_bday:1223678582987952180> babyMINT LinLin",
+    "cardname": "<:_bday:1223678582987952180> babyMINT Lin",
+    "membername": "<:_bday:1223678582987952180> babyMINT Lin",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50195,8 +50195,8 @@
 
 "CMSOBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> Soloist Chanmina",
-    "membername": "<:_bday:1223678582987952180> Soloist Chanmina",
+    "cardname": "<:_bday:1223678582987952180> Soloist CHANMINA",
+    "membername": "<:_bday:1223678582987952180> Soloist CHANMINA",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -50321,6 +50321,16 @@
     "cardname": "<:_limited:1287944248813162547> H1-KEY Hwiseo",
     "cardgroup": "Vyn Day",
     "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WWSVTSPC": [
+  {
+    "cardname": "<:_spring:1255307819658379304> SEVENTEEN Wonwoo",
+    "membername": "<:_spring:1255307819658379304> SEVENTEEN Wonwoo",
+    "cardgroup": "Spring",
+    "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ]
