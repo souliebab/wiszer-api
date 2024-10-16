@@ -33696,7 +33696,7 @@
 "DHJNB2": [
   {
     "cardname": "<:2star:1287943935838392351> Jannabi Dohyung",
-    "membername": "Dohyung",
+    "membername": "<:2star:1287943935838392351> Dohyung",
     "cardgroup": "Jannabi",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -33706,7 +33706,7 @@
 "JHJNB2": [
   {
     "cardname": "<:2star:1287943935838392351> Jannabi Junghoon",
-    "membername": "Junghoon",
+    "membername": "<:2star:1287943935838392351> Junghoon",
     "cardgroup": "Jannabi",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -52448,7 +52448,7 @@
 "JHJNB3": [
   {
     "cardname": "<:3star:1287943938354974851> JANNABI Junghoon",
-    "membername": "Junghoon",
+    "membername": "<:3star:1287943938354974851> Junghoon",
     "cardgroup": "JANNABI",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
