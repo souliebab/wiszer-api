@@ -48625,8 +48625,8 @@
 
 "BOSOSMC": [
   {
-    "cardname": "<:_summer:1268787973810425967> Soloist Black On",
-    "membername": "<:_summer:1268787973810425967> Soloist Black On",
+    "cardname": "<:_summer:1268787973810425967> Soloist BLACK ON",
+    "membername": "<:_summer:1268787973810425967> Soloist BLACK ON",
     "cardgroup": "Summer",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -51547,9 +51547,9 @@
 
 "DYAU2": [
   {
-    "cardname": "<:2star:1287943935838392351> About U Doyoon",
+    "cardname": "<:2star:1287943935838392351> AboutU Doyoon",
     "membername": "Doyoon",
-    "cardgroup": "About U",
+    "cardgroup": "AboutU",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -51557,9 +51557,9 @@
 
 "NNAU2": [
   {
-    "cardname": "<:2star:1287943935838392351> About U NeoN",
+    "cardname": "<:2star:1287943935838392351> AboutU NeoN",
     "membername": "NeoN",
-    "cardgroup": "About U",
+    "cardgroup": "AboutU",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -51567,9 +51567,9 @@
 
 "VTAU2": [
   {
-    "cardname": "<:2star:1287943935838392351> About U Victor",
+    "cardname": "<:2star:1287943935838392351> AboutU Victor",
     "membername": "Victor",
-    "cardgroup": "About U",
+    "cardgroup": "AboutU",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -51577,9 +51577,9 @@
 
 "YSAU2": [
   {
-    "cardname": "<:2star:1287943935838392351> About U Yisoo",
+    "cardname": "<:2star:1287943935838392351> AboutU Yisoo",
     "membername": "Yisoo",
-    "cardgroup": "About U",
+    "cardgroup": "AboutU",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -53001,7 +53001,7 @@
     "membername": "Mingyu",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/d82b0DT"
   }
 ],
 
@@ -53011,7 +53011,7 @@
     "membername": "S.Coups",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/WUBauVe"
   }
 ],
 
@@ -53021,7 +53021,7 @@
     "membername": "Vernon",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/K9sdjMd"
   }
 ],
 
@@ -53031,7 +53031,7 @@
     "membername": "Wonwoo",
     "cardgroup": "SEVENTEEN",
     "cardrarity": "4",
-    "cardimage": "IMGUR LINK"
+    "cardimage": "https://imgur.com/JE1umTp"
   }
 ],
 
@@ -53151,7 +53151,7 @@
     "membername": "Gaon",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/VvuRFNh"
   }
 ],
 
@@ -53161,7 +53161,7 @@
     "membername": "Gunil",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/iBPTutE"
   }
 ],
 
@@ -53171,7 +53171,7 @@
     "membername": "Jungsu",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/FZgyeV8"
   }
 ],
 
@@ -53181,7 +53181,7 @@
     "membername": "Jun Han",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/xw9CMPv"
   }
 ],
 
@@ -53191,7 +53191,7 @@
     "membername": "Jooyeon",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/4pmtj4M"
   }
 ],
 
@@ -53201,7 +53201,7 @@
     "membername": "O.de",
     "cardgroup": "Xdinary Heroes",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/a/PbSHhbB"
   }
 ],
 
@@ -53427,9 +53427,9 @@
 
 "PMSO2": [
   {
-    "cardname": "<:2star:1287943935838392351> Soloist Penomeco",
-    "membername": "Penomeco",
-    "cardgroup": "Penomeco",
+    "cardname": "<:2star:1287943935838392351> Soloist PENOMECO",
+    "membername": "PENOMECO",
+    "cardgroup": "PENOMECO",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -53467,9 +53467,9 @@
 
 "BOSO3": [
   {
-    "cardname": "<:3star:1287943938354974851> Soloist Black On",
-    "membername": "Black On",
-    "cardgroup": "Black On",
+    "cardname": "<:3star:1287943938354974851> Soloist BLACK ON",
+    "membername": "BLACK ON",
+    "cardgroup": "BLACK ON",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -53611,7 +53611,7 @@
     "membername": "Park Bom",
     "cardgroup": "Bom",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/WJFzFhB"
   }
 ],
 
@@ -53677,21 +53677,21 @@
 
 "JBJ24": [
   {
-    "cardname": "<:4star:1287943940481482806> JUS2 Jay B",
-    "membername": "<:4star:1287943940481482806> JUS2 Jay B",
+    "cardname": "<:4star:1287943940481482806> Jus2 Jay B",
+    "membername": "<:4star:1287943940481482806> Jus2 Jay B",
     "cardgroup": "GOT7",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/k1bvl0P"
   }
 ],
 
 "YGJ24": [
   {
-    "cardname": "<:4star:1287943940481482806> JUS2 Yugyeom",
-    "membername": "<:4star:1287943940481482806> JUS2 Yugyeom",
+    "cardname": "<:4star:1287943940481482806> Jus2 Yugyeom",
+    "membername": "<:4star:1287943940481482806> Jus2 Yugyeom",
     "cardgroup": "GOT7",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/vttdAIW"
   }
 ],
 
