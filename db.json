@@ -540,7 +540,7 @@
 "HHDEXSC": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Selca Soloist Hyunjun",
-    "membername": "Hyunjun",
+    "membername": "<:_bestfriend:1287944250461388822> Selca Soloist Hyunjun",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -550,7 +550,7 @@
 "GWZB11Y": [
   {
     "cardname": "<:_limited:1287944248813162547> One Year ZEROBASEONE Gunwook",
-    "membername": "Gunwook",
+    "membername": "<:_limited:1287944248813162547> One Year ZEROBASEONE Gunwook",
     "cardgroup": "Giveaways",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -560,7 +560,7 @@
 "QTBZ1Y": [
   {
     "cardname": "<:_limited:1287944248813162547> One Year THE BOYZ Q",
-    "membername": "Q",
+    "membername": "<:_limited:1287944248813162547> One Year THE BOYZ Q",
     "cardgroup": "Giveaways",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -570,7 +570,7 @@
 "SHKSC": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Selca EVERGLOW Sihyeon",
-    "membername": "Sihyeon",
+    "membername": "<:_bestfriend:1287944250461388822> Selca EVERGLOW Sihyeon",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -580,7 +580,7 @@
 "ZTDEXSC": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Selca Soloist Z.TAO",
-    "membername": "Z.TAO",
+    "membername": "<:_bestfriend:1287944250461388822> Selca Soloist Z.TAO",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -591,7 +591,7 @@
 "JMDEXSC": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Selca JUST B Siwoo",
-    "membername": "Siwoo",
+    "membername": "<:_bestfriend:1287944250461388822> Selca JUST B Siwoo",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -601,7 +601,7 @@
 "SRESC": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Selca Soloist Seori",
-    "membername": "Seori",
+    "membername": "<:_bestfriend:1287944250461388822> Selca Soloist Seori",
     "cardgroup": "Staff Selca",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -610,8 +610,8 @@
 
 "WLWSC": [
 {
-  "cardname": "<:<:_bestfriend:1287944250461388822> Selca Soloist WILLOW",
-  "membername": "WILLOW",
+  "cardname": "<:_bestfriend:1287944250461388822> Selca Soloist WILLOW",
+  "membername": "<:_bestfriend:1287944250461388822> Selca Soloist WILLOW",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -621,7 +621,7 @@
 "CHASC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca NCT Dream Chenle",
-  "membername": "Chenle",
+  "membername": "<:_bestfriend:1287944250461388822> Selca NCT Dream Chenle",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -631,7 +631,7 @@
 "SABSC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca ASTRO Sanha",
-  "membername": "Sanha",
+  "membername": "<:_bestfriend:1287944250461388822> Selca ASTRO Sanha",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -641,7 +641,7 @@
 "BBLSC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca SKZOO Bbokari",
-  "membername": "Bbokari",
+  "membername": "<:_bestfriend:1287944250461388822> Selca SKZOO Bbokari",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -651,7 +651,7 @@
 "PRFSC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca Perth",
-  "membername": "Perth",
+  "membername": "<:_bestfriend:1287944250461388822> Selca Perth",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -661,7 +661,7 @@
 "BKDLP1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> EXO Baekhyun",
-    "membername": "Baekhyun",
+    "membername": "<:_bestfriend:1287944250461388822> EXO Baekhyun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -671,7 +671,7 @@
 "GHELN1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Dreamcatcher Gahyun",
-    "membername": "Gahyun",
+    "membername": "<:_bestfriend:1287944250461388822> Dreamcatcher Gahyun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -681,7 +681,7 @@
 "HWMO1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> PRECIOUS HanWoom",
-    "membername": "HanWoom",
+    "membername": "<:_bestfriend:1287944250461388822> PRECIOUS HanWoom",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -691,7 +691,7 @@
 "JJDEX1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> TAN Jaejun",
-    "membername": "Jaejun",
+    "membername": "<:_bestfriend:1287944250461388822> TAN Jaejun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -701,7 +701,7 @@
 "MKBEAR1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> ONF Minkyun",
-    "membername": "Minkyun",
+    "membername": "<:_bestfriend:1287944250461388822> ONF Minkyun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -711,7 +711,7 @@
 "SJBEAR1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> ONF Seungjun",
-    "membername": "Seungjun",
+    "membername": "<:_bestfriend:1287944250461388822> ONF Seungjun",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -721,7 +721,7 @@
 "SKHEZ1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Actor Song Kang",
-    "membername": "Song Kang",
+    "membername": "<:_bestfriend:1287944250461388822> Actor Song Kang",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -731,7 +731,7 @@
 "SNTFX1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Actor Nut Supanut",
-    "membername": "Nut Supanut",
+    "membername": "<:_bestfriend:1287944250461388822> Actor Nut Supanut",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -741,7 +741,7 @@
 "TKBEE1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> Billlie Tsuki",
-    "membername": "Tsuki",
+    "membername": "<:_bestfriend:1287944250461388822> Billlie Tsuki",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -751,7 +751,7 @@
 "YHDEX1Y": [
   {
     "cardname": "<:_bestfriend:1287944250461388822> THE BOYZ Younghoon",
-    "membername": "Younghoon",
+    "membername": "<:_bestfriend:1287944250461388822> THE BOYZ Younghoon",
     "cardgroup": "Staff One Year",
     "cardrarity": "LIMITED",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -761,7 +761,7 @@
 "JYBEARSC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca GOT7 Jinyoung",
-  "membername": "Jinyoung",
+  "membername": "<:_bestfriend:1287944250461388822> Selca GOT7 Jinyoung",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -771,7 +771,7 @@
 "SKBEARSC": [
 {
   "cardname": "<:_bestfriend:1287944250461388822> Selca SEVENTEEN Seungkwan",
-  "membername": "Seungkwan",
+  "membername": "<:_bestfriend:1287944250461388822> Selca SEVENTEEN Seungkwan",
   "cardgroup": "Staff Selca",
   "cardrarity": "LIMITED",
   "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -2960,7 +2960,7 @@
 
 "SIWAN": [
   {
-    "cardname": "<:_friend:1287944245998653450> Im Siwan",
+    "cardname": "<:_friend:1287944245998653450> Actor Im Siwan",
     "membername": "Im Siwan",
     "cardgroup": "Siwan", 
     "cardrarity": "PATREON",
@@ -49516,7 +49516,7 @@
 "JJWPLT3": [
   {
     "cardname": "<:3star:1287943938354974851> PLT Jung Jinwoo",
-    "membername": "Jinwoo",
+    "membername": "Jung Jinwoo",
     "cardgroup": "PLT",
     "cardrarity": "3",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -53851,6 +53851,288 @@
     "membername": "Won Injae",
     "cardgroup": "Start-Up",
     "cardrarity": "D",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MYGIHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> (G)I-DLE Miyeon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KLATSHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> ARTMS Kim Lip",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MHCRHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> CRAVITY Minhee",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNENHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> ENHYPEN Sunoo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NKIZHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> IZ*ONE Nako",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SJLVZHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> Lovelyz Sujeong",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YSMDHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> MΛDEIN Yeseo",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HBMOHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> MOMOLAND Hyebin",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YTNCTHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> NCT Yuta",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HWNMHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> NMIXX Haewon",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MKONFHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> ONF Minkyun",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SUP1HHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> P1Harmony Soul",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SNGGHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> SNSD Sunny",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LWTPHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> TEMPEST Lew",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"QTBZHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> THE BOYZ Q",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DYTSHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> TREASURE Doyoung",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HKTXTHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> TXT Huening Kai",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SLWJHL": [
+  {
+    "cardname": "<:halloween:1091435483264991323> WJSN SeolA",
+    "cardgroup": "HALLOWEEN",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HJATZBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ATEEZ Hongjoong",
+    "membername": "<:_bday:1223678582987952180> ATEEZ Hongjoong",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CRBZBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> BLITZERS Chris",
+    "membername": "<:_bday:1223678582987952180> BLITZERS Chris",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LRKEBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> KATSEYE Lara",
+    "membername": "<:_bday:1223678582987952180> KATSEYE Lara",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GWLMBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Loossemble Gowon",
+    "membername": "<:_bday:1223678582987952180> Loossemble Gowon",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ANMVBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> MEOVV Anna",
+    "membername": "<:_bday:1223678582987952180> MEOVV Anna",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"STNXZBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> NEXZ Seita",
+    "membername": "<:_bday:1223678582987952180> NEXZ Seita",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TDOXBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> OMEGA X Taedong",
+    "membername": "<:_bday:1223678582987952180> OMEGA X Taedong",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WZSVTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> SEVENTEEN Woozi",
+    "membername": "<:_bday:1223678582987952180> SEVENTEEN Woozi",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DNSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist Dean",
+    "membername": "<:_bday:1223678582987952180> Soloist Dean",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MILSOBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Soloist Milli",
+    "membername": "<:_bday:1223678582987952180> Soloist Milli",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JYTWBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> TWICE Jeongyeon",
+    "membername": "<:_bday:1223678582987952180> TWICE Jeongyeon",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJWMBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Weki Meki Yoojung",
+    "membername": "<:_bday:1223678582987952180> Weki Meki Yoojung",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ]
