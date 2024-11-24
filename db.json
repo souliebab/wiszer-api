@@ -54243,5 +54243,275 @@
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
+],
+
+"YHATZSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> ATEEZ Yunho",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"EMBVNSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> BADVILLAIN Emma",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HMBLSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Billlie Haram",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"RSBPSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> BLΛƆKPIИK Rosé",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHBVSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> BVNDIT Songhee",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHGISG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> (G)I-DLE Shuhua",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LSIVESG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> IVE Leeseo",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DYJBSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> JUST B DY",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NTKFSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> KISS OF LIFE Natty",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJLESG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> LE SSERAFIM Yunjin",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SYLCSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> LUCY Sangyeop",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GUMDSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> MΛDEIN Gaeun",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JMNCTSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> NCT Jaemin",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"XIONSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> ONEUS Xion",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DMONSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> ONEWE Dongmyeong",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"THP1HSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> P1Harmony Theo",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YKPKSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> PURPLE KISS Yuki",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SGRVSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Red Velvet Seulgi",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SDSNSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> SECRET NUMBER Soodam",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SCSVTSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> SEVENTEEN S.Coups",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WWSVTSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> SEVENTEEN Wonwoo",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DPRLSOSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Soloist DPR LIVE",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HSNSOSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Soloist Ha Sungwoon",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BIBISOSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Soloist Bibi",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LCYSOSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> Soloist Lee Chaeyeon",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ISSCSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> STAYC Isa",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SHTANSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> TAN Sunghyuk",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ERTBZSG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> THE BOYZ Eric",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YGWEISG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> WEi Yongha",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"GWZB1SG": [
+  {
+    "cardname": "<:_galleria:1310319776425574400> ZEROBASEONE Gunwook",
+    "cardgroup": "Soulie Galleria",
+    "cardrarity": "EVENT",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
 ]
 }
