@@ -54436,7 +54436,7 @@
 
 "DPRLSOSG": [
   {
-    "cardname": "<:_galleria:1310319776425574400> Soloist DPR LIVE",
+    "cardname": "<:_galleria:1310319776425574400> Soloist DPR Live",
     "cardgroup": "Soulie Galleria",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
@@ -54454,7 +54454,7 @@
 
 "BIBISOSG": [
   {
-    "cardname": "<:_galleria:1310319776425574400> Soloist Bibi",
+    "cardname": "<:_galleria:1310319776425574400> Soloist BIBI",
     "cardgroup": "Soulie Galleria",
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
