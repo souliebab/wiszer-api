@@ -54513,5 +54513,125 @@
     "cardrarity": "EVENT",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
+],
+
+"ISWACTBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Actor Im Siwan",
+    "membername": "<:_bday:1223678582987952180> Actor Im Siwan",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KNARCBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ARrC Kien",
+    "membername": "<:_bday:1223678582987952180> ARrC Kien",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"LNBWBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> BEWAVE Lena",
+    "membername": "<:_bday:1223678582987952180> BEWAVE Lena",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"NKENBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ENHYPEN Ni-Ki",
+    "membername": "<:_bday:1223678582987952180> ENHYPEN Ni-Ki",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YNITBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ITZY Yuna",
+    "membername": "<:_bday:1223678582987952180> ITZY Yuna",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"WINMCBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> MCND Win",
+    "membername": "<:_bday:1223678582987952180> MCND Win",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ETONFBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> ONF E-Tion",
+    "membername": "<:_bday:1223678582987952180> ONF E-Tion",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JGQIXBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> QI.X Jigook",
+    "membername": "<:_bday:1223678582987952180> QI.X Jigook",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MHSHBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> SHINee Minho",
+    "membername": "<:_bday:1223678582987952180> SHINee Minho",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SJWEBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> Weeekly Soojin",
+    "membername": "<:_bday:1223678582987952180> Weeekly Soojin",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CCXGBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> XG Cocona",
+    "membername": "<:_bday:1223678582987952180> XG Cocona",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DEYPBDC": [
+  {
+    "cardname": "<:_bday:1223678582987952180> YOUNG POSSE Doeun",
+    "membername": "<:_bday:1223678582987952180> YOUNG POSSE Doeun",
+    "cardgroup": "Birthday",
+    "cardrarity": "C",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
 ]
 }
