@@ -54633,5 +54633,257 @@
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
+],
+
+"JLC1BYL": [
+  {
+    "cardname": "<:_friend:1287944245998653450> NAME Jelly",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ERC1BUG": [
+  {
+    "cardname": "<:_friend:1287944245998653450> THE BOYZ Eric",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"CYC1ETC": [
+  {
+    "cardname": "<:_friend:1287944245998653450> EXO Chanyeol",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SGC1LUX": [
+  {
+    "cardname": "<:_friend:1287944245998653450> RIIZE Seunghan",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"DNF1ETC": [
+  {
+    "cardname": "<:_friend:1287944245998653450> SEVENTEEN Dino",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"T8F1BUG": [
+  {
+    "cardname": "<:_friend:1287944245998653450> SEVENTEEN The8",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ZHF1CHU": [
+  {
+    "cardname": "<:_friend:1287944245998653450> ZEROBASEONE Zhang Hao",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HBF1BYL": [
+  {
+    "cardname": "<:_friend:1287944245998653450> PRECIOUS Hanbyeol",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YJF1HBZ": [
+  {
+    "cardname": "<:_friend:1287944245998653450> TXT Yeonjun",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YHF1PIE": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Dreamcatcher Yoohyeon",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"BOF1PUP": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Soloist Black On",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"MKF1LUX": [
+  {
+    "cardname": "<:_friend:1287944245998653450> NCT Mark",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"IUF1DBP": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Soloist IU",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"XYF1BAT": [
+  {
+    "cardname": "<:_friend:1287944245998653450> tripleS Xinyu",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"YWC1HBZ": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Actors YinWar",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KRC1BAT": [
+  {
+    "cardname": "<:_friend:1287944245998653450> aespa Karina",
+    "cardgroup": "Oct2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"UOF2ETC": [
+  {
+    "cardname": "<:_friend:1287944245998653450> XEED UO",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TSF2CHU": [
+  {
+    "cardname": "<:_friend:1287944245998653450> BOYNEXTDOOR Taesan",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"SPRF2BYL": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Soloist SPARKY",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"TMF2YJN": [
+  {
+    "cardname": "<:_friend:1287944245998653450> SHINee Taemin",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"STF2BUG": [
+  {
+    "cardname": "<:_friend:1287944245998653450> NEXZ Seita",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HCF2DBP": [
+  {
+    "cardname": "<:_friend:1287944245998653450> NCT Haechan",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KDF2HBZ": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Soloist Kang Daniel",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JHF2LUX": [
+  {
+    "cardname": "<:_friend:1287944245998653450> BOYNEXTDOOR Jaehyun",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"HSC2BUG": [
+  {
+    "cardname": "<:_friend:1287944245998653450> SEVENTEEN Hoshi",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"ANDC2BYL": [
+  {
+    "cardname": "<:_friend:1287944245998653450> Soloist Anda",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"JMC2LUX": [
+  {
+    "cardname": "<:_friend:1287944245998653450> NCT Jaemin",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
+],
+
+"KKZC2HBZ": [
+  {
+    "cardname": "<:_friend:1287944245998653450> THE RAMPAGE Kazuma",
+    "cardgroup": "Nov2024",
+    "cardrarity": "FRIEND",
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+  }
 ]
 }
