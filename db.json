@@ -29305,9 +29305,9 @@
 
 "BSLP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Bessie",
+    "cardname": "<:1star:1287943932931604491> Lapillus Bessie",
     "membername": "Bessie",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -29315,9 +29315,9 @@
 
 "CTLP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Chanty",
+    "cardname": "<:1star:1287943932931604491> Lapillus Chanty",
     "membername": "Chanty",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -29325,9 +29325,9 @@
 
 "HNLP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Haeun",
+    "cardname": "<:1star:1287943932931604491> Lapillus Haeun",
     "membername": "Haeun",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -29335,9 +29335,9 @@
 
 "SWLP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Seowon",
+    "cardname": "<:1star:1287943932931604491> Lapillus Seowon",
     "membername": "Seowon",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -29345,9 +29345,9 @@
 
 "SHLP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Shana",
+    "cardname": "<:1star:1287943932931604491> Lapillus Shana",
     "membername": "Shana",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -29355,9 +29355,9 @@
 
 "YUELP1": [
   {
-    "cardname": "<:1star:1287943932931604491> LAPILLUS Yue",
+    "cardname": "<:1star:1287943932931604491> Lapillus Yue",
     "membername": "Yue",
-    "cardgroup": "LAPILLUS",
+    "cardgroup": "Lapillus",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -46455,8 +46455,8 @@
 
 "YUELPBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> LAPILLUS Yue",
-    "membername": "<:_bday:1223678582987952180> LAPILLUS Yue",
+    "cardname": "<:_bday:1223678582987952180> Lapillus Yue",
+    "membername": "<:_bday:1223678582987952180> Lapillus Yue",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
