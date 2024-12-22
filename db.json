@@ -33695,9 +33695,9 @@
 
 "DHJNB2": [
   {
-    "cardname": "<:2star:1287943935838392351> Jannabi Dohyung",
+    "cardname": "<:2star:1287943935838392351> JANNABI Dohyung",
     "membername": "<:2star:1287943935838392351> Dohyung",
-    "cardgroup": "Jannabi",
+    "cardgroup": "JANNABI",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -33705,9 +33705,9 @@
 
 "JHJNB2": [
   {
-    "cardname": "<:2star:1287943935838392351> Jannabi Junghoon",
+    "cardname": "<:2star:1287943935838392351> JANNABI Junghoon",
     "membername": "<:2star:1287943935838392351> Junghoon",
-    "cardgroup": "Jannabi",
+    "cardgroup": "JANNABI",
     "cardrarity": "2",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -37139,7 +37139,7 @@
     "membername": "Minnie",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/QtlhSx8"
   }
 ],
 
@@ -37149,7 +37149,7 @@
     "membername": "Miyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/5sCAr75"
   }
 ],
 
@@ -37159,7 +37159,7 @@
     "membername": "Shuhua",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/5GeozET"
   }
 ],
 
@@ -37169,7 +37169,7 @@
     "membername": "Soyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/EzVeTXr"
   }
 ],
 
@@ -37179,7 +37179,7 @@
     "membername": "Yuqi",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/cT62a0D"
   }
 ],
 
@@ -57463,7 +57463,7 @@
     "membername": "Joohoney",
     "cardgroup": "Joohoney",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/U9vcLqE"
   }
 ],
 
@@ -57473,7 +57473,7 @@
     "membername": "Mark",
     "cardgroup": "Mark",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/WkSxbFk"
   }
 ],
 
