@@ -37139,7 +37139,7 @@
     "membername": "Minnie",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/QtlhSx8"
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -37149,7 +37149,7 @@
     "membername": "Miyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/5sCAr75"
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -37159,7 +37159,7 @@
     "membername": "Shuhua",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/5GeozET"
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -37169,7 +37169,7 @@
     "membername": "Soyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/EzVeTXr"
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -37179,7 +37179,7 @@
     "membername": "Yuqi",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://imgur.com/cT62a0D"
+    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
 ],
 
@@ -56813,7 +56813,7 @@
     "membername": "Minnie",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/QtlhSx8"
   }
 ],
 
@@ -56823,7 +56823,7 @@
     "membername": "Miyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/5sCAr75"
   }
 ],
 
@@ -56833,7 +56833,7 @@
     "membername": "Shuhua",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/5GeozET"
   }
 ],
 
@@ -56843,7 +56843,7 @@
     "membername": "Soyeon",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/EzVeTXr"
   }
 ],
 
@@ -56853,7 +56853,7 @@
     "membername": "Yuqi",
     "cardgroup": "(G)I-DLE",
     "cardrarity": "4",
-    "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
+    "cardimage": "https://imgur.com/cT62a0D"
   }
 ],
 
@@ -57501,7 +57501,7 @@
   {
     "cardname": "<:1star:1287943932931604491> MXM Donghyun",
     "membername": "Donghyun",
-    "cardgroup": "MXM",
+    "cardgroup": "AB6IX",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -57511,7 +57511,7 @@
   {
     "cardname": "<:1star:1287943932931604491> MXM Youngmin",
     "membername": "Youngmin",
-    "cardgroup": "MXM",
+    "cardgroup": "AB6IX",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
