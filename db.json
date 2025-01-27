@@ -55441,7 +55441,7 @@
   {
     "cardname": "<:1star:1287943932931604491> SNSD-Oh!GG Hyoyeon",
     "membername": "Hyoyeon",
-    "cardgroup": "SNSD-Oh!GG",
+    "cardgroup": "SNSD",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -55451,7 +55451,7 @@
   {
     "cardname": "<:1star:1287943932931604491> SNSD-Oh!GG Sunny",
     "membername": "Sunny",
-    "cardgroup": "SNSD-Oh!GG",
+    "cardgroup": "SNSD",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -55461,7 +55461,7 @@
   {
     "cardname": "<:1star:1287943932931604491> SNSD-Oh!GG Taeyeon",
     "membername": "Taeyeon",
-    "cardgroup": "SNSD-Oh!GG",
+    "cardgroup": "SNSD",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -55471,7 +55471,7 @@
   {
     "cardname": "<:1star:1287943932931604491> SNSD-Oh!GG Yoona",
     "membername": "Yoona",
-    "cardgroup": "SNSD-Oh!GG",
+    "cardgroup": "SNSD",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -55481,7 +55481,7 @@
   {
     "cardname": "<:1star:1287943932931604491> SNSD-Oh!GG Yuri",
     "membername": "Yuri",
-    "cardgroup": "SNSD-Oh!GG",
+    "cardgroup": "SNSD",
     "cardrarity": "1",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
