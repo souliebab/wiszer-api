@@ -59737,10 +59737,10 @@
   }
 ],
 
-"GDSOSC": [
+"GDBBSC": [
   {
-    "cardname": "<:_bday:1223678582987952180> Soloist G-Dragon",
-    "membername": "<:_bday:1223678582987952180> Soloist G-Dragon",
+    "cardname": "<:_bday:1223678582987952180> BIGBANG G-Dragon",
+    "membername": "<:_bday:1223678582987952180> BIGBANG G-Dragon",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
