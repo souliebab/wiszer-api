@@ -58581,7 +58581,7 @@
   {
     "cardname": "<:_drama:1287944215028043857> Café Minamdang Cha Dowon",
     "membername": "Cha Dowon",
-    "cardgroup": "Café Minamdang",
+    "cardgroup": "Cafe Minamdang",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -58591,7 +58591,7 @@
   {
     "cardname": "<:_drama:1287944215028043857> Café Minamdang Gong Soocheol",
     "membername": "Gong Soocheol",
-    "cardgroup": "Café Minamdang",
+    "cardgroup": "Cafe Minamdang",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -58601,7 +58601,7 @@
   {
     "cardname": "<:_drama:1287944215028043857> Café Minamdang Han Jaehui",
     "membername": "Han Jaehui",
-    "cardgroup": "Café Minamdang",
+    "cardgroup": "Cafe Minamdang",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -58611,7 +58611,7 @@
   {
     "cardname": "<:_drama:1287944215028043857> Café Minamdang Nam Hanjoon",
     "membername": "Nam Hanjoon",
-    "cardgroup": "Café Minamdang",
+    "cardgroup": "Cafe Minamdang",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -58621,7 +58621,7 @@
   {
     "cardname": "<:_drama:1287944215028043857> Café Minamdang Nam Hyejoon",
     "membername": "Nam Hyejoon",
-    "cardgroup": "Café Minamdang",
+    "cardgroup": "Cafe Minamdang",
     "cardrarity": "D",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
   }
@@ -59469,8 +59469,8 @@
 
 "GNJBBDC": [
   {
-    "cardname": "<:_bday:1223678582987952180> JUSTB Geonu",
-    "membername": "<:_bday:1223678582987952180> JUSTB Geonu",
+    "cardname": "<:_bday:1223678582987952180> JUST B Geonu",
+    "membername": "<:_bday:1223678582987952180> JUST B Geonu",
     "cardgroup": "Birthday",
     "cardrarity": "C",
     "cardimage": "https://souliecards.nyc3.digitaloceanspaces.com/cards/$toUppercase[$message[1]].png"
